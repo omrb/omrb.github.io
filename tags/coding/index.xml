@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>coding on Darkest Notes</title>
+    <link>https://darkestnotes.org/tags/coding/</link>
+    <description>Recent content in coding on Darkest Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 11 Dec 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog Tarihçesi</title>
+      <link>https://darkestnotes.org/posts/blog-tarih%C3%A7esi/</link>
+      <pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/blog-tarih%C3%A7esi/</guid>
+      <description>tumblr.’ın belirli sunucularına erişimin yasaklanması sebebiyle kısmen tuhaflaşan 10 yıllık blog’umu WordPress.org’ye taşımaya karar verdim.
+Ücretsiz blog (veya içerik diyelim) servislerinin en önemli sorunu tüm içeriğin onların sunucusunda kalması ve sorunlar oluştuğunda ulaşılamaz hale gelmesi. İlk blogumu Blogger ile oluşturmuştum. Yaklaşık 2006–2008 arası kullandım. Daha sonra blogger’a erişim yasaklandığında 26 Ekim 2008’de LiveJournal’a (2008–2009) geçtim. Bir ara WordPress&amp;lsquo;i de denedim. Daha organize ve hızlı paylaşım özellikleri bulunması sebebiyle 2009’da ise tumblr.</description>
+    </item>
+    
+    <item>
+      <title>MacOS X Lion Hakkında Birkaç Not</title>
+      <link>https://darkestnotes.org/posts/macos-x-lion-hakk%C4%B1nda-birka%C3%A7-not/</link>
+      <pubDate>Sun, 17 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/macos-x-lion-hakk%C4%B1nda-birka%C3%A7-not/</guid>
+      <description>Yeni MacOS sürümü Lion&amp;rsquo;ın piyasaya çıkmasına günler kala göze çarpan değişiklikler hakkında aldığım notlar…
+- Login ekranı yenilenmiş, aslında boot ekranındaki Apple logosunun devamı şeklinde yapılabilse estetik açıdan çok daha şık gözükebilirdi…
+- Finder&amp;rsquo;da sidebar ikonları değiştirilmiş. Pencereler daha akıcı animasyonlar ile açılıyor.
+-LaunchPad, bilgisayarınıza yüklü uygulamaların tümünü iPad (iOS) benzeri bir şekilde ekranda gösterilmesini sağlıyor.
+-Reverse Scrolling, TrackPad&amp;rsquo;de yukarı-aşağı scroll&amp;rsquo;un yönü değiştirilmiş, iOS&amp;rsquo;da olduğu gibi yapılmış. Ben alışamadaım, doğrudan eski seçeneğe döndüm.</description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://darkestnotes.org/posts/programming/</link>
+      <pubDate>Sat, 12 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/programming/</guid>
+      <description>If BASIC programming was like putting together an Airfix aeroplane kit with ready-made plastic parts, assembly-code programming was more like building a model suspension bridge from matchsticks.
+www.guardian.co.uk</description>
+    </item>
+    
+    <item>
+      <title>Web Designers vs Developers</title>
+      <link>https://darkestnotes.org/posts/web-designers-vs-developers/</link>
+      <pubDate>Fri, 12 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/web-designers-vs-developers/</guid>
+      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;534&amp;rdquo;]
+via www.landingpages.co.il</description>
+    </item>
+    
+  </channel>
+</rss>

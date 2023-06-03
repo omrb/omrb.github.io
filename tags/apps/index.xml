@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>apps on Darkest Notes</title>
+    <link>https://darkestnotes.org/tags/apps/</link>
+    <description>Recent content in apps on Darkest Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 14 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/apps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assembly64</title>
+      <link>https://darkestnotes.org/posts/assembly64/</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/assembly64/</guid>
+      <description>Ne zaman kendim yapmayı hayal ettiğim bir programı görsem hem şaşkınlığa uğrarım, hem de programcısına saygı duyarım. Assembly64’de bu tür programlardan biri.
+Commodore 64 Scene Database (CsDB)’nin bir kopyasını bilgisayarda tutma imkanı vermesinin yanında ara ara güncellemesi scene dünyasından uzak kalınan zamanlarında telafisini sağlıyor. Java ile yazılan programın arama fonksiyonunun tam anlamıyla çalışabilmesi için 5€ bağış yapmak gerekiyor.
+Kullanmaya başladığım zamandan beri neredeyse aradığım her demo’yu internetten indirme mecburiyeti kalmadan ulaşabildim.</description>
+    </item>
+    
+    <item>
+      <title>IBMulator</title>
+      <link>https://darkestnotes.org/posts/ibmulator/</link>
+      <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/ibmulator/</guid>
+      <description>Soğuk kış günlerinde evde otururken nedense aklıma 1991 yılı sonu 1992 yılı başlarındaki soğuk bir kış gününde babamla IBM PS/1 bakmaya gittiğimiz gün geldi. Commodore 64 sonrası geleceğe dönük bir bilgisayar alma düşüncesi ile Amiga mı yoksa PC uyumlu bilgisayar mı alalım diye düşünürken TV&amp;rsquo;de reklamlarını gördüğümüz IBM PS/1 modeli neyin nesiymiş bakmaya gitmiştik soğuk bir Cumartesi akşam üzeri.
+Mağaza sahibi bizimle fazlasıyla ilgilenmiş, oğlu hemen teşhirdeki ürünü kullanıma hazır hale getirmişti.</description>
+    </item>
+    
+    <item>
+      <title>Tweetbot 6</title>
+      <link>https://darkestnotes.org/posts/tweetbot-6/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/tweetbot-6/</guid>
+      <description>Tapbots’un iPhone için Twitter client’i Tweetbot’da abonelik sistemini zorunlu tutan uygulamalar kervanına katılmış sonunda.
+Her yıl yenilemem gereken aboneliklerin listesine Tweetbot’u da eklemek gerekiyor artık…</description>
+    </item>
+    
+    <item>
+      <title>Instagram’ın 10. Yılı</title>
+      <link>https://darkestnotes.org/posts/instagram%C4%B1n-10.-y%C4%B1l%C4%B1/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/instagram%C4%B1n-10.-y%C4%B1l%C4%B1/</guid>
+      <description>Instagram ortaya çıkalı 10 yıl olmuş, yeni güncelledikleri uygulamanın içine bir easter egg yerleştirmişler ve 1 ay boyunca uygulamanın eski ikonlarını seçebilme imkanı oluşmuş.
+Hangi ikonun, hangi sürüm ile hangi tarihte değiştiğini de eklemişler ki -benim gibi kronolojiye meraklı biri için yapmışlar sanki bunu- çok hoşuma gitti.
+İlk orijinal ikonu gerçekten hatırlamıyorum ama Instagram programını ne zaman yüklemişim diye yaptığım ilk paylaşıma hızla ilerleyince gördüğüm 6 Ekim 2010 tarihi şaşırttı beni.</description>
+    </item>
+    
+    <item>
+      <title>SendToDropBox</title>
+      <link>https://darkestnotes.org/posts/sendtodropbox/</link>
+      <pubDate>Wed, 05 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/sendtodropbox/</guid>
+      <description>DropBox’ın ortaya çıkış sebebi insanların dosyaları paylaşabilmek için birbirlerine e-posta atmalarından kurtulması amaçlanmıştı. Bazen işyerinde oluşturulan dosyalarda akşam evde çalışabilme amacıyla kendime bile mail attığım olmuştur.
+Bununla birlikte işyerinde DropBox’a erişebilme imkanı olmaması nedeniyle bazı dosyaları e-posta yoluyla DropBox hesabıma göndermenin yollarını ararken sendtodropbox servisini buldum. DropBox’ın oluşum felsefesine ters düşse de servisin çok işime yaradığını ifade etmeliyim. Üstelik ücretsiz bir servis.</description>
+    </item>
+    
+  </channel>
+</rss>

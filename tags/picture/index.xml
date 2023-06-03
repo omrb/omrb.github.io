@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>picture on Darkest Notes</title>
+    <link>https://darkestnotes.org/tags/picture/</link>
+    <description>Recent content in picture on Darkest Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 05 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/picture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>İspanya</title>
+      <link>https://darkestnotes.org/posts/ispanya/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/ispanya/</guid>
+      <description>[gallery type=&amp;ldquo;rectangular&amp;rdquo; ids=&amp;ldquo;3439,3438,3437,3436,3435,3434,3460,3461,3462&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>Sumatra Tiger Cub</title>
+      <link>https://darkestnotes.org/posts/sumatra-tiger-cub/</link>
+      <pubDate>Thu, 07 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/sumatra-tiger-cub/</guid>
+      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;545&amp;rdquo;]
+Sumatra Tiger Cub Daseeb - Frankfurt Zoo</description>
+    </item>
+    
+  </channel>
+</rss>

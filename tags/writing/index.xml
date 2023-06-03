@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>writing on Darkest Notes</title>
+    <link>https://darkestnotes.org/tags/writing/</link>
+    <description>Recent content in writing on Darkest Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 07 Aug 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ulysses</title>
+      <link>https://darkestnotes.org/posts/ulysses/</link>
+      <pubDate>Sun, 07 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/ulysses/</guid>
+      <description>Yıllar önce kullandığım not alma -yazı yazma- programı Ulysses yenilenmiş, güncellenmiş, parlatılmış ve tekrar piyasaya çıkmış. Yaklaşık 118 ₺’lik fiyatını görünce şaşırdım tabi, önceden satın almış olduğum için bir indirim var mı acaba? diye bakarken bir upgrade ücreti olmadığını görünce hemen yükledim ve denemeye başladım, yüzeysel ilk izlenimlerim şu şekilde.
+Uzun zamandır Byword kullanmakta olduğum düşünüldüğünde ve tuhaf bir biçimde -eksiklikleriyle beraber- kullanmaya alışmış olduğumdan kendisinden kolay kolay vazgeçebileceğimi düşünmüyorum ancak Ulysses’de bazı özelliklerin fazlasıyla kullanışlı olması dikkatimi çekti.</description>
+    </item>
+    
+    <item>
+      <title>OmmWriter</title>
+      <link>https://darkestnotes.org/posts/ommwriter/</link>
+      <pubDate>Mon, 20 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/ommwriter/</guid>
+      <description>OmmWriter Dana I ve II bilgisayarda yazı yazarken, kafasındaki düşünceler ile bilgisayarı arasına dikkat dağıtıcı hiç bir unsurun girmesini istemeyen minimalistik bilgisayar kullanıcıları için tasarlanmış bir text editor. ChromaTherapy adı verilen arkaplanlar ve relaxing ses tonları ile bilgisayar başında yazı yazmayı dinlendirici ve zevkli bir hale getiriyor. Şimdilik sadece MacOS versionu bulunan OmmWriter Dana I ve II&amp;rsquo;nin yakın gelecekte Windows versionununda hazırlanması bekleniyor.
+Bilgisayarda yazı yazmak zordur. Yazı yazmak için kullandığınız program size tam istediğiniz sonucu vermek için çok sayıda özellik sunar.</description>
+    </item>
+    
+  </channel>
+</rss>

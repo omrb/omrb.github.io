@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>app-store on Darkest Notes</title>
+    <link>https://darkestnotes.org/tags/app-store/</link>
+    <description>Recent content in app-store on Darkest Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 29 Apr 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/app-store/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Delicious Library 3</title>
+      <link>https://darkestnotes.org/posts/delicious-library-3/</link>
+      <pubDate>Mon, 29 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/delicious-library-3/</guid>
+      <description>MacOs ile tanışmam sonrasında satın aldığım ilk uygulamalardan biri Delicious Library 2 olmuştu. Kitap, müzik CD&amp;rsquo;leri, araç-gereç, vb. nesneleri kataloglamak için göze hoş gelen arabirimi ve gelişmiş özellikleri olan bir programdı. Özellikle Mac&amp;rsquo;in iSight kamerasından objenin barkodununun okutularak Amazon&amp;rsquo;da araması ve veritabanı özelliklerini otomatik olarak doldurması programın en kullanışlı özelliği idi. Yıllarca severek kullandım, bir ara Hard Diski formatlarken veritabanı dosyasının yedeğini almayı unutmam nedeniyle tüm girdileri kaybettim ama yavaştan tekrar oluşturmaya başladım.</description>
+    </item>
+    
+    <item>
+      <title>Mac App Store</title>
+      <link>https://darkestnotes.org/posts/mac-app-store/</link>
+      <pubDate>Sun, 09 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/mac-app-store/</guid>
+      <description>Geçtiğimiz hafta Apple MacOS işletim sistemi için geliştirilen uygulamaların satılacağı Mac App Store‘un açılışını yaptı. Apple iPhone için yarattığı AppStore&amp;rsquo;un beklenmeyen başarısı sonrasında aynı başarıyı MacOS uygulama pazarında da yakalamak istiyor.
+Apple&amp;rsquo;ın MacOS uygulamaları için merkezi bir sistem oluşturmasında, iPhone&amp;rsquo;da yakaladığı başarının yanısıra bağımsız uygulama geliştiricilerinin (indie developer) son yıllarda, hem görsel, hem işlevsel mükemmele yakın programlar üretmelerini farketmiş olması yatıyor. Haliyle büyüyen bu pastadan kendisi de pay almak istiyor.</description>
+    </item>
+    
+    <item>
+      <title>App Store Statistics</title>
+      <link>https://darkestnotes.org/posts/app-store-statistics/</link>
+      <pubDate>Sat, 18 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/app-store-statistics/</guid>
+      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;516&amp;rdquo;]
+App Store Statistics</description>
+    </item>
+    
+  </channel>
+</rss>

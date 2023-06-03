@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>hardware on Darkest Notes</title>
+    <link>https://darkestnotes.org/categories/hardware/</link>
+    <description>Recent content in hardware on Darkest Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/categories/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vampire V4-Standalone</title>
+      <link>https://darkestnotes.org/posts/vampire-v4-standalone/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/vampire-v4-standalone/</guid>
+      <description>Retro computer dünyası ile 1999 yılında aldığımız PC bilgisayar ile tanıştım. Emülasyon kavramı çok öncelerden beri var olsa da ancak 90’lı yılların sonunda Intel Pentium III işlemcili bilgisayarın ulaşılabilir olmasıyla tam anlamıyla çalışan emülatör yazılımlarını kullanmak, internet sayesinde sonsuz bir disk image ve ROM arşivine erişebilmek mümkün oldu. Commodore 64 ile zamanında ulaşamadığım disket oyunlarına emülatörler ile ulaşmayı başardım ve sonrasında emülasyon dünyası ile scene dünyasının bana ucu bucağı olmayan bir pencereden yepyeni bir dünya açtığını gördüm.</description>
+    </item>
+    
+    <item>
+      <title>Sound Blaster Pro</title>
+      <link>https://darkestnotes.org/posts/sound-blaster-pro/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/sound-blaster-pro/</guid>
+      <description>IBM PC dünyası 90’lı yılların başından itibaren ses kartları ile tanıştı. 1987 yılında çıkan Adlib ve sonrasında ultra pahalı Roland MIDI modüllerinin ardından Creative piyasaya makul fiyat etiketli ve dijital ses efektleri sunabilen Sound Blaster ses kartları ile 1990 yılında girdi ve piyasaya 10 yıldan fazla bir süre hakim oldu. Creative ses kartları içinde bence en önemlisi Sound Blaster Pro modelidir. Hem eskiyle uyumlu, hem stereo, hem güçlü OPL3 yongası hem de CD-ROM arabirimi ile 1991 yılında ortaya çıkar.</description>
+    </item>
+    
+    <item>
+      <title>MacBook Pro M1</title>
+      <link>https://darkestnotes.org/posts/macbook-pro-m1/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/macbook-pro-m1/</guid>
+      <description>1992 yılında kullanmaya başladığım PC bilgisayarlar ile CPU olarak hep intel işlemcileri kullandım. Alternatif olarak AMD, Cyrix gibi farklı işlemciler olsa da hepsi x86 mimarisi kullanıldığından derlenen programların farklı performans göstermesi spesifik durumlar dışında pek olağan değildi.
+Apple’da 2006 yılından itibaren Intel CPU kullanmaya başladıktan sonra bilgisayar dünyasında x86 mimarisinin alternatifi kalmamıştı.
+2020 sonunda Apple mimarisini kendi geliştirdiği ARM tabanlı M1 işlemcili ilk bilgisayarlarını piyasaya çıkardı. 5 nm teknolojisi ile üretilen CPU, 10 nm’nin altına yeni inebilen intel’in fazlasıyla öne geçmiş gibi görülüyor.</description>
+    </item>
+    
+    <item>
+      <title>Creative Sound BlasterX G6</title>
+      <link>https://darkestnotes.org/posts/creative-sound-blasterx-g6/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/creative-sound-blasterx-g6/</guid>
+      <description>2003-2004 yıllarından sonra anakart üzerinde gelen ses yongaları yeteneklerini fazlasıyla artırınca, ses kartları hobi amaçlı kullanılan pahalı oyuncaklar haline dönüşmeye başladı. Creative Sound Blaster Live! serisinden sonra çıkardığı Audigy serisinde istediği başarıyı yakalayamadı ve bilgisayar dünyası uzunca bir süre anakart üzerindeki onboard ses çözümlerine mahkum oldu.
+Son yıllarda artmaya başlayan yüksek kaliteli müzik dinleme isteği ile ses kartı ve DAC piyasasında gözle görülür bir hareketlenme yaşanıyor. Geçen yıl kullandığım Audioquest&amp;lsquo;in DAC&amp;rsquo;larının müzik dosyaları için ideal ancak oyunlar için fazlasıyla yetersiz olduğunu gördüğümden bir süredir her iki amaca uygun kullanımı olan birşeyler aramaya başladım.</description>
+    </item>
+    
+    <item>
+      <title>Roon</title>
+      <link>https://darkestnotes.org/posts/roon/</link>
+      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/roon/</guid>
+      <description>Roon Windows, MacOS ve Linux için bir müzik yönetim ve çalma programı. Roon&amp;rsquo;u diğer programlardan ayıran en önemli özelliği büyük bir metadata kütüphanesine erişmesi ve dinlediğiniz müziğin yapımcısından tutun da plak şirketine, şarkıların bestecisinden albüm kapağına kadar bilgilere kolaylıkla ulaşım sağlayabilmesi. Zaten tanıtım sayfalarında da dijital müziğe geçişte iTunes ve Spotify gibi listelerden oluşan programların olumsuz yönüne vurgu yapılıyor. Roon bilgisayarda veya network ortamında bulunan müzik dosyalarına ulaşabildiği gibi TIDAL ve Qobuz lossless streaming servisleri ile de etkileşimli çalışabiliyor.</description>
+    </item>
+    
+  </channel>
+</rss>

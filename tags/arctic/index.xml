@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>arctic on Darkest Notes</title>
+    <link>https://darkestnotes.org/tags/arctic/</link>
+    <description>Recent content in arctic on Darkest Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 19 May 2011 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/arctic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arctic Exhibition</title>
+      <link>https://darkestnotes.org/posts/arctic-exhibition/</link>
+      <pubDate>Thu, 19 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/arctic-exhibition/</guid>
+      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;496&amp;rdquo;]
+High Arctic Exhibition Mimics Glaciers in Museum</description>
+    </item>
+    
+    <item>
+      <title>Frozen Fall</title>
+      <link>https://darkestnotes.org/posts/frozen-fall/</link>
+      <pubDate>Wed, 13 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/frozen-fall/</guid>
+      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;539&amp;rdquo;]
+Semi Frozen Fall Forsakar, South Sweden</description>
+    </item>
+    
+  </channel>
+</rss>

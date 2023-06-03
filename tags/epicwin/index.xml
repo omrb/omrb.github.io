@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>epicwin on Darkest Notes</title>
+    <link>https://darkestnotes.org/tags/epicwin/</link>
+    <description>Recent content in epicwin on Darkest Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 11 Jul 2010 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/epicwin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EpicWin</title>
+      <link>https://darkestnotes.org/posts/epicwin/</link>
+      <pubDate>Sun, 11 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/epicwin/</guid>
+      <description>Bilgisayar dünyasında yeni fikirler ortaya çıkarmak zor, bu fikirleri uygun algoritmalarla, işe yarayabilecek bir program haline getirebilmek daha da zordur. Artık bundan daha iyisi yapılamaz denilen türde programlara yeni bir bakış açısı ile bakabilmek ve hiç denenmemiş bir şeyi denemeyi başaran program geliştiricilerine hayran kalmamak elde değil.
+EpicWin bildiğimiz -yapılacak işler listesi-(to-do list app) uygulaması olarak düşünülebilir. Internette basit bir arama yaparak yüzlerce örneğini bulabileceğimiz bu türden bir uygulamayı nasıl daha ilginç hale getirilebileceğini düşünenler, bu basit programı bir online RPG oyunu gibi hazırlamışlar.</description>
+    </item>
+    
+  </channel>
+</rss>

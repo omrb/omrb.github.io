@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>gif on Darkest Notes</title>
+    <link>https://darkestnotes.org/tags/gif/</link>
+    <description>Recent content in gif on Darkest Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/gif/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Happy New Year</title>
+      <link>https://darkestnotes.org/posts/happy-new-year/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/happy-new-year/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Star Wars</title>
+      <link>https://darkestnotes.org/posts/star-wars/</link>
+      <pubDate>Wed, 09 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/star-wars/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Tumblr.</title>
+      <link>https://darkestnotes.org/posts/tumblr./</link>
+      <pubDate>Thu, 14 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/tumblr./</guid>
+      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;174&amp;rdquo;]</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>design on Darkest Notes</title>
+    <link>https://darkestnotes.org/categories/design/</link>
+    <description>Recent content in design on Darkest Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 15 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/categories/design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BeOS&#39;un Kısa Tarihi</title>
+      <link>https://darkestnotes.org/posts/beosun-k%C4%B1sa-tarihi/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/beosun-k%C4%B1sa-tarihi/</guid>
+      <description>Jean-Louis Gassée 1990 yılında Apple&amp;rsquo;dan ayrıldıktan sonra Steve Jobs gibi kendi firmasını Be Inc. adıyla 1991 yılında kurdu. At&amp;amp;T tarafından geliştirilen RISC tabanlı &amp;ldquo;Hobbit&amp;rdquo; isimli işlemciye sahip bir bilgisayar geliştirmekle kalmadı bu bilgisayar için bir işletim sistemi de hazırlamaya koyuldu. Bilgisayarın adı BeBox oldu ancak 1995 yılında AT&amp;amp;T Hobbit işlemcisini geliştirmeyi bıraktı ve Gassée&amp;rsquo;nin bilgisayar tasarımı yarı yolda kaldı.
+[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;full&amp;rdquo; ids=&amp;ldquo;4031&amp;rdquo; justified_image_grid row_height=500]
+Gassée kolay vaz geçen biri değildi, hemen bilgisayarını iki 66 Mhz hızında PowerPC 603 işlemcisi ile donattı, hazırladığı işletim sistemi de C ve C++ diliyle yazılmış olduğundan kolaylıkla yeni işlemciye uyarlandı ve BeBox 1996 yılı Ocak ayında kullanıcı ile buluştu.</description>
+    </item>
+    
+    <item>
+      <title>Forgotting MMO&#39;S!</title>
+      <link>https://darkestnotes.org/posts/forgotting-mmos/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/forgotting-mmos/</guid>
+      <description>All anyone is talking about nowadays is something called the &amp;ldquo;metaverse&amp;rdquo;? - It&amp;rsquo;s sounds like they&amp;rsquo;re inventing &amp;ldquo;MMO&amp;quot;s again. I never forgot MMOs!</description>
+    </item>
+    
+    <item>
+      <title>Fallout 76 - Dergiler</title>
+      <link>https://darkestnotes.org/posts/fallout-76-dergiler/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/fallout-76-dergiler/</guid>
+      <description>[gallery type=&amp;ldquo;slideshow&amp;rdquo; ids=&amp;ldquo;3177,3173,3172,3171,3170,3169&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>My Peanuts Character</title>
+      <link>https://darkestnotes.org/posts/my-peanuts-character/</link>
+      <pubDate>Thu, 28 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/my-peanuts-character/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Typography</title>
+      <link>https://darkestnotes.org/posts/typography/</link>
+      <pubDate>Wed, 20 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/typography/</guid>
+      <description>Fontlar ve tipografi ile ilgili tüm ansiklopedik bilgiler burada yer alıyor. Bu konuda ihtiyaç duyulabilecek hemen hemen tüm bilgilerin yer aldığı muazzam bir kaynak.</description>
+    </item>
+    
+  </channel>
+</rss>

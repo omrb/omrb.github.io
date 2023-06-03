@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>apple on Darkest Notes</title>
+    <link>https://darkestnotes.org/categories/apple/</link>
+    <description>Recent content in apple on Darkest Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/categories/apple/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MacBook Pro M1</title>
+      <link>https://darkestnotes.org/posts/macbook-pro-m1/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/macbook-pro-m1/</guid>
+      <description>1992 yılında kullanmaya başladığım PC bilgisayarlar ile CPU olarak hep intel işlemcileri kullandım. Alternatif olarak AMD, Cyrix gibi farklı işlemciler olsa da hepsi x86 mimarisi kullanıldığından derlenen programların farklı performans göstermesi spesifik durumlar dışında pek olağan değildi.
+Apple’da 2006 yılından itibaren Intel CPU kullanmaya başladıktan sonra bilgisayar dünyasında x86 mimarisinin alternatifi kalmamıştı.
+2020 sonunda Apple mimarisini kendi geliştirdiği ARM tabanlı M1 işlemcili ilk bilgisayarlarını piyasaya çıkardı. 5 nm teknolojisi ile üretilen CPU, 10 nm’nin altına yeni inebilen intel’in fazlasıyla öne geçmiş gibi görülüyor.</description>
+    </item>
+    
+    <item>
+      <title>MacOS Catalina</title>
+      <link>https://darkestnotes.org/posts/macos-catalina/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/macos-catalina/</guid>
+      <description>Apple işletim sistemini her yıl güncelliyor ve yeni bir isimle piyasaya sürüyor. Son kullanıcı tarafında yeni bir işletim sistemi çıkmış gibi bir algı yaratılıyor. Hemen hemen hiçbir yeni ve önemli özellik olmamasına rağmen sanki yeni bir sürüm çıkarıyormuş hissiyatı yaratmak pek etik değil. Bununla birlikte her yıl yeni işletim sistemi çıkarma döngüsünü sürdürme çabası ile programlama aşaması aceleye getiriliyor ve daha önceki sürümde olmayan çok sayıda bug ile karşılaşma durumu, kullanıcının işletim sistemini kalite ve stabilite açısından da eleştirmesine sebep oluyor.</description>
+    </item>
+    
+    <item>
+      <title>iOS 13</title>
+      <link>https://darkestnotes.org/posts/ios-13/</link>
+      <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/ios-13/</guid>
+      <description>iOS 13 iPhone’larımıza geldi gelmesine ama sorunlarıyla birlikte geldi. Daha iOS 13 çıkmadan 13.1 betaları dağıtıldı, 13.1.1 sonrasında 13.1.2. Herşey içinde bulunsun derken Apple fazlasıyla karman çorman bir hale getirdi iOS’u. Bu durum ister istemez sistemde hantallaşmaya yol açıyor kuşkusuz.
+Pek çok özelliği zaten ülkemizde kullanamıyoruz, bazı özelliklerinde farkında değiliz bile. Apple’ın iOS 13 sayfasında şöyle bir baktım neyi kullanıyorum, hangi özellikler bana faydalı diye, görünürde pek birşey yok.</description>
+    </item>
+    
+    <item>
+      <title>Things 3 ßeta</title>
+      <link>https://darkestnotes.org/posts/things-3-%C3%9Feta/</link>
+      <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/things-3-%C3%9Feta/</guid>
+      <description>İlk duyurulduğu zamandan bu yana çok uzun zaman geçti. Apple iOS 7 ile yeni tasarım sürecine girince sil baştan yeniden oluşturulmaya başlandı. O yıllardan bu yana to-do list’lerin popülerliği büyük oranda azaldı.
+Tüm bunlara karşın betası için e-posta aldığımda bir an önce kullanabilmek için heyecanlanmadım değil. Ulysses’de de olan “Gol” sistemi Things’e de eklenmiş. Beni motive eder mi etmez mi tartışılır tabi. Yapacakları bitirdikçe ilerleyişi görmek güzel ama bitiremediğim şeyleri o listelerde görmek ve yapamayacağını fark etmek moral bozmuyor değil.</description>
+    </item>
+    
+    <item>
+      <title>Ulysses</title>
+      <link>https://darkestnotes.org/posts/ulysses/</link>
+      <pubDate>Sun, 07 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/ulysses/</guid>
+      <description>Yıllar önce kullandığım not alma -yazı yazma- programı Ulysses yenilenmiş, güncellenmiş, parlatılmış ve tekrar piyasaya çıkmış. Yaklaşık 118 ₺’lik fiyatını görünce şaşırdım tabi, önceden satın almış olduğum için bir indirim var mı acaba? diye bakarken bir upgrade ücreti olmadığını görünce hemen yükledim ve denemeye başladım, yüzeysel ilk izlenimlerim şu şekilde.
+Uzun zamandır Byword kullanmakta olduğum düşünüldüğünde ve tuhaf bir biçimde -eksiklikleriyle beraber- kullanmaya alışmış olduğumdan kendisinden kolay kolay vazgeçebileceğimi düşünmüyorum ancak Ulysses’de bazı özelliklerin fazlasıyla kullanışlı olması dikkatimi çekti.</description>
+    </item>
+    
+    <item>
+      <title>iPhone Hands-Free Siri with Cookie Monster</title>
+      <link>https://darkestnotes.org/posts/iphone-hands-free-siri-with-cookie-monster/</link>
+      <pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/iphone-hands-free-siri-with-cookie-monster/</guid>
+      <description>https://youtu.be/WobCmSoh9q8</description>
+    </item>
+    
+    <item>
+      <title>MacBook (Early 2015)</title>
+      <link>https://darkestnotes.org/posts/macbook-early-2015/</link>
+      <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/macbook-early-2015/</guid>
+      <description>Başka birşeyler almak için girdiğim teknoloji markette vakit geçirmek için dolandığım sırada, Apple ürünlerini incelerken gördüm geçtiğimiz yılın ilk çeyreğinde çıkan MacBook modelini. Nisan ayında ilk çıktığı zaman beğenmiş, incelemiş, almayı düşünmüş ancak fiyatı çok yüksek olduğundan ertelemiştim.
+İncelemelerden okuduğum kadarıyla en büyük yeniliği klavyesinde taşıyordu. İlk bu özelliğini denemek için tuşlara dokunduğum an vuruldum. Düz, fazla çıkıntılı olmayan, bununla birlikte önceki modellere göre daha büyük tasarlanmış tuşlar. Butterfly Mechanism diye adlandırmış Apple, tuşa basma hissi çok çok farklı ve keyifli bir deneyim sunuyor.</description>
+    </item>
+    
+    <item>
+      <title>iOS 9</title>
+      <link>https://darkestnotes.org/posts/ios-9/</link>
+      <pubDate>Sun, 18 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/ios-9/</guid>
+      <description>iOS 9 geçtiğimiz ay içinde 16 Eylül Çarşamba günü kullanılabilir oldu. Aylardır beta sürümlerini kullanıyor olsam da, bazı özellikleri ancak herkes tarafından kullanılabilir olduğunda, uygulamalar iOS 9 için güncellendiğinde anlaşılır hale gelebiliyor.
+Internet üzerinde iOS 9 için yazılmış çok kapsamlı incelemeler yer alıyor. Rene Ritchie&amp;rsquo;nin 21000 kelimelik incelemesi, Federico Viticci&amp;rsquo;nin bir kitap kadar kapsamlı (48.000 kelime!) ve iPad ile yazılan incelemelerinde detaylar mevcut.
+iOS 9&amp;rsquo;da benim için önemli olan ve kullanımının yaygınlaşması ile daha da önemli hale gelecek özellikler şu şekilde sıralanıyor;</description>
+    </item>
+    
+    <item>
+      <title>iPhone 6 Plus</title>
+      <link>https://darkestnotes.org/posts/iphone-6-plus/</link>
+      <pubDate>Sat, 25 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/iphone-6-plus/</guid>
+      <description>İki haftadır kullanmakta olduğum iPhone 6 Plus ile ilgili düşüncelerim satırbaşları halinde şöyle sıralanıyor:
+Batarya ömrü çok iyi gözüküyor. Yıllar sonra hergün şarj etmeme gerek olmayan bir telefon kullanıyor olmanın rahatlığını yaşıyorum. Telefonun en boy oranı biraz tuhaf. Uzunluğu oldukça fazla. Büyüklüğü ilk başta kullanımı zorlaştırıyor gibi gelse de zamanla alışılıyor. Tek el ile kullanmak çok rahat değil ancak bazı işleri tek el kullanarak halletmek mümkün. Büyük ekranlı telefonda internette gezinmek, yazıları okumak ayrı bir keyfi var.</description>
+    </item>
+    
+    <item>
+      <title>iOS 8 DevKit</title>
+      <link>https://darkestnotes.org/posts/ios-8-devkit/</link>
+      <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/ios-8-devkit/</guid>
+      <description>Sonbaharın gelişi Apple dünyasında son yıllarda yeni iPhone modelleri ve iOS ile Mac OS’un piyasaya çıkış tarihlerinin yaklaştığına işaret eder. Yaz aylarında Beta sürümlerle yenilikler hakkında tecrübe edinmeye çalışsak da Final sürümler piyasaya çıkmadan işletim sistemleri ile ilgili yazılıp çizilen şeylerin çok anlamı yok.
+Telefonumda yaklaşık 3 haftadır iOS 8 Beta kullanıyorum. Genel olarak stabil, bunun yanında çeşitli uygulamalarda doğal olarak sorunlar var. Yoğun kullanımda telefonun ısınması ve bataryanın hızla boşalıyor olması betaların ortak problemlerinden.</description>
+    </item>
+    
+    <item>
+      <title>Susan Kare, Iconographer</title>
+      <link>https://darkestnotes.org/posts/susan-kare-iconographer/</link>
+      <pubDate>Mon, 16 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/susan-kare-iconographer/</guid>
+      <description>https://vimeo.com/97583369</description>
+    </item>
+    
+    <item>
+      <title>iPhone 5S</title>
+      <link>https://darkestnotes.org/posts/iphone-5s/</link>
+      <pubDate>Sat, 18 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/iphone-5s/</guid>
+      <description>Yaklaşık 3 haftadır kullanmakta olduğum yeni telefonum iPhone 5S ile ilgili düşüncelerimi özetlemek gerekirse;
+Önceki model ile teknik özelliklerini karşılaştırdığımızda; iPhone 5S iPhone 5 CPU A7 (64 Bit) A6 (32 Bit) Co-Processor M7 Yok Screen 1136x640 4in (326 ppi) 1136x640 4in (326 ppi) Weight 112 gr. 112 gr. RAM 1 GByte DDR3 1 GByte Battery 1560 mAh 1440 mAh Camera 8 MPixel 8 MPixel 1.5µ pixel - ƒ/2.2 ƒ/2.4 True Tone Flash LED Flash Video Slow Motion - 1080p HD 1080p HD Facetime 1.</description>
+    </item>
+    
+    <item>
+      <title>Apple Store Türkiye</title>
+      <link>https://darkestnotes.org/posts/apple-store-t%C3%BCrkiye/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/apple-store-t%C3%BCrkiye/</guid>
+      <description>Apple’ın online mağazası Türkiye’de açıldı. Artık tüm Apple ürünlerini ülkemizde piyasaya çıktığı anda ve distribütörlerin fahiş kâr marjları olmadan doğrudan satın alabilme imkanına kavuşmuş olduk.</description>
+    </item>
+    
+    <item>
+      <title>Apple&#39;ın Gidişatı</title>
+      <link>https://darkestnotes.org/posts/apple%C4%B1n-gidi%C5%9Fat%C4%B1/</link>
+      <pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/apple%C4%B1n-gidi%C5%9Fat%C4%B1/</guid>
+      <description>iOS 7 ile başlayan ve skeumorphism’i ortadan kaldırmaya yönelik çalışmalar olarak algılanan Apple’daki yenilenme süreci daha kimsenin fark edemediği sorunları ortaya çıkardı aslında. Steve Jobs sonrası Apple yönetiminde gerçekleştirilen değişikliklerin kullanıcılara (ve müşterilere) sadece iOS ve MacOS’da görsel yenilikler yapılacağı şeklinde lanse edildi, oysa Apple kalite kontrol sisteminde büyük değişiklikler yapmışa benziyor.
+Apple’ın bu aşamadan sonra asıl problemi, işletim sistemlerinin yeni görünümününün kullanıcılar tarafından kabul edilmesi değil, stabil çalışan ve bug’lardan arındırılmış bir iOS sürümünü kullanıcıların deneyimine sunabilmek olduğu anlaşılıyor.</description>
+    </item>
+    
+    <item>
+      <title>MacBook Pro with Retina Display (Early 2013)</title>
+      <link>https://darkestnotes.org/posts/macbook-pro-with-retina-display-early-2013/</link>
+      <pubDate>Sat, 03 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/macbook-pro-with-retina-display-early-2013/</guid>
+      <description>Yeni aldığım 15.4&amp;quot; Retina MacBook Pro’yu test etmekle meşgulum. Teknik özellikleri şu şekilde sıralayabilirim.
+2.4 GHz quad-core iNtel Core i7 CPU 8 GB 1600 MHz DDR3L Memory 256 GB SSD Flash Storage 15.4 inch 2880x1800 220 ppi (Samsung) 2.02 Kg. iNtel HD 4000 Graphics nVidia GeForce GT 650M with 1 GB of GDDR5 720p FaceTime HD Camera 7 hours Battery-Life Önceki MacBook’dan yenisine tüm programları ve ayarları aktarmak için Migration Assistant’ı kullandım.</description>
+    </item>
+    
+    <item>
+      <title>iOS 7</title>
+      <link>https://darkestnotes.org/posts/ios-7/</link>
+      <pubDate>Sat, 22 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/ios-7/</guid>
+      <description>Haziran ayında tanıtımı yapılan iOS 7&amp;rsquo;nin 1.betasını telefonuma geçtiğimiz hafta içinde yüklemiş bulundum. Beta sürümleri sürekli kullandığınız telefonlara yüklemenin tehlikelerinden bahsedilse de yazılım-donanım tehlikeleri ile yüzleşmeyi seven birisi olarak bir beta sürümünü en iyi her gün kullandığım telefonla en iyi şekilde test edilebileceğini düşünenlerdenim.
+iOS 7&amp;rsquo;yi ilk gördüğümde gerçekten hayal kırıklığına uğradım. Windows Phone&amp;rsquo;a büyük ölçüde benzemesi, nedense bir türlü sevemediğim Avenir yazıtipi, genel görünümde skeumorphismin terkedilerek pastel tonlu renkli bir görünümün oluşturulması hiç hoşuma gitmemişti.</description>
+    </item>
+    
+    <item>
+      <title>iOS 6.1 Göze Çarpan Yenilikler</title>
+      <link>https://darkestnotes.org/posts/ios-6.1-g%C3%B6ze-%C3%A7arpan-yenilikler/</link>
+      <pubDate>Tue, 29 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/ios-6.1-g%C3%B6ze-%C3%A7arpan-yenilikler/</guid>
+      <description> Apple&amp;rsquo;ın mobil cihazlar için ürettiği iOS işletim sisteminin 6.1 sürümü 28 Ocak&amp;rsquo;da kullanıcıların hizmetine sunuldu. Görsel olarak çok fazla yenilik bulunmamasına karşın pek çok güvenlik güncelleştirmesini içinde barındıran yeni sürümde göze çarpan yenilikler ise şöyle;
+Çeşitli ülkelerde sağlanan LTE desteği Fandango (USA) iTunes Match üyeleri için iCloud&amp;rsquo;dan şarkı indirebilme Reklam kimliğini sıfırlama - Carrier Update
+Turkcell 14.0 - Music.app
+Lock ekranında değişiklik Lock ekranında kontrol düğmelerinde değişiklik </description>
+    </item>
+    
+    <item>
+      <title>iPhone Homescreen</title>
+      <link>https://darkestnotes.org/posts/iphone-homescreen/</link>
+      <pubDate>Sun, 13 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/iphone-homescreen/</guid>
+      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;335&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>Scott Forstall</title>
+      <link>https://darkestnotes.org/posts/scott-forstall/</link>
+      <pubDate>Sun, 04 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/scott-forstall/</guid>
+      <description>Starting in 2000 with Mac OS X, Apple’s desktop operating system has been Unix-based. Why is this significant? Many developers were already familiar with the Unix operating system. With a Unix base, coders could use standard Unix commands in the command line, there was greater code portability, and Mac OS X got all of the associated benefits of Unix. For example, Unix is architected in a modular fashion, which can be beneficial when it comes to system security.</description>
+    </item>
+    
+    <item>
+      <title>iOS 6</title>
+      <link>https://darkestnotes.org/posts/ios-6/</link>
+      <pubDate>Sat, 22 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/ios-6/</guid>
+      <description>Apple iOS 6&amp;rsquo;nın 200&amp;rsquo;den fazla yeni özellikle birlikte geldiğini söylüyor. Bu özelliklerin pek çoğu biz kullanıcılar tarafından farkında olmadan kullanılıyor. Bir kısmı ise dikkatimizi çekmiyor. Bir bölümünü ilk bakışta, bir bölümünü ise bir süre kullandıkça fark ediyoruz. Yaklaşık bir haftadır kullandığım iOS 6&amp;rsquo;da fark ettiğim ve diğer incelemelerde okuyarak kullandığım bazı özellikleri sıraladım.
+Music.app
+- Beyaz gri fon
+- Ses düğmesi üzerindeki metal yansıma.
+App Store
+-Uygulama güncellemeleri için şifre sorulmuyor.</description>
+    </item>
+    
+    <item>
+      <title>Mountain Lion</title>
+      <link>https://darkestnotes.org/posts/mountain-lion/</link>
+      <pubDate>Sat, 28 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/mountain-lion/</guid>
+      <description>Apple bir sürpriz yaptı ve işletim sistemi sürüm güncelleme süresini 2 yıldan bir yıla indirdi. Geçen yıl Temmuz ayında çıkan Lion&amp;rsquo;dan sonra bu yıl 25 Temmuz&amp;rsquo;da Mountain Lion kullanıma sunuldu.
+Apple Mountain Lion&amp;rsquo;ın 200&amp;rsquo;den fazla yeni özellik ile geldiğini söylüyor. Pek çoğu güünlük kullanımda karşımıza çıkmayacak özellikler olsa da iOS cihazlarla iCloud sayesinde anında senkronizasyon sağlayan Notes, Reminders gibi uygulamalar, Messages, gerçekten mükemmel bir hıza erişmiş olan Safari, açılma süresi ile beni şaşırtan iTunes, Twitter entegrasyonu (Sonbaharda Facebook ile entegrasyon da sağlanacak) ve bildirimler en önemli özellikler arasında görünüyor.</description>
+    </item>
+    
+    <item>
+      <title>iPhone OS&#39;86</title>
+      <link>https://darkestnotes.org/posts/iphone-os86/</link>
+      <pubDate>Wed, 02 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/iphone-os86/</guid>
+      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;427&amp;rdquo;]
+iPhone OS ‘86 by @repponen on @dribbble: http://drbl.in/dbep #BBApp</description>
+    </item>
+    
+    <item>
+      <title>Mastered for iTunes</title>
+      <link>https://darkestnotes.org/posts/mastered-for-itunes/</link>
+      <pubDate>Thu, 23 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/mastered-for-itunes/</guid>
+      <description>Apple suggests submitting high-resolution audio files will become more important down the road. “As technology advances and bandwidth, storage, battery life, and processor power increase, keeping the highest quality masters available in our systems allows for full advantage of future improvements to your music,” reads their guide to iTunes mastering. “These masters matter—especially given the move into the cloud on post-PC devices.
+Mastered for iTunes: how audio engineers tweak music for the iPod age</description>
+    </item>
+    
+    <item>
+      <title>OS X Mountain Lion</title>
+      <link>https://darkestnotes.org/posts/os-x-mountain-lion/</link>
+      <pubDate>Tue, 21 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/os-x-mountain-lion/</guid>
+      <description>Apple 2012 yılı yaz sonunda çıkacak olan işletim sistemi OS X Mountain Lion&amp;rsquo;ın ilk Geliştirici Sürümünü programcıların kullanımına açtı. Bu sürümü bilgisayarıma kurup kurmamakta önce kararsız olmama karşın, gerçekten kullanışlı özelliklerini okudukça ve gayet stabil olduğunu öğrenince kurmaya karar verdim.
+Yükledikten sonra ilk işim iCloud bağlantısını sağlamak oldu. Çünkü artık OS X tamamen iCloud ile entegre bir hale gelmiş. Kişiler, Hatırlatıcılar, E-Posta, Notlar vb. pek çok özellik iCloud üzerinden eşitleniyor. Hayatımızı büyük ölçüde kolaylaştıran bu özellik kimi zaman karmaşayı da beraberinde getiriyor.</description>
+    </item>
+    
+    <item>
+      <title>iOS 5 for iPhone and iPad walkthrough | TiPb</title>
+      <link>https://darkestnotes.org/posts/ios-5-for-iphone-and-ipad-walkthrough-tipb/</link>
+      <pubDate>Sun, 16 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/ios-5-for-iphone-and-ipad-walkthrough-tipb/</guid>
+      <description>iOS 5 for iPhone and iPad walkthrough | TiPb
+(via Instapaper)</description>
+    </item>
+    
+    <item>
+      <title>Steve Jobs</title>
+      <link>https://darkestnotes.org/posts/steve-jobs/</link>
+      <pubDate>Thu, 06 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/steve-jobs/</guid>
+      <description>1986 yılında bir bilgisayar dergisini karıştırırken gördüğüm bu fotoğrafla tanıdım Steve Jobs&amp;rsquo;u. Bir garajda, ceplerinde hiç paraları olmadan, çeşitli bilgisayar parçalarını birleştirerek Steve Wozniak ile birlikte Apple&amp;rsquo;ı kurduklarını öğrenmek 10 yaşında bir çocuk için çok heyecan vericiydi.
+Evdeki Commodore 64, bu fotoğraf sonrasında sadece oyun oynadığım, Basic ile ufak tefek programlar yazdığım bir bilgisayar olmaktan çıkmıştı. Onun nasıl çalıştığını anlamama, bozup, tamir etmeme, soketli chipleri değiştirerek yeni şeyler denememe bu fotoğraf sebep olmuştu.</description>
+    </item>
+    
+    <item>
+      <title>Intel integrated graphics: finally good enough for the MacBook Air?</title>
+      <link>https://darkestnotes.org/posts/intel-integrated-graphics-finally-good-enough-for-the-macbook-air/</link>
+      <pubDate>Sun, 31 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/intel-integrated-graphics-finally-good-enough-for-the-macbook-air/</guid>
+      <description>Intel integrated graphics: finally good enough for the MacBook Air?
+(via Instapaper)</description>
+    </item>
+    
+    <item>
+      <title>MacOS X Lion</title>
+      <link>https://darkestnotes.org/posts/macos-x-lion/</link>
+      <pubDate>Wed, 20 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/macos-x-lion/</guid>
+      <description>MacOS X Lion bugün Mac kullanıcılarının deneyimine sunuldu. MacOS X Lion&amp;rsquo;ın detaylı bir incelemesi Ars Technica&amp;rsquo;da yayınlandı.</description>
+    </item>
+    
+    <item>
+      <title>MacOS X Lion Hakkında Birkaç Not</title>
+      <link>https://darkestnotes.org/posts/macos-x-lion-hakk%C4%B1nda-birka%C3%A7-not/</link>
+      <pubDate>Sun, 17 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/macos-x-lion-hakk%C4%B1nda-birka%C3%A7-not/</guid>
+      <description>Yeni MacOS sürümü Lion&amp;rsquo;ın piyasaya çıkmasına günler kala göze çarpan değişiklikler hakkında aldığım notlar…
+- Login ekranı yenilenmiş, aslında boot ekranındaki Apple logosunun devamı şeklinde yapılabilse estetik açıdan çok daha şık gözükebilirdi…
+- Finder&amp;rsquo;da sidebar ikonları değiştirilmiş. Pencereler daha akıcı animasyonlar ile açılıyor.
+-LaunchPad, bilgisayarınıza yüklü uygulamaların tümünü iPad (iOS) benzeri bir şekilde ekranda gösterilmesini sağlıyor.
+-Reverse Scrolling, TrackPad&amp;rsquo;de yukarı-aşağı scroll&amp;rsquo;un yönü değiştirilmiş, iOS&amp;rsquo;da olduğu gibi yapılmış. Ben alışamadaım, doğrudan eski seçeneğe döndüm.</description>
+    </item>
+    
+    <item>
+      <title>Mac App Store</title>
+      <link>https://darkestnotes.org/posts/mac-app-store/</link>
+      <pubDate>Sun, 09 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/mac-app-store/</guid>
+      <description>Geçtiğimiz hafta Apple MacOS işletim sistemi için geliştirilen uygulamaların satılacağı Mac App Store‘un açılışını yaptı. Apple iPhone için yarattığı AppStore&amp;rsquo;un beklenmeyen başarısı sonrasında aynı başarıyı MacOS uygulama pazarında da yakalamak istiyor.
+Apple&amp;rsquo;ın MacOS uygulamaları için merkezi bir sistem oluşturmasında, iPhone&amp;rsquo;da yakaladığı başarının yanısıra bağımsız uygulama geliştiricilerinin (indie developer) son yıllarda, hem görsel, hem işlevsel mükemmele yakın programlar üretmelerini farketmiş olması yatıyor. Haliyle büyüyen bu pastadan kendisi de pay almak istiyor.</description>
+    </item>
+    
+    <item>
+      <title>Ten ways I&#39;ll use Apple products to have more fun in 2011</title>
+      <link>https://darkestnotes.org/posts/ten-ways-ill-use-apple-products-to-have-more-fun-in-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/ten-ways-ill-use-apple-products-to-have-more-fun-in-2011/</guid>
+      <description>Ten ways I&amp;rsquo;ll use Apple products to have more fun in 2011</description>
+    </item>
+    
+    <item>
+      <title>App Store Statistics</title>
+      <link>https://darkestnotes.org/posts/app-store-statistics/</link>
+      <pubDate>Sat, 18 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/app-store-statistics/</guid>
+      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;516&amp;rdquo;]
+App Store Statistics</description>
+    </item>
+    
+    <item>
+      <title>Susan Kare Art</title>
+      <link>https://darkestnotes.org/posts/susan-kare-art/</link>
+      <pubDate>Wed, 15 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/susan-kare-art/</guid>
+      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;519&amp;rdquo;]
+The bomb was designed to represent a system failure
+BOMB | Susan Kare Prints</description>
+    </item>
+    
+    <item>
+      <title>Apple 2000 - 2010</title>
+      <link>https://darkestnotes.org/posts/apple-2000-2010/</link>
+      <pubDate>Wed, 08 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/apple-2000-2010/</guid>
+      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;523&amp;rdquo;]
+minimalmac:
+ajdesign:
+There is great truth in beauty.
+(via Ian Hines)</description>
+    </item>
+    
+    <item>
+      <title>iTunes 10 - Ping - Game Center</title>
+      <link>https://darkestnotes.org/posts/itunes-10-ping-game-center/</link>
+      <pubDate>Tue, 14 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/itunes-10-ping-game-center/</guid>
+      <description>Eylül ayının başında yapılan ve genellikle Apple&amp;rsquo;ın yeni iPod modellerini tanıttığı keynote&amp;rsquo;da bu yıl yeni iPod Touch ve Nano&amp;rsquo;dan başka yazılım ürünleri iTunes 10 ve iOS 4.1&amp;rsquo;de tanıtıldı.
+Apple geçmişte her zaman yeni ürünler ile teknoloji dünyasını farklı yönlere taşırken yavaş yavaş gelişmelerin gerisinde kaldığını ve hareketin içine sonradan katıldığını keynote&amp;rsquo;da tanıttığı sosyal ağ uygulamaları Ping ve Game Center&amp;rsquo;da görmekteyiz. Bu iki uygulama bana kalırsa yıllar önce iTunes&amp;rsquo;a ve iPhone&amp;rsquo;a eklenmiş olmalıydı.</description>
+    </item>
+    
+    <item>
+      <title>Game Center &amp; Achievements for Apps!</title>
+      <link>https://darkestnotes.org/posts/game-center-achievements-for-apps/</link>
+      <pubDate>Fri, 10 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/game-center-achievements-for-apps/</guid>
+      <description>Game Center should allow non-game iOS apps to register for achievements and leaderboards. Think about it: Largest Dropbox File, Most TextExpander Time Saved, Longest iStat Uptime, Most LoseIt Pounds Lost This Week.
+David Chartier nails a great idea. I’d love to make Game Center-shareable achievements in Instapaper, but I don’t think there’s any chance that Apple would approve it, even after today’s improvements. (via marco)</description>
+    </item>
+    
+    <item>
+      <title>Mac Odyssey</title>
+      <link>https://darkestnotes.org/posts/mac-odyssey/</link>
+      <pubDate>Fri, 20 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/mac-odyssey/</guid>
+      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;575&amp;rdquo;]
+2001-2010: A Mac Odyssey</description>
+    </item>
+    
+    <item>
+      <title>iPad Logic Board</title>
+      <link>https://darkestnotes.org/posts/ipad-logic-board/</link>
+      <pubDate>Sat, 03 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/ipad-logic-board/</guid>
+      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;675&amp;rdquo;]
+Here is the iPad logic board! via iFixit</description>
+    </item>
+    
+    <item>
+      <title>iPad Interior</title>
+      <link>https://darkestnotes.org/posts/ipad-interior/</link>
+      <pubDate>Fri, 02 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/ipad-interior/</guid>
+      <description>[gallery]
+FCC iPad Images Reveal Broadcom Chip, Apple A4, Toshiba Flash Memory - Mac Rumors</description>
+    </item>
+    
+    <item>
+      <title>iBoard</title>
+      <link>https://darkestnotes.org/posts/iboard/</link>
+      <pubDate>Sun, 28 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/iboard/</guid>
+      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;690&amp;rdquo;]
+The Future Of Apple</description>
+    </item>
+    
+    <item>
+      <title>iBroke</title>
+      <link>https://darkestnotes.org/posts/ibroke/</link>
+      <pubDate>Mon, 01 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/ibroke/</guid>
+      <description>[gallery]
+iBroke !</description>
+    </item>
+    
+    <item>
+      <title>iPad Hakkında Birkaç Düşünce</title>
+      <link>https://darkestnotes.org/posts/ipad-hakk%C4%B1nda-birka%C3%A7-d%C3%BC%C5%9F%C3%BCnce/</link>
+      <pubDate>Sat, 30 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/ipad-hakk%C4%B1nda-birka%C3%A7-d%C3%BC%C5%9F%C3%BCnce/</guid>
+      <description>27 Ocak günü bizzat Steve Jobs&amp;rsquo;un tanıtımını yaptığı iPad ile ilgili yorum-eleştiri ve tahminleri pek çok internet sitesinden okumuş olmalısınız. iPad&amp;rsquo;in eksikleri, keşke şöyle olsaydı gibi tartışmalara girmeden saptadığım birkaç hususu burada paylaşmak istedim.
+Öncelikle ülkemizdeki klasik PC kullanıcısının kapalı bilgisayar kavramını hiç bilmediğini, bilse bile anlamak istemediğini fark ettim.
+iPad ile ilgili olarak vizyon sahibi olmayan ve kapalı bilgisayar kavramını bilmeyen kara ve kör-cahil yorumlarına gülüp geçiyorum. (iPad&amp;rsquo;i printer&amp;rsquo;a nasıl bağlanacağını soran bile var ;))</description>
+    </item>
+    
+    <item>
+      <title>Apple Tablet</title>
+      <link>https://darkestnotes.org/posts/apple-tablet/</link>
+      <pubDate>Sat, 23 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/apple-tablet/</guid>
+      <description>[gallery]
+Steve Jobs &amp;amp; Apple Tablet</description>
+    </item>
+    
+    <item>
+      <title>iPhone 3GS vs iPhone 3G</title>
+      <link>https://darkestnotes.org/posts/iphone-3gs-vs-iphone-3g/</link>
+      <pubDate>Sat, 12 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/iphone-3gs-vs-iphone-3g/</guid>
+      <description>iPhone 3GS aslında tam anlamıyla yeni bir model değil, iPhone 3G&amp;rsquo;nin biraz güncelleştirilmiş bir modeli. Telefonun dış görünüşünde herhangi bir değişiklik yok sadece 4 gr. daha ağır.(!) Başlıklar halinde yenilikleri şöyle sıralayabiliriz.
+Daha hızlı CPU Daha uzun konuşma süresi içeren yeni batarya Otomatik odaklanabilen 3 MPixel&amp;rsquo;lik kamera Video kayıt özelliği Daha az parmak izi bırakan ekran kaplaması Pil şarj durumunun % olarak gösterimi Pusula Hız konusunda bu kadar bir iyileşme görmek açıkçası beni çok şaşırttı.</description>
+    </item>
+    
+    <item>
+      <title>MacOS 7 on iPhone</title>
+      <link>https://darkestnotes.org/posts/macos-7-on-iphone/</link>
+      <pubDate>Thu, 26 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/macos-7-on-iphone/</guid>
+      <description>MacOS 7 on iPhone</description>
+    </item>
+    
+    <item>
+      <title>The Lego Mac Computer</title>
+      <link>https://darkestnotes.org/posts/the-lego-mac-computer/</link>
+      <pubDate>Mon, 16 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/the-lego-mac-computer/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Analog &amp; Digital Music</title>
+      <link>https://darkestnotes.org/posts/analog-digital-music/</link>
+      <pubDate>Sat, 20 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/analog-digital-music/</guid>
+      <description>Searching my old LP’s newly digital editions in iTunes store.</description>
+    </item>
+    
+    <item>
+      <title>iTunes Store</title>
+      <link>https://darkestnotes.org/posts/itunes-store/</link>
+      <pubDate>Fri, 19 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/itunes-store/</guid>
+      <description>I can not help myself to buying mp3’s from iTunes store.</description>
+    </item>
+    
+  </channel>
+</rss>

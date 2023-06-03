@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>software on Darkest Notes</title>
+    <link>https://darkestnotes.org/tags/software/</link>
+    <description>Recent content in software on Darkest Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 20 Feb 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Boxer ve Dot-Matrix Printer Emülasyonu</title>
+      <link>https://darkestnotes.org/posts/boxer-ve-dot-matrix-printer-em%C3%BClasyonu/</link>
+      <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/boxer-ve-dot-matrix-printer-em%C3%BClasyonu/</guid>
+      <description>Hafta sonu uzun zamandır beklediğim ancak programcısının artık herhangi bir geliştirme yapacağını düşünmediğim bir uygulama ile uğraşmakla geçti. Boxer. Büyük oranda gelişimini tamamlamış bir uygulama aslında, DOSBox için yazılmış bir kullanıcı arayüzü. Ancak MacOs’un kullanıcı dostu arabirimine yönelik o kadar ince detaylar düşünülerek geliştirilmiş ki bir daha Windows ile DOSBox kullanamaz oldum.
+Oyun ve programların dökümanları ve kutu resimleri ile bir paket haline getirilebilmesi, DOSBox’dan farklı daha gelişmiş Roland MT-32 emülasyonu, Roland MT-32’nin LCD ekranında kimi programlar tarafından yazılan mesajları benzer bir biçimde ekranda gösterme gibi eski bilgisayarcılara yönelik baştan çıkarıcı detaylar.</description>
+    </item>
+    
+    <item>
+      <title>Day One 2</title>
+      <link>https://darkestnotes.org/posts/day-one-2/</link>
+      <pubDate>Sat, 06 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/day-one-2/</guid>
+      <description>Çocukluğumdan beri günlük tutarım. 1984 yılında yazmaya başladığım, üzerinde Snoopy resmi olan bir defterim olduğunu hatırlıyorum. Hergün yazmamakla ve bazen çok uzun süreler yazmaya ara veriyor olmamla birlikte her yıl sonunda, hangi ay ne yaptığımı, neler düşündüğümü özetlediğim uzun &amp;ldquo;yıllık gözden geçirme yazıları&amp;rdquo; yazmaya çalışırdım. O defter bitene kadar, (1992 başları) yazdığımı hatırlıyorum.
+Mobil cihazların gelişimi ile günlük tutma fikri yeniden canlandı bende. Sosyal medyaya yaptığım katkıları(!) otomatik olarak toplayan ve bir sosyal medya günlüğü şeklinde çalışan Momento kullandığım ilk uygulama olmuştu.</description>
+    </item>
+    
+  </channel>
+</rss>

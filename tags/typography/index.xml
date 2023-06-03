@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>typography on Darkest Notes</title>
+    <link>https://darkestnotes.org/tags/typography/</link>
+    <description>Recent content in typography on Darkest Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 20 Jan 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/typography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Typography</title>
+      <link>https://darkestnotes.org/posts/typography/</link>
+      <pubDate>Wed, 20 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/typography/</guid>
+      <description>Fontlar ve tipografi ile ilgili tüm ansiklopedik bilgiler burada yer alıyor. Bu konuda ihtiyaç duyulabilecek hemen hemen tüm bilgilerin yer aldığı muazzam bir kaynak.</description>
+    </item>
+    
+  </channel>
+</rss>
