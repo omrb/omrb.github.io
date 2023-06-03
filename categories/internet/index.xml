@@ -127,6 +127,28 @@ Seni özleyeceğim Google Reader! Elveda!</description>
     </item>
     
     <item>
+      <title>Thinglist</title>
+      <link>https://darkestnotes.org/posts/thinglist/</link>
+      <pubDate>Sat, 23 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/thinglist/</guid>
+      <description>Bir daha hiçbirşeyi unutmayın!
+Bazen unutmak istemediğim şeyleri hızlı bir şekilde not almam gerekir, ama alınan bu notlar zamanla karmaşık hale gelir, aranılan bulunamaz ve notlar kaybolur gider.
+Thinglist işte böyle karmaşık notları belirli kategorilere ayırmak için minimal bir tasarımla hazırlanmış bir iOS uygulaması. Ana ekranında 9 kategori (Film, Kitap, Müzik, Yemek, Kişi, Ürün, Yer, Bar ve Fikir) yer alıyor. Seçimimi yapıp notumu kaydediyorum, işte bu kadar! İşlevsel, başarıyla tasarlanan ve uygulanan minimalist uygulamaları seviyorum.</description>
+    </item>
+    
+    <item>
+      <title>Internet, HTML, Blog</title>
+      <link>https://darkestnotes.org/posts/internet-html-blog/</link>
+      <pubDate>Tue, 05 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/internet-html-blog/</guid>
+      <description>Internet’in hayatımıza girmesi ile birlikte, iyi kötü internet kullanan herkesin denemek istediği ilk şey kendi web sitesini hazırlamak olmuştur.
+Bedava alan sağlayan ilk servisler[1] hazırda bulunan şablonları ile kullanıcıların web sitesi oluşturmasını kolaylaştırmıştır. Kişisel web sitesi oluşturmak isteyen herkes birazcık HTML öğrenmiş, siteler hazırlamış, renkli animasyonlu .GIF dosyaları ile ekranı ve arkaplanı doldurmuş, para kazanabilme umudu ile reklam bannerları ve dijital ziyaretçi sayısını gösteren sayaçlar eklemiştir.
+Herhangi bir içerik bulundurmayan, sadece web sayfası nasıl oluşturulur mantığı ile hazırlanan bu sayfalar kısa sürede unutulmuş ve ortadan kalkmıştır bununla birlikte blog denilen çoğu zaman “internet günlüğü” olarak yanlış bir anlam yüklenen oluşum ortaya çıkmıştır.</description>
+    </item>
+    
+    <item>
       <title>Tweet Ping - Twitter Activity in Realtime</title>
       <link>https://darkestnotes.org/posts/tweet-ping-twitter-activity-in-realtime/</link>
       <pubDate>Thu, 31 Jan 2013 00:00:00 +0000</pubDate>
