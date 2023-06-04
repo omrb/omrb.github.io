@@ -6,7 +6,18 @@
     <description>Recent content on Darkest Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wordpress&#39;den Hugo&#39;ya Geçiş</title>
+      <link>https://darkestnotes.org/posts/wordpressden-hugoya-ge%C3%A7i%C5%9F/</link>
+      <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/wordpressden-hugoya-ge%C3%A7i%C5%9F/</guid>
+      <description>2006 yılından beri çeşitli sitelerde yer alan blog&amp;rsquo;umu hosting firmamın PHP 8&amp;rsquo;i zorunlu tutması ve Wordpress tema ve eklentilerinin PHP 8 ile sorunlar çıkarması sebebiyle Hugo&amp;rsquo;ya geçirmeye karar verdim.
+Wordpress&amp;lsquo;i 2015 yılından beri kullanıyordum ve herhangi bir sorunum yoktu. Bununla birlikte tema ve eklentilerin her güncelleme sonrası sorun çıkarabilecek olma ihtimali bie keyif kaçırıcı bir etkendi blog&amp;rsquo;um için.
+Hugo oldukça basit bir sisteme sahip. Text dosyalarını derleyerek statik, HTML tabanlı basit bir internet sitesi yaratıyor.</description>
+    </item>
+    
     <item>
       <title>TweetBot&#39;a Veda!</title>
       <link>https://darkestnotes.org/posts/tweetbota-veda/</link>
@@ -4898,22 +4909,22 @@ Grupta disiplini sağlayabilmek için eleman sayısını az tuttuğunu söyleyen
     </item>
     
     <item>
+      <title>Windows Vista</title>
+      <link>https://darkestnotes.org/posts/windows-vista/</link>
+      <pubDate>Fri, 20 Oct 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/windows-vista/</guid>
+      <description>Şu an laptopumda Windows Vista RC1 Build 5600 kullanıyorum. Genel olarak stabil çalışıyor, herhangi bir problemle karşılaşmama karşın performans oldukça düşük. Yeni özelliklerden bazıları çok güzel. Mesela Sidebar ve gadget sistemi güzel… (Bunlar Yahoo! Widgets olarak vardı önceden) İşletim sistemine entegre edilmiş olması hoş.
+Internet Explorer 7 ve Media Player 10 ise tam bir felaket bence, sonuçta beta sürüm elbette performans problemleri olacaktır ama sistemin kaynaklarını resmen tüketiyorlar…</description>
+    </item>
+    
+    <item>
       <title>Merhaba !</title>
       <link>https://darkestnotes.org/posts/merhaba/</link>
       <pubDate>Wed, 18 Oct 2006 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/merhaba/</guid>
       <description>Genelde karamsar ve sakin bir yapıya sahibim. Felsefi ve kültürel konulara ilgim büyüktür. Yüzeysel hiç bir şey beni tatmin etmez, herşeyin ardındaki nedeni aramaya çalışırım. Mesafeli tavrım beni yeni tanıyan insanların benden çekinmelerine sebep olur. Bazen yaşam benim için bir düş kırıklığına dönüşür ve ümitsizliğe düşerim, ancak felsefi bakış açım, sorunların nereden kaynaklandığını ve onların çözüm yolları bulabilmemi sağlar. Çevremdekiler yalnız yaşamayı başarabilecek nadir kişilerden olduğumu söyler.</description>
-    </item>
-    
-    <item>
-      <title>Windows Vista</title>
-      <link>https://darkestnotes.org/posts/windows-vista/</link>
-      <pubDate>Wed, 18 Oct 2006 00:00:00 +0000</pubDate>
-      
-      <guid>https://darkestnotes.org/posts/windows-vista/</guid>
-      <description>Şu an laptopumda Windows Vista RC1 Build 5600 kullanıyorum. Genel olarak stabil çalışıyor, herhangi bir problemle karşılaşmama karşın performans oldukça düşük. Yeni özelliklerden bazıları çok güzel. Mesela Sidebar ve gadget sistemi güzel… (Bunlar Yahoo! Widgets olarak vardı önceden) İşletim sistemine entegre edilmiş olması hoş.
-Internet Explorer 7 ve Media Player 10 ise tam bir felaket bence, sonuçta beta sürüm elbette performans problemleri olacaktır ama sistemin kaynaklarını resmen tüketiyorlar…</description>
     </item>
     
     <item>

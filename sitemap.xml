@@ -2,28 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://darkestnotes.org/tags/blog/</loc>
+    <lastmod>2023-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://darkestnotes.org/categories/blog/</loc>
+    <lastmod>2023-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://darkestnotes.org/categories/</loc>
+    <lastmod>2023-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://darkestnotes.org/</loc>
+    <lastmod>2023-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://darkestnotes.org/tags/internet/</loc>
+    <lastmod>2023-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://darkestnotes.org/categories/internet/</loc>
+    <lastmod>2023-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://darkestnotes.org/posts/</loc>
+    <lastmod>2023-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://darkestnotes.org/tags/</loc>
+    <lastmod>2023-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://darkestnotes.org/tags/wordpress/</loc>
+    <lastmod>2023-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://darkestnotes.org/categories/wordpress/</loc>
+    <lastmod>2023-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://darkestnotes.org/posts/wordpressden-hugoya-ge%C3%A7i%C5%9F/</loc>
+    <lastmod>2023-06-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://darkestnotes.org/tags/app/</loc>
     <lastmod>2023-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/categories/apps/</loc>
-    <lastmod>2023-01-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://darkestnotes.org/categories/</loc>
-    <lastmod>2023-01-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://darkestnotes.org/</loc>
-    <lastmod>2023-01-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://darkestnotes.org/tags/internet/</loc>
-    <lastmod>2023-01-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://darkestnotes.org/categories/internet/</loc>
-    <lastmod>2023-01-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://darkestnotes.org/posts/</loc>
-    <lastmod>2023-01-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://darkestnotes.org/tags/</loc>
     <lastmod>2023-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/posts/tweetbota-veda/</loc>
@@ -214,9 +229,6 @@
   </url><url>
     <loc>https://darkestnotes.org/posts/microsoft-flight-simulator-2020/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://darkestnotes.org/categories/blog/</loc>
-    <lastmod>2020-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/posts/hep-yan%C4%B1nday%C4%B1m/</loc>
     <lastmod>2020-08-11T00:00:00+00:00</lastmod>
@@ -424,9 +436,6 @@
   </url><url>
     <loc>https://darkestnotes.org/posts/bookworm-snoopy/</loc>
     <lastmod>2016-04-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://darkestnotes.org/tags/blog/</loc>
-    <lastmod>2016-03-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/posts/yaz-saati/</loc>
     <lastmod>2016-03-27T00:00:00+00:00</lastmod>
@@ -1964,9 +1973,6 @@
     <loc>https://darkestnotes.org/tags/livejournal/</loc>
     <lastmod>2008-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://darkestnotes.org/tags/wordpress/</loc>
-    <lastmod>2008-12-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://darkestnotes.org/posts/librarything/</loc>
     <lastmod>2008-11-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -2024,10 +2030,10 @@
     <loc>https://darkestnotes.org/posts/godflesh-songs-of-love-hate/</loc>
     <lastmod>2006-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://darkestnotes.org/posts/merhaba/</loc>
-    <lastmod>2006-10-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://darkestnotes.org/posts/windows-vista/</loc>
+    <lastmod>2006-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://darkestnotes.org/posts/merhaba/</loc>
     <lastmod>2006-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/about/</loc>
