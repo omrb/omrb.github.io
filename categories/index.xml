@@ -6,22 +6,31 @@
     <description>Recent content in Categories on Darkest Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>music</title>
+      <link>https://darkestnotes.org/categories/music/</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/categories/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>review</title>
+      <link>https://darkestnotes.org/categories/review/</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/categories/review/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>internet</title>
       <link>https://darkestnotes.org/categories/internet/</link>
       <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/categories/internet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>music</title>
-      <link>https://darkestnotes.org/categories/music/</link>
-      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://darkestnotes.org/categories/music/</guid>
       <description></description>
     </item>
     
@@ -94,15 +103,6 @@
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/categories/hardware/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>review</title>
-      <link>https://darkestnotes.org/categories/review/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://darkestnotes.org/categories/review/</guid>
       <description></description>
     </item>
     

@@ -6,22 +6,31 @@
     <description>Recent content in Tags on Darkest Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>music</title>
+      <link>https://darkestnotes.org/tags/music/</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>review</title>
+      <link>https://darkestnotes.org/tags/review/</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/tags/review/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>internet</title>
       <link>https://darkestnotes.org/tags/internet/</link>
       <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/tags/internet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>music</title>
-      <link>https://darkestnotes.org/tags/music/</link>
-      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://darkestnotes.org/tags/music/</guid>
       <description></description>
     </item>
     
@@ -67,15 +76,6 @@
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/tags/hardware/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>review</title>
-      <link>https://darkestnotes.org/tags/review/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://darkestnotes.org/tags/review/</guid>
       <description></description>
     </item>
     
