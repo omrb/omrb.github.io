@@ -4,25 +4,19 @@
     <title>Wordpress on Darkest Notes</title>
     <link>https://darkestnotes.org/categories/wordpress/</link>
     <description>Recent content in Wordpress on Darkest Notes</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 03 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/categories/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://darkestnotes.org/categories/wordpress/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wordpress&#39;den Hugo&#39;ya Geçiş</title>
       <link>https://darkestnotes.org/posts/wordpressden-hugoya-ge%C3%A7i%C5%9F/</link>
       <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/wordpressden-hugoya-ge%C3%A7i%C5%9F/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/hugo-logo.png#center&#34; alt=&#34;Hugo&#34;  /&gt;
  2006 yılından beri çeşitli sitelerde yer alan blog&amp;rsquo;umu hosting firmamın PHP 8&amp;rsquo;i zorunlu tutması ve Wordpress tema ve eklentilerinin PHP 8 ile sorunlar çıkarması sebebiyle Hugo&amp;rsquo;ya geçirmeye karar verdim.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://darkestnotes.org/posts/hello-world/&#34;&gt;Wordpress&lt;/a&gt;&amp;lsquo;i 2015 yılından beri kullanıyordum ve herhangi bir sorunum yoktu. Bununla birlikte tema ve eklentilerin her güncelleme sonrası sorun çıkarabilecek olma ihtimali bie keyif kaçırıcı bir etkendi blog&amp;rsquo;um için.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; oldukça basit bir sisteme sahip. Text dosyalarını derleyerek statik, HTML tabanlı basit bir internet sitesi yaratıyor. Üstelik oluşturulan siteyi en basit hosting sisteminde bile host edebilmek mümkün çünkü geri planda çalışması gereken database ihtiyacı yok.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Go&lt;/strong&gt; programlama dili ile yazılan Hugo çok hızlı çalışıyor. C tabanlı bir dil olan Go, Google tarafından geliştiriliyor ve son yılların gözde programlama dillerinden. Python ile yazılmış çoğu uygulamanın Go&amp;rsquo;ya yöneldiği biliniyor.&lt;/p&gt;
-&lt;p&gt;Çok sayıda girdi bulunan blog&amp;rsquo;umun Hugo ile derlenmesi yaklaşık 10 saniye sürdü. Pratik ve hızlı olmasının yanında her yeni girdi eklendiğinde sitenin yeniden derlenmesi gerekiyor. Sık güncelleme yapılan siteler için çok uygun değil haliyle.&lt;/p&gt;
-&lt;p&gt;Bununla birlikte tüm blog&amp;rsquo;un Wordpress&amp;rsquo;den Hugo&amp;rsquo;ya aktarılması sorunsuz biçimde gerçekleşmedi maalesef. Çoğu resim dosyası yerli yerinde durmasına karşın bağlantılar bozulduğundan şu an için görüntülenemiyor. &lt;em&gt;Bu hataları düzeltir miyim? Düzeltmeye vaktim olur mu bilmiyorum.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;2006 yılından beri iyi kötü birşeyler karaladığım için Darkest Notes&amp;rsquo;un bir şekilde internet üzerinden ulaşılabilir olması için elimden geldiğince gayret gösteriyorum ama ileride ne olur bilemem.&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; oldukça basit bir sisteme sahip. Text dosyalarını derleyerek statik, HTML tabanlı basit bir internet sitesi yaratıyor. Üstelik oluşturulan siteyi en basit hosting sisteminde bile host edebilmek mümkün çünkü geri planda çalışması gereken database ihtiyacı yok.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

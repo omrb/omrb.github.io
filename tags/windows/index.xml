@@ -4,106 +4,69 @@
     <title>Windows on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/windows/</link>
     <description>Recent content in Windows on Darkest Notes</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 27 Sep 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://darkestnotes.org/tags/windows/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Windows 10</title>
       <link>https://darkestnotes.org/posts/windows-10/</link>
       <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/windows-10/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://d.pr/i/10xr5&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/10xr5&amp;#43;&#34; alt=&#34;&#34;  /&gt;
 &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Microsoft&amp;rsquo;un işletim sistemlerinin telefon, tablet ve bilgisayarlarda tek bir sürüm şeklinde yapılamayacağını yavaş yavaş anlıyor olduğunu göstererek yazılım dünyasında yerini alan ücretsiz işletim sistemi. Aynı sıkıntıyı zamanında Apple&amp;rsquo;da yaşadı, bir taşla üç kuş vurabilir miyiz dediler ama olmayacağını gördüler.&lt;/p&gt;
 &lt;p&gt;Elbette telefon, tablet ve bilgisayar işletim sistemlerinde kullanıcı deneyimini kolaylaştıracak benzerlikler olmalı. Birini kullanan diğerlerini de kolaylıkla kullanabilmeli, UX’in (&lt;em&gt;kullanıcı deneyimi&lt;/em&gt;) bu şekilde geliştirilmesi gerekir.&lt;/p&gt;
-&lt;p&gt;Windows 8.1 bunun tam tersi idi, tablet işletim sistemini bilgisayara uyarlamaya çalıştılar ve her şey karıştı. Windows 10 bu kapsamda ileriye doğru atılan bir adım gibi. Hala karışık çok şey var ancak bir önceki sürüme göre daha derli toplu.&lt;/p&gt;
-&lt;p&gt;Bununla birlikte Windows 10 ile pekçok sorun yaşayan kullanıcılar da mevcut. MacBook Pro bilgisayarımda BootCamp partisyonunda kullandığım Windows 10 &lt;a href=&#34;http://www.apple.com&#34;&gt;Apple&lt;/a&gt; tarafından doğrudan driver desteği verilmemesine karşın gayet stabil çalışıyor, PC notebook kullanıcıları ise doğrudan desteklenen ürünlerinde akla hayale gelmez sorunlar ile karşılaşıyorlar.&lt;/p&gt;
-</description>
+&lt;p&gt;Windows 8.1 bunun tam tersi idi, tablet işletim sistemini bilgisayara uyarlamaya çalıştılar ve her şey karıştı. Windows 10 bu kapsamda ileriye doğru atılan bir adım gibi. Hala karışık çok şey var ancak bir önceki sürüme göre daha derli toplu.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Windows 8.1</title>
       <link>https://darkestnotes.org/posts/windows-8.1/</link>
       <pubDate>Thu, 19 Dec 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/windows-8.1/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/6nzX&amp;#43;&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Yılbaşı tatiline girmemle birlikte boş zamanımı değerlendirme amacıyla bilgisayar oyunları oynayabileceğimi düşünerek yaz aylarında yenilediğim bilgisayarıma Windows yüklemeye karar verdim. OS X’e o kadar çok alıştımki Windows yüklemeyi hiç düşünmememe karşın bazı oyunları oynayabilmek için mecburen tatilim başlamadan hemen önce Windows 8.1 satın aldım. Tatilimin ilk saatleri, retina ekranlı MacBook Pro’ma Windows 8.1 kurmakla başlamış oldu.&lt;/p&gt;
-&lt;p&gt;Karşılaşılan ilk güçlük MacBook Pro’da DVD sürücü olmamasından kaynaklandı. Eski MacBook’umun DVD sürücüsünden faydalanarak Windows 8.1 DVD’sinin imajını almayı başardım. Ancak imajın hem Mac OS X hem Windows ortamında sorunsuz çalışabilmesi için kara büyülü Terminal komutlarından faydalandım.&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;hdiutil makehybrid -iso -joliet -o [filename].iso [filename].cdr&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;DVD imajının .iso formatına dönüştürülmesiyle işler kolaylaştı, Windows 8.1 yükleyeceğim bilgisayarımda BootCamp’i çalıştırarak Windows 8.1’e boot edebilen bir USB disk hazırladıktan sonra Windows 8.1’i MacBook’a çocukların bile yüklemesi işten bile değildi artık.&lt;/p&gt;
-&lt;p&gt;Yükleme işlemi tahminimden uzun sürdü. Windows kurulum sistemi görsel değişikliklerin altında Windows XP’den kalan SETUP dosyasını halen kullanıyor sanırım.&lt;/p&gt;
-&lt;p&gt;Yükleme sonrası Windows 8.1 kutucukları ile ilk kez kaşılaştım. Canlı olduğu söylenen kutuları canlandırmak ve kişisel kullanım tarzıma göre ayarlamak pek uzun sürmedi, hemen birkaç yeni uygulamayı da Windows Store’dan indirdim.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/AzjD&amp;#43;&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Masaüstüne geçtiğimde yeni Windows’un Windows 7’den fazla farkı olmadığını da gördüm. Tamam, Start (Başlat) menüsü yok (&lt;em&gt;gerçi ben yokluğunu hiç hissetmedim, ama bu menüyü kullanmaya alışanlar zorlanabilir&lt;/em&gt;) ama masaüstü bildiğimiz aynı masaüstü Windows da bildiğimiz Windows.&lt;/p&gt;
-</description>
+&lt;p&gt;Karşılaşılan ilk güçlük MacBook Pro’da DVD sürücü olmamasından kaynaklandı. Eski MacBook’umun DVD sürücüsünden faydalanarak Windows 8.1 DVD’sinin imajını almayı başardım. Ancak imajın hem Mac OS X hem Windows ortamında sorunsuz çalışabilmesi için kara büyülü Terminal komutlarından faydalandım.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Windows 8 BSOD</title>
       <link>https://darkestnotes.org/posts/windows-8-bsod/</link>
       <pubDate>Thu, 15 Sep 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/windows-8-bsod/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_lrkohthP421qztw2k.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
-&lt;p&gt;Windows 8 önceki sürümlerine göre en önemli gelişmeyi BSOD ekranında gerçekleştirmiş gibi görünüyor. Daha sevimli ve kullanıcı dostu (!) bir hata ekranı. Windows 8&amp;rsquo;de geliştirilen birşeyler olduğunu görmek güzel…&lt;/p&gt;
-</description>
+&lt;p&gt;Windows 8 önceki sürümlerine göre en önemli gelişmeyi BSOD ekranında gerçekleştirmiş gibi görünüyor. Daha sevimli ve kullanıcı dostu (!) bir hata ekranı. Windows 8&amp;rsquo;de geliştirilen birşeyler olduğunu görmek güzel…&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Windows Vista Capable</title>
       <link>https://darkestnotes.org/posts/windows-vista-capable/</link>
       <pubDate>Fri, 04 May 2007 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/windows-vista-capable/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mhlreq1AkM1qz4rgp.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;HP Compaq NX6110 Notebook bilgisayarımı bundan tam 2 yıl önce bugün almıştım. Aldığım zaman giriş seviyesi en ucuz notebook bilgisayarlardan biriydi. Sanırım 999 $+KDV gibi bir fiyata almıştım. Zaman içinde 256 MByte bellek ekleyerek hafızasını 512 MByte&amp;rsquo;a çıkardım. Celeron 1.4 Ghz işlemcili, i915 Chipsetli basit bir notebook anlayacağınız.&lt;/p&gt;
-&lt;p&gt;Ancak bu notebook bilgisayara aslında Windows Vista Capable etiketi yapıştırılabilir. i915 chipsetine sahip bilgisayarlar halen satılıyor ve Windows Vista Capable etiketi taşıyorlar. Windows Vista&amp;rsquo;yı en basit haliyle çalıştırabilir anlamına gelen bu etikete göre en azından 800 Mhz güce sahip bir işlemci + 512 MByte RAM ve DirectX 9 uyumlu bir grafik kartı ile Aero gibi özellikleri kullanmadan en basit haliyle Windows Vista&amp;rsquo;yı (Windows Vista Basic) çalıştırabilirsiniz.&lt;/p&gt;
-&lt;p&gt;Bu etikete aldanıp son bir yıl içinde notebook alanlar büyük hayal kırıklığı yaşıyorlar. Çünkü i915 chipseti Windows Vista&amp;rsquo;nın Aero grafik özelliklerini destekleyecek güce sahip değil. Aslında intel gerekli driverları çıkarsa bu özellik en temel anlamda desteklenebilir, ancak intel i915 için WDDM driverları çıkarmayacağını açıkladı…&lt;/p&gt;
-</description>
+&lt;p&gt;Ancak bu notebook bilgisayara aslında Windows Vista Capable etiketi yapıştırılabilir. i915 chipsetine sahip bilgisayarlar halen satılıyor ve Windows Vista Capable etiketi taşıyorlar. Windows Vista&amp;rsquo;yı en basit haliyle çalıştırabilir anlamına gelen bu etikete göre en azından 800 Mhz güce sahip bir işlemci + 512 MByte RAM ve DirectX 9 uyumlu bir grafik kartı ile Aero gibi özellikleri kullanmadan en basit haliyle Windows Vista&amp;rsquo;yı (Windows Vista Basic) çalıştırabilirsiniz.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Windows Vista™</title>
       <link>https://darkestnotes.org/posts/windows-vista/</link>
       <pubDate>Sun, 29 Apr 2007 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/windows-vista/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mhlrgvZ9bR1qz4rgp.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Windows Vista™ yenilik olarak neler getiriyor ? Bunları madde madde sıralamak mümkün, ancak göze çarpan ilk değişiklik görsellikte. Masaüstü ikonları, pencerelerin görünümü vb…&lt;/p&gt;
-&lt;p&gt;Bilgisayarınıza yükleyip kullanmaya başladığınızda bu yeni görünümden etkilenmemek mümkün değil. Bilgisayarda yapacak işiniz olmasa bile Windows Vista™ ile uğraşmak, yeni neler var acaba diyerek saatler boyunca bilgisayarınızın başından kalkamıyorsunuz… Ancak belli bir süre Windows Vista&amp;rsquo;yı kullandıktan sonra gözünüz bu yeniliklere alışıyor, bu yeni görünümün aslında sistem kaynaklarınızın ne kadar büyük bir kısmını tükettiğini fark ediyorsunuz. Performans gerektiren işlemlerde Windows Vista&amp;rsquo;nın nasıl şiştiğini (!) bizzat farkediyorsunuz.&lt;/p&gt;
-&lt;p&gt;Windows Vista&amp;rsquo;nın getirdiği yenilikler şöyle özetlenebilir.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Aero, saydam olabilen pencereler, pencereler arasında 3D geçiş…&lt;/li&gt;
-&lt;li&gt;Dialog kutuları, dosyaları etiketlemeyi kolaylaştıran ek özelliklerin yanında, standart ikonlar yerine dosyaların önizlemelerini görebilmek mümkün.&lt;/li&gt;
-&lt;li&gt;Sistem tepsisindeki bildirimler artık 32x32 boyutunda ikonlarla birlikte, eğer kullanıcı tam ekran bir programla çalışmıyor, inaktif değilse gözüküyor ve 9 saniye ekranda kalıyor.&lt;/li&gt;
-&lt;li&gt;Search kutuları, explorer içine entegre edilmiş, Windows Vista&amp;rsquo;nın endeksleme sistemi ile daha verimli aramalar yapılabiliyor.&lt;/li&gt;
-&lt;li&gt;Görev Dialog kutuları, çalıştırılacak programlar ile ilgili bilgi veren kutular. (User Account Control&amp;rsquo;ün bir parçası)&lt;/li&gt;
-&lt;li&gt;Kontrol Panel, işletim sisteminin özelliklerine ulaşabilmek için merkezi bir yer.&lt;/li&gt;
-&lt;li&gt;İkonlar maksimum boy olarak 256x256 pixele ulaşmış durumda, özellikle büyük ekranlar için önemli bir özellik.&lt;/li&gt;
-&lt;li&gt;System font Segoe olarak değişmiş, ClearType kullanımına uygun bir font kullanılmış. Default boy olarak 9 kullanılmış.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+&lt;p&gt;Bilgisayarınıza yükleyip kullanmaya başladığınızda bu yeni görünümden etkilenmemek mümkün değil. Bilgisayarda yapacak işiniz olmasa bile Windows Vista™ ile uğraşmak, yeni neler var acaba diyerek saatler boyunca bilgisayarınızın başından kalkamıyorsunuz… Ancak belli bir süre Windows Vista&amp;rsquo;yı kullandıktan sonra gözünüz bu yeniliklere alışıyor, bu yeni görünümün aslında sistem kaynaklarınızın ne kadar büyük bir kısmını tükettiğini fark ediyorsunuz. Performans gerektiren işlemlerde Windows Vista&amp;rsquo;nın nasıl şiştiğini (!) bizzat farkediyorsunuz.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Windows Vista</title>
       <link>https://darkestnotes.org/posts/windows-vista/</link>
       <pubDate>Fri, 20 Oct 2006 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/windows-vista/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Desktop.jpg&#34; alt=&#34;Desktop&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Şu an laptopumda Windows Vista RC1 Build 5600 kullanıyorum. Genel olarak stabil çalışıyor, herhangi bir problemle karşılaşmama karşın performans oldukça düşük. Yeni özelliklerden bazıları çok güzel. Mesela Sidebar ve gadget sistemi güzel… (Bunlar Yahoo! Widgets olarak vardı önceden) İşletim sistemine entegre edilmiş olması hoş.&lt;/p&gt;
-&lt;p&gt;Internet Explorer 7 ve Media Player 10 ise tam bir felaket bence, sonuçta beta sürüm elbette performans problemleri olacaktır ama sistemin kaynaklarını resmen tüketiyorlar…&lt;/p&gt;
-</description>
+&lt;p&gt;Internet Explorer 7 ve Media Player 10 ise tam bir felaket bence, sonuçta beta sürüm elbette performans problemleri olacaktır ama sistemin kaynaklarını resmen tüketiyorlar…&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

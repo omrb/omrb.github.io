@@ -4,89 +4,53 @@
     <title>Computers on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/computers/</link>
     <description>Recent content in Computers on Darkest Notes</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 05 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/computers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://darkestnotes.org/tags/computers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IBMulator</title>
       <link>https://darkestnotes.org/posts/ibmulator/</link>
       <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/ibmulator/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/IBMulator-PS1_Realistic_View.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Soğuk kış günlerinde evde otururken nedense aklıma 1991 yılı sonu 1992 yılı başlarındaki soğuk bir kış gününde babamla IBM PS/1 bakmaya gittiğimiz gün geldi. Commodore 64 sonrası geleceğe dönük bir bilgisayar alma düşüncesi ile Amiga mı yoksa PC uyumlu bilgisayar mı alalım diye düşünürken TV&amp;rsquo;de reklamlarını gördüğümüz IBM PS/1 modeli neyin nesiymiş bakmaya gitmiştik soğuk bir Cumartesi akşam üzeri.&lt;/p&gt;
-&lt;p&gt;Mağaza sahibi bizimle fazlasıyla ilgilenmiş, oğlu hemen teşhirdeki ürünü kullanıma hazır hale getirmişti. Bilgisayar boot ederken hoparlöründen gelen &amp;ldquo;&lt;em&gt;beep-blüp&lt;/em&gt;&amp;rdquo; sesleri ve sonrasında 640x480x16 renkli ekranına gelen 4-Quadrant ile bizi orada büyülemişti bilgisayar. 640x480 çözünürlüklü renkli grafikler o zamanlar için günümüzün 4k teknolojisi gibi birşeydi. Yalnız anlaşılan şuydu ki IBM elinde kalan eski model PS/1&amp;rsquo;leri yeni modelleri çıkarmadan önce Türkiye&amp;rsquo;de satabilme çabasında idi. 1990 yılında üretilen ve 1991 yılının hemen başında Amerika ve Avrupa&amp;rsquo;da satılan bu ilk PS/1 modelleri &amp;ldquo;&lt;strong&gt;&lt;em&gt;5 Dakika ve İşin İçindesiniz&lt;/em&gt;&lt;/strong&gt;&amp;rdquo; gibi bir sloganla PC kullanmaya çekinen kitleleri PC dünyasına çekebilmek için üretilmişti. Zaten bu 4 quadrant hikayesi de Macintosh&amp;rsquo;un grafik kullanıcı arabiriminin benzerini PC dünyasına taşıma çabasıydı. Neyse sonuçta bu bilgisayarlar fazlasıyla eski bir teknolojiye sahipti. Türkiye&amp;rsquo;ye gelen 4 model 80286-10 MhZ işlemcili, renkli-renksiz ekranlı ve 30 MByte HDD&amp;rsquo;li, HDD&amp;rsquo;siz modellerden oluşuyordu. Sonuçta Türkiye&amp;rsquo;de bu cihazlardan kaç adet satıldı ne oldu bilemiyorum ama sonraki model PS/1&amp;rsquo;lerin hiçbiri Türkiye&amp;rsquo;ye gelmedi onu biliyorum. Dükkanda teşhirde incelediğim model HDD&amp;rsquo;si olmayan bir modeldi, HDD&amp;rsquo;li olsa belki o gün orada satın alınırdı ama almadık.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/PS1-4Quadrant.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;4 quadrant ekranı ve o arabirimin nasıl çalıştığını hep merak edip durdum sonrasında. Internet zamanında bile bu bilgisayar ile ilgili bilgi bulmak oldukça zor olmuştu. Macintosh&amp;rsquo;u andıran kasası ve orijinal mikrokodu ile tam bir koleksiyon ürünü olmuştu kendisi.&lt;/p&gt;
-&lt;p&gt;Yıllar sonra Marco Bortolin ismindeki IBM PS/1 meraklısı bir arkadaş, oturdu üşenmedi ve bir &lt;a href=&#34;https://barotto.github.io/IBMulator/&#34;&gt;IBM PS/1 emülatörü&lt;/a&gt; yazdı. Birkaç yıldır biraz geliştirilmesini bekledim ve geçtiğimiz haftalar içinde detaylıca inceledim. 4 Quadrant arabirimini ve bilgisayar ile yüklü gelen programları detaylıca inceleyip kurcaladım biraz. IBMulator&amp;rsquo;da IBM PS/1 için üretilen Audio/Joystick ses kartının emülasyonu bile var. Çok az Sierra oyununun desteklediği bu kartın nasıl ses verdiğini de görebilmiş olmak 30 yıl öncesinin anılarını tekrar canlandırdı.&lt;/p&gt;
-</description>
+&lt;p&gt;Mağaza sahibi bizimle fazlasıyla ilgilenmiş, oğlu hemen teşhirdeki ürünü kullanıma hazır hale getirmişti. Bilgisayar boot ederken hoparlöründen gelen &amp;ldquo;&lt;em&gt;beep-blüp&lt;/em&gt;&amp;rdquo; sesleri ve sonrasında 640x480x16 renkli ekranına gelen 4-Quadrant ile bizi orada büyülemişti bilgisayar. 640x480 çözünürlüklü renkli grafikler o zamanlar için günümüzün 4k teknolojisi gibi birşeydi. Yalnız anlaşılan şuydu ki IBM elinde kalan eski model PS/1&amp;rsquo;leri yeni modelleri çıkarmadan önce Türkiye&amp;rsquo;de satabilme çabasında idi. 1990 yılında üretilen ve 1991 yılının hemen başında Amerika ve Avrupa&amp;rsquo;da satılan bu ilk PS/1 modelleri &amp;ldquo;&lt;strong&gt;&lt;em&gt;5 Dakika ve İşin İçindesiniz&lt;/em&gt;&lt;/strong&gt;&amp;rdquo; gibi bir sloganla PC kullanmaya çekinen kitleleri PC dünyasına çekebilmek için üretilmişti. Zaten bu 4 quadrant hikayesi de Macintosh&amp;rsquo;un grafik kullanıcı arabiriminin benzerini PC dünyasına taşıma çabasıydı. Neyse sonuçta bu bilgisayarlar fazlasıyla eski bir teknolojiye sahipti. Türkiye&amp;rsquo;ye gelen 4 model 80286-10 MhZ işlemcili, renkli-renksiz ekranlı ve 30 MByte HDD&amp;rsquo;li, HDD&amp;rsquo;siz modellerden oluşuyordu. Sonuçta Türkiye&amp;rsquo;de bu cihazlardan kaç adet satıldı ne oldu bilemiyorum ama sonraki model PS/1&amp;rsquo;lerin hiçbiri Türkiye&amp;rsquo;ye gelmedi onu biliyorum. Dükkanda teşhirde incelediğim model HDD&amp;rsquo;si olmayan bir modeldi, HDD&amp;rsquo;li olsa belki o gün orada satın alınırdı ama almadık.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Windows 10</title>
       <link>https://darkestnotes.org/posts/windows-10/</link>
       <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/windows-10/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://d.pr/i/10xr5&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/10xr5&amp;#43;&#34; alt=&#34;&#34;  /&gt;
 &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Microsoft&amp;rsquo;un işletim sistemlerinin telefon, tablet ve bilgisayarlarda tek bir sürüm şeklinde yapılamayacağını yavaş yavaş anlıyor olduğunu göstererek yazılım dünyasında yerini alan ücretsiz işletim sistemi. Aynı sıkıntıyı zamanında Apple&amp;rsquo;da yaşadı, bir taşla üç kuş vurabilir miyiz dediler ama olmayacağını gördüler.&lt;/p&gt;
 &lt;p&gt;Elbette telefon, tablet ve bilgisayar işletim sistemlerinde kullanıcı deneyimini kolaylaştıracak benzerlikler olmalı. Birini kullanan diğerlerini de kolaylıkla kullanabilmeli, UX’in (&lt;em&gt;kullanıcı deneyimi&lt;/em&gt;) bu şekilde geliştirilmesi gerekir.&lt;/p&gt;
-&lt;p&gt;Windows 8.1 bunun tam tersi idi, tablet işletim sistemini bilgisayara uyarlamaya çalıştılar ve her şey karıştı. Windows 10 bu kapsamda ileriye doğru atılan bir adım gibi. Hala karışık çok şey var ancak bir önceki sürüme göre daha derli toplu.&lt;/p&gt;
-&lt;p&gt;Bununla birlikte Windows 10 ile pekçok sorun yaşayan kullanıcılar da mevcut. MacBook Pro bilgisayarımda BootCamp partisyonunda kullandığım Windows 10 &lt;a href=&#34;http://www.apple.com&#34;&gt;Apple&lt;/a&gt; tarafından doğrudan driver desteği verilmemesine karşın gayet stabil çalışıyor, PC notebook kullanıcıları ise doğrudan desteklenen ürünlerinde akla hayale gelmez sorunlar ile karşılaşıyorlar.&lt;/p&gt;
-</description>
+&lt;p&gt;Windows 8.1 bunun tam tersi idi, tablet işletim sistemini bilgisayara uyarlamaya çalıştılar ve her şey karıştı. Windows 10 bu kapsamda ileriye doğru atılan bir adım gibi. Hala karışık çok şey var ancak bir önceki sürüme göre daha derli toplu.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Dergiler ve Dergicilik</title>
       <link>https://darkestnotes.org/posts/dergiler-ve-dergicilik/</link>
       <pubDate>Sun, 12 Jul 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/dergiler-ve-dergicilik/</guid>
       <description>&lt;p&gt;Çocukluğumdan beri en sevdiğim meslek olmuştur dergi editörlüğü. Sevdiğim ve bilgi sahibi olduğum bir konuda, bildiklerimi paylaşmak, bilmediğim şeyleri öğrenmek ve insanların elinde sayfalarını çevirmekten zevk alacakları renkli ve kaliteli birşeyler oluşturmak hep hayalim olmuştur.&lt;/p&gt;
-&lt;p&gt;İlk kez 1987&amp;rsquo;de istemiştim dergi editörü olmayı, Commodore dergisini elime aldığımda. Pahalıydı, kaliteliydi, renkliydi, kuşe kağıda basılıydı, üst düzeydi ve felsefiydi. Okuyup bitirdikten sonra yeni sayı çıkana kadar sürekli sayfalarını çevirir dururdum. Sadece bakmak bile yeterince keyif vericiydi. Kendi kendime gelecek sayıda neler olabilir acaba diye düşünür, hayali editoryal yazılar hazırlar, hatta oyun tanıtımları bile yapardım.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Commodore_Dergi_Logo.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Sonra 64&amp;rsquo;ler dergisi çıktı. Commodore Dergisine göre daha basitti, sadece oyunlar üzerine eğilmişti. Böyle bir dergide çalışmak ne kadar keyifli olur diye düşünmüştüm. O zamanlar hayatımın en büyük zevki bilgisayarlar ve oyun oynamak. En yeni oyunları oynayıp, onları tanıtan yazılar yazıyorsun ve üzerine para ödeniyor sana. İnsan daha ne isteyebilir?&lt;/p&gt;
-&lt;p&gt;Bilgisayar dergilerinin hep bir ayrı yeri olmuştur hayatımda. Mesele ACE (Advanced Computer Entertainment)‘i görünce, sayfa düzeniyle, kutucuklu yorumlarıyla kim hayran kalmamıştır. Editörlükden daha önemli olan şeyin, aslında okuyucuya hitap eden şeyin görsel yönetmenlik olduğunu farketmişimdir ACE&amp;rsquo;i gördükten sonra. Bizim dergilerde özenirdi onlara ama bir türlü becerememişlerdir, o ayrı. (64&amp;rsquo;ler bir ara baya ilerleme kaydetmişti, hakkını vermek lazım)&lt;/p&gt;
-&lt;p&gt;Daha sonra underground fanzin&amp;rsquo;ler çıktı. Siyah-beyaz ve fotokopi ile çoğaltılırlardı. Underground olmak, çok bilinmemek, para kazanmak için değil keyif alındığı için yapılan işlerin temel düsturu olmakla birlikte bir noktadan sonra çok iyi reklam aracı olmuştu. Örneğin Laneth dergisi. Tamamen underground bir alayışla oluşturulmasına karşın daha o kadar tutmuştuki daha 4. sayısında fotokopiden ofset baskıya geçmişti. Speed-Thrash&amp;rsquo;den daha hafif müzikler kesinlikle olmayacak dendiği halde kısa sürede rock dergisine dönüşüvermişti.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://d.pr/i/1arpC&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/1arpC&amp;#43;&#34; alt=&#34;&#34;  /&gt;
-&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Severdim Laneth&amp;rsquo;i, hele Murat Adanç&amp;rsquo;da yazmaya başlayınca. Bilgisayar dergiciliği sonrasında ufak tefek birşeyler yazdığım konular arasında pek bilinmeyen müzik gruplarını tanıtma amaçlı yazdığım yazılar olmuştur o dönemlerde. (tabi hiçbiri yayınlanmadı, o ayrı mesele)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://d.pr/i/cveE&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/cveE&amp;#43;&#34; alt=&#34;&#34;  /&gt;
-&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Şimdi neden oturdum da bunları yazma gereği hissettim diye sorabilir herkes. Socrates Dergisi yüzünden. Nisan ayında elime aldığım ilk sayısında, Commodore Dergisi&amp;rsquo;ni, 64&amp;rsquo;ler Dergisi&amp;rsquo;ni, Amiga Dünyası Dergisi&amp;rsquo;ni, Laneth Dergisi&amp;rsquo;ni, ACE&amp;rsquo;i, PC Format&amp;rsquo;ı ilk kez elime aldığımda hissettiğim şeyleri hissettiğim için yazdım. Yani dergiyi okuyup bitirdikten sonra görsel tasarımı sayesinde sadece sayfalarına göz gezdirmek için bile tekrar elime alabiliyorsam o dergi okunup atılmak için değil, kütüphanede biryerlerde saklanmak içindir. Takip ettiğim sayısız dergi olmuştur şimdiye kadar ama sadece yukarıda saydıklarımı saklamışım biryerlerde, diğerleri yok olup gitmiş. Socrates&amp;rsquo;de yıllar sonra ilk kez saklayacağım dergiler arasında yerini aldı.&lt;/p&gt;
-&lt;p&gt;Oynadığımız oyunlar dijital, ne kutusu ne basılı kullanım kılavuzu var artık, müzik albümü satın almıyoruz, dinlediğimiz şarkılar dijital, dinliyoruz ve unutuyoruz, kitaplar e-book oluyor yavaş yavaş…Saklayabileceğim birşeyler bulduğumda seviniyorum artık…&lt;/p&gt;
-</description>
+&lt;p&gt;İlk kez 1987&amp;rsquo;de istemiştim dergi editörü olmayı, Commodore dergisini elime aldığımda. Pahalıydı, kaliteliydi, renkliydi, kuşe kağıda basılıydı, üst düzeydi ve felsefiydi. Okuyup bitirdikten sonra yeni sayı çıkana kadar sürekli sayfalarını çevirir dururdum. Sadece bakmak bile yeterince keyif vericiydi. Kendi kendime gelecek sayıda neler olabilir acaba diye düşünür, hayali editoryal yazılar hazırlar, hatta oyun tanıtımları bile yapardım.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Windows 8.1</title>
       <link>https://darkestnotes.org/posts/windows-8.1/</link>
       <pubDate>Thu, 19 Dec 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/windows-8.1/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/6nzX&amp;#43;&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Yılbaşı tatiline girmemle birlikte boş zamanımı değerlendirme amacıyla bilgisayar oyunları oynayabileceğimi düşünerek yaz aylarında yenilediğim bilgisayarıma Windows yüklemeye karar verdim. OS X’e o kadar çok alıştımki Windows yüklemeyi hiç düşünmememe karşın bazı oyunları oynayabilmek için mecburen tatilim başlamadan hemen önce Windows 8.1 satın aldım. Tatilimin ilk saatleri, retina ekranlı MacBook Pro’ma Windows 8.1 kurmakla başlamış oldu.&lt;/p&gt;
-&lt;p&gt;Karşılaşılan ilk güçlük MacBook Pro’da DVD sürücü olmamasından kaynaklandı. Eski MacBook’umun DVD sürücüsünden faydalanarak Windows 8.1 DVD’sinin imajını almayı başardım. Ancak imajın hem Mac OS X hem Windows ortamında sorunsuz çalışabilmesi için kara büyülü Terminal komutlarından faydalandım.&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;hdiutil makehybrid -iso -joliet -o [filename].iso [filename].cdr&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;DVD imajının .iso formatına dönüştürülmesiyle işler kolaylaştı, Windows 8.1 yükleyeceğim bilgisayarımda BootCamp’i çalıştırarak Windows 8.1’e boot edebilen bir USB disk hazırladıktan sonra Windows 8.1’i MacBook’a çocukların bile yüklemesi işten bile değildi artık.&lt;/p&gt;
-&lt;p&gt;Yükleme işlemi tahminimden uzun sürdü. Windows kurulum sistemi görsel değişikliklerin altında Windows XP’den kalan SETUP dosyasını halen kullanıyor sanırım.&lt;/p&gt;
-&lt;p&gt;Yükleme sonrası Windows 8.1 kutucukları ile ilk kez kaşılaştım. Canlı olduğu söylenen kutuları canlandırmak ve kişisel kullanım tarzıma göre ayarlamak pek uzun sürmedi, hemen birkaç yeni uygulamayı da Windows Store’dan indirdim.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/AzjD&amp;#43;&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Masaüstüne geçtiğimde yeni Windows’un Windows 7’den fazla farkı olmadığını da gördüm. Tamam, Start (Başlat) menüsü yok (&lt;em&gt;gerçi ben yokluğunu hiç hissetmedim, ama bu menüyü kullanmaya alışanlar zorlanabilir&lt;/em&gt;) ama masaüstü bildiğimiz aynı masaüstü Windows da bildiğimiz Windows.&lt;/p&gt;
-</description>
+&lt;p&gt;Karşılaşılan ilk güçlük MacBook Pro’da DVD sürücü olmamasından kaynaklandı. Eski MacBook’umun DVD sürücüsünden faydalanarak Windows 8.1 DVD’sinin imajını almayı başardım. Ancak imajın hem Mac OS X hem Windows ortamında sorunsuz çalışabilmesi için kara büyülü Terminal komutlarından faydalandım.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>MacBook Pro with Retina Display (Early 2013)</title>
       <link>https://darkestnotes.org/posts/macbook-pro-with-retina-display-early-2013/</link>
       <pubDate>Sat, 03 Aug 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/macbook-pro-with-retina-display-early-2013/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/pZ3r&amp;#43;&#34; alt=&#34;&#34;  /&gt;
 &lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/aSI5&amp;#43;&#34; alt=&#34;&#34;  /&gt;
@@ -103,69 +67,47 @@
 &lt;li&gt;720p FaceTime HD Camera&lt;/li&gt;
 &lt;li&gt;7 hours Battery-Life&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Önceki MacBook’dan yenisine tüm programları ve ayarları aktarmak için Migration Assistant’ı kullandım. Yaklaşık 10 saat süren aktarım süreci sonrasında tüm programlarım ayarlarım ve dokümanlarım yeni bilgisayarımda karşıma çıkmış oldu.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/Tj5R&amp;#43;&#34; alt=&#34;&#34;  /&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/tNqf&amp;#43;&#34; alt=&#34;&#34;  /&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/ORNA&amp;#43;&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;İlk dikkat çeken özellik tabiki retina ekran. Yazılar ve grafikler o kadar net ve keskinki bakmaya doyulmuyor. Bununla birlikte Retina ekran için hazırlanmamış (güncellenmemiş) program ve internet siteleri doğal olarak çok güzel gözükmüyor.&lt;/p&gt;
-&lt;p&gt;Dikkatimi çeken diğer husus SSD diskin bir bilgisayarı bu kadar fazla hızlandırması oldu. Ön tarafta bulunan hoparlörlerin ses kalitesi de gerçekten çok iyi. Halen pil ömrünü test ediyorum, yaklaşık 2 saattir yoğun olarak kullandığım programlara rağmen (internet, Civilization V, iPhoto, Decibel) bilgisayarın pili hala % 58 dolu.&lt;/p&gt;
-</description>
+&lt;p&gt;Önceki MacBook’dan yenisine tüm programları ve ayarları aktarmak için Migration Assistant’ı kullandım. Yaklaşık 10 saat süren aktarım süreci sonrasında tüm programlarım ayarlarım ve dokümanlarım yeni bilgisayarımda karşıma çıkmış oldu.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Elveda Google Reader!</title>
       <link>https://darkestnotes.org/posts/elveda-google-reader/</link>
       <pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/elveda-google-reader/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mpbqr4r7RE1qz4rgp.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;2006 yılından beri her sabah e-postalarımı kontrol ettikten sonra açtığım ve düzenli olarak kullandığım web-uygulaması Google Reader’ı bu sabah son kez (serverlarının fişi çekilirken, yarım yamalak) kullandım.&lt;/p&gt;
 &lt;p&gt;Alternatifleri pek inceleme fırsatım olmadıysa da Google Reader’ın yerini tutabilmeleri için çok uzun zaman geçmesi gerekecek gibi.&lt;/p&gt;
-&lt;p&gt;Seni özleyeceğim Google Reader! Elveda!&lt;/p&gt;
-</description>
+&lt;p&gt;Seni özleyeceğim Google Reader! Elveda!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>A Sad Picture of Dennis M. Ritchie (1941-2011)</title>
       <link>https://darkestnotes.org/posts/a-sad-picture-of-dennis-m.-ritchie-1941-2011/</link>
       <pubDate>Sat, 18 May 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/a-sad-picture-of-dennis-m.-ritchie-1941-2011/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/sGO3&amp;#43;&#34; alt=&#34;image&#34;  /&gt;
-&lt;/p&gt;
-</description>
+&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Windows Vista Capable</title>
       <link>https://darkestnotes.org/posts/windows-vista-capable/</link>
       <pubDate>Fri, 04 May 2007 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/windows-vista-capable/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mhlreq1AkM1qz4rgp.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;HP Compaq NX6110 Notebook bilgisayarımı bundan tam 2 yıl önce bugün almıştım. Aldığım zaman giriş seviyesi en ucuz notebook bilgisayarlardan biriydi. Sanırım 999 $+KDV gibi bir fiyata almıştım. Zaman içinde 256 MByte bellek ekleyerek hafızasını 512 MByte&amp;rsquo;a çıkardım. Celeron 1.4 Ghz işlemcili, i915 Chipsetli basit bir notebook anlayacağınız.&lt;/p&gt;
-&lt;p&gt;Ancak bu notebook bilgisayara aslında Windows Vista Capable etiketi yapıştırılabilir. i915 chipsetine sahip bilgisayarlar halen satılıyor ve Windows Vista Capable etiketi taşıyorlar. Windows Vista&amp;rsquo;yı en basit haliyle çalıştırabilir anlamına gelen bu etikete göre en azından 800 Mhz güce sahip bir işlemci + 512 MByte RAM ve DirectX 9 uyumlu bir grafik kartı ile Aero gibi özellikleri kullanmadan en basit haliyle Windows Vista&amp;rsquo;yı (Windows Vista Basic) çalıştırabilirsiniz.&lt;/p&gt;
-&lt;p&gt;Bu etikete aldanıp son bir yıl içinde notebook alanlar büyük hayal kırıklığı yaşıyorlar. Çünkü i915 chipseti Windows Vista&amp;rsquo;nın Aero grafik özelliklerini destekleyecek güce sahip değil. Aslında intel gerekli driverları çıkarsa bu özellik en temel anlamda desteklenebilir, ancak intel i915 için WDDM driverları çıkarmayacağını açıkladı…&lt;/p&gt;
-</description>
+&lt;p&gt;Ancak bu notebook bilgisayara aslında Windows Vista Capable etiketi yapıştırılabilir. i915 chipsetine sahip bilgisayarlar halen satılıyor ve Windows Vista Capable etiketi taşıyorlar. Windows Vista&amp;rsquo;yı en basit haliyle çalıştırabilir anlamına gelen bu etikete göre en azından 800 Mhz güce sahip bir işlemci + 512 MByte RAM ve DirectX 9 uyumlu bir grafik kartı ile Aero gibi özellikleri kullanmadan en basit haliyle Windows Vista&amp;rsquo;yı (Windows Vista Basic) çalıştırabilirsiniz.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>BeOS R5</title>
       <link>https://darkestnotes.org/posts/beos-r5/</link>
       <pubDate>Wed, 15 Nov 2006 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/beos-r5/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mhlscl8w3K1qz4rgp.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;BeOS, BeBox adını taşıyan bilgisayarlar için üretilmişti. Görsel olarak ünik ve dikkat çekici olan BeOS&amp;rsquo;un 90&amp;rsquo;ların ikinci yarısında Apple MacOS&amp;rsquo;un yerini alacağı düşünülmüştü. Hesaplar tutmadı, BeOS yalnız ve terkedilmiş olarak bir kenara bırakıldı.&lt;/p&gt;
 &lt;p&gt;Günümüzde BeOS&amp;rsquo;u yeniden canlandıran YellowTab isimli firma, işletim sistemini günümüz donanım ve yazılım kriterlerine uygun hale getirerek yeniden piyasaya sundu. 80 ile 120 $ arası fiyatlarda satılan bu yeni BeOS, Zeta ismiyle öncekinden ayrılıyor.&lt;/p&gt;
-&lt;p&gt;BeOS ile ilgili detaylı bilgi edinmek için ;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/BeOS_R5&#34;&gt;http://en.wikipedia.org/wiki/BeOS_R5&lt;/a&gt; &lt;a href=&#34;http://www.yellowtab.com/&#34;&gt;http://www.yellowtab.com/&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;BeOS ile ilgili detaylı bilgi edinmek için ;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

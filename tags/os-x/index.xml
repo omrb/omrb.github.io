@@ -4,35 +4,27 @@
     <title>Os-X on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/os-x/</link>
     <description>Recent content in Os-X on Darkest Notes</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 04 Nov 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/os-x/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Nov 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://darkestnotes.org/tags/os-x/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Scott Forstall</title>
       <link>https://darkestnotes.org/posts/scott-forstall/</link>
       <pubDate>Sun, 04 Nov 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/scott-forstall/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Starting in 2000 with Mac OS X, Apple’s desktop operating system has been Unix-based. Why is this significant? Many developers were already familiar with the Unix operating system. With a Unix base, coders could use standard Unix commands in the command line, there was greater code portability, and Mac OS X got all of the associated benefits of Unix. For example, Unix is architected in a modular fashion, which can be beneficial when it comes to system security.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;Scott Forstall’s departure (Why Apple (and You) Might Miss Scott Forstall)&lt;/p&gt;
-</description>
+&lt;p&gt;Starting in 2000 with Mac OS X, Apple’s desktop operating system has been Unix-based. Why is this significant? Many developers were already familiar with the Unix operating system. With a Unix base, coders could use standard Unix commands in the command line, there was greater code portability, and Mac OS X got all of the associated benefits of Unix. For example, Unix is architected in a modular fashion, which can be beneficial when it comes to system security.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mountain Lion</title>
       <link>https://darkestnotes.org/posts/mountain-lion/</link>
       <pubDate>Sat, 28 Jul 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/mountain-lion/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_m7vfnjWWhm1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Apple bir sürpriz yaptı ve işletim sistemi sürüm güncelleme süresini 2 yıldan bir yıla indirdi. Geçen yıl Temmuz ayında çıkan Lion&amp;rsquo;dan sonra bu yıl 25 Temmuz&amp;rsquo;da Mountain Lion kullanıma sunuldu.&lt;/p&gt;
-&lt;p&gt;Apple Mountain Lion&amp;rsquo;ın 200&amp;rsquo;den fazla yeni özellik ile geldiğini söylüyor. Pek çoğu güünlük kullanımda karşımıza çıkmayacak özellikler olsa da iOS cihazlarla iCloud sayesinde anında senkronizasyon sağlayan Notes, Reminders gibi uygulamalar, Messages, gerçekten mükemmel bir hıza erişmiş olan Safari, açılma süresi ile beni şaşırtan iTunes, Twitter entegrasyonu (Sonbaharda Facebook ile entegrasyon da sağlanacak) ve bildirimler en önemli özellikler arasında görünüyor.&lt;/p&gt;
-&lt;p&gt;Bütün bunların yanında işletim sisteminin alışılmış kullanım kolaylığı ile birlikte düşünüldüğünde, OS X Microsoft&amp;rsquo;un bir türlü yerleştiremedeiği UX ve UI özelliklerinden rahatlıkla yararlanarak, kullanıcıların ve içinde bulunulan yılların taleplerine göre eklentiler yaparak kolaylıkla gelişiyor.&lt;/p&gt;
-&lt;p&gt;UX ve UI özelliklerini bir türlü yerleştiremeyen Microsoft ise Windows 8&amp;rsquo;de Metro arabirimine büyük umutlar bağlamış durumda. Metro arabiriminin yeniliği ve eski kullanıcılar için karmaşıklığı düşünüldüğünde, Apple&amp;rsquo;ın gelecek yıllarda kişisel bilgisayar alanında liderliği rahatlıkla ele geçireceği kolaylıkla anlaşılıyor.&lt;/p&gt;
-</description>
+&lt;p&gt;Apple Mountain Lion&amp;rsquo;ın 200&amp;rsquo;den fazla yeni özellik ile geldiğini söylüyor. Pek çoğu güünlük kullanımda karşımıza çıkmayacak özellikler olsa da iOS cihazlarla iCloud sayesinde anında senkronizasyon sağlayan Notes, Reminders gibi uygulamalar, Messages, gerçekten mükemmel bir hıza erişmiş olan Safari, açılma süresi ile beni şaşırtan iTunes, Twitter entegrasyonu (Sonbaharda Facebook ile entegrasyon da sağlanacak) ve bildirimler en önemli özellikler arasında görünüyor.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

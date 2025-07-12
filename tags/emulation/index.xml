@@ -4,48 +4,27 @@
     <title>Emulation on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/emulation/</link>
     <description>Recent content in Emulation on Darkest Notes</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 05 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/emulation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://darkestnotes.org/tags/emulation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IBMulator</title>
       <link>https://darkestnotes.org/posts/ibmulator/</link>
       <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/ibmulator/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/IBMulator-PS1_Realistic_View.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Soğuk kış günlerinde evde otururken nedense aklıma 1991 yılı sonu 1992 yılı başlarındaki soğuk bir kış gününde babamla IBM PS/1 bakmaya gittiğimiz gün geldi. Commodore 64 sonrası geleceğe dönük bir bilgisayar alma düşüncesi ile Amiga mı yoksa PC uyumlu bilgisayar mı alalım diye düşünürken TV&amp;rsquo;de reklamlarını gördüğümüz IBM PS/1 modeli neyin nesiymiş bakmaya gitmiştik soğuk bir Cumartesi akşam üzeri.&lt;/p&gt;
-&lt;p&gt;Mağaza sahibi bizimle fazlasıyla ilgilenmiş, oğlu hemen teşhirdeki ürünü kullanıma hazır hale getirmişti. Bilgisayar boot ederken hoparlöründen gelen &amp;ldquo;&lt;em&gt;beep-blüp&lt;/em&gt;&amp;rdquo; sesleri ve sonrasında 640x480x16 renkli ekranına gelen 4-Quadrant ile bizi orada büyülemişti bilgisayar. 640x480 çözünürlüklü renkli grafikler o zamanlar için günümüzün 4k teknolojisi gibi birşeydi. Yalnız anlaşılan şuydu ki IBM elinde kalan eski model PS/1&amp;rsquo;leri yeni modelleri çıkarmadan önce Türkiye&amp;rsquo;de satabilme çabasında idi. 1990 yılında üretilen ve 1991 yılının hemen başında Amerika ve Avrupa&amp;rsquo;da satılan bu ilk PS/1 modelleri &amp;ldquo;&lt;strong&gt;&lt;em&gt;5 Dakika ve İşin İçindesiniz&lt;/em&gt;&lt;/strong&gt;&amp;rdquo; gibi bir sloganla PC kullanmaya çekinen kitleleri PC dünyasına çekebilmek için üretilmişti. Zaten bu 4 quadrant hikayesi de Macintosh&amp;rsquo;un grafik kullanıcı arabiriminin benzerini PC dünyasına taşıma çabasıydı. Neyse sonuçta bu bilgisayarlar fazlasıyla eski bir teknolojiye sahipti. Türkiye&amp;rsquo;ye gelen 4 model 80286-10 MhZ işlemcili, renkli-renksiz ekranlı ve 30 MByte HDD&amp;rsquo;li, HDD&amp;rsquo;siz modellerden oluşuyordu. Sonuçta Türkiye&amp;rsquo;de bu cihazlardan kaç adet satıldı ne oldu bilemiyorum ama sonraki model PS/1&amp;rsquo;lerin hiçbiri Türkiye&amp;rsquo;ye gelmedi onu biliyorum. Dükkanda teşhirde incelediğim model HDD&amp;rsquo;si olmayan bir modeldi, HDD&amp;rsquo;li olsa belki o gün orada satın alınırdı ama almadık.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/PS1-4Quadrant.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;4 quadrant ekranı ve o arabirimin nasıl çalıştığını hep merak edip durdum sonrasında. Internet zamanında bile bu bilgisayar ile ilgili bilgi bulmak oldukça zor olmuştu. Macintosh&amp;rsquo;u andıran kasası ve orijinal mikrokodu ile tam bir koleksiyon ürünü olmuştu kendisi.&lt;/p&gt;
-&lt;p&gt;Yıllar sonra Marco Bortolin ismindeki IBM PS/1 meraklısı bir arkadaş, oturdu üşenmedi ve bir &lt;a href=&#34;https://barotto.github.io/IBMulator/&#34;&gt;IBM PS/1 emülatörü&lt;/a&gt; yazdı. Birkaç yıldır biraz geliştirilmesini bekledim ve geçtiğimiz haftalar içinde detaylıca inceledim. 4 Quadrant arabirimini ve bilgisayar ile yüklü gelen programları detaylıca inceleyip kurcaladım biraz. IBMulator&amp;rsquo;da IBM PS/1 için üretilen Audio/Joystick ses kartının emülasyonu bile var. Çok az Sierra oyununun desteklediği bu kartın nasıl ses verdiğini de görebilmiş olmak 30 yıl öncesinin anılarını tekrar canlandırdı.&lt;/p&gt;
-</description>
+&lt;p&gt;Mağaza sahibi bizimle fazlasıyla ilgilenmiş, oğlu hemen teşhirdeki ürünü kullanıma hazır hale getirmişti. Bilgisayar boot ederken hoparlöründen gelen &amp;ldquo;&lt;em&gt;beep-blüp&lt;/em&gt;&amp;rdquo; sesleri ve sonrasında 640x480x16 renkli ekranına gelen 4-Quadrant ile bizi orada büyülemişti bilgisayar. 640x480 çözünürlüklü renkli grafikler o zamanlar için günümüzün 4k teknolojisi gibi birşeydi. Yalnız anlaşılan şuydu ki IBM elinde kalan eski model PS/1&amp;rsquo;leri yeni modelleri çıkarmadan önce Türkiye&amp;rsquo;de satabilme çabasında idi. 1990 yılında üretilen ve 1991 yılının hemen başında Amerika ve Avrupa&amp;rsquo;da satılan bu ilk PS/1 modelleri &amp;ldquo;&lt;strong&gt;&lt;em&gt;5 Dakika ve İşin İçindesiniz&lt;/em&gt;&lt;/strong&gt;&amp;rdquo; gibi bir sloganla PC kullanmaya çekinen kitleleri PC dünyasına çekebilmek için üretilmişti. Zaten bu 4 quadrant hikayesi de Macintosh&amp;rsquo;un grafik kullanıcı arabiriminin benzerini PC dünyasına taşıma çabasıydı. Neyse sonuçta bu bilgisayarlar fazlasıyla eski bir teknolojiye sahipti. Türkiye&amp;rsquo;ye gelen 4 model 80286-10 MhZ işlemcili, renkli-renksiz ekranlı ve 30 MByte HDD&amp;rsquo;li, HDD&amp;rsquo;siz modellerden oluşuyordu. Sonuçta Türkiye&amp;rsquo;de bu cihazlardan kaç adet satıldı ne oldu bilemiyorum ama sonraki model PS/1&amp;rsquo;lerin hiçbiri Türkiye&amp;rsquo;ye gelmedi onu biliyorum. Dükkanda teşhirde incelediğim model HDD&amp;rsquo;si olmayan bir modeldi, HDD&amp;rsquo;li olsa belki o gün orada satın alınırdı ama almadık.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>DOSBox ve Boxer</title>
       <link>https://darkestnotes.org/posts/dosbox-ve-boxer/</link>
       <pubDate>Sun, 10 Apr 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/dosbox-ve-boxer/</guid>
       <description>&lt;p&gt;Geçmişe özlem duyanlar, geçmişe dönebilmenin yollarını ararlar. 1992 yılında ilk PC bilgisayarıma geçtiğimde Commodore 64 ve Amiga benim için tarihin tozlu sayfalarına gömülmüştü. Gelecek PC&amp;rsquo;lerdeydi, Amiga ve Commodore 64 için çıkmış oyunların çok daha iyileri PC&amp;rsquo;de mevcuttu. Ama hiç düşündüğüm gibi olmadı.&lt;/p&gt;
-&lt;p&gt;Öncelikle çoğu oyun PC&amp;rsquo;de olmasına karşın kimi oyunların Amiga versionları çok daha iyiydi. Oyunlar eğer 256 renk VGA çözünürlüğü kullanmıyorsa 16 renge mahkumdu, Amiga ise 32 renk sunuyordu. Eğer PC&amp;rsquo;de ses kartı yoksa (ki o zamanlar ses kartım yoktu) PC hoparlöründen gelen bip sesleriyle yetinmek zorundaydık. PC&amp;rsquo;lerde hız konusunda bir standart yoktu, eski oyunlar oynanılmayacak kadar hızlı çalışıyordu, Amiga oyunları ise o donanım için test edilmiş olarak çıktığından yavaş olsa da en azından bir standarta sahipti.&lt;/p&gt;
-&lt;p&gt;Bu nedenlerle çoğu oyunun Amiga versionlarını hatta bazı eski oyunların Commodore 64 versionlarını yeniden oynamak çok daha keyifli oluyordu. Bununla birlikte PC masamın üstünü tamamen kapladığından diğer bilgisayarlar zamanla dolaplarındaki yerini aldı, o bilgisayarlarda oynadığım oyunlar güzel birer hatıra oldu.&lt;/p&gt;
-&lt;p&gt;Aynı durumun PC&amp;rsquo;ler için yaşanacağı o zamanlar hayal edilememişti tabi. DOS için yazılmış oyunlar 1995&amp;rsquo;den itibaren yavaş yavaş yerini Windows için yazılmış oyunlara bıraktı. Bilgisayarlar hızlandı, floppy disklerin yerini CD-ROM&amp;rsquo;lar aldı. DOS için programlanan oyunları Windows uyumluluk modunda zorlukla oynayabiliyor olsakda uyumsuzluk problemleri gecikmedi.&lt;/p&gt;
-&lt;p&gt;Bu sorunları ortadan &lt;a href=&#34;http://www.dosbox.com/&#34; title=&#34;DOSBox&#34;&gt;DOSBox&lt;/a&gt; isimli program kaldırdı. DOSBox hemen hemen her işletim sistemi altında çalışan, tüm eski ses kartlarını destekleyen bir DOS penceresi açtı bizim gibi nostaljik kişiliklierin dünyasına. DOSBox&amp;rsquo;ı kullanmak çok kolay değildi tabi, sanal bir disk ortamı yaratmak, ses kartı adresi ve IRQ seçmek için konfigürasyon dosyası ile uğraşmak gerekiyordu. Bu işlemleri kolaylaştırmak için frontendler yazıldı. Bunların içinde bence en iyisi ve kolay kullanımlı olanı &lt;a href=&#34;http://boxerapp.com/&#34; title=&#34;Boxer&#34;&gt;Boxer&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_ljfnh8oPG01qztw2k.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Boxer&amp;rsquo;a yeni oyun eklemek çok kolay. Sadece oyun klasörünü Boxer&amp;rsquo;a sürüklüyorsunuz, eğer bir installer varsa program onu çalıştırıyor ve konfigürasyonu gerçekleştiriyorsunuz. Oyunun adını yazıp oyun kutusunun resmini eklemeniz yeterli.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_ljfnioC3G91qztw2k.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Aynı şey CD imajları içinde geçerli. Karşılaşılacak en önemli sorun Mac klavyesi ile PC klavyesi arasındaki farklılıklar nedeniyle bazı oyunların PC klavyesine özel tuş kombinasyonları kullanmaları olabilir. Bazı oyunlar içinde hızın ayarlanabilmesi için ince ayarlar yapmak gerekebiliyor.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_ljfnj7LHEp1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Eskiden oynadığımız oyunları tekrardan oynamak geçmişe dönmemizi sağlamaz belki ama yağmurlu bir pazar gününde Indiana Jones&amp;rsquo;un Fate of Atlantis&amp;rsquo;inin CD versionunu oynayabilmenin keyfini ancak o yıllarda PC kullananlar bilebilir.&lt;/p&gt;
-</description>
+&lt;p&gt;Öncelikle çoğu oyun PC&amp;rsquo;de olmasına karşın kimi oyunların Amiga versionları çok daha iyiydi. Oyunlar eğer 256 renk VGA çözünürlüğü kullanmıyorsa 16 renge mahkumdu, Amiga ise 32 renk sunuyordu. Eğer PC&amp;rsquo;de ses kartı yoksa (ki o zamanlar ses kartım yoktu) PC hoparlöründen gelen bip sesleriyle yetinmek zorundaydık. PC&amp;rsquo;lerde hız konusunda bir standart yoktu, eski oyunlar oynanılmayacak kadar hızlı çalışıyordu, Amiga oyunları ise o donanım için test edilmiş olarak çıktığından yavaş olsa da en azından bir standarta sahipti.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

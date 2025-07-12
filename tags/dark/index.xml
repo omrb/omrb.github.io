@@ -4,19 +4,17 @@
     <title>Dark on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/dark/</link>
     <description>Recent content in Dark on Darkest Notes</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 02 Jul 2010 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/dark/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Jul 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://darkestnotes.org/tags/dark/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dark Skies</title>
       <link>https://darkestnotes.org/posts/dark-skies/</link>
       <pubDate>Fri, 02 Jul 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/dark-skies/</guid>
       <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;597&amp;rdquo;]&lt;/p&gt;
-&lt;p&gt;Dark Skies&lt;/p&gt;
-</description>
+&lt;p&gt;Dark Skies&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

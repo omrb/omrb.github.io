@@ -4,18 +4,16 @@
     <title>Gallery on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/gallery/</link>
     <description>Recent content in Gallery on Darkest Notes</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 20 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://darkestnotes.org/tags/gallery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fallout 76 - Dergiler</title>
       <link>https://darkestnotes.org/posts/fallout-76-dergiler/</link>
       <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/fallout-76-dergiler/</guid>
-      <description>&lt;p&gt;[gallery type=&amp;ldquo;slideshow&amp;rdquo; ids=&amp;ldquo;3177,3173,3172,3171,3170,3169&amp;rdquo;]&lt;/p&gt;
-</description>
+      <description>&lt;p&gt;[gallery type=&amp;ldquo;slideshow&amp;rdquo; ids=&amp;ldquo;3177,3173,3172,3171,3170,3169&amp;rdquo;]&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

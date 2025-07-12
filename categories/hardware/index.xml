@@ -4,104 +4,62 @@
     <title>Hardware on Darkest Notes</title>
     <link>https://darkestnotes.org/categories/hardware/</link>
     <description>Recent content in Hardware on Darkest Notes</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/categories/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://darkestnotes.org/categories/hardware/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vampire V4-Standalone</title>
       <link>https://darkestnotes.org/posts/vampire-v4-standalone/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/vampire-v4-standalone/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Vampire-V4-SA-Logo.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Retro computer dünyası ile 1999 yılında aldığımız PC bilgisayar ile tanıştım. Emülasyon kavramı çok öncelerden beri var olsa da ancak 90’lı yılların sonunda Intel Pentium III işlemcili bilgisayarın ulaşılabilir olmasıyla tam anlamıyla çalışan emülatör yazılımlarını kullanmak, internet sayesinde sonsuz bir disk image ve ROM arşivine erişebilmek mümkün oldu. Commodore 64 ile zamanında ulaşamadığım disket oyunlarına emülatörler ile ulaşmayı başardım ve sonrasında emülasyon dünyası ile scene dünyasının bana ucu bucağı olmayan bir pencereden yepyeni bir dünya açtığını gördüm.&lt;br&gt;
 Emülasyon ile deneyimlenen bilgisayarların gelişmiş donanımlar ile daha gelişmiş halde karşımıza çıkmaları ise 2010 ve sonrasında başlayan bir süreç oldu. FPGA (Field Programmable Gate Array) teknolojisi ile eski bilgisayarların “&lt;em&gt;düzeltilmiş&lt;/em&gt;”, “&lt;em&gt;yenilenmiş&lt;/em&gt;”, “&lt;em&gt;güçlendirilmiş&lt;/em&gt;” sürümlerini yaratmak retro çılgınları için yeni bir tutku olmuştu artık.&lt;br&gt;
-Apollo Team tarafından geliştirilen Vampire hızlandıcı Amiga kartları uzun yıllardır piyasada mevcut. Amiga üzerine işlemci yuvasına takılan kartlar bir miktar hız artışının yanında HDD desteği, çeşitli yamalar vb. özellikler ile geliyor.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Vampire-V4-SA-Box.jpeg&#34; alt=&#34;&#34;  /&gt;
-&lt;br&gt;
-Vampire V4-Standalone ise adı gibi kendi başına çalışan bir Amiga. İçerisinde aslında gerçekte -var olmayan- &lt;strong&gt;68080&lt;/strong&gt; işlemci barındırıyor. Mikrokodu geriye uyumlu bu 68080 işlemci bazı yeni komut setleriyle (AMMX) ile birlikte ve gelişmiş AGA modu &lt;strong&gt;SuperAGA&lt;/strong&gt; ile geliyor. 12 MByte Chip 512 MByte Fast RAM’a sahip bu Amiga saklama birimi olarak Compact Flash kartları kullanıyor. Cihaz AROS rom ile geliyor ancak Kickstart Romları da flashlamak mümkün. Paula ses sistemi ile uyumlu Arne -sanal ses chip-’i 14 bit sound sample özelliği barındırıyor.&lt;br&gt;
-Vampire V4-SA açık kaynak kodlu AROS temelli Apollo OS ile çalışıyor. Bununla birlikte CoffinOS veya CaffeineOS gibi distrolarda mevcut, ancak Amiga OS 3.2 yüklemek isterseniz SAGA sürücülerini de yüklenmesi gerekli.&lt;br&gt;
-Herkesin rüyalarını süsleyen bu gelişmiş Amiga maalesef hayal ettiğim kadar iyi çalışmıyor. Geriye uyum büyük ölçüde problemli olmakla birlikte yeni özelliklerinin kullanıldığı program-oyun ve demolar hem sayıca az, hem de beklentiyi karşılayacak etkileyicilikten çok uzaklar. Cihaz fazlasıyla deneysel, ortaya çıkan bug’lar rastlantısal ve reproduce edebilmek çoğu zaman imkansız.&lt;br&gt;
-Yaptığım uzun testler sonucunda diyebilirim ki bilgisayarınızda çalışan emülatörler ile daha keyifli ve huzurlu bir retro aktivitesi yaşayabilirsiniz. Bu ve benzeri ürünler ancak macera arayan &lt;strong&gt;&lt;em&gt;computer-nerd&lt;/em&gt;&lt;/strong&gt;’lere uygun…&lt;/p&gt;
-</description>
+Apollo Team tarafından geliştirilen Vampire hızlandıcı Amiga kartları uzun yıllardır piyasada mevcut. Amiga üzerine işlemci yuvasına takılan kartlar bir miktar hız artışının yanında HDD desteği, çeşitli yamalar vb. özellikler ile geliyor.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Sound Blaster Pro</title>
       <link>https://darkestnotes.org/posts/sound-blaster-pro/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/sound-blaster-pro/</guid>
       <description>&lt;p&gt;IBM PC dünyası 90’lı yılların başından itibaren ses kartları ile tanıştı. 1987 yılında çıkan Adlib ve sonrasında ultra pahalı Roland MIDI modüllerinin ardından Creative piyasaya makul fiyat etiketli ve dijital ses efektleri sunabilen Sound Blaster ses kartları ile 1990 yılında girdi ve piyasaya 10 yıldan fazla bir süre hakim oldu.&lt;img loading=&#34;lazy&#34; src=&#34;images/Sound_Blaster_Pro2-Box-Win31_Label2.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Creative ses kartları içinde bence en önemlisi Sound Blaster Pro modelidir. Hem eskiyle uyumlu, hem stereo, hem güçlü OPL3 yongası hem de CD-ROM arabirimi ile 1991 yılında ortaya çıkar. O zamanın ev bilgisayarı Amiga ile hemen hemen aynı kalitede ses çıkışı verebilen bir karttır bu. Çıktığı dönem biraz problemlidir elbette. İlk sürümünde OPL3 yongası yerine stereo ses çıkışı için 2 adet YM3812 synthisizer chip bulundurur. O dönem piyasada Windows 3.0 olduğundan paketten çıkan yazılımlar Windows 3.0 için üretilmiştir. &lt;img loading=&#34;lazy&#34; src=&#34;images/Sound_Blaster_Pro-1991.jpg&#34; alt=&#34;https://www.retrogamingmuseum.com/the-collection/sound-blaster-pro-ct1330-1991&#34;  /&gt;
-Sonraki modellerde (Sound Blaster Pro2 olarak adlandırılan) gerçek OPL3 (YMF262) eklenir, 1992 yılında Windows 3.1 multimedia desteği ile çıkınca ses kartı ile bundle edilen Windows 3.0 programları işlevsiz kalır, kartın kutusu üzerine Windows 3.1 uyumludur ibaresi ile bir süre daha satılır. Sürücüler ve programlar Windows 3.1 için hazırlandıktan sonra kutu üzerine etiketle Windows 3.1 sürücülerinin eklendiği belirtilir.&lt;/p&gt;
-&lt;p&gt;Bu etiketli Sound Blaster Pro kutuları benim PC’ye ses kartı almaya çalıştığım dönemde sıkça karşıma çıkıyordu, ben farklı bir model ses kartı aldığımdan Sound Blaster Pro içinden hangi programlar çıkıyor ve sürücülerde ne gibi değişiklikler vardı hep merak ettim. &lt;img loading=&#34;lazy&#34; src=&#34;images/Sound-Blaster-Pro-Disk_Label-1992.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Geçtiğimiz günlerde bu disketin orijinal içeriğine kavuştum ve bir miktar inceleme imkanı bulabildim 30 yıl sonra. &lt;img loading=&#34;lazy&#34; src=&#34;images/Sound_Blaster_Pro-1993-1994-a.png&#34; alt=&#34;&#34;  /&gt;
-Sound Blaster Pro daha iyi Sound Blaster modelleri çıkmasına rağmen (Sound Blaster 16) 1993-1994 yıllarında yeni kutu dizaynı ve Indianapolis 500 ve Lemmings oyun bundle’ları ile satışına uzun bir süre devam etti.&lt;/p&gt;
-</description>
+Sonraki modellerde (Sound Blaster Pro2 olarak adlandırılan) gerçek OPL3 (YMF262) eklenir, 1992 yılında Windows 3.1 multimedia desteği ile çıkınca ses kartı ile bundle edilen Windows 3.0 programları işlevsiz kalır, kartın kutusu üzerine Windows 3.1 uyumludur ibaresi ile bir süre daha satılır. Sürücüler ve programlar Windows 3.1 için hazırlandıktan sonra kutu üzerine etiketle Windows 3.1 sürücülerinin eklendiği belirtilir.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>MacBook Pro M1</title>
       <link>https://darkestnotes.org/posts/macbook-pro-m1/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/macbook-pro-m1/</guid>
       <description>&lt;p&gt;1992 yılında kullanmaya başladığım PC bilgisayarlar ile CPU olarak hep intel işlemcileri kullandım. Alternatif olarak AMD, Cyrix gibi farklı işlemciler olsa da hepsi x86 mimarisi kullanıldığından derlenen programların farklı performans göstermesi spesifik durumlar dışında pek olağan değildi.&lt;/p&gt;
 &lt;p&gt;Apple’da 2006 yılından itibaren Intel CPU kullanmaya başladıktan sonra bilgisayar dünyasında x86 mimarisinin alternatifi kalmamıştı.&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/m1_hero__gayysked51ym_large_2x.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
-&lt;p&gt;2020 sonunda Apple mimarisini kendi geliştirdiği ARM tabanlı M1 işlemcili ilk bilgisayarlarını piyasaya çıkardı. 5 nm teknolojisi ile üretilen CPU, 10 nm’nin altına yeni inebilen intel’in fazlasıyla öne geçmiş gibi görülüyor.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/MacBook_Pro-M1-01.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Şimdilik intel CPU’lar için derlenmiş uygulamaları Rosetta2 emülatörü ile çalıştırmayı başaran M1, eğer aynı uygulama kendisi için derlenirse 1.5 kat daha fazla performans verebiliyor.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/MacBook_Pro-M1-02-1.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Bununla birlikte Kasım 2020’de piyasaya çıkan işlemcide şu ana kadar donanımsal bir sorun veya açık ortaya çıkmadı.Eğer Intel toparlanıp teknolojisini ileri götürmeyi beceremezse ARM mimarisi ile Apple bir sonraki nesilde arayı fazlasıyla açacaktır.&lt;/p&gt;
-</description>
+&lt;p&gt;2020 sonunda Apple mimarisini kendi geliştirdiği ARM tabanlı M1 işlemcili ilk bilgisayarlarını piyasaya çıkardı. 5 nm teknolojisi ile üretilen CPU, 10 nm’nin altına yeni inebilen intel’in fazlasıyla öne geçmiş gibi görülüyor.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Creative Sound BlasterX G6</title>
       <link>https://darkestnotes.org/posts/creative-sound-blasterx-g6/</link>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/creative-sound-blasterx-g6/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Sound_BlasterX-G6-Logo.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;2003-2004 yıllarından sonra anakart üzerinde gelen ses yongaları yeteneklerini fazlasıyla artırınca, ses kartları hobi amaçlı kullanılan pahalı oyuncaklar haline dönüşmeye başladı. Creative Sound Blaster Live! serisinden sonra çıkardığı Audigy serisinde istediği başarıyı yakalayamadı ve bilgisayar dünyası uzunca bir süre anakart üzerindeki onboard ses çözümlerine mahkum oldu.&lt;/p&gt;
-&lt;p&gt;Son yıllarda artmaya başlayan yüksek kaliteli müzik dinleme isteği ile ses kartı ve DAC piyasasında gözle görülür bir hareketlenme yaşanıyor. Geçen yıl kullandığım &lt;a href=&#34;https://darkestnotes.org/?p=3227&#34;&gt;Audioquest&lt;/a&gt;&amp;lsquo;in DAC&amp;rsquo;larının müzik dosyaları için ideal ancak oyunlar için fazlasıyla yetersiz olduğunu gördüğümden bir süredir her iki amaca uygun kullanımı olan birşeyler aramaya başladım. Ancak Hi-Res müzik dünyasında maalesef böyle donanım bulabilmenin mümkün olmadığını görmem çok zaman almadı. Müzik konusunu ayrı, oyunlardaki ses efektleri konusunu ayrı değerlendirmek gerekiyor.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Sound-BlasterX-General-Info.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Ses kartlarının oyunlarda kullanımı deyince PC dünyasında aklıma gelen tek isim tabiki Creative Labs. 1989 yılından beri iyi kötü piyasada ürünleri bulunan firmanın yeni nesil External Ses kartları uzun zamandır takibimdeydi. Geçen hafta elime geçen yeni donanım oyuncağım Creative&amp;rsquo;in 2018 yılı sonunda çıkardığı Sound BlasterX G6 modeli oldu. Cirrus Logic tarafından üretilen &lt;a href=&#34;https://www.cirrus.com/products/cs43131/&#34;&gt;CS43131&lt;/a&gt; DAC yongasına sahip, 32 bit ses derinliği ve 384 kHz örnekleme hızını destekleyen bu yonganın yanında Creative&amp;rsquo;in SB-Axx1 ses işlemcisi (Digital Sound Processor) ile bütün ses işlemlerini CPU&amp;rsquo;ya yük bindirmeden kendi başına becerebilen bir ses kartı. ASIO ve WASAPI desteği de bulunan ses kartının asıl kullanım alanı tabiki oyunlar.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Sound-BlasterX-SB-Axx-1.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Oyunlardaki kullanım için yazılım desteği Sound Blaster Connect 2 ile sağlanıyor. Hazır profillerin yanında farklı oyunlar için yeni profiller oluşturmak da mümkün. Bunun yanında kartla ilgili tüm diğer işlemler (firmware güncellemesi, led ışıkların renkleri vb.) bu program ile yapılıyor.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Sound_BlasterX-G6-001.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Monitörün hemen altına rahatlıkla yerleştirebildiğim şık tasarıma sahip ses kartı desktop bilgisayarımda kullanırken kulaklık takmak için bilgisayarın arka tarafına uzanma sıkıntısından ve ses açıp/kapama işlemlerinin de büyük radyo düğmesi ile yapılabilmesi sayesinde artan müzik ve ses kalitesinin yanında hayat kalitemi de artıran bir etken oldu.&lt;/p&gt;
-&lt;p&gt;Müzik ve ses subjektif bir konu. Kimi yüksek kalitedeki ses ve müziği gereksiz ve anlamsız bulup düşük kaliteden hiçbir farkı olmadığını söylerken kimi 24 bit ses derinliğinin yetersizliğinden bahsedebiliyor. Çoğu zaman standart mp3 formatı yeterli gelirken aynı albümün 24 bit/96 kHz &amp;ldquo;&lt;em&gt;kayıpsız&lt;/em&gt;&amp;rdquo; dosyalarını arşivde bulundurmak ayrı bir keyif verebiliyor insana.&lt;/p&gt;
-&lt;p&gt;Hi-Res müzik dinlemenin keyif aldığım kısmın sadece bir tarafı. İşin eğlencesi bilgisayar ve bu tür özel donanımlarla ilgilenirken aldığım keyifle müzik dinlerken aldığım keyfin birleşiyor olması.&lt;/p&gt;
-</description>
+&lt;p&gt;Son yıllarda artmaya başlayan yüksek kaliteli müzik dinleme isteği ile ses kartı ve DAC piyasasında gözle görülür bir hareketlenme yaşanıyor. Geçen yıl kullandığım &lt;a href=&#34;https://darkestnotes.org/?p=3227&#34;&gt;Audioquest&lt;/a&gt;&amp;lsquo;in DAC&amp;rsquo;larının müzik dosyaları için ideal ancak oyunlar için fazlasıyla yetersiz olduğunu gördüğümden bir süredir her iki amaca uygun kullanımı olan birşeyler aramaya başladım. Ancak Hi-Res müzik dünyasında maalesef böyle donanım bulabilmenin mümkün olmadığını görmem çok zaman almadı. Müzik konusunu ayrı, oyunlardaki ses efektleri konusunu ayrı değerlendirmek gerekiyor.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Roon</title>
       <link>https://darkestnotes.org/posts/roon/</link>
       <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/roon/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Roon_Header.png&#34; alt=&#34;&#34;  /&gt;
  &lt;a href=&#34;https://roonlabs.com&#34;&gt;Roon&lt;/a&gt; Windows, MacOS ve Linux için bir müzik yönetim ve çalma programı. Roon&amp;rsquo;u diğer programlardan ayıran en önemli özelliği büyük bir metadata kütüphanesine erişmesi ve dinlediğiniz müziğin yapımcısından tutun da plak şirketine, şarkıların bestecisinden albüm kapağına kadar bilgilere kolaylıkla ulaşım sağlayabilmesi. Zaten tanıtım sayfalarında da dijital müziğe geçişte iTunes ve Spotify gibi listelerden oluşan programların olumsuz yönüne vurgu yapılıyor.&lt;img loading=&#34;lazy&#34; src=&#34;images/Roon-Problem.png&#34; alt=&#34;&#34;  /&gt;
  Roon bilgisayarda veya network ortamında bulunan müzik dosyalarına ulaşabildiği gibi &lt;a href=&#34;https://tidal.com&#34;&gt;TIDAL&lt;/a&gt; ve &lt;a href=&#34;https://www.qobuz.com/&#34;&gt;Qobuz&lt;/a&gt; lossless streaming servisleri ile de etkileşimli çalışabiliyor. Dinlenilen albümün Allmusic&amp;rsquo;de yer alan eleştirisinden, yüksek çözünürlüklü albüm kapağına, sanatçının biyografisinden, şarkı sözlerine kolaylıkla ulaşabilmek mümkün. Eğer elinizde albümlerin PDF formatındaki Digital Booklet&amp;rsquo;leri veya JPG formatındaki albüm kapağı, iç kapak resimleri var ise bunlara da tek tıklama ile ulaşabilmek mümkün. Kısacası müzik arama ve dinlemeyi eskisinden keyifli bir hale getiriyor. &lt;img loading=&#34;lazy&#34; src=&#34;images/Roon-Solution.png&#34; alt=&#34;&#34;  /&gt;
  Roon audiophile&amp;rsquo;ler için belli başlı donanımları otomatik olarak tanıyor ve partner programı sayesinde doğrudan bu donanımı destekliyor. DSP Engine ile ses çıkışına equalizer vb. geliştirmeler sağlamak mümkün. &lt;img loading=&#34;lazy&#34; src=&#34;images/Roon_Signal_Path.png&#34; alt=&#34;&#34;  /&gt;
- Roon’un en güzel özelliklerinden biri ise Signal Path. Yani dijital ses dosyasının bilgisayarda okunduktan sonra analog hale dönüşünceye kadar geçtiği aşamaları teker teker göstermesi.&lt;/p&gt;
-&lt;p&gt;TIDAL ve Qobuz stream platformlarını da desteklediğinden yeni keşifler yapmak ve bilgisayar başında müzik dinlemeyi daha renkli ve keyifli hale getirmek isteyen ciddi müzikseverlerin denemesi gereken bir program.&lt;/p&gt;
-</description>
+ Roon’un en güzel özelliklerinden biri ise Signal Path. Yani dijital ses dosyasının bilgisayarda okunduktan sonra analog hale dönüşünceye kadar geçtiği aşamaları teker teker göstermesi.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

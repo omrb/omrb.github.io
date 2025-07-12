@@ -4,66 +4,49 @@
     <title>Blog on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/blog/</link>
     <description>Recent content in Blog on Darkest Notes</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 12 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://darkestnotes.org/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Long Time No See</title>
       <link>https://darkestnotes.org/posts/long-time-no-see/</link>
       <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/long-time-no-see/</guid>
       <description>&lt;p&gt;Uzun zaman oldu bu eski blog&amp;rsquo;uma birşeyler yazmayalı. Eskisi kadar yazmaya fırsat bulamıyor olmanın yanında aslında yazacak çok fazla birşeyler de olmuyor hayatımda. Yaş ilerledikçe hayat hem rutinleşiyor, hem eskiden ilgilenilen pek çok şeye ilgi azalıyor.&lt;/p&gt;
-&lt;p&gt;Yazın en sıcak günlerini yaşıyoruz bu ara. Biraz bilgisayar oyunları, biraz müzik, biraz internet derken saatler, günler, haftalar akıp gidiyor. Yaklaşık 1.5 yıl sonra hem blog&amp;rsquo;a birşeyler yazmak hem de Hugo ile yeniden yükleyebilmek biraz uğraştırıcı olacak gibi.&lt;/p&gt;
-&lt;p&gt;Yakın zamanda daha sık blog post&amp;rsquo;ları ekleyebilmek dileğiyle&amp;hellip;&lt;/p&gt;
-</description>
+&lt;p&gt;Yazın en sıcak günlerini yaşıyoruz bu ara. Biraz bilgisayar oyunları, biraz müzik, biraz internet derken saatler, günler, haftalar akıp gidiyor. Yaklaşık 1.5 yıl sonra hem blog&amp;rsquo;a birşeyler yazmak hem de Hugo ile yeniden yükleyebilmek biraz uğraştırıcı olacak gibi.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Wordpress&#39;den Hugo&#39;ya Geçiş</title>
       <link>https://darkestnotes.org/posts/wordpressden-hugoya-ge%C3%A7i%C5%9F/</link>
       <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/wordpressden-hugoya-ge%C3%A7i%C5%9F/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/hugo-logo.png#center&#34; alt=&#34;Hugo&#34;  /&gt;
  2006 yılından beri çeşitli sitelerde yer alan blog&amp;rsquo;umu hosting firmamın PHP 8&amp;rsquo;i zorunlu tutması ve Wordpress tema ve eklentilerinin PHP 8 ile sorunlar çıkarması sebebiyle Hugo&amp;rsquo;ya geçirmeye karar verdim.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://darkestnotes.org/posts/hello-world/&#34;&gt;Wordpress&lt;/a&gt;&amp;lsquo;i 2015 yılından beri kullanıyordum ve herhangi bir sorunum yoktu. Bununla birlikte tema ve eklentilerin her güncelleme sonrası sorun çıkarabilecek olma ihtimali bie keyif kaçırıcı bir etkendi blog&amp;rsquo;um için.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; oldukça basit bir sisteme sahip. Text dosyalarını derleyerek statik, HTML tabanlı basit bir internet sitesi yaratıyor. Üstelik oluşturulan siteyi en basit hosting sisteminde bile host edebilmek mümkün çünkü geri planda çalışması gereken database ihtiyacı yok.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Go&lt;/strong&gt; programlama dili ile yazılan Hugo çok hızlı çalışıyor. C tabanlı bir dil olan Go, Google tarafından geliştiriliyor ve son yılların gözde programlama dillerinden. Python ile yazılmış çoğu uygulamanın Go&amp;rsquo;ya yöneldiği biliniyor.&lt;/p&gt;
-&lt;p&gt;Çok sayıda girdi bulunan blog&amp;rsquo;umun Hugo ile derlenmesi yaklaşık 10 saniye sürdü. Pratik ve hızlı olmasının yanında her yeni girdi eklendiğinde sitenin yeniden derlenmesi gerekiyor. Sık güncelleme yapılan siteler için çok uygun değil haliyle.&lt;/p&gt;
-&lt;p&gt;Bununla birlikte tüm blog&amp;rsquo;un Wordpress&amp;rsquo;den Hugo&amp;rsquo;ya aktarılması sorunsuz biçimde gerçekleşmedi maalesef. Çoğu resim dosyası yerli yerinde durmasına karşın bağlantılar bozulduğundan şu an için görüntülenemiyor. &lt;em&gt;Bu hataları düzeltir miyim? Düzeltmeye vaktim olur mu bilmiyorum.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;2006 yılından beri iyi kötü birşeyler karaladığım için Darkest Notes&amp;rsquo;un bir şekilde internet üzerinden ulaşılabilir olması için elimden geldiğince gayret gösteriyorum ama ileride ne olur bilemem.&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; oldukça basit bir sisteme sahip. Text dosyalarını derleyerek statik, HTML tabanlı basit bir internet sitesi yaratıyor. Üstelik oluşturulan siteyi en basit hosting sisteminde bile host edebilmek mümkün çünkü geri planda çalışması gereken database ihtiyacı yok.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Yaz Saati</title>
       <link>https://darkestnotes.org/posts/yaz-saati/</link>
       <pubDate>Sun, 27 Mar 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/yaz-saati/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Dark_Skies-Daylight_Saving_Time.png&#34; alt=&#34;Dark_Skies-Daylight_Saving_Time&#34;  /&gt;
 &lt;/p&gt;
-&lt;p&gt;Bugün 4,5 ay gibi kısa bir süre süren normal saat uygulaması sonrası yaz saatine geçilen gün oldu. Kış’ı, karanlığı ve soğuk havayı seven benim gibi biri için zor bir durum maalesef. Yılın neredeyse 8 ayı yaz saati uygulaması ile geçiyor. Kabul edilemez bir durum.😬&lt;/p&gt;
-</description>
+&lt;p&gt;Bugün 4,5 ay gibi kısa bir süre süren normal saat uygulaması sonrası yaz saatine geçilen gün oldu. Kış’ı, karanlığı ve soğuk havayı seven benim gibi biri için zor bir durum maalesef. Yılın neredeyse 8 ayı yaz saati uygulaması ile geçiyor. Kabul edilemez bir durum.😬&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Happy New Darkest Year Everyone</title>
       <link>https://darkestnotes.org/posts/happy-new-darkest-year-everyone/</link>
       <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/happy-new-darkest-year-everyone/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Christmas_Gift.png&#34; alt=&#34;Christmas_Gift&#34;  /&gt;
-&lt;/p&gt;
-</description>
+&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Hello world!</title>
       <link>https://darkestnotes.org/posts/hello-world/</link>
       <pubDate>Sun, 06 Dec 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/hello-world/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/DN_on_WP-1.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
@@ -71,68 +54,39 @@
 &lt;p&gt;Hello World!&lt;/p&gt;
 &lt;p&gt;Welcome to WordPress. This is your first post. Edit or delete it, then start writing!&lt;/p&gt;
 &lt;p&gt;Yıllardır &lt;a href=&#34;http://bromr.tumblr.com&#34;&gt;tumblr.&lt;/a&gt;&amp;lsquo;da bulunan blog&amp;rsquo;umu, tumblr&amp;rsquo;ın Türkiye&amp;rsquo;de kısmen yasaklanması (yada belli adreslerinin yasaklanması nedeniyle içeriğimin kısmen ulaşılamaz olması) dolayısıyla &lt;a href=&#34;http://wordpress.org&#34;&gt;Wordpress&lt;/a&gt;&amp;rsquo;e taşımaya karar verdim. Geçen yıl içinde de bu tarz bir çalışmam olmuştu ancak tumblr ile devam etmeye karar vermiştim.&lt;/p&gt;
-&lt;p&gt;Ne diyelim, hayırlı olsun!&amp;hellip;&lt;/p&gt;
-</description>
+&lt;p&gt;Ne diyelim, hayırlı olsun!&amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Internet, HTML, Blog</title>
       <link>https://darkestnotes.org/posts/internet-html-blog/</link>
       <pubDate>Tue, 05 Feb 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/internet-html-blog/</guid>
       <description>&lt;p&gt;Internet’in hayatımıza girmesi ile birlikte, iyi kötü internet kullanan herkesin denemek istediği ilk şey kendi web sitesini hazırlamak olmuştur.&lt;/p&gt;
 &lt;p&gt;Bedava alan sağlayan ilk servisler&lt;a href=&#34;1&#34; title=&#34;see footnote&#34;&gt;[1]&lt;/a&gt; hazırda bulunan şablonları ile kullanıcıların web sitesi oluşturmasını kolaylaştırmıştır. Kişisel web sitesi oluşturmak isteyen herkes birazcık HTML öğrenmiş, siteler hazırlamış, renkli animasyonlu .GIF dosyaları ile ekranı ve arkaplanı doldurmuş, para kazanabilme umudu ile reklam bannerları ve dijital ziyaretçi sayısını gösteren sayaçlar eklemiştir.&lt;/p&gt;
-&lt;p&gt;Herhangi bir içerik bulundurmayan, sadece web sayfası nasıl oluşturulur mantığı ile hazırlanan bu sayfalar kısa sürede unutulmuş ve ortadan kalkmıştır bununla birlikte blog denilen çoğu zaman “&lt;em&gt;internet günlüğü&lt;/em&gt;” olarak yanlış bir anlam yüklenen oluşum ortaya çıkmıştır.&lt;/p&gt;
-&lt;p&gt;Ben blog yazmaya 2006 yılı ortalarında Google’ın &lt;a href=&#34;http://omerbalamir.blogspot.com&#34;&gt;Blogger&lt;/a&gt; servisi ile başlamıştım. Daha sonra 2008 yılında Türkiye’den blogger’a erişim yasaklandığında hem &lt;a href=&#34;http://omerb.posterous.com&#34;&gt;Posterous&lt;/a&gt;, hem &lt;a href=&#34;http://omerbalamir.livejournal.com&#34;&gt;Livejournal&lt;/a&gt;, hemde &lt;a href=&#34;http://omerbalamir.wordpress.com&#34;&gt;Wordpress’de&lt;/a&gt; birkaç denemem oldu, hepsinin kendine göre iyi ve kötü özellikleri vardı.&lt;/p&gt;
-&lt;p&gt;2 Aralık 2008’de Wordpress’de blog servisleri ile ilgili şöyle yazmışım;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Bir Blog servisinden neler ister blog yazarı ? Gerçekten bilemiyorum. Her servis kendine ait iyi özellikler sunuyor, birinde hoşuma giden, diğerinde olmuyor. Blogger, LiveJournal, ve WordPress… İçlerinde komple hizmet veren Blogger&lt;a href=&#34;2&#34; title=&#34;see footnote&#34;&gt;[2]&lt;/a&gt; gibi. Belki ilk göz ağrım, ondandır. Ama hemen hemen tüm istediklerimi yapabildim onunla.&lt;/p&gt;
-&lt;p&gt;LiveJournal’a widget eklenmiyor. WordPress’in de widget özelliği kısıtlı gibi. Bunlara karşılık ikisi de çok fazla sayıda tema içeriyor, seçilebilecek dizayn sayısı Blogger’a göre çok daha fazla.&lt;/p&gt;
-&lt;p&gt;Peki amaç ne ? Daha güzel gözüken bir blog mu yoksa içerik mi ? Her ikisi de önemli tabi, ama ben genelde dizayn kısmında takılıp kalıyorum. Şurası şöyle gözükse daha iyi olur, yada bu resim niye ortalanmadı gibi ufak tefek şeylere takılıp kalıyorum, içerik zenginleşemiyor.&lt;/p&gt;
-&lt;p&gt;Mesela bu yazı, WordPress’de yazdığım ilk yazı, ve nasıl görüneceğini merak ediyorum.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;Zamanla blog yazılarımda aslında internet kaynaklı belli türde paylaşımlar yaptığım ve bunlara kişisel bazı yorumlar eklediğimi gördüm. Tumblr. blog servisi de bu düşünceyle hazırlanmıştı.&lt;/p&gt;
-&lt;p&gt;7 ayrı kategoride hızlı bir şekilde paylaşım yapmak ve bunlarla ilgili kişisel görüşlerin yazılabildiği bu platform, benzerleri arasında hızlı yükseldi ve bende 2008 yılı sonunda tumblr. kullanmaya başladım.&lt;/p&gt;
-&lt;p&gt;Geçen hafta içinde tüm blog servislerinde oluşturduğum girdileri tumblr.’da bir araya toplamayı başardım. Pek çok ayrı blog servisinde, ayrı görsel özelliklerde hazırlansa da üretilen içerik kalıcı ve geçmişi özetler nitelikte oluyor. Blog servisleri kapansa da, görsel öğeler değişse de aslolan şey içerik.&lt;/p&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li&gt;Geocities, bedava alan sağlayan en uzun ömürlü servislerden birisidir.  &lt;a href=&#34;1&#34; title=&#34;return to article&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Blogger, kullandığım ilk blog servisidir (2006–2008)  &lt;a href=&#34;2&#34; title=&#34;return to article&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+&lt;p&gt;Herhangi bir içerik bulundurmayan, sadece web sayfası nasıl oluşturulur mantığı ile hazırlanan bu sayfalar kısa sürede unutulmuş ve ortadan kalkmıştır bununla birlikte blog denilen çoğu zaman “&lt;em&gt;internet günlüğü&lt;/em&gt;” olarak yanlış bir anlam yüklenen oluşum ortaya çıkmıştır.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Yeni Blog Tasarımı</title>
       <link>https://darkestnotes.org/posts/yeni-blog-tasar%C4%B1m%C4%B1/</link>
       <pubDate>Fri, 25 Jan 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/yeni-blog-tasar%C4%B1m%C4%B1/</guid>
       <description>&lt;p&gt;Uzun süredir kullanmakta olduğum blog temasında bu sabah bir değişiklik yaptım ve daha minimal bir tasarıma yöneldim. Sade görünümlü bu tema ile metinden çok fotoğrafların ön planda görülmesi sağlanıyor. Şimdilik &lt;a href=&#34;http://www.google.com/chrome&#34;&gt;Google Chrome&lt;/a&gt; tarayıcısında olması gerektiği gibi görülen temanın diğer web tarayıcılarında nasıl göründüğünü henüz test etmedim.&lt;/p&gt;
-&lt;p&gt;Zaman zaman blog görünümünde yapılan değişiklikler, sanki yeni bir blog oluşturulmuş gibi tazeliyor kişiyi.&lt;/p&gt;
-</description>
+&lt;p&gt;Zaman zaman blog görünümünde yapılan değişiklikler, sanki yeni bir blog oluşturulmuş gibi tazeliyor kişiyi.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Bloglar ve Blog Servisleri</title>
       <link>https://darkestnotes.org/posts/bloglar-ve-blog-servisleri/</link>
       <pubDate>Tue, 02 Dec 2008 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/bloglar-ve-blog-servisleri/</guid>
       <description>&lt;p&gt;Yaklaşık 2 yıldır blog yazarıyım (!)-(Blog yazarı ne demekse artık) İlk blog&amp;rsquo;um Google&amp;rsquo;ın &lt;a href=&#34;http://www.blogger.com/&#34;&gt;Blogger&lt;/a&gt;&amp;lsquo;ı oldu. Pek sık güncelleyemesem de ihtiyaçlarıma cevap veren yeterli bir sistemi ve yapısı vardı. Daha sonra &lt;a href=&#34;http://www.livejournal.com/&#34;&gt;LiveJournal&lt;/a&gt;&amp;lsquo;ı denedim. Normal blog yazılarından çok sosyal-iletişim yapısı ile dikkat çekiyordu. Bir diğer denemem Wordpress ile oldu. &lt;a href=&#34;http://www.wordpress.com/&#34;&gt;Wordpress&lt;/a&gt;&amp;lsquo;de temiz, yalın yapısı ile dikkat çekmesinin yanında, LiveJournal gibi widgetların yetersizliği, çoğu 3. parti widgetı reddetmesi nedeniyle pek gözüm tutmadı.&lt;/p&gt;
-&lt;p&gt;Döndük dolaşdık, yine Blogger&amp;rsquo;da karar kıldık gibi oldu.&lt;/p&gt;
-</description>
+&lt;p&gt;Döndük dolaşdık, yine Blogger&amp;rsquo;da karar kıldık gibi oldu.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Merhaba !</title>
       <link>https://darkestnotes.org/posts/merhaba/</link>
       <pubDate>Wed, 18 Oct 2006 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/merhaba/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Genelde karamsar ve sakin bir yapıya sahibim. Felsefi ve kültürel konulara ilgim büyüktür. Yüzeysel hiç bir şey beni tatmin etmez, herşeyin ardındaki nedeni aramaya çalışırım. Mesafeli tavrım beni yeni tanıyan insanların benden çekinmelerine sebep olur. Bazen yaşam benim için bir düş kırıklığına dönüşür ve ümitsizliğe düşerim, ancak felsefi bakış açım, sorunların nereden kaynaklandığını ve onların çözüm yolları bulabilmemi sağlar. Çevremdekiler yalnız yaşamayı başarabilecek nadir kişilerden olduğumu söyler.&lt;/em&gt;&lt;/p&gt;
-</description>
+      <description>&lt;p&gt;&lt;em&gt;Genelde karamsar ve sakin bir yapıya sahibim. Felsefi ve kültürel konulara ilgim büyüktür. Yüzeysel hiç bir şey beni tatmin etmez, herşeyin ardındaki nedeni aramaya çalışırım. Mesafeli tavrım beni yeni tanıyan insanların benden çekinmelerine sebep olur. Bazen yaşam benim için bir düş kırıklığına dönüşür ve ümitsizliğe düşerim, ancak felsefi bakış açım, sorunların nereden kaynaklandığını ve onların çözüm yolları bulabilmemi sağlar. Çevremdekiler yalnız yaşamayı başarabilecek nadir kişilerden olduğumu söyler.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

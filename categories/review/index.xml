@@ -4,14 +4,14 @@
     <title>Review on Darkest Notes</title>
     <link>https://darkestnotes.org/categories/review/</link>
     <description>Recent content in Review on Darkest Notes</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 20 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/categories/review/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://darkestnotes.org/categories/review/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Yeni Dinlediklerim</title>
       <link>https://darkestnotes.org/posts/yeni-dinlediklerim/</link>
       <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/yeni-dinlediklerim/</guid>
       <description>&lt;p&gt;Sıcak yaz günlerinde dinleyecek yeni albümler bulmak zor olur, genelde 90’lı yıllarda yaz aylarında dinlediğim klasik heavy metal albümlerini dinler nostalji yaparım.
 Ama bu yıl &lt;strong&gt;Eyyam-ı Bahur&lt;/strong&gt; sıcakları ile cebelleşirken 2 yeni tekniği mükemmel albümün çıkması sürpriz oldu.
@@ -20,188 +20,113 @@ Ama bu yıl &lt;strong&gt;Eyyam-ı Bahur&lt;/strong&gt; sıcakları ile cebelle�
 &lt;h3 id=&#34;horrendous---ontological-mysterium&#34;&gt;Horrendous - Ontological Mysterium&lt;/h3&gt;
 &lt;p&gt;Bunlardan ilki Horrendous’un Ontological Mysterium albümü. 2014 yılından beri takip ettiğim grubun müzik stili teknik death metal olarak tanımlanıyor. Albüm karmaşık rifflerin sert tonlamalar ile bütünleşmesi ile dinlemesi keyifli, zor akılda kalan, müzikalitesi yüksek bir death metal albümü. Albüm üzerinde yer alan bir sticker da belirtildiği gibi grup Death’in son zamanları ile Atheist ve Cynic’in ilk zamanlarını hatırlatıyor.
 &lt;img loading=&#34;lazy&#34; src=&#34;images/Godthrymm.png#center&#34; alt=&#34;Godthrymm&#34;  /&gt;
-&lt;/p&gt;
-&lt;h3 id=&#34;godthrymm---distortions&#34;&gt;Godthrymm - Distortions&lt;/h3&gt;
-&lt;p&gt;Godthrymm ile yeni tanıştım. My Dying Bride gitaristi İskoç Hamish Glencross ile karısı Catherine Glencross’un kurduğu grubun ikinci albümü Distortions. İlk albümleri Reflections 2020 yılında çıkmış.
-Grubun müzik türü Doom Metal ancak dinlediğim kadarıyla halen old school Doom Metal çalan ender gruplardan. Parçalar uzun ve karamsar bir yapıya sahip ama bazen fazlasıyla My Dying Bride’ı hatırlatması çok hoşuma gitmedi. Grup My Dying Bride tarzından uzaklaşmayı başarırsa geleceği parlak gözüküyor.&lt;/p&gt;
-</description>
+&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Vampire V4-Standalone</title>
       <link>https://darkestnotes.org/posts/vampire-v4-standalone/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/vampire-v4-standalone/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Vampire-V4-SA-Logo.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Retro computer dünyası ile 1999 yılında aldığımız PC bilgisayar ile tanıştım. Emülasyon kavramı çok öncelerden beri var olsa da ancak 90’lı yılların sonunda Intel Pentium III işlemcili bilgisayarın ulaşılabilir olmasıyla tam anlamıyla çalışan emülatör yazılımlarını kullanmak, internet sayesinde sonsuz bir disk image ve ROM arşivine erişebilmek mümkün oldu. Commodore 64 ile zamanında ulaşamadığım disket oyunlarına emülatörler ile ulaşmayı başardım ve sonrasında emülasyon dünyası ile scene dünyasının bana ucu bucağı olmayan bir pencereden yepyeni bir dünya açtığını gördüm.&lt;br&gt;
 Emülasyon ile deneyimlenen bilgisayarların gelişmiş donanımlar ile daha gelişmiş halde karşımıza çıkmaları ise 2010 ve sonrasında başlayan bir süreç oldu. FPGA (Field Programmable Gate Array) teknolojisi ile eski bilgisayarların “&lt;em&gt;düzeltilmiş&lt;/em&gt;”, “&lt;em&gt;yenilenmiş&lt;/em&gt;”, “&lt;em&gt;güçlendirilmiş&lt;/em&gt;” sürümlerini yaratmak retro çılgınları için yeni bir tutku olmuştu artık.&lt;br&gt;
-Apollo Team tarafından geliştirilen Vampire hızlandıcı Amiga kartları uzun yıllardır piyasada mevcut. Amiga üzerine işlemci yuvasına takılan kartlar bir miktar hız artışının yanında HDD desteği, çeşitli yamalar vb. özellikler ile geliyor.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Vampire-V4-SA-Box.jpeg&#34; alt=&#34;&#34;  /&gt;
-&lt;br&gt;
-Vampire V4-Standalone ise adı gibi kendi başına çalışan bir Amiga. İçerisinde aslında gerçekte -var olmayan- &lt;strong&gt;68080&lt;/strong&gt; işlemci barındırıyor. Mikrokodu geriye uyumlu bu 68080 işlemci bazı yeni komut setleriyle (AMMX) ile birlikte ve gelişmiş AGA modu &lt;strong&gt;SuperAGA&lt;/strong&gt; ile geliyor. 12 MByte Chip 512 MByte Fast RAM’a sahip bu Amiga saklama birimi olarak Compact Flash kartları kullanıyor. Cihaz AROS rom ile geliyor ancak Kickstart Romları da flashlamak mümkün. Paula ses sistemi ile uyumlu Arne -sanal ses chip-’i 14 bit sound sample özelliği barındırıyor.&lt;br&gt;
-Vampire V4-SA açık kaynak kodlu AROS temelli Apollo OS ile çalışıyor. Bununla birlikte CoffinOS veya CaffeineOS gibi distrolarda mevcut, ancak Amiga OS 3.2 yüklemek isterseniz SAGA sürücülerini de yüklenmesi gerekli.&lt;br&gt;
-Herkesin rüyalarını süsleyen bu gelişmiş Amiga maalesef hayal ettiğim kadar iyi çalışmıyor. Geriye uyum büyük ölçüde problemli olmakla birlikte yeni özelliklerinin kullanıldığı program-oyun ve demolar hem sayıca az, hem de beklentiyi karşılayacak etkileyicilikten çok uzaklar. Cihaz fazlasıyla deneysel, ortaya çıkan bug’lar rastlantısal ve reproduce edebilmek çoğu zaman imkansız.&lt;br&gt;
-Yaptığım uzun testler sonucunda diyebilirim ki bilgisayarınızda çalışan emülatörler ile daha keyifli ve huzurlu bir retro aktivitesi yaşayabilirsiniz. Bu ve benzeri ürünler ancak macera arayan &lt;strong&gt;&lt;em&gt;computer-nerd&lt;/em&gt;&lt;/strong&gt;’lere uygun…&lt;/p&gt;
-</description>
+Apollo Team tarafından geliştirilen Vampire hızlandıcı Amiga kartları uzun yıllardır piyasada mevcut. Amiga üzerine işlemci yuvasına takılan kartlar bir miktar hız artışının yanında HDD desteği, çeşitli yamalar vb. özellikler ile geliyor.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Cultic - Of Fire &amp; Sorcery</title>
       <link>https://darkestnotes.org/posts/cultic-of-fire-sorcery/</link>
       <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/cultic-of-fire-sorcery/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Cultic-Of-Fire-and-Sorcery.jpeg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Amerikalı Death/Doom Metal ikilisi Cultic, Fire &amp;amp; Sorcery adını taşıyan ikinci albümlerini geçtiğimiz günlerde çıkardı. Gitarlarda ve vokalde &lt;em&gt;Brian Magar&lt;/em&gt;, davulda &lt;em&gt;Rebecca Magar&lt;/em&gt;’dan oluşan Cultic’in yeni albümü, ilk albümleri gibi karanlık epik fantazi hikayesi temaları ile oluşan şarkı sözlerine sahip.&lt;br&gt;
 Albüm ilk albüm gibi karanlık, bulanık bir prodüksiyona ve ham gitar ve davula eşlik eden karakteristik vokal öğelerine sahip. Bu doğal karanlık yapı son yıllarda extreme müzik dinlerken aradığım bir özellik.&lt;br&gt;
 Of Fire &amp;amp; Sorcery’nin ilk albümden farkı şarkı geçişlerinde ve aralarda fazlasıyla deneysel senfonik melodi bulundurması. Bu tema zaman zaman gereğinden fazla uzun ve açıkçası ben biraz sıkıcı buldum. Belki seveni vardır ancak albümün temposunu düşüren bir katman. Ayrıca 12:50 dakikalık Iron Castle Redux şarkısının boş bölümünün amacı nedir çözemedim.&lt;br&gt;
-Bu olumsuzlukların yanında Of Fire &amp;amp; Sorcery Doom/Death dinleyicileri için 2022 yılının en önemli en sert albümlerinden biri olarak yerini alıyor Cultic arşivinde.🤟🏼🤟🏼🤟🏼🤟🏼&lt;/p&gt;
-</description>
+Bu olumsuzlukların yanında Of Fire &amp;amp; Sorcery Doom/Death dinleyicileri için 2022 yılının en önemli en sert albümlerinden biri olarak yerini alıyor Cultic arşivinde.🤟🏼🤟🏼🤟🏼🤟🏼&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>BeOS&#39;un Kısa Tarihi</title>
       <link>https://darkestnotes.org/posts/beosun-k%C4%B1sa-tarihi/</link>
       <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/beosun-k%C4%B1sa-tarihi/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/BeLogo-with-black-background.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Jean-Louis Gassée 1990 yılında Apple&amp;rsquo;dan ayrıldıktan sonra Steve Jobs gibi kendi firmasını Be Inc. adıyla 1991 yılında kurdu. At&amp;amp;T tarafından geliştirilen RISC tabanlı &amp;ldquo;&lt;em&gt;Hobbit&lt;/em&gt;&amp;rdquo; isimli işlemciye sahip bir bilgisayar geliştirmekle kalmadı bu bilgisayar için bir işletim sistemi de hazırlamaya koyuldu. Bilgisayarın adı &lt;em&gt;&lt;strong&gt;BeBox&lt;/strong&gt;&lt;/em&gt; oldu ancak 1995 yılında AT&amp;amp;T Hobbit işlemcisini geliştirmeyi bıraktı ve Gassée&amp;rsquo;nin bilgisayar tasarımı yarı yolda kaldı.&lt;/p&gt;
 &lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;full&amp;rdquo; ids=&amp;ldquo;4031&amp;rdquo; justified_image_grid row_height=500]&lt;/p&gt;
-&lt;p&gt;Gassée kolay vaz geçen biri değildi, hemen bilgisayarını iki 66 Mhz hızında PowerPC 603 işlemcisi ile donattı, hazırladığı işletim sistemi de C ve C++ diliyle yazılmış olduğundan kolaylıkla yeni işlemciye uyarlandı ve BeBox 1996 yılı Ocak ayında kullanıcı ile buluştu. Bilgisayarı alanlar fazlasıyla memnun kaldılar üründen. Bilgisayar kasası üzerinde işlemci performansını gösteren &amp;ldquo;&lt;em&gt;blinkenlight&lt;/em&gt;&amp;rdquo; LED ışıklar, stabil, isometirk ikonlara sahip işletim sistemi herkesi fazlasıyla memnun etti.&lt;/p&gt;
-&lt;p&gt;Fakat bilgisayar üretmek pahalı ve sıkıntılı bir iş olduğundan Be Inc. yazılım işine yöneldi, hazır Apple&amp;rsquo;da PowerPC yongaları kullanırken işletim sistemini Apple&amp;rsquo;da çalışabilecek şekilde uyarladı. O dönem Apple&amp;rsquo;ın işletim sistemi konusunda sıkıntı çektiği dönem olduğundan Gassée&amp;rsquo;nin amacı BeOS&amp;rsquo;u Apple&amp;rsquo;a satmak oldu ancak istediği yüksek fiyatı Apple kabul etmedi ve Gassée&amp;rsquo;nin hayalleri suya düştü. Apple sonraki yıllarda donanımı ile ilgili bilgileri işletim sistemi geliştirebilecek kadar yazılımcılar ile paylaşmamaya karar verdiğinden BeOS&amp;rsquo;un Apple bilgisayarlar üzerinde geliştirilmesi sona erdi ve Intel X86 mimarisine doğru yöneldi.&lt;/p&gt;
-&lt;p&gt;Mart 1998&amp;rsquo;de BeOS R3 hem PowerPC hem X86 tabanlı bilgisayarlar için piyasaya sürüldü. Version R4 sadece x86 için 1999 başında, R4.5 ise 1999 ortalarında kullanıma sunuldu.&lt;/p&gt;
-&lt;p&gt;2000 yılında BeOS R5 sürümünü Windows içerisinden çalışabilecek 512 MByte&amp;rsquo;lık bir dosya halinde ücretsiz dağıttı. 1 milyondan fazla kişiye ulaşan bu sürüm BeOS&amp;rsquo;un kitleler tarafından tanınmasını sağlamış oldu. R5 Professional Edition ise bütün halinde tam bir işletim sistem olarak 99 US$&amp;lsquo;a satılıyordu.&lt;/p&gt;
-&lt;p&gt;BeOS R5 stabil yapısı ve Windows’a alternatif olabilecek medya oynatabilme becerileri ile yoğun ilgi gördü. Önceki sürümler için üretilen çoğu freeware ve shareware araç R5 için güncellendi. Bununla birlikte PC için işletim sistemi geliştirmek fazlasıyla meşakkatli bir işti. Gassee’de bunun farkındaydı. Her donanım için sık sık güncellenecek ve cihazın tüm yeteneklerini kullanabilecek aygıt sürücüleri yazmak, kullanıcılara destek sağlamak, 3. parti üreticilerden BeOS desteği sağlamalarını istemek çok ama çok zordu.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/20220213-113532-747.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Bütün bunları göz önüne alan Gassée BeOS’un popülerliğinden yararlanarak tüm haklarını 2001 yılında Palm&amp;rsquo;a sattı.&lt;/p&gt;
-&lt;p&gt;BeOS’un 5.1 beta sürümü sonrasında elden ele dolaştı ve Dano ismiyle bir dönem kullanıldı. Palm BeOS’u geliştirmeyeceğini duyurduktan sonra YellowTAB ve Magnussoft BeOS Zeta sürümlerini yayınladılar. BeOS sonraki yıllarda Haiku OS adıyla açık kaynak kodlu olarak gelişimini sürdürdü ve halen sürdürmeye devam ediyor.&lt;/p&gt;
-</description>
+&lt;p&gt;Gassée kolay vaz geçen biri değildi, hemen bilgisayarını iki 66 Mhz hızında PowerPC 603 işlemcisi ile donattı, hazırladığı işletim sistemi de C ve C++ diliyle yazılmış olduğundan kolaylıkla yeni işlemciye uyarlandı ve BeBox 1996 yılı Ocak ayında kullanıcı ile buluştu. Bilgisayarı alanlar fazlasıyla memnun kaldılar üründen. Bilgisayar kasası üzerinde işlemci performansını gösteren &amp;ldquo;&lt;em&gt;blinkenlight&lt;/em&gt;&amp;rdquo; LED ışıklar, stabil, isometirk ikonlara sahip işletim sistemi herkesi fazlasıyla memnun etti.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Lawnmower Deth geri döndü!</title>
       <link>https://darkestnotes.org/posts/lawnmower-deth-geri-d%C3%B6nd%C3%BC/</link>
       <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/lawnmower-deth-geri-d%C3%B6nd%C3%BC/</guid>
       <description>&lt;p&gt;Thrash ve speed metalin zirve yaptığı 80’li yılların sonu 90’ların başında sert müzik yapan grupların imajı genelde korkunç, asık suratlı, öfkeli ve asiydi. Bu, o dönem gruplarının olmazsa olmaz özelliğiydi. Lawnnmower Deth işte tam o dönemde eğlenceli, zıpır, absürt şarkı sözleri, çizgi filmlerden fırlamış efekt ve albüm kapaklarıyla heavy metal dünyasının ortasına düşüverdi.&lt;br&gt;
 &lt;img loading=&#34;lazy&#34; src=&#34;images/Lawnmower_Deth-Blunt_Cutters.jpg&#34; alt=&#34;&#34;  /&gt;
-İlk gördüğüm zamanları hatırlıyorum da “&lt;em&gt;Bunlar da ne böyle!&lt;/em&gt;” demiştim ve çok ilgilenmemiştim. Ama sonraları hem sert ve hızlı müzikleri, kısa, karmaşık, zorlu ve akılda kalıcı riffleriyle istemeye istemeye dinlemeye başlamış sonrasında sıkı bir takipçileri olmuştum. Thrash Metal / Punk Rock tarzında müzik yapan İngiliz grup 1989 yılında Metal Duck ile split albümleri &lt;strong&gt;Mower Liberation Front&lt;/strong&gt; / &lt;strong&gt;Quack’em All&lt;/strong&gt; ve ardından 1990 yılında çıkardıkları &lt;strong&gt;Ooh Crikey! It’s Lawnmower Deth&lt;/strong&gt; ile zirveye ulaşmış 1992 tarihli Return of the &lt;strong&gt;Fabulous Metal Bozo Clowns&lt;/strong&gt; ve 1994 yılındaki &lt;strong&gt;Billy&lt;/strong&gt; ile ilk albümlerindeki enerjiyi yakalayamamış, sonrasında da dağılıp gitmişlerdi.&lt;/p&gt;
-&lt;p&gt;2022 yılında yeni albümleri &lt;strong&gt;Blunt Cutters&lt;/strong&gt;’ı çıkardılar. Aradan geçen 28 sene sonrasında yeni albümlerinde ilk albümlerindeki tadı alabilmek mümkün. Açılış parçası Into the Pit, Raise Your Snails, Blunt Cutters ve farklı tarzdaki Agency of C.O.B. albümdeki en başarılı parçalar.&lt;/p&gt;
-&lt;p&gt;🤟🏼 🤟🏼 🤟🏼 🤟🏼&lt;/p&gt;
-</description>
+İlk gördüğüm zamanları hatırlıyorum da “&lt;em&gt;Bunlar da ne böyle!&lt;/em&gt;” demiştim ve çok ilgilenmemiştim. Ama sonraları hem sert ve hızlı müzikleri, kısa, karmaşık, zorlu ve akılda kalıcı riffleriyle istemeye istemeye dinlemeye başlamış sonrasında sıkı bir takipçileri olmuştum. Thrash Metal / Punk Rock tarzında müzik yapan İngiliz grup 1989 yılında Metal Duck ile split albümleri &lt;strong&gt;Mower Liberation Front&lt;/strong&gt; / &lt;strong&gt;Quack’em All&lt;/strong&gt; ve ardından 1990 yılında çıkardıkları &lt;strong&gt;Ooh Crikey! It’s Lawnmower Deth&lt;/strong&gt; ile zirveye ulaşmış 1992 tarihli Return of the &lt;strong&gt;Fabulous Metal Bozo Clowns&lt;/strong&gt; ve 1994 yılındaki &lt;strong&gt;Billy&lt;/strong&gt; ile ilk albümlerindeki enerjiyi yakalayamamış, sonrasında da dağılıp gitmişlerdi.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Elder Scrolls Online -High Isle-</title>
       <link>https://darkestnotes.org/posts/elder-scrolls-online-high-isle-/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/elder-scrolls-online-high-isle-/</guid>
       <description>&lt;p&gt;Her yıl düzenli gelen hikaye ve ek paketleriyle yılların eskitemediği, çok eleştirilen ama piyasadaki belki de en iyi MMORPG’lerden olan Elder Scrolls Online’ın 2022 yılında yapacağı güncellemelerin tanıtımı yapıldı. Yıl içinde 4 farklı paketle gelecek güncellemeler ile oyuna 4 yeni dungeon daha eklenmiş olacak.&lt;br&gt;
 &lt;img loading=&#34;lazy&#34; src=&#34;images/Elder_Scrolls_Online-High_Isle.png&#34; alt=&#34;&#34;  /&gt;
-Oyuna eklenecek en önemli özellik kuşkusuz &lt;strong&gt;Tales of Tribute&lt;/strong&gt; adı verilen kart oyunu. Oyun içinde keşif ve quest’ler yoluyla bulunarak tamamlanacak kart destesiyle NPC’lerle veya gerçek kişiler ile oynamak mümkün olabilecek. Kart oyununu diğer benzerlerinden ayıran en güzel özellik ise iki rakibin desteleri birleştirip karıştırıldıktan sonra o deste ile oynanacak olması. Yani destesi iyi olan kazanacak diye bir durum yok.&lt;/p&gt;
-&lt;p&gt;Elder Scrolls Online’ı yıllar içinde ara vererek oynuyor olsam da, oyun kendini tekrar etmeye başlamış olsa da Elder Scrolls Online ekibinin belirli bir disiplin içinde yılda 4 ek paket üretiyor olması takdiri hak ediyor bence. Aylık ücretinin olmaması ile diğer pek çok MMORPG’den ayrılmasının yanında ESO Plus ücreti ile de en düşük harcamayı yaparak oynanabilen MMORPG’lerden biri.&lt;/p&gt;
-</description>
+Oyuna eklenecek en önemli özellik kuşkusuz &lt;strong&gt;Tales of Tribute&lt;/strong&gt; adı verilen kart oyunu. Oyun içinde keşif ve quest’ler yoluyla bulunarak tamamlanacak kart destesiyle NPC’lerle veya gerçek kişiler ile oynamak mümkün olabilecek. Kart oyununu diğer benzerlerinden ayıran en güzel özellik ise iki rakibin desteleri birleştirip karıştırıldıktan sonra o deste ile oynanacak olması. Yani destesi iyi olan kazanacak diye bir durum yok.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Netflix Witcher - Season 2</title>
       <link>https://darkestnotes.org/posts/netflix-witcher-season-2/</link>
       <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/netflix-witcher-season-2/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/wp-content/uploads/2021/12/netflix-witcherseason2.png.webp&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
-&lt;p&gt;Zamanın ne kadar hızlı akıp gittiğini, dizinin 2. sezonunu izlerken ilk sezon üzerinden 2 yıl geçtiğini fark edince bir kez daha idrak edebilme şansı buldum. 2019 yılının yine bu zamanlarında bir gün içinde tüm bölümleri izlemiştim. O yıl bol bol Gwent oynadığım ve Witcher kitapları okuyor olduğum için hikayenin ve evrenin içinde hissediyordum kendimi. Bu yıl için aynı şeyleri söylemek mümkün değil. Sezon 2&amp;rsquo;nin yayınlanacağı tarihi bile bir gün öncesinde öğrendim.&lt;/p&gt;
-&lt;p&gt;Yeni sezon büyük beklentiler yaratmadan geldiğinden anlaşılan öyle ki kimsenin büyük beklentisi yok. Oyuncular isteksiz biçimde rol almış &amp;ldquo;hadi bitse de gitsek&amp;rdquo; ruh halinde, senaryo çok ama çok zayıf, heyecan yaratalım diye serinin bilinen hikayesinin çok dışına çıkılmış, dizinin bitçesi de çok çok küçük anlaşılan aynı mekanlarda dolanıp durmuş oyuncular. Henry Cavill bana içinden sürekli &amp;ldquo;&lt;em&gt;Ne işim var burda benim?&lt;/em&gt;&amp;rdquo; diye düşünüyor gibi geldi sık sık. Büyük olasılıkla 3. sezon eğer çekilirse dizide yer almayacak, sakatlık hikayesi biraz uydurmaca bana kalırsa.&lt;/p&gt;
-&lt;p&gt;Dizinin senaryosunu ben yazıyor olsam veya yapımcısı olsam kitaptaki hikayeyi anlatmak, onu diziye uyarlamaya çalışmak yerine her bölümde farklı bir canavar ile witcher mücadelesinin konu edildiği küçük hikayeler yazardım. Çok daha eğlenceli ve keyifli olabilirdi.&lt;/p&gt;
-</description>
+&lt;p&gt;Zamanın ne kadar hızlı akıp gittiğini, dizinin 2. sezonunu izlerken ilk sezon üzerinden 2 yıl geçtiğini fark edince bir kez daha idrak edebilme şansı buldum. 2019 yılının yine bu zamanlarında bir gün içinde tüm bölümleri izlemiştim. O yıl bol bol Gwent oynadığım ve Witcher kitapları okuyor olduğum için hikayenin ve evrenin içinde hissediyordum kendimi. Bu yıl için aynı şeyleri söylemek mümkün değil. Sezon 2&amp;rsquo;nin yayınlanacağı tarihi bile bir gün öncesinde öğrendim.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Lord of the Rings Online</title>
       <link>https://darkestnotes.org/posts/lord-of-the-rings-online/</link>
       <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/lord-of-the-rings-online/</guid>
       <description>&lt;p&gt;Lord of the Rings’in atmosferik dünyasını yaşatan böylesine güzel bir oyunu ilk çıktığı zamanlarda (2007) neden fazla ilgi göstermemişim, nasıl atlamışım anlayabilmek mümkün değil. Betasını bir miktar incelediğimi, oyun için hesap açtığımı biliyorum ama öylesine bırakmışım pek oynamadan. Belki o yıllarda online oynanan ve aylık ücret ödenmesi gereken oyunlara biraz tedbirle yaklaşıyor, uzak durmaya çalışıyordum.&lt;/p&gt;
-&lt;p&gt;Lord of the Rings’i online bir oyun haline getirme fikri 1998 yılına kadar uzanıyor. Bu işe ilk kalkışan Sierra firması, online oyunlar konusunda aslında o yıllar için bir miktar deneyime sahip. Sıra tabanlı 1996 yılında çıkardıkları The Realm Online’ının oyun motorunu Lord of the Rings dünyasında kullanma fikri ile gerekli lisansı almayı başararak Middle-Earth Online isimli bir oyun üzerinde çalışmaya &lt;a href=&#34;https://www.engadget.com/2011-06-21-the-game-archaeologist-and-the-what-ifs-middle-earth-online.html&#34;&gt;başlamışlar.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Lord_of_the_Rings_Middle-Earth_Online-01.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Oyun piyasasında Ultim(img)a Online ve Everquest’in başarıları sonrası The Realm Online’ın 2D isometric oyun motorunun 3D’ye çevrilmesi gibi sancılı süreçler yaşadıktan sonra Sierra Vivendi’ye satılınca oyunun geliştirilme aşaması da sona ermiş.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Lord_of_the_Rings_Middle-Earth_Online-02.jpg&#34; alt=&#34;&#34;  /&gt;
-2007 yılına gelindiğinde Turbine Games sonunda online bir Lord of the Rings oyununu piyasaya sürmeyi başarmış.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Lord_of_the_Rings_Online-Logo.png&#34; alt=&#34;&#34;  /&gt;
-Yaklaşık 2 haftadır oyunu, sonuna ulaşmaya çalışmadan, sakin sakin, quest’leri ağır ağır okuyarak, grafikleri inceleyerek, müzikleri dinleyerek oynuyorum ve yıllardır ihmal ettiğim Lord of the Rings evreninin büyülü dünyasında kaybolmuş gibiyim bu aralar.&lt;/p&gt;
-&lt;p&gt;Oyunun World of Warcraft, Elder Scrolls Online veya Final Fantasy kadar geniş bir kitlesi yok ama ilk çıktığı yıllardan beri oynayan sadık bir hayran kitlesi var. Turbine Games tarafından geliştirilen oyunu 2017 yılında Standing Stone Games devralmış ve o zamandan bu yana çok büyük yenilikler getirmemiş oyuna. Arada çıkan ek paketler var hatta 10 Kasım’da &lt;a href=&#34;https://store-new.standingstonegames.com/gundabad/&#34;&gt;Fate of Gundabad&lt;/a&gt; paketi de çıkacak ama oyun ilk halinin özelliğini tutkulu biçimde koruyor.&lt;/p&gt;
-&lt;p&gt;Oyunun online oynayabilme kısmı ise bir hayli sıkıntılı. Data Center Amerika’da yer aldığından 140-150 ms. bekleme süresi ile oynanabiliyor ki PvMP için çok yüksek bir gecikme. Bununla birlikte yoğun saatlerde şiddetli lag yaşanıyor. Gecikme süresi değişmeyeceğinden yoğun saatlerde kalabalıktan uzak olmak için Amerika server’larında karakter yaratıp oynamak daha mantıklı gibi.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/LOTRO-Fishing.jpg&#34; alt=&#34;&#34;  /&gt;
-Oyun geliştirilme aşamasından başlayarak günümüze gelene kadar Lord of the Rings evrenini oldukça başarılı bir şekilde MMORPG bir oyun içine aktarıldığı görülebiliyor. Free to Play modeli ile piyasada yer edinmeye çalışan oynaması bedava olan oyunun daha keyifli hale gelebilmesi için satın alınması gereken özellikler ise Türkiye için oldukça pahalı.&lt;/p&gt;
-&lt;p&gt;Kısacası Lord of the Rings hikayesini farklı karakterlerin bakış açısıyla yeniden yaşamak ve hikayeye bağlı olarak oluşturulan son sayımlara göre 10.000’den fazla quest ile gelişen yeni lore’un tadına varmak isteyenlerin kaçırmaması gereken bir başyapıt Lord of the Rings Online…&lt;/p&gt;
-</description>
+&lt;p&gt;Lord of the Rings’i online bir oyun haline getirme fikri 1998 yılına kadar uzanıyor. Bu işe ilk kalkışan Sierra firması, online oyunlar konusunda aslında o yıllar için bir miktar deneyime sahip. Sıra tabanlı 1996 yılında çıkardıkları The Realm Online’ının oyun motorunu Lord of the Rings dünyasında kullanma fikri ile gerekli lisansı almayı başararak Middle-Earth Online isimli bir oyun üzerinde çalışmaya &lt;a href=&#34;https://www.engadget.com/2011-06-21-the-game-archaeologist-and-the-what-ifs-middle-earth-online.html&#34;&gt;başlamışlar.&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Iron Maiden - Senjutsu</title>
       <link>https://darkestnotes.org/posts/iron-maiden-senjutsu/</link>
       <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/iron-maiden-senjutsu/</guid>
       <description>&lt;p&gt;Neredeyse yaşım kadar (45) müzik geçmişi olan Iron Maiden Senjutsu adını taşıyan 2 diskten oluşan ve 81 dakika uzunluğa sahip 17. stüdyo albümlerini 3 Eylül’de çıkardı.&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Senjutsu-Cover.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
-&lt;p&gt;2015 yılında çıkardıkları Book of Souls albümleri sonrasında açıkçası yeni bir albüm beklemiyor olmanın yanında bu kadar iyi bir albümü hiç beklemiyordum. İlk single Writing on the Wall ile birlikte özellikle blogumun ismi ve hayatımdaki en iyi şarkı olarak kabul ettiğim Megadeth’in In My Darkest Hour’u ile isminin benzeşmesi ile dikkat çeken Darkest Hour albümdeki en iyi şarkılar. Darkest Hour, 1992’den Wasting Love’ı hatırlatsa da çok çok iyi bir şarkı.&lt;/p&gt;
-&lt;p&gt;Bilboard listelerine en üst sıradan giren Iron Maiden albümü ünvanını da kazanan Senjutsu, benim kendi halindeki “&lt;em&gt;&lt;strong&gt;2021 Yılı En İyi Albümler&lt;/strong&gt;&lt;/em&gt;” listemde de rahatlıkla yerini almıştı zaten.&lt;/p&gt;
-</description>
+&lt;p&gt;2015 yılında çıkardıkları Book of Souls albümleri sonrasında açıkçası yeni bir albüm beklemiyor olmanın yanında bu kadar iyi bir albümü hiç beklemiyordum. İlk single Writing on the Wall ile birlikte özellikle blogumun ismi ve hayatımdaki en iyi şarkı olarak kabul ettiğim Megadeth’in In My Darkest Hour’u ile isminin benzeşmesi ile dikkat çeken Darkest Hour albümdeki en iyi şarkılar. Darkest Hour, 1992’den Wasting Love’ı hatırlatsa da çok çok iyi bir şarkı.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Manu Larcenet ve Sıradan Zaferler</title>
       <link>https://darkestnotes.org/posts/manu-larcenet-ve-s%C4%B1radan-zaferler/</link>
       <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/manu-larcenet-ve-s%C4%B1radan-zaferler/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Siradan_Zaferler.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;(&lt;em&gt;2017 yılından kalma bu eski taslak metin -blog’da yayımlanacaklar- klasöründe uzun süre bekledikten sonra bu ay yayımlanıyor&lt;/em&gt;.)&lt;/p&gt;
 &lt;p&gt;Ülkemizde çizgi-roman algısı, absürt hikayeler, cinsellik, abartılı küfür vb. içerik olarak algılanıp uygulandığından (kim bilir sürekli bu şekilde sunulduğundan alıcısı da hoşlanıyor demek) süper kahraman hikayeleri dışında doğru düzgün birşeyler okuyabilmek pek mümkün olamıyordu.&lt;/p&gt;
-&lt;p&gt;Tesadüfen elime geçen Manu Larcenet’in çizgi romanı &lt;em&gt;Sıradan Zaferler&lt;/em&gt; beni bu açıdan fazlasıyla tatmin etti. Temiz çizimler, günümüz insanının sorunları, sürükleyici, uzun ama keyifli bir hikaye ve insanın kendisiyle biraz acı bir şekilde yüzleşmesi.&lt;/p&gt;
-&lt;p&gt;Ülkemizde mizah dergileri dışında yayınlanan roman-hikaye temalı çizgi öykülere ait geçmişten çok fazla örnek bilemiyorum. 1979&amp;rsquo;da İsmail Gülgeç&amp;rsquo;in Milliyet Çocuk dergisinde yayınlanan Yaşar Kemal&amp;rsquo;in İnce Memed uyarlaması. 1988&amp;rsquo;de Cumhuriyet Dergi’de yayınlanan Semih Poroy&amp;rsquo;un Fikret Adil’in Asmalımescid 74 uyarlaması ve diğer bir örnek ise Soner Tuna&amp;rsquo;nın Erica Jong&amp;rsquo;un Fanny romanından bir uyarlama en bilinenleridir.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Angouleme-1.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;2004 yılında &amp;ldquo;&lt;strong&gt;Angoulême En İyi Çizgi Roman&lt;/strong&gt;&amp;rdquo; ödülünü alan kitap ülkemizde Karakarga Yayınları tarafından yayımlandı. Yayınevinin karikatür dünyasındaki bu tarz önemli yayınları Türkçeye kazandırması çalışmalarını ilgiyle takip ediyorum.&lt;/p&gt;
-</description>
+&lt;p&gt;Tesadüfen elime geçen Manu Larcenet’in çizgi romanı &lt;em&gt;Sıradan Zaferler&lt;/em&gt; beni bu açıdan fazlasıyla tatmin etti. Temiz çizimler, günümüz insanının sorunları, sürükleyici, uzun ama keyifli bir hikaye ve insanın kendisiyle biraz acı bir şekilde yüzleşmesi.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Bitmap Books</title>
       <link>https://darkestnotes.org/posts/bitmap-books/</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/bitmap-books/</guid>
       <description>&lt;p&gt;İngiltere merkezli bir kitabevi &lt;a href=&#34;https://www.bitmapbooks.co.uk&#34;&gt;Bitmap Books&lt;/a&gt;. Retro bilgisayarlar ve oyun konsolları ile ilgili kitap araştıran birinin internette ilk gözüne çarpan firmalardan biri.&lt;/p&gt;
 &lt;p&gt;Ağırlıklı olarak retro bilgisayar-oyun konsol severlere yönelik kitaplar hazırlasalar da yine retro koleksiyon severlere yönelik Unofficial Micro Machines Collection gibi minyatür araba katalogları ve çizgi roman - manga türünden kitapları da yayına hazırlıyorlar.&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Bitmap_Books.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
-&lt;p&gt;Günümüzde özenerek hazırlanmış internet siteleri ciddi kullanıcı ve alıcıların gözünden kaçması mümkün olmuyor zaten. Bitmap Books’un internet sitesi de bu şekilde özenle hazırlanmış, satıştaki ürünlerin detaylı ve yüksek çözünürlüklü profesyonelce çekilmiş fotoğrafları ile alma niyeti oladan siteyi dolaşan kullanıcılarda bile alma isteği uyandırmayı başarabiliyor.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Bitmap_Books-Commodore-1.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Kitapların sayfa düzeni, tipografisi, kalitesi ise ayrıca profesyonel ölçülerde. Benim gibi yaşını başını almış retro meraklısı eski scener’ların arşivinde mutlaka bulunması gereken kitaplar.&lt;/p&gt;
-</description>
+&lt;p&gt;Günümüzde özenerek hazırlanmış internet siteleri ciddi kullanıcı ve alıcıların gözünden kaçması mümkün olmuyor zaten. Bitmap Books’un internet sitesi de bu şekilde özenle hazırlanmış, satıştaki ürünlerin detaylı ve yüksek çözünürlüklü profesyonelce çekilmiş fotoğrafları ile alma niyeti oladan siteyi dolaşan kullanıcılarda bile alma isteği uyandırmayı başarabiliyor.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Assembly64</title>
       <link>https://darkestnotes.org/posts/assembly64/</link>
       <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/assembly64/</guid>
       <description>&lt;p&gt;Ne zaman kendim yapmayı hayal ettiğim bir programı görsem hem şaşkınlığa uğrarım, hem de programcısına saygı duyarım. Assembly64’de bu tür programlardan biri.&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Assembly64.png&#34; alt=&#34;&#34;  /&gt;
@@ -209,71 +134,37 @@ Oyun geliştirilme aşamasından başlayarak günümüze gelene kadar Lord of th
 &lt;p&gt;Commodore 64 Scene Database (&lt;a href=&#34;https://csdb.dk/&#34;&gt;CsDB&lt;/a&gt;)’nin bir kopyasını bilgisayarda tutma imkanı vermesinin yanında ara ara güncellemesi scene dünyasından uzak kalınan zamanlarında telafisini sağlıyor. Java ile yazılan programın arama fonksiyonunun tam anlamıyla çalışabilmesi için 5€ bağış yapmak gerekiyor.&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Assembly64-Installed-Hero.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
-&lt;p&gt;Kullanmaya başladığım zamandan beri neredeyse aradığım her demo’yu internetten indirme mecburiyeti kalmadan ulaşabildim. Bunun yanında HVSC’nin bir kopyası da bilgisayara yükleniyor, kimi demoların SID dosyaları da aynı klasör altından erişilebilir oluyor. Programın sabit sürücüde açacağı delik ise yaklaşık 28 GByte!&lt;/p&gt;
-&lt;p&gt;Yavaş yavaş, tek developer ile geliştirlen bir program olması nedeniyle kullanımı zaman zaman pek kolay değil, bug’lar mevcut ve kimi zaman kolaylıkla yapılabilecek işlemler için biraz dolambaçlı yollardan geçmek gerekiyor.&lt;/p&gt;
-&lt;p&gt;Kullanımı biraz karmaşık olsa da Commodore 64 scene dünyasında gezinmeyi zevkli hale getiren bir uygulama.&lt;/p&gt;
-</description>
+&lt;p&gt;Kullanmaya başladığım zamandan beri neredeyse aradığım her demo’yu internetten indirme mecburiyeti kalmadan ulaşabildim. Bunun yanında HVSC’nin bir kopyası da bilgisayara yükleniyor, kimi demoların SID dosyaları da aynı klasör altından erişilebilir oluyor. Programın sabit sürücüde açacağı delik ise yaklaşık 28 GByte!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>IBMulator</title>
       <link>https://darkestnotes.org/posts/ibmulator/</link>
       <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/ibmulator/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/IBMulator-PS1_Realistic_View.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Soğuk kış günlerinde evde otururken nedense aklıma 1991 yılı sonu 1992 yılı başlarındaki soğuk bir kış gününde babamla IBM PS/1 bakmaya gittiğimiz gün geldi. Commodore 64 sonrası geleceğe dönük bir bilgisayar alma düşüncesi ile Amiga mı yoksa PC uyumlu bilgisayar mı alalım diye düşünürken TV&amp;rsquo;de reklamlarını gördüğümüz IBM PS/1 modeli neyin nesiymiş bakmaya gitmiştik soğuk bir Cumartesi akşam üzeri.&lt;/p&gt;
-&lt;p&gt;Mağaza sahibi bizimle fazlasıyla ilgilenmiş, oğlu hemen teşhirdeki ürünü kullanıma hazır hale getirmişti. Bilgisayar boot ederken hoparlöründen gelen &amp;ldquo;&lt;em&gt;beep-blüp&lt;/em&gt;&amp;rdquo; sesleri ve sonrasında 640x480x16 renkli ekranına gelen 4-Quadrant ile bizi orada büyülemişti bilgisayar. 640x480 çözünürlüklü renkli grafikler o zamanlar için günümüzün 4k teknolojisi gibi birşeydi. Yalnız anlaşılan şuydu ki IBM elinde kalan eski model PS/1&amp;rsquo;leri yeni modelleri çıkarmadan önce Türkiye&amp;rsquo;de satabilme çabasında idi. 1990 yılında üretilen ve 1991 yılının hemen başında Amerika ve Avrupa&amp;rsquo;da satılan bu ilk PS/1 modelleri &amp;ldquo;&lt;strong&gt;&lt;em&gt;5 Dakika ve İşin İçindesiniz&lt;/em&gt;&lt;/strong&gt;&amp;rdquo; gibi bir sloganla PC kullanmaya çekinen kitleleri PC dünyasına çekebilmek için üretilmişti. Zaten bu 4 quadrant hikayesi de Macintosh&amp;rsquo;un grafik kullanıcı arabiriminin benzerini PC dünyasına taşıma çabasıydı. Neyse sonuçta bu bilgisayarlar fazlasıyla eski bir teknolojiye sahipti. Türkiye&amp;rsquo;ye gelen 4 model 80286-10 MhZ işlemcili, renkli-renksiz ekranlı ve 30 MByte HDD&amp;rsquo;li, HDD&amp;rsquo;siz modellerden oluşuyordu. Sonuçta Türkiye&amp;rsquo;de bu cihazlardan kaç adet satıldı ne oldu bilemiyorum ama sonraki model PS/1&amp;rsquo;lerin hiçbiri Türkiye&amp;rsquo;ye gelmedi onu biliyorum. Dükkanda teşhirde incelediğim model HDD&amp;rsquo;si olmayan bir modeldi, HDD&amp;rsquo;li olsa belki o gün orada satın alınırdı ama almadık.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/PS1-4Quadrant.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;4 quadrant ekranı ve o arabirimin nasıl çalıştığını hep merak edip durdum sonrasında. Internet zamanında bile bu bilgisayar ile ilgili bilgi bulmak oldukça zor olmuştu. Macintosh&amp;rsquo;u andıran kasası ve orijinal mikrokodu ile tam bir koleksiyon ürünü olmuştu kendisi.&lt;/p&gt;
-&lt;p&gt;Yıllar sonra Marco Bortolin ismindeki IBM PS/1 meraklısı bir arkadaş, oturdu üşenmedi ve bir &lt;a href=&#34;https://barotto.github.io/IBMulator/&#34;&gt;IBM PS/1 emülatörü&lt;/a&gt; yazdı. Birkaç yıldır biraz geliştirilmesini bekledim ve geçtiğimiz haftalar içinde detaylıca inceledim. 4 Quadrant arabirimini ve bilgisayar ile yüklü gelen programları detaylıca inceleyip kurcaladım biraz. IBMulator&amp;rsquo;da IBM PS/1 için üretilen Audio/Joystick ses kartının emülasyonu bile var. Çok az Sierra oyununun desteklediği bu kartın nasıl ses verdiğini de görebilmiş olmak 30 yıl öncesinin anılarını tekrar canlandırdı.&lt;/p&gt;
-</description>
+&lt;p&gt;Mağaza sahibi bizimle fazlasıyla ilgilenmiş, oğlu hemen teşhirdeki ürünü kullanıma hazır hale getirmişti. Bilgisayar boot ederken hoparlöründen gelen &amp;ldquo;&lt;em&gt;beep-blüp&lt;/em&gt;&amp;rdquo; sesleri ve sonrasında 640x480x16 renkli ekranına gelen 4-Quadrant ile bizi orada büyülemişti bilgisayar. 640x480 çözünürlüklü renkli grafikler o zamanlar için günümüzün 4k teknolojisi gibi birşeydi. Yalnız anlaşılan şuydu ki IBM elinde kalan eski model PS/1&amp;rsquo;leri yeni modelleri çıkarmadan önce Türkiye&amp;rsquo;de satabilme çabasında idi. 1990 yılında üretilen ve 1991 yılının hemen başında Amerika ve Avrupa&amp;rsquo;da satılan bu ilk PS/1 modelleri &amp;ldquo;&lt;strong&gt;&lt;em&gt;5 Dakika ve İşin İçindesiniz&lt;/em&gt;&lt;/strong&gt;&amp;rdquo; gibi bir sloganla PC kullanmaya çekinen kitleleri PC dünyasına çekebilmek için üretilmişti. Zaten bu 4 quadrant hikayesi de Macintosh&amp;rsquo;un grafik kullanıcı arabiriminin benzerini PC dünyasına taşıma çabasıydı. Neyse sonuçta bu bilgisayarlar fazlasıyla eski bir teknolojiye sahipti. Türkiye&amp;rsquo;ye gelen 4 model 80286-10 MhZ işlemcili, renkli-renksiz ekranlı ve 30 MByte HDD&amp;rsquo;li, HDD&amp;rsquo;siz modellerden oluşuyordu. Sonuçta Türkiye&amp;rsquo;de bu cihazlardan kaç adet satıldı ne oldu bilemiyorum ama sonraki model PS/1&amp;rsquo;lerin hiçbiri Türkiye&amp;rsquo;ye gelmedi onu biliyorum. Dükkanda teşhirde incelediğim model HDD&amp;rsquo;si olmayan bir modeldi, HDD&amp;rsquo;li olsa belki o gün orada satın alınırdı ama almadık.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>World of Warcraft - Shadowlands</title>
       <link>https://darkestnotes.org/posts/world-of-warcraft-shadowlands/</link>
       <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/world-of-warcraft-shadowlands/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/og_image.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Aylar öncesinden yapılan ön-sipariş ve sonrasında yaşanan uzun bekleyiş süreci sonunda 16 yıllık MMO World of Warcraft’ın 8. genişleme paketi Shadowlands bilgisayarlarımızdaki yerini aldı. 16 yıl önce çıkmasına rağmen ek paketleri sayesinde sadık oyuncu kitlesine zaman zaman katılan yeni oyuncular ile birlikte macerasını sürdürmeye devam ediyor World of Warcraft.&lt;/p&gt;
-&lt;p&gt;Yeni ek paket ile ölüler dünyasının kapısı açılıyor bizlere. Bu demek oluyor ki 16 yıldır oyun boyunca öteki tarafa göç eden bütün kahraman veya anti-kahramanalar ile tekrar karşılaşabiliriz. Senaryo-Quest yazarları ve Loremaster’lar için biçilmiş kaftan. Konu sıkıntısı çekildiği anda yapılacak tek birşey var. “Çıkar oradan çok sevilen bir kahramanı”&lt;/p&gt;
-&lt;p&gt;Shadowlands’in çıktığı ilk günler serverların çökeceği, oyuna login olabilmek için sıra bekleneceği malumdu zaten, oyuna giriş yapan şanslıların ise saatler boyu lag olmadan oynayabileceğini düşünmek fazlasıyla iyimserlik olurdu. Blizzard’ın oyunla ilgili inanılmaz bir hype yakalamayı başarmış olması bu sıkıntılı süreci bir miktar uzatsa da sonrasında yavaş yavaş normale döndü herşey. Bilen bilmeyen herkesin WoW oynadığı bir haftayı geride bırakmış olduk.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/WoW-Shadowlands-Loading_Screen.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Oynamayı becerebildiğim kadarıyla Shadowlands dünyasındaki bazı haritalar -özellikle Bastion- bana fazlasıyla aetherial geldi. Maw ve Bastion haritaları sanki yarım kalmış haritalar gibi. World Designer’lar işe başlamış, ortasına kadar gelmişler ama bir anda apar topar iş bitmiş yarım kalmış gibi. Günümüzde çoğu oyun bu şekilde işin kolayına kaçıyor zaten. Mesela çoğu açık dünya oyunun haritası çöl ve benzeri nispeten çıplak alanlardan oluşuyor. Buna pastel renkleri ve kontrastı eklediğin anda herkes hayranlıkla izliyor grafikleri. Hem GPU yorulmuyor hem World Designer, hem de performans yüksek.&lt;/p&gt;
-&lt;p&gt;WoW’un Maw haritası bu şekilde, dümdüz toz toprak. Sonra Bastion’a geçince acayip bir parlaklık, ne de olsa cennetteyiz. Etrafı bulutlar ile çevrili yeni bir çöl. Buradaki karakterler desen fantastik bir bilim kurgu filminden çıkma robot-insan karışımı metalik yaratıklar. FRP-RPG dünyamızın ikinci bir bilim-kurgu filmi dünyasına dönüştüğünü görmek çok acı. Haritaları beğenebilir çoğu oyuncu ama bir World of Warcraft dünyası değil bu.&lt;/p&gt;
-&lt;p&gt;Ben Goldshire’ın sıcaklığında NPC’ler ile takılmak, Darkshore’un karanlık atmosferi içinde avlanmak istiyorum. Bu tuhaf anlaşılmaz mistik bilim-kurgu dünyasında işim yok benim.&lt;/p&gt;
-&lt;p&gt;World of Warcraft genişleme paketlerinin ne olup olmadığı 3-5 ay sonra anca belli olur. Şu hype döneminde herkes “Mükemmel!” çığlıkları atıyorken eleştirel birşeyler yazabilmek çok çok güç.&lt;/p&gt;
-&lt;p&gt;Neyse ben Legion döneminden kalma Class Mount questlerimi tamamlayayım, sonrasında biraz Cyberpunk, ondan sonra vaktim kalırsa Shadowlands’e uğrarım.&lt;/p&gt;
-</description>
+&lt;p&gt;Yeni ek paket ile ölüler dünyasının kapısı açılıyor bizlere. Bu demek oluyor ki 16 yıldır oyun boyunca öteki tarafa göç eden bütün kahraman veya anti-kahramanalar ile tekrar karşılaşabiliriz. Senaryo-Quest yazarları ve Loremaster’lar için biçilmiş kaftan. Konu sıkıntısı çekildiği anda yapılacak tek birşey var. “Çıkar oradan çok sevilen bir kahramanı”&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Microsoft Flight Simulator 2020</title>
       <link>https://darkestnotes.org/posts/microsoft-flight-simulator-2020/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/microsoft-flight-simulator-2020/</guid>
       <description>&lt;p&gt;[caption id=&amp;ldquo;attachment_3589&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;480&amp;rdquo;]&lt;img loading=&#34;lazy&#34; src=&#34;images/MSFS-2020-Cover-2.jpg&#34; alt=&#34;&#34;  /&gt;
  Şu güzel havalı kapağı görüp de oyunu almamak olur mu?[/caption]&lt;/p&gt;
 &lt;p&gt;Microsoft’un ilk kez 1982 yılında 8 bitlik bilgisayarlar ile oyun dünyasına tanıştırdığı uçuş simülasyonu 2020 yılı sürümü ile 18 Ağustos’da karşımıza çıktı. 90 küsur GigaByte download sonrasında oynanabilir hale gelen oyun önemli teknolojik geliştirmeleri içinde barındırıyor.&lt;/p&gt;
-&lt;p&gt;Kuşkusuz bunlardan en önemlisi ve nasıl çalışacağı merakla bekleneni, oyunun haritasının gerçek dünya ile birebir olarak Microsoft Bing harita sisteminden alınmasıydı. Uçuş sırasında harita internetten online olarak indiriliyor ve &lt;a href=&#34;https://blackshark.ai&#34;&gt;Blackshark.ai&lt;/a&gt; sistemi ile 3 boyutlu hale getiriliyor. Böylece birebir gerçek dünya haritası üzerinde uçabilme imkanına kavuşmuş oluyoruz. Yadsınamayacak büyüklükte önemli bir teknoloji adımı oyun dünyası için.&lt;/p&gt;
-&lt;p&gt;[caption id=&amp;ldquo;attachment_3896&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;2560&amp;rdquo;]&lt;img loading=&#34;lazy&#34; src=&#34;images/MSFS-Icon-A5-Over-Finland.png&#34; alt=&#34;&#34;  /&gt;
- Batmayan güneşe doğru Finlandiya ormanları üzerinde&amp;hellip;[/caption]&lt;/p&gt;
-&lt;p&gt;Oyunu oynamadan bu sistemin nasıl çalışacağı konusunda bazı şüphelerim vardı. Şehirlerden uzak doğal güzellikler içinde uçuş yapıldığında sistem oldukça iyi çalışıyor, gerçek bir dünya üzerinde uçuluyor. Bununla birlikte şehir üzeri uçuşlarında bazı sıkıntılar var. Şöyle ki Bing harita sisteminde detaylandırılmış haritalara sahip şehirler (örneğin New York) ve bölgeler Blackshark.ai ile başarılı bir biçimde 3 boyuta dönüştürülüyor ve gerçek harita üzerinde uçuş hissini yaratabiliyor. Ancak detaylı bilgisi olmayan şehirler ve bölgeler gerçekçiliği önemli ölçüde azaltan hatalı görüntülere yol açıyor. Mesela İstanbul’da Boğaz Köprüsü düz bir yol olarak gözüküyor, medeniyetten uzak ormanların içindeki kulübe yapıları büyük apartmanlar olarak 3D’ye çözümleniyor vb. Microsoft gerçeğin aynısını yapacağım derken zaman zaman olay gerçeklikten uzak bir paralel evrende geçmeye başlıyor neredeyse.&lt;/p&gt;
-&lt;p&gt;Elbette önemli şehirler ve landmarklar için eklenti paketleri ile haritaların detaylı ve gerçekçi olması sağlanacaktır (Londra şu an satılıyor örneğin) ama zaman zaman bana keyif vermeyen bir özellik oldu bu. Tüm dünya haritasında uçabilmek yerine belli bölgelerde detaylı ve gerçekçi haritalarda uçmak daha keyifli olurdu.&lt;/p&gt;
-&lt;p&gt;[caption id=&amp;ldquo;attachment_3588&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;2560&amp;rdquo;]&lt;img loading=&#34;lazy&#34; src=&#34;images/MSFS-2020-Icon-A5-Over-I%CC%87ztuzu-2.png&#34; alt=&#34;&#34;  /&gt;
- İztuzu&amp;rsquo;nu geride bırakıyorum.[/caption]&lt;/p&gt;
-&lt;p&gt;Anlayamadığım bir diğer konu ise görev yokluğu oldu. Bir önceki sürüm Flight Simulator X’de çok sayıda hem ilginç hem oyunun atmosferini artıran pek çok görev vardı. Büyük olasılıkla ileride çıkacak güncellemelerde eklenecektir görevler ama bu haliyle fazlasıyla bomboş bir oyun.&lt;/p&gt;
-&lt;p&gt;Simülasyon ve uçuş hissi kısmında söyleyebileceğim çok fazla şey yok, haliyle bir pilot değilim ve uçuş yardımlarını açarak oynuyorum oyunu. İnsan heyecanla kokpite dalıp uçuşa geçiyor. Ama sonrasında ne yapacağını bilemiyor. Amaçsız bir halde gökyüzünde dolaşıp haritadaki garipliklerle bir miktar eğlendikten sonra alakasız bir havaalanına iniş yaparken buluyorum kendimi.&lt;/p&gt;
-&lt;p&gt;Oyun bu haliyle henüz beta aşamasına bile geçememiş alpha aşamasında piyasaya sürülmüş gibi duruyor bence. 1-2 yıl sonra üzerinde tekrar konuşmak gerekir.&lt;/p&gt;
-</description>
+&lt;p&gt;Kuşkusuz bunlardan en önemlisi ve nasıl çalışacağı merakla bekleneni, oyunun haritasının gerçek dünya ile birebir olarak Microsoft Bing harita sisteminden alınmasıydı. Uçuş sırasında harita internetten online olarak indiriliyor ve &lt;a href=&#34;https://blackshark.ai&#34;&gt;Blackshark.ai&lt;/a&gt; sistemi ile 3 boyutlu hale getiriliyor. Böylece birebir gerçek dünya haritası üzerinde uçabilme imkanına kavuşmuş oluyoruz. Yadsınamayacak büyüklükte önemli bir teknoloji adımı oyun dünyası için.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

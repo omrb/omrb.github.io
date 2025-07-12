@@ -4,20 +4,18 @@
     <title>Assembly on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/assembly/</link>
     <description>Recent content in Assembly on Darkest Notes</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 12 Feb 2011 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/assembly/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Feb 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://darkestnotes.org/tags/assembly/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Programming</title>
       <link>https://darkestnotes.org/posts/programming/</link>
       <pubDate>Sat, 12 Feb 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/programming/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;If BASIC programming was like putting together an Airfix aeroplane kit with ready-made plastic parts, assembly-code programming was more like building a model suspension bridge from matchsticks.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.guardian.co.uk&#34;&gt;www.guardian.co.uk&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;a href=&#34;http://www.guardian.co.uk&#34;&gt;www.guardian.co.uk&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

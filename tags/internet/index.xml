@@ -4,128 +4,84 @@
     <title>Internet on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/internet/</link>
     <description>Recent content in Internet on Darkest Notes</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://darkestnotes.org/tags/internet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tweekly.fm Sona Geldi</title>
       <link>https://darkestnotes.org/posts/tweekly.fm-sona-geldi/</link>
       <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/tweekly.fm-sona-geldi/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tweekly.png#center&#34; alt=&#34;Tweekly&#34;  /&gt;
 
 Severek kullandığım bir internet servisi daha Twitter’ın API ulaşımını sonlandırması nedeniyle yolun sonuna geldi. Tweekly.fm basit bir uygulamaydı. Last.fm’e skroplanan şarkılardan haftalık olarak en çok dinlenen müzisyenleri filtreler ve bir tweet atardı -bu hafta en çok dinlediklerin- diye.&lt;/p&gt;
 &lt;p&gt;Bir start-up olarak açılan servise 13 Şubat 2015 tarihinde açılır açılmaz hemen üye olmuş ve desteklemiştim.
-Twitter’ı uzun yıllardır pek aktif kullanmasam da her hafta Tweekly.fm benim için çalışır ve timeline’ıma bir tweet atardı.&lt;/p&gt;
-</description>
+Twitter’ı uzun yıllardır pek aktif kullanmasam da her hafta Tweekly.fm benim için çalışır ve timeline’ıma bir tweet atardı.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Wordpress&#39;den Hugo&#39;ya Geçiş</title>
       <link>https://darkestnotes.org/posts/wordpressden-hugoya-ge%C3%A7i%C5%9F/</link>
       <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/wordpressden-hugoya-ge%C3%A7i%C5%9F/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/hugo-logo.png#center&#34; alt=&#34;Hugo&#34;  /&gt;
  2006 yılından beri çeşitli sitelerde yer alan blog&amp;rsquo;umu hosting firmamın PHP 8&amp;rsquo;i zorunlu tutması ve Wordpress tema ve eklentilerinin PHP 8 ile sorunlar çıkarması sebebiyle Hugo&amp;rsquo;ya geçirmeye karar verdim.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://darkestnotes.org/posts/hello-world/&#34;&gt;Wordpress&lt;/a&gt;&amp;lsquo;i 2015 yılından beri kullanıyordum ve herhangi bir sorunum yoktu. Bununla birlikte tema ve eklentilerin her güncelleme sonrası sorun çıkarabilecek olma ihtimali bie keyif kaçırıcı bir etkendi blog&amp;rsquo;um için.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; oldukça basit bir sisteme sahip. Text dosyalarını derleyerek statik, HTML tabanlı basit bir internet sitesi yaratıyor. Üstelik oluşturulan siteyi en basit hosting sisteminde bile host edebilmek mümkün çünkü geri planda çalışması gereken database ihtiyacı yok.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Go&lt;/strong&gt; programlama dili ile yazılan Hugo çok hızlı çalışıyor. C tabanlı bir dil olan Go, Google tarafından geliştiriliyor ve son yılların gözde programlama dillerinden. Python ile yazılmış çoğu uygulamanın Go&amp;rsquo;ya yöneldiği biliniyor.&lt;/p&gt;
-&lt;p&gt;Çok sayıda girdi bulunan blog&amp;rsquo;umun Hugo ile derlenmesi yaklaşık 10 saniye sürdü. Pratik ve hızlı olmasının yanında her yeni girdi eklendiğinde sitenin yeniden derlenmesi gerekiyor. Sık güncelleme yapılan siteler için çok uygun değil haliyle.&lt;/p&gt;
-&lt;p&gt;Bununla birlikte tüm blog&amp;rsquo;un Wordpress&amp;rsquo;den Hugo&amp;rsquo;ya aktarılması sorunsuz biçimde gerçekleşmedi maalesef. Çoğu resim dosyası yerli yerinde durmasına karşın bağlantılar bozulduğundan şu an için görüntülenemiyor. &lt;em&gt;Bu hataları düzeltir miyim? Düzeltmeye vaktim olur mu bilmiyorum.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;2006 yılından beri iyi kötü birşeyler karaladığım için Darkest Notes&amp;rsquo;un bir şekilde internet üzerinden ulaşılabilir olması için elimden geldiğince gayret gösteriyorum ama ileride ne olur bilemem.&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; oldukça basit bir sisteme sahip. Text dosyalarını derleyerek statik, HTML tabanlı basit bir internet sitesi yaratıyor. Üstelik oluşturulan siteyi en basit hosting sisteminde bile host edebilmek mümkün çünkü geri planda çalışması gereken database ihtiyacı yok.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>TweetBot&#39;a Veda!</title>
       <link>https://darkestnotes.org/posts/tweetbota-veda/</link>
       <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/tweetbota-veda/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/TweetBot.Ends_.jpeg&#34; alt=&#34;TweetBot.Ends&#34;  /&gt;
  Twitter&amp;rsquo;a 2008 yılında kaydolmuştum. O yıllarda sosyal medya daha yeni oluşmaya başlıyordu ve Twitter&amp;rsquo;daki tek amaç &lt;strong&gt;&lt;em&gt;o an ne yaptığını&lt;/em&gt;&lt;/strong&gt; bildirmekten ibaretti.&lt;/p&gt;
 &lt;p&gt;Yıllar geçtikçe işler değişti, Twitter büyüdü, artık takip edilmeyen hesapları bile size zorla göstermeye, aralara reklamlar almaya başladı. İşte o zamanlar Twitter&amp;rsquo;a sadece kendi timeline&amp;rsquo;ınıza ulaşmayı sağlayan programlar yaygınlaşmaya başladı. &lt;em&gt;Echofon&lt;/em&gt;, &lt;em&gt;Twitterrific&lt;/em&gt;, &lt;em&gt;Tweetie&lt;/em&gt;&amp;hellip;ve &lt;em&gt;&lt;strong&gt;TweetBot&lt;/strong&gt;&lt;/em&gt;!&lt;/p&gt;
-&lt;p&gt;Sadece takip ettiklerimi göstermesi ve reklamları timeline&amp;rsquo;ımın dışında tutması ile TweetBot 2011 yılından beri hem telefonumda hem de bilgisayarımda kullandığım bir program olmuştu.&lt;/p&gt;
-&lt;p&gt;Elon Musk sonrası Twitter&amp;rsquo;ın fazlasıyla değişeceğini tahmin ediyordum, twitter dışından başka programların API&amp;rsquo;ye ulaşımına elbette yasak getirecekti yeni Twitter yönetimi, hiç şaşırmadım.&lt;/p&gt;
-&lt;p&gt;Geçtiğimiz haftalarda TweetBot ve diğerlerinin API&amp;rsquo;ye ulaşması engellenince &lt;a href=&#34;https://mastodon.world/@omerb&#34;&gt;Mastodon&lt;/a&gt;&amp;lsquo;a doğru yol almak gerekli oldu. TweetBot geliştiricileri de zaten bu durumu önceden fark etmişler ve Mastodon için Ivory isimli programı hazırlamaya başlamışlardı.&lt;/p&gt;
-</description>
+&lt;p&gt;Sadece takip ettiklerimi göstermesi ve reklamları timeline&amp;rsquo;ımın dışında tutması ile TweetBot 2011 yılından beri hem telefonumda hem de bilgisayarımda kullandığım bir program olmuştu.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>SendToDropBox</title>
       <link>https://darkestnotes.org/posts/sendtodropbox/</link>
       <pubDate>Wed, 05 Jun 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/sendtodropbox/</guid>
       <description>&lt;p&gt;DropBox’ın ortaya çıkış sebebi insanların dosyaları paylaşabilmek için birbirlerine e-posta atmalarından kurtulması amaçlanmıştı. Bazen işyerinde oluşturulan dosyalarda akşam evde çalışabilme amacıyla kendime bile mail attığım olmuştur.&lt;/p&gt;
-&lt;p&gt;Bununla birlikte işyerinde DropBox’a erişebilme imkanı olmaması nedeniyle bazı dosyaları e-posta yoluyla DropBox hesabıma göndermenin yollarını ararken &lt;a href=&#34;https://sendtodropbox.com/&#34;&gt;sendtodropbox&lt;/a&gt; servisini buldum. DropBox’ın oluşum felsefesine ters düşse de servisin çok işime yaradığını ifade etmeliyim. Üstelik ücretsiz bir servis.&lt;/p&gt;
-</description>
+&lt;p&gt;Bununla birlikte işyerinde DropBox’a erişebilme imkanı olmaması nedeniyle bazı dosyaları e-posta yoluyla DropBox hesabıma göndermenin yollarını ararken &lt;a href=&#34;https://sendtodropbox.com/&#34;&gt;sendtodropbox&lt;/a&gt; servisini buldum. DropBox’ın oluşum felsefesine ters düşse de servisin çok işime yaradığını ifade etmeliyim. Üstelik ücretsiz bir servis.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Internet, HTML, Blog</title>
       <link>https://darkestnotes.org/posts/internet-html-blog/</link>
       <pubDate>Tue, 05 Feb 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/internet-html-blog/</guid>
       <description>&lt;p&gt;Internet’in hayatımıza girmesi ile birlikte, iyi kötü internet kullanan herkesin denemek istediği ilk şey kendi web sitesini hazırlamak olmuştur.&lt;/p&gt;
 &lt;p&gt;Bedava alan sağlayan ilk servisler&lt;a href=&#34;1&#34; title=&#34;see footnote&#34;&gt;[1]&lt;/a&gt; hazırda bulunan şablonları ile kullanıcıların web sitesi oluşturmasını kolaylaştırmıştır. Kişisel web sitesi oluşturmak isteyen herkes birazcık HTML öğrenmiş, siteler hazırlamış, renkli animasyonlu .GIF dosyaları ile ekranı ve arkaplanı doldurmuş, para kazanabilme umudu ile reklam bannerları ve dijital ziyaretçi sayısını gösteren sayaçlar eklemiştir.&lt;/p&gt;
-&lt;p&gt;Herhangi bir içerik bulundurmayan, sadece web sayfası nasıl oluşturulur mantığı ile hazırlanan bu sayfalar kısa sürede unutulmuş ve ortadan kalkmıştır bununla birlikte blog denilen çoğu zaman “&lt;em&gt;internet günlüğü&lt;/em&gt;” olarak yanlış bir anlam yüklenen oluşum ortaya çıkmıştır.&lt;/p&gt;
-&lt;p&gt;Ben blog yazmaya 2006 yılı ortalarında Google’ın &lt;a href=&#34;http://omerbalamir.blogspot.com&#34;&gt;Blogger&lt;/a&gt; servisi ile başlamıştım. Daha sonra 2008 yılında Türkiye’den blogger’a erişim yasaklandığında hem &lt;a href=&#34;http://omerb.posterous.com&#34;&gt;Posterous&lt;/a&gt;, hem &lt;a href=&#34;http://omerbalamir.livejournal.com&#34;&gt;Livejournal&lt;/a&gt;, hemde &lt;a href=&#34;http://omerbalamir.wordpress.com&#34;&gt;Wordpress’de&lt;/a&gt; birkaç denemem oldu, hepsinin kendine göre iyi ve kötü özellikleri vardı.&lt;/p&gt;
-&lt;p&gt;2 Aralık 2008’de Wordpress’de blog servisleri ile ilgili şöyle yazmışım;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Bir Blog servisinden neler ister blog yazarı ? Gerçekten bilemiyorum. Her servis kendine ait iyi özellikler sunuyor, birinde hoşuma giden, diğerinde olmuyor. Blogger, LiveJournal, ve WordPress… İçlerinde komple hizmet veren Blogger&lt;a href=&#34;2&#34; title=&#34;see footnote&#34;&gt;[2]&lt;/a&gt; gibi. Belki ilk göz ağrım, ondandır. Ama hemen hemen tüm istediklerimi yapabildim onunla.&lt;/p&gt;
-&lt;p&gt;LiveJournal’a widget eklenmiyor. WordPress’in de widget özelliği kısıtlı gibi. Bunlara karşılık ikisi de çok fazla sayıda tema içeriyor, seçilebilecek dizayn sayısı Blogger’a göre çok daha fazla.&lt;/p&gt;
-&lt;p&gt;Peki amaç ne ? Daha güzel gözüken bir blog mu yoksa içerik mi ? Her ikisi de önemli tabi, ama ben genelde dizayn kısmında takılıp kalıyorum. Şurası şöyle gözükse daha iyi olur, yada bu resim niye ortalanmadı gibi ufak tefek şeylere takılıp kalıyorum, içerik zenginleşemiyor.&lt;/p&gt;
-&lt;p&gt;Mesela bu yazı, WordPress’de yazdığım ilk yazı, ve nasıl görüneceğini merak ediyorum.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;Zamanla blog yazılarımda aslında internet kaynaklı belli türde paylaşımlar yaptığım ve bunlara kişisel bazı yorumlar eklediğimi gördüm. Tumblr. blog servisi de bu düşünceyle hazırlanmıştı.&lt;/p&gt;
-&lt;p&gt;7 ayrı kategoride hızlı bir şekilde paylaşım yapmak ve bunlarla ilgili kişisel görüşlerin yazılabildiği bu platform, benzerleri arasında hızlı yükseldi ve bende 2008 yılı sonunda tumblr. kullanmaya başladım.&lt;/p&gt;
-&lt;p&gt;Geçen hafta içinde tüm blog servislerinde oluşturduğum girdileri tumblr.’da bir araya toplamayı başardım. Pek çok ayrı blog servisinde, ayrı görsel özelliklerde hazırlansa da üretilen içerik kalıcı ve geçmişi özetler nitelikte oluyor. Blog servisleri kapansa da, görsel öğeler değişse de aslolan şey içerik.&lt;/p&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li&gt;Geocities, bedava alan sağlayan en uzun ömürlü servislerden birisidir.  &lt;a href=&#34;1&#34; title=&#34;return to article&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Blogger, kullandığım ilk blog servisidir (2006–2008)  &lt;a href=&#34;2&#34; title=&#34;return to article&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+&lt;p&gt;Herhangi bir içerik bulundurmayan, sadece web sayfası nasıl oluşturulur mantığı ile hazırlanan bu sayfalar kısa sürede unutulmuş ve ortadan kalkmıştır bununla birlikte blog denilen çoğu zaman “&lt;em&gt;internet günlüğü&lt;/em&gt;” olarak yanlış bir anlam yüklenen oluşum ortaya çıkmıştır.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>App.net</title>
       <link>https://darkestnotes.org/posts/app.net/</link>
       <pubDate>Sun, 13 Jan 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/app.net/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mgkq3tzndm1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
-&lt;p&gt;Twitter&amp;rsquo;ın bir ileri aşaması App.net olmalı. Reklam olmadan, yarattığımız içeriğin tümüyle kontrolümüz altında olması sosyal network&amp;rsquo;ün en önemli özelliklerinden biri.&lt;/p&gt;
-</description>
+&lt;p&gt;Twitter&amp;rsquo;ın bir ileri aşaması App.net olmalı. Reklam olmadan, yarattığımız içeriğin tümüyle kontrolümüz altında olması sosyal network&amp;rsquo;ün en önemli özelliklerinden biri.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Bloglar ve Blog Servisleri</title>
       <link>https://darkestnotes.org/posts/bloglar-ve-blog-servisleri/</link>
       <pubDate>Tue, 02 Dec 2008 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/bloglar-ve-blog-servisleri/</guid>
       <description>&lt;p&gt;Yaklaşık 2 yıldır blog yazarıyım (!)-(Blog yazarı ne demekse artık) İlk blog&amp;rsquo;um Google&amp;rsquo;ın &lt;a href=&#34;http://www.blogger.com/&#34;&gt;Blogger&lt;/a&gt;&amp;lsquo;ı oldu. Pek sık güncelleyemesem de ihtiyaçlarıma cevap veren yeterli bir sistemi ve yapısı vardı. Daha sonra &lt;a href=&#34;http://www.livejournal.com/&#34;&gt;LiveJournal&lt;/a&gt;&amp;lsquo;ı denedim. Normal blog yazılarından çok sosyal-iletişim yapısı ile dikkat çekiyordu. Bir diğer denemem Wordpress ile oldu. &lt;a href=&#34;http://www.wordpress.com/&#34;&gt;Wordpress&lt;/a&gt;&amp;lsquo;de temiz, yalın yapısı ile dikkat çekmesinin yanında, LiveJournal gibi widgetların yetersizliği, çoğu 3. parti widgetı reddetmesi nedeniyle pek gözüm tutmadı.&lt;/p&gt;
-&lt;p&gt;Döndük dolaşdık, yine Blogger&amp;rsquo;da karar kıldık gibi oldu.&lt;/p&gt;
-</description>
+&lt;p&gt;Döndük dolaşdık, yine Blogger&amp;rsquo;da karar kıldık gibi oldu.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>LibraryThing</title>
       <link>https://darkestnotes.org/posts/librarything/</link>
       <pubDate>Tue, 18 Nov 2008 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/librarything/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mhlpawjI2T1qz4rgp.gif&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;FriendFeed&amp;rsquo;den sonra internet sosyal platformları içerisinde beni en çok etkileyen &lt;a href=&#34;http://www.librarything.com&#34;&gt;LibraryThing&lt;/a&gt; oldu. Kütüphanenizi bilgisayar ortamında (daha doğrusu, internet ortamında) kataloglamak için geliştirilmiş. LibraryThing&amp;rsquo;in bedava kullanımı 200 kitaba kadar kayıt girmenize imkan veriyor. Kitapları ISBN numarasına göre aratabilir, yeni kitaplar ekleyebilir, var olan kayıtları diğer edisyonlar ile eşleştirebilirsiniz. Kitap kapak resimlerini ekleyebilir, okuduğunuz kitapların eleştiri/yorumlarını yapabilir, beğendiğiniz kitap türlerine göre yeni arkadaşlıklar kurabilirsiniz.&lt;/p&gt;
-&lt;p&gt;Tabi bu dediklerim kitap okuma kültürü gelişmiş ve internet kullanım seviyesi chat kültürünü aşmış ülkeler için geçerli. Türkiye&amp;rsquo;den kaç sayıda kullanıcı var bilemiyorum ama Ankara&amp;rsquo;da benden başka sadece 1 kişi var. :)&lt;/p&gt;
-</description>
+&lt;p&gt;Tabi bu dediklerim kitap okuma kültürü gelişmiş ve internet kullanım seviyesi chat kültürünü aşmış ülkeler için geçerli. Türkiye&amp;rsquo;den kaç sayıda kullanıcı var bilemiyorum ama Ankara&amp;rsquo;da benden başka sadece 1 kişi var. :)&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

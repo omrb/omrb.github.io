@@ -4,203 +4,97 @@
     <title>Apple on Darkest Notes</title>
     <link>https://darkestnotes.org/categories/apple/</link>
     <description>Recent content in Apple on Darkest Notes</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/categories/apple/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://darkestnotes.org/categories/apple/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MacBook Pro M1</title>
       <link>https://darkestnotes.org/posts/macbook-pro-m1/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/macbook-pro-m1/</guid>
       <description>&lt;p&gt;1992 yılında kullanmaya başladığım PC bilgisayarlar ile CPU olarak hep intel işlemcileri kullandım. Alternatif olarak AMD, Cyrix gibi farklı işlemciler olsa da hepsi x86 mimarisi kullanıldığından derlenen programların farklı performans göstermesi spesifik durumlar dışında pek olağan değildi.&lt;/p&gt;
 &lt;p&gt;Apple’da 2006 yılından itibaren Intel CPU kullanmaya başladıktan sonra bilgisayar dünyasında x86 mimarisinin alternatifi kalmamıştı.&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/m1_hero__gayysked51ym_large_2x.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
-&lt;p&gt;2020 sonunda Apple mimarisini kendi geliştirdiği ARM tabanlı M1 işlemcili ilk bilgisayarlarını piyasaya çıkardı. 5 nm teknolojisi ile üretilen CPU, 10 nm’nin altına yeni inebilen intel’in fazlasıyla öne geçmiş gibi görülüyor.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/MacBook_Pro-M1-01.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Şimdilik intel CPU’lar için derlenmiş uygulamaları Rosetta2 emülatörü ile çalıştırmayı başaran M1, eğer aynı uygulama kendisi için derlenirse 1.5 kat daha fazla performans verebiliyor.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/MacBook_Pro-M1-02-1.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Bununla birlikte Kasım 2020’de piyasaya çıkan işlemcide şu ana kadar donanımsal bir sorun veya açık ortaya çıkmadı.Eğer Intel toparlanıp teknolojisini ileri götürmeyi beceremezse ARM mimarisi ile Apple bir sonraki nesilde arayı fazlasıyla açacaktır.&lt;/p&gt;
-</description>
+&lt;p&gt;2020 sonunda Apple mimarisini kendi geliştirdiği ARM tabanlı M1 işlemcili ilk bilgisayarlarını piyasaya çıkardı. 5 nm teknolojisi ile üretilen CPU, 10 nm’nin altına yeni inebilen intel’in fazlasıyla öne geçmiş gibi görülüyor.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>MacOS Catalina</title>
       <link>https://darkestnotes.org/posts/macos-catalina/</link>
       <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/macos-catalina/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/MacOS_Catalina_Logo.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
-&lt;p&gt;Apple işletim sistemini her yıl güncelliyor ve yeni bir isimle piyasaya sürüyor. Son kullanıcı tarafında yeni bir işletim sistemi çıkmış gibi bir algı yaratılıyor. Hemen hemen hiçbir yeni ve önemli özellik olmamasına rağmen sanki yeni bir sürüm çıkarıyormuş hissiyatı yaratmak pek etik değil. Bununla birlikte her yıl yeni işletim sistemi çıkarma döngüsünü sürdürme çabası ile programlama aşaması aceleye getiriliyor ve daha önceki sürümde olmayan çok sayıda bug ile karşılaşma durumu, kullanıcının işletim sistemini kalite ve stabilite açısından da eleştirmesine sebep oluyor.&lt;/p&gt;
-&lt;p&gt;Aşağıda belli başlı yenilikleri sıraladım ama çoğunu ne kullandım ne de denedim açıkçası.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;32 bit uygulamalar artık çalışmayacak, tüm uygulamaların 64 bit olması zorunlu. Eskiden kalma ve artık güncellenmeyen uygulamalar ile vedalaşma zamanı.&lt;/li&gt;
-&lt;li&gt;iTunes artık tarih oldu. Kendisinden 3 farklı uygulama doğdu. Music, TV ve Podcasts.&lt;/li&gt;
-&lt;li&gt;Notes uygulamasında galeri görünümü geldi, aradığınız notu bulmak artık daha kolay.&lt;/li&gt;
-&lt;li&gt;Reminders, yenilendi, listeleri gruplandırılmış olarak görebilmek mümkün.&lt;/li&gt;
-&lt;li&gt;Sidecar ile yeni iPad&amp;rsquo;ler ikincil bir ekran olarak kullanılabiliyor. Deneme imkanım olmadı.&lt;/li&gt;
-&lt;li&gt;Screen Time, iPhone&amp;rsquo;larda olduğu gibi artık MacOS&amp;rsquo;da da var. Hangi işle ne kadar uğraşıldığını görebilmek ve çeşitli limitler belirlemek mümkün.&lt;/li&gt;
-&lt;li&gt;Safari&amp;rsquo;nin yeni bir açılış sayfası var. Sık ziyaret edilen, favori ve Siri tarafından önerilen web sayfaları diğer tüm güncel tarayıcılarda olduğu gibi Safari&amp;rsquo;de de var artık.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+&lt;p&gt;Apple işletim sistemini her yıl güncelliyor ve yeni bir isimle piyasaya sürüyor. Son kullanıcı tarafında yeni bir işletim sistemi çıkmış gibi bir algı yaratılıyor. Hemen hemen hiçbir yeni ve önemli özellik olmamasına rağmen sanki yeni bir sürüm çıkarıyormuş hissiyatı yaratmak pek etik değil. Bununla birlikte her yıl yeni işletim sistemi çıkarma döngüsünü sürdürme çabası ile programlama aşaması aceleye getiriliyor ve daha önceki sürümde olmayan çok sayıda bug ile karşılaşma durumu, kullanıcının işletim sistemini kalite ve stabilite açısından da eleştirmesine sebep oluyor.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>iOS 13</title>
       <link>https://darkestnotes.org/posts/ios-13/</link>
       <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/ios-13/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/top-new-ios-13-features.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;iOS 13 iPhone’larımıza geldi gelmesine ama sorunlarıyla birlikte geldi. Daha iOS 13 çıkmadan 13.1 betaları dağıtıldı, 13.1.1 sonrasında 13.1.2. Herşey içinde bulunsun derken Apple fazlasıyla karman çorman bir hale getirdi iOS’u. Bu durum ister istemez sistemde hantallaşmaya yol açıyor kuşkusuz.&lt;/p&gt;
-&lt;p&gt;Pek çok özelliği zaten ülkemizde kullanamıyoruz, bazı özelliklerinde farkında değiliz bile. Apple’ın iOS 13 sayfasında şöyle bir baktım neyi kullanıyorum, hangi özellikler bana faydalı diye, görünürde pek birşey yok.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Face ID eskisine göre daha hızlı çalışıyor.&lt;/li&gt;
-&lt;li&gt;Batarya süresinde günlük kullanımda rahatlıkla farkedilebilir bir artış var.&lt;/li&gt;
-&lt;li&gt;Optimize şarj denilen bir özellik var, telefonu nasıl şarj ettiğinizi öğreniyor ve buna göre tam şarjı, şarjdan çıkaracağınız zamana yakın tamamlıyor.¯\_(ツ)_/¯&lt;img loading=&#34;lazy&#34; src=&#34;images/Memoji-Emoji-iOS13.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/li&gt;
-&lt;li&gt;En güzel özellik ise kendi Memojinizi, emoji olarak kullanabilmek.&lt;/li&gt;
-&lt;li&gt;3D Touch ortadan kalkmış, yerine Haptic Touch gelmiş.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+&lt;p&gt;Pek çok özelliği zaten ülkemizde kullanamıyoruz, bazı özelliklerinde farkında değiliz bile. Apple’ın iOS 13 sayfasında şöyle bir baktım neyi kullanıyorum, hangi özellikler bana faydalı diye, görünürde pek birşey yok.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Things 3 ßeta</title>
       <link>https://darkestnotes.org/posts/things-3-%C3%9Feta/</link>
       <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/things-3-%C3%9Feta/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Things-3.gif&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;İlk duyurulduğu zamandan bu yana çok uzun zaman geçti. Apple iOS 7 ile yeni tasarım sürecine girince sil baştan yeniden oluşturulmaya başlandı. O yıllardan bu yana to-do list’lerin popülerliği büyük oranda azaldı.&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/things-3-is-coming.jpg&#34; alt=&#34;&#34;  /&gt;
- Tüm bunlara karşın betası için e-posta aldığımda bir an önce kullanabilmek için heyecanlanmadım değil. &lt;a href=&#34;https://darkestnotes.org/2016/08/07/ulysses/&#34;&gt;Ulysses&lt;/a&gt;’de de olan “Gol” sistemi Things’e de eklenmiş. Beni motive eder mi etmez mi tartışılır tabi. Yapacakları bitirdikçe ilerleyişi görmek güzel ama bitiremediğim şeyleri o listelerde görmek ve yapamayacağını fark etmek moral bozmuyor değil.&lt;/p&gt;
-</description>
+ Tüm bunlara karşın betası için e-posta aldığımda bir an önce kullanabilmek için heyecanlanmadım değil. &lt;a href=&#34;https://darkestnotes.org/2016/08/07/ulysses/&#34;&gt;Ulysses&lt;/a&gt;’de de olan “Gol” sistemi Things’e de eklenmiş. Beni motive eder mi etmez mi tartışılır tabi. Yapacakları bitirdikçe ilerleyişi görmek güzel ama bitiremediğim şeyleri o listelerde görmek ve yapamayacağını fark etmek moral bozmuyor değil.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ulysses</title>
       <link>https://darkestnotes.org/posts/ulysses/</link>
       <pubDate>Sun, 07 Aug 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/ulysses/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/ADA_Ulysses.png&#34; alt=&#34;ADA_Ulysses&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Yıllar önce kullandığım not alma -yazı yazma- programı Ulysses yenilenmiş, güncellenmiş, parlatılmış ve tekrar piyasaya çıkmış. Yaklaşık 118 ₺’lik fiyatını görünce şaşırdım tabi, önceden satın almış olduğum için bir indirim var mı acaba? diye bakarken bir upgrade ücreti olmadığını görünce hemen yükledim ve denemeye başladım, yüzeysel ilk izlenimlerim şu şekilde.&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Ulysses-Header.jpeg&#34; alt=&#34;Ulysses-Header&#34;  /&gt;
 &lt;/p&gt;
-&lt;p&gt;Uzun zamandır &lt;a href=&#34;https://bywordapp.com&#34;&gt;Byword&lt;/a&gt; kullanmakta olduğum düşünüldüğünde ve tuhaf bir biçimde -&lt;em&gt;eksiklikleriyle beraber&lt;/em&gt;- kullanmaya alışmış olduğumdan kendisinden kolay kolay vazgeçebileceğimi düşünmüyorum ancak Ulysses’de bazı özelliklerin fazlasıyla kullanışlı olması dikkatimi çekti.&lt;/p&gt;
-&lt;p&gt;Wordpress ve Medium’a yükleme seçeneklerini saymıyorum, Byword’de de var bu özellik. Bununla birlikte Wordpress için yayınlama seçenekleri daha detaylı Byword’e göre. Yazılan yazıların bir kütüphane içerisinde toparlanması fikri Byword’de göre oldukça ileri bir özellik. Journal, Blog vb. gruplar oluşturarak (ve bunlar için ayrı uygun ikonlar seçerek) yazıları gruplandırmak hoşuma gitti. Byword’de bu işlem için kaydedilen yazıları farklı klasörler içinde organize etmek gerekiyor. Yazılan yazılar için bir gol belirleme seçeneği ise bence Ulysses’in en önemli ve en çok hoşuma giden özelliği oldu. En az 200 kelime yazmak istiyorum diyorsunuz ve yazarken ne kadar ilerlediğinizi küçük bir ilerleme ikonu ile rahatça görebiliyorsunuz.&lt;/p&gt;
-&lt;p&gt;Bu tür programlarda her zaman programcıyı ve programlam ekibini merak eden bir kişi olmuşumdur. Ulysses’in çok güzel bir web sitesi var ve sitede ekip hakkında detaylı bilgi alabileceğiniz eğlenceli bir bölüm mevcut.&lt;/p&gt;
-&lt;p&gt;Mevcut özellikleri ile yazı yazma ihtiyaçlarım için aslında tam aradığım program. Yıllar önce satın aldığımdan yüksek fiyatını bir eksi olarak değerlendirmiyorum. Yazı yazarken kaç kelime yazdığımı Byword gibi alt satırda belli belirsiz görebilsem iyi olurdu diyeceğim ama gol özelliği ile bu eksisini kapatıyor gibi sanki.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Dock-Ulysses.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Ayrıca belirtmeden geçemeyeceğim, Ulysses’in ikonu Dock’da gerçekten -&lt;em&gt;Byword’e kıyasla&lt;/em&gt;- çok hoş duruyor.😉&lt;/p&gt;
-</description>
+&lt;p&gt;Uzun zamandır &lt;a href=&#34;https://bywordapp.com&#34;&gt;Byword&lt;/a&gt; kullanmakta olduğum düşünüldüğünde ve tuhaf bir biçimde -&lt;em&gt;eksiklikleriyle beraber&lt;/em&gt;- kullanmaya alışmış olduğumdan kendisinden kolay kolay vazgeçebileceğimi düşünmüyorum ancak Ulysses’de bazı özelliklerin fazlasıyla kullanışlı olması dikkatimi çekti.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>iPhone Hands-Free Siri with Cookie Monster</title>
       <link>https://darkestnotes.org/posts/iphone-hands-free-siri-with-cookie-monster/</link>
       <pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/iphone-hands-free-siri-with-cookie-monster/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/WobCmSoh9q8&#34;&gt;https://youtu.be/WobCmSoh9q8&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/WobCmSoh9q8&#34;&gt;https://youtu.be/WobCmSoh9q8&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>MacBook (Early 2015)</title>
       <link>https://darkestnotes.org/posts/macbook-early-2015/</link>
       <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/macbook-early-2015/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/MacBook-Space_Grey.jpeg&#34; alt=&#34;MacBook-Space_Grey&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Başka birşeyler almak için girdiğim teknoloji markette vakit geçirmek için dolandığım sırada, Apple ürünlerini incelerken gördüm geçtiğimiz yılın ilk çeyreğinde çıkan MacBook modelini. Nisan ayında ilk çıktığı zaman beğenmiş, incelemiş, almayı düşünmüş ancak fiyatı çok yüksek olduğundan ertelemiştim.&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/b_86829.jpg&#34; alt=&#34;b_86829&#34;  /&gt;
 &lt;/p&gt;
-&lt;p&gt;İncelemelerden okuduğum kadarıyla en büyük yeniliği klavyesinde taşıyordu. İlk bu özelliğini denemek için tuşlara dokunduğum an vuruldum. Düz, fazla çıkıntılı olmayan, bununla birlikte önceki modellere göre daha büyük tasarlanmış tuşlar. &lt;em&gt;Butterfly Mechanism&lt;/em&gt; diye adlandırmış Apple, tuşa basma hissi çok çok farklı ve keyifli bir deneyim sunuyor.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/macbook-12-butterfly-keyboard-switch-100572318-large.png&#34; alt=&#34;macbook-12-butterfly-keyboard-switch-100572318-large&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Daha sonra Force Touchpad&amp;rsquo;i denedim. Yavaşça güç uyguladım, ne değişiyor diye görmek amacıyla. İlk başta alışması biraz zor tabi ama zaten sözlük uygulamasını kullanmayı seven biriydim, ikinci kez kendine hayran bırakan bir özellik oldu.&lt;/p&gt;
-&lt;p&gt;Kısıtlı zamanda teknoloji markette bunları deneyebildim, fiyatı ve taksit seçenekleri de dikkatimi çekti. Hiçbir zaman bir Apple ürünü almak için mükemmel zaman değildir. Şimdi de öyle oldu. Ama kararımı vermiştim.&lt;/p&gt;
-&lt;p&gt;Cumartesi günü sabahtan teknoloji marketin yolu tutuldu ve Early 2015 olarak adlandırılan yeni MacBook bilgisayarın giriş modelini (1.1 Ghz, 256 MByte Flash Storage) satın aldım.&lt;/p&gt;
-&lt;p&gt;Küçüklüğü ve hafifliği ile MacBook Pro sonrası biraz oyuncak gibi gelse de, son yıllarda hesaplama ağırlıklı geliştirmeden, grafik ve fotoğraf düzenlemeye, güçlü GPU gerektiren oyunlardan oluşan bilgisayar kullanma alışkanlığımın web&amp;rsquo;de gezinti, müzik dinlemek ve yazı yazmak gibi minimal bir yöne evrildiği düşünüldüğünde aslında biçilmiş kaftan.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Broadwell-Package-Diagonal.jpg&#34; alt=&#34;Broadwell-Package-Diagonal&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;iNtel Core M 1.1 Ghz (&lt;a href=&#34;http://ark.intel.com/products/84666/Intel-Core-M-5Y31-Processor-4M-Cache-up-to-2_40-GHz&#34;&gt;5Y31&lt;/a&gt;) 64 bit, 14 nanometre teknolojisine sahip mobil işlemcisine sahip. GPU olarak Intel® HD Graphics 5300 barındırıyor. İşlemci soğutmaya ihtiyaç duymadığından, gereksiz gürültü de yok.&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;Entry Model&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;Base Model&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;Option&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Core M 1.1 Ghz (5Y31)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Core M 1.2 Ghz (5Y51)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Core M 1.3 Ghz (5Y71)&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;256 GB&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;512 GB&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;512 GB&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;8 GByte RAM&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;8 GByte RAM&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;8 GByte RAM&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;Klavye mükemmel, tuşlar birbirine yakın yerleştirilmiş ama daha büyük olduklarından parmaklarıma tam oturuyor ve tuşa basmanın verdiği keyfe diyecek yok. Bilgisayarın küçük olmasına alışamadım yalnız, klavyenin yanından tutup biryere koyarken tuşlara basıyorum yanlışlıkla.&lt;/p&gt;
-&lt;p&gt;Ses kalitesi gerçekten fazlasıyla iyi, güçlü ve net bir ses çıkıyor o küçük hoparlörlerden. Müzik dinlerken web&amp;rsquo;de gezinmek, mail&amp;rsquo;lere cevap vermek, birşeyler yazmanın keyfinin yanında eski CaseLogic iPad kılıfımın içine sığarak rahatlıkla taşınabilir olması da ayrı bir avantajı.&lt;/p&gt;
-&lt;p&gt;8-9 saatlik pil ömrü günlük yaptığım sıradan işler için çok uygun. Hafif, sessiz, mobil bilgisayar olması, klavyesinin rahat ve keyifli kullanımı sebebiyle iPad Mini&amp;rsquo;min yerini almaya başladı.&lt;/p&gt;
-&lt;p&gt;Gelelim eksilere. Bilgisayara şarj edilebilmesi için konulan USB-C portundan başka port yok. Bir dongle olmadan kapalı bir kutu gibi ve her şekilde kablosuz internete bağımlısınız, eski tarz konvansiyonel bilgisayar kullanıcılarına göre değil ama yavaş yavaş alışıyor gibiyiz.&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;P.S. Yaklaşık 3 aydır taslaklar içinde duran ve 24 Ekim 2015&amp;rsquo;de satın aldığım MacBook ile ilgili bu incelemeyi yeni modeller çıkmadan önce ancak(😬) yayınlayabiliyorum.&lt;/p&gt;
-</description>
+&lt;p&gt;İncelemelerden okuduğum kadarıyla en büyük yeniliği klavyesinde taşıyordu. İlk bu özelliğini denemek için tuşlara dokunduğum an vuruldum. Düz, fazla çıkıntılı olmayan, bununla birlikte önceki modellere göre daha büyük tasarlanmış tuşlar. &lt;em&gt;Butterfly Mechanism&lt;/em&gt; diye adlandırmış Apple, tuşa basma hissi çok çok farklı ve keyifli bir deneyim sunuyor.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>iOS 9</title>
       <link>https://darkestnotes.org/posts/ios-9/</link>
       <pubDate>Sun, 18 Oct 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/ios-9/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://d.pr/i/10hHo&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/10hHo&amp;#43;&#34; alt=&#34;&#34;  /&gt;
 &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;iOS 9 geçtiğimiz ay içinde 16 Eylül Çarşamba günü kullanılabilir oldu. Aylardır beta sürümlerini kullanıyor olsam da, bazı özellikleri ancak herkes tarafından kullanılabilir olduğunda, uygulamalar iOS 9 için güncellendiğinde anlaşılır hale gelebiliyor.&lt;/p&gt;
 &lt;p&gt;Internet üzerinde iOS 9 için yazılmış çok kapsamlı incelemeler yer alıyor. Rene Ritchie&amp;rsquo;nin 21000 kelimelik &lt;a href=&#34;http://www.imore.com/ios-9-review&#34;&gt;incelemesi&lt;/a&gt;, Federico Viticci&amp;rsquo;nin bir kitap kadar kapsamlı (48.000 kelime!) ve iPad ile yazılan &lt;a href=&#34;https://www.macstories.net/stories/ios-9-review/&#34;&gt;incelemelerinde&lt;/a&gt; detaylar mevcut.&lt;/p&gt;
-&lt;p&gt;iOS 9&amp;rsquo;da benim için önemli olan ve kullanımının yaygınlaşması ile daha da önemli hale gelecek özellikler şu şekilde sıralanıyor;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;App Thinning&lt;/li&gt;
-&lt;li&gt;Content Blockers&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;App Thinning henüz kullanılabilir değil. iCloud BackUp&amp;rsquo;larda yaşanan sorunlar &lt;a href=&#34;http://9to5mac.com/2015/09/24/ios-9-app-thinning-delayed-icloud-bug/&#34;&gt;nedeniyle&lt;/a&gt; henüz kullanılamıyor. Yenilik olarak tanımlanan bir özelliğin kullanılabilir olmaması eleştirilebilecek bir durum.&lt;/p&gt;
-&lt;p&gt;Content Blockers ise büyük tartışmaları da beraberinde getirdi. Sitelerin gelir kapısının bu reklamlar olduğu ve onları engellemenin etik olmadığı savunulmaya başlandı. Hatta trajikomik bir olay yaşandı, Marco Arment ücretli olarak sattığı content blocker Peace&amp;rsquo;i App Store&amp;rsquo;dan çekmek zorunda kaldı.&lt;/p&gt;
-&lt;p&gt;Internet&amp;rsquo;in tamamıyle reklamlarla dolmasına ve kullanıcıların takip edilmesine tamamen karşı çıkan biri olarak internetin tamamen reklamsız hale getirilmesini şiddetle savunanlardan biriyim. Siteler gelirleri için üyelik sistemi konusunda biraz daha düşünmeli ve çalışmalılar. Ben bir siteyi düzenli olarak kullanıyor ve faydalanıyorsam aldığım bu hizmet için reklamlara tıklamayı değil, belirli bir ücret ödemeyi tercih ederim.&lt;/p&gt;
-&lt;p&gt;Bunu beceremeyen siteler kaybolup gidebilir hiç umrumda olmaz. Internet tamamen amatör bir çaba ile doğdu, iyi kötü öyle devam edecek.&lt;/p&gt;
-&lt;p&gt;Bilgisayarlarımda AdBlock, iPhone&amp;rsquo;umda ise Purify kullanıyorum ve gayet memnunum, saçma sapan reklamları görmek zorunda kalmadan internetin kullanılabilir olması sevindirici. Bunları kullandığım için sayfalarını göstermeyi reddeden web siteleri ise benim için internetin çöplüğünde yer almaya başlamışlardır. Kendileri çalıp kendileri oynamaya devam edebilirler.&lt;/p&gt;
-</description>
+&lt;p&gt;iOS 9&amp;rsquo;da benim için önemli olan ve kullanımının yaygınlaşması ile daha da önemli hale gelecek özellikler şu şekilde sıralanıyor;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>iPhone 6 Plus</title>
       <link>https://darkestnotes.org/posts/iphone-6-plus/</link>
       <pubDate>Sat, 25 Oct 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/iphone-6-plus/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://d.pr/i/J22g&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/J22g&amp;#43;&#34; alt=&#34;&#34;  /&gt;
 &lt;/a&gt;&lt;/p&gt;
@@ -218,41 +112,29 @@
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li&gt;Benim gibi takıntılı tiplerin bu konuda kafa yorduğunu düşünüyorum. iPhone 1 iOS 1 ile gelmişti. iPhone 3G iOS 2 ile. iPhone 4S ile bu uyumlu version numaraları değişti, iPhone 4S iOS 5 ile geldi. S’li modelleri başladıktan sonra işletim sistemi sürümleri ile telefonun numaraları arasındaki uyum bozuldu. iPhone 6 serisinin model numarası 7,1 ve 7,2 olarak kayıtlı. iOS 8 ile değil iOS 7.3 ile gelse bu modeller telefon modeli ve işletim sistemi sürümleri aynı numaralandırma serisini takip etmiş olacaktı.  &lt;a href=&#34;1&#34; title=&#34;return to article&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+&lt;/ol&gt;</description>
     </item>
-    
     <item>
       <title>iOS 8 DevKit</title>
       <link>https://darkestnotes.org/posts/ios-8-devkit/</link>
       <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/ios-8-devkit/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://d.pr/i/SyX9&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/SyX9&amp;#43;&#34; alt=&#34;iOS 8 DevKit&#34;  /&gt;
 &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Sonbaharın gelişi Apple dünyasında son yıllarda yeni iPhone modelleri ve iOS ile Mac OS’un piyasaya çıkış tarihlerinin yaklaştığına işaret eder. Yaz aylarında Beta sürümlerle yenilikler hakkında tecrübe edinmeye çalışsak da Final sürümler piyasaya çıkmadan işletim sistemleri ile ilgili yazılıp çizilen şeylerin çok anlamı yok.&lt;/p&gt;
-&lt;p&gt;Telefonumda yaklaşık 3 haftadır iOS 8 Beta kullanıyorum. Genel olarak stabil, bunun yanında çeşitli uygulamalarda doğal olarak sorunlar var. Yoğun kullanımda telefonun ısınması ve bataryanın hızla boşalıyor olması betaların ortak problemlerinden.&lt;/p&gt;
-&lt;p&gt;7 Versionu ile ile görsel ve UX olarak yenileşen iOS, iOS 8 ile geliştiricilere sağlayacağı olanaklar ile ön plana çıkacak gibi. 4000’den fazla yeni API’nin kullanıma girecek olması geliştiricilerin eski programlarında yeni özellikleri denemesi ve yeni yazılacak programların ise yepyeni olanaklarla ile özelleştirilmesi anlamına geliyor.&lt;/p&gt;
-&lt;p&gt;iOS 8 ile &lt;em&gt;CloudKit&lt;/em&gt; ve &lt;em&gt;iCloud Drive&lt;/em&gt; sayesinde dosya depolamada, &lt;em&gt;Metal, SpriteKit&lt;/em&gt; ve &lt;em&gt;SceneKit&lt;/em&gt; ile oyunlarda hız ve mimimum güç tüketimi imkanı sağlanıyor. App Extensions uygulamaların sistem ile daha kolay entegrasyonu ve dosya paylaşımının kolaylaşması demek. &lt;em&gt;HomeKit&lt;/em&gt;, aile bireylerinin uygulama ve veri alışverişini kolaylaştıracak, &lt;em&gt;Handoff&lt;/em&gt; telefonunuzu Apple’ın diğer ürünlerinde kullanabilmenizi sağlayacak. &lt;em&gt;Manual Camera Controls&lt;/em&gt;, uygulamaların dahili kamera ile iletişimini güçlendirecek, &lt;em&gt;Health Kit&lt;/em&gt; ise sağlık uygulamalarının iPhone tarafından tutulan verilerle bir arada çalışmasını sağlayacak özellikler içeriyor.&lt;/p&gt;
-&lt;p&gt;iPhone’un kapalı bir kutu olmasını eleştirenler iOS 8’in DevKit’ini detaylı olarak incelediklerinde veri ve dosya paylaşımı konusunda büyük yenilikler içerdiğini rahatlıkla görebilecekler. Kısaca iOS 7 görünüm ve UX yenilikleri ile geldi, iOS 8 ise geliştiricilere yönelik yenilikler içerecek.&lt;/p&gt;
-</description>
+&lt;p&gt;Telefonumda yaklaşık 3 haftadır iOS 8 Beta kullanıyorum. Genel olarak stabil, bunun yanında çeşitli uygulamalarda doğal olarak sorunlar var. Yoğun kullanımda telefonun ısınması ve bataryanın hızla boşalıyor olması betaların ortak problemlerinden.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Susan Kare, Iconographer</title>
       <link>https://darkestnotes.org/posts/susan-kare-iconographer/</link>
       <pubDate>Mon, 16 Jun 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/susan-kare-iconographer/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://vimeo.com/97583369&#34;&gt;https://vimeo.com/97583369&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://vimeo.com/97583369&#34;&gt;https://vimeo.com/97583369&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>iPhone 5S</title>
       <link>https://darkestnotes.org/posts/iphone-5s/</link>
       <pubDate>Sat, 18 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/iphone-5s/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/J8g3&amp;#43;&#34; alt=&#34;iPhone 5S&#34;  /&gt;
 &lt;/p&gt;
@@ -347,40 +229,29 @@
 &lt;li&gt;M7 yardımcı işlemcisi sayesinde hareketlerimin daha doğru algılandığı ve fazla pil harcamadan, geri planda uygulama çalışmasına gerek olmadan ne kadar yürüdüğümü öğrenmek (&lt;a href=&#34;http://dayoneapp.com&#34;&gt;Day One&lt;/a&gt; sayesinde) mümkün oluyor.&lt;/li&gt;
 &lt;li&gt;Batarya bir önceki modele göre %10 daha yüksek kapasiteli ancak kullanımda bu farkı hissedemedim. Yeni işlemci, M7 vb. sebeplerle batarya ömrü iPhone 5’den daha iyi değil.&lt;/li&gt;
 &lt;li&gt;Touch ID’yi kullanmaya o kadar alıştımki iPad Mini’de Passcode yazmak gerçekten çok sıkıcı olmaya başladı.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Apple Store Türkiye</title>
       <link>https://darkestnotes.org/posts/apple-store-t%C3%BCrkiye/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/apple-store-t%C3%BCrkiye/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/oxVE&amp;#43;&#34; alt=&#34;Apple Store Türkiye&#34;  /&gt;
 &lt;/p&gt;
-&lt;p&gt;Apple’ın online mağazası Türkiye’de açıldı. Artık tüm Apple ürünlerini ülkemizde piyasaya çıktığı anda ve distribütörlerin fahiş kâr marjları olmadan doğrudan satın alabilme imkanına kavuşmuş olduk.&lt;/p&gt;
-</description>
+&lt;p&gt;Apple’ın online mağazası Türkiye’de açıldı. Artık tüm Apple ürünlerini ülkemizde piyasaya çıktığı anda ve distribütörlerin fahiş kâr marjları olmadan doğrudan satın alabilme imkanına kavuşmuş olduk.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Apple&#39;ın Gidişatı</title>
       <link>https://darkestnotes.org/posts/apple%C4%B1n-gidi%C5%9Fat%C4%B1/</link>
       <pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/apple%C4%B1n-gidi%C5%9Fat%C4%B1/</guid>
       <description>&lt;p&gt;iOS 7 ile başlayan ve skeumorphism’i ortadan kaldırmaya yönelik çalışmalar olarak algılanan Apple’daki yenilenme süreci daha kimsenin fark edemediği sorunları ortaya çıkardı aslında. Steve Jobs sonrası Apple yönetiminde gerçekleştirilen değişikliklerin kullanıcılara (ve müşterilere) sadece iOS ve MacOS’da görsel yenilikler yapılacağı şeklinde lanse edildi, oysa Apple &lt;strong&gt;&lt;em&gt;kalite kontrol&lt;/em&gt;&lt;/strong&gt; sisteminde büyük değişiklikler yapmışa benziyor.&lt;/p&gt;
-&lt;p&gt;Apple’ın bu aşamadan sonra asıl problemi, işletim sistemlerinin yeni görünümününün kullanıcılar tarafından kabul edilmesi değil, stabil çalışan ve bug’lardan arındırılmış bir iOS sürümünü kullanıcıların deneyimine sunabilmek olduğu anlaşılıyor.&lt;/p&gt;
-&lt;p&gt;PC’den Mac’e ve normal cep telefonlarından iPhone’a geçişimdeki en önemli etken stabil çalışan işletim sistemleri olmuştur. Ne yazık ki Apple’ın bir nevi Microsoft’laşmaya başladığını üzülerek izliyorum.&lt;/p&gt;
-&lt;p&gt;Kalite kontrolünden geçmeyen (yada çok hızlı geçen) iOS 7, Apple TV güncellemelerinden sonra bakalım Mavericks ile nelerle karşılaşacağız? Tek istediğim bilgisayarımda, telefonumda ve tabletimde stabil çalışan bir işletim sistemi. iOS 7.0.2’de iOS 7.0’da bile olmayan yeni bug’ları, hataları keşfetmek gerçekten can sıkıcı.&lt;/p&gt;
-</description>
+&lt;p&gt;Apple’ın bu aşamadan sonra asıl problemi, işletim sistemlerinin yeni görünümününün kullanıcılar tarafından kabul edilmesi değil, stabil çalışan ve bug’lardan arındırılmış bir iOS sürümünü kullanıcıların deneyimine sunabilmek olduğu anlaşılıyor.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>MacBook Pro with Retina Display (Early 2013)</title>
       <link>https://darkestnotes.org/posts/macbook-pro-with-retina-display-early-2013/</link>
       <pubDate>Sat, 03 Aug 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/macbook-pro-with-retina-display-early-2013/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/pZ3r&amp;#43;&#34; alt=&#34;&#34;  /&gt;
 &lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/aSI5&amp;#43;&#34; alt=&#34;&#34;  /&gt;
@@ -397,41 +268,22 @@
 &lt;li&gt;720p FaceTime HD Camera&lt;/li&gt;
 &lt;li&gt;7 hours Battery-Life&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Önceki MacBook’dan yenisine tüm programları ve ayarları aktarmak için Migration Assistant’ı kullandım. Yaklaşık 10 saat süren aktarım süreci sonrasında tüm programlarım ayarlarım ve dokümanlarım yeni bilgisayarımda karşıma çıkmış oldu.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/Tj5R&amp;#43;&#34; alt=&#34;&#34;  /&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/tNqf&amp;#43;&#34; alt=&#34;&#34;  /&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/ORNA&amp;#43;&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;İlk dikkat çeken özellik tabiki retina ekran. Yazılar ve grafikler o kadar net ve keskinki bakmaya doyulmuyor. Bununla birlikte Retina ekran için hazırlanmamış (güncellenmemiş) program ve internet siteleri doğal olarak çok güzel gözükmüyor.&lt;/p&gt;
-&lt;p&gt;Dikkatimi çeken diğer husus SSD diskin bir bilgisayarı bu kadar fazla hızlandırması oldu. Ön tarafta bulunan hoparlörlerin ses kalitesi de gerçekten çok iyi. Halen pil ömrünü test ediyorum, yaklaşık 2 saattir yoğun olarak kullandığım programlara rağmen (internet, Civilization V, iPhoto, Decibel) bilgisayarın pili hala % 58 dolu.&lt;/p&gt;
-</description>
+&lt;p&gt;Önceki MacBook’dan yenisine tüm programları ve ayarları aktarmak için Migration Assistant’ı kullandım. Yaklaşık 10 saat süren aktarım süreci sonrasında tüm programlarım ayarlarım ve dokümanlarım yeni bilgisayarımda karşıma çıkmış oldu.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>iOS 7</title>
       <link>https://darkestnotes.org/posts/ios-7/</link>
       <pubDate>Sat, 22 Jun 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/ios-7/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/jnmh&amp;#43;&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Haziran ayında tanıtımı yapılan iOS 7&amp;rsquo;nin 1.betasını telefonuma geçtiğimiz hafta içinde yüklemiş bulundum. Beta sürümleri sürekli kullandığınız telefonlara yüklemenin tehlikelerinden bahsedilse de yazılım-donanım tehlikeleri ile yüzleşmeyi seven birisi olarak bir beta sürümünü en iyi her gün kullandığım telefonla en iyi şekilde test edilebileceğini düşünenlerdenim.&lt;/p&gt;
-&lt;p&gt;iOS 7&amp;rsquo;yi ilk gördüğümde gerçekten hayal kırıklığına uğradım. Windows Phone&amp;rsquo;a büyük ölçüde benzemesi, nedense bir türlü sevemediğim Avenir yazıtipi, genel görünümde skeumorphismin terkedilerek pastel tonlu renkli bir görünümün oluşturulması hiç hoşuma gitmemişti. Görünümün dışında uygulama geliştiriciler için sağlanan &lt;a href=&#34;https://developer.apple.com/ios7/&#34;&gt;1500&amp;rsquo;den fazla yeni API&lt;/a&gt;‘nin dışında yeni özellikler arasında beni çok etkileyen birşeyler de bulamamıştım.&lt;/p&gt;
-&lt;p&gt;Bakış açım iOS 7&amp;rsquo;yi telefonuma yükledikten sonra değişti. Genel görünümün retina ekranlı iPhone&amp;rsquo;lara çok daha fazla yakıştığını söyleyebilirim. Status Bar ile birlikte Wi-Fi ve GPS ikonları ince detaylı olarak çizilmiş, uygulama açılışındaki geçişler retina ekranın imkanlarından çok daha iyi yararlandığı görülüyor. 3 boyutlu parallax efekti ile arka-plan, ikonlar, ve en önde yer alan bildirim ekranı farklı katmanlar halinde render ediliyor, telefonu tutuş şeklinize göre ikonlar bakışlarınızı takip ediyor.&lt;/p&gt;
-&lt;p&gt;Yeni özellikler arasında en önemlisi Control Center. Hızlı kullanılması gereken özelliklerden (Bluetooth açma-kapama, parlaklık ayarı vb.) buraya toplanmış. El feneri yeni uygulama olarak bu bölümde yer alıyor.&lt;/p&gt;
-&lt;p&gt;App Store&amp;rsquo;un uygulamaları kendiliğinden güncelleştirmesi ve bunları Notification Center&amp;rsquo;da bildirim olarak vermesi beğendiğim özelliklerden biri.&lt;/p&gt;
-&lt;p&gt;Camera uygulaması içinde Instagram&amp;rsquo;da olduğu gibi çektiğiniz fotoğraflara filtreler ekleyebiliyorsunuz.&lt;/p&gt;
-&lt;p&gt;Safari&amp;rsquo;deki en önemli yenilik Shared Links bölümü. Twitter hesabınızda paylaşılan linklere doğrudan ulaşma imkanı sağlanmış.&lt;/p&gt;
-&lt;p&gt;Dosya paylaşımı konusunda AirDrop seçeneği sunulmuş olmakla birlikte denemelerimde çok etkili biçimde kullanamadım.&lt;/p&gt;
-&lt;p&gt;iOS 7 bir anlamda yeni nesil iPhone&amp;rsquo;lar için iOS 1.0 sürümü olarak tanımlanabilir. İlk iPhone çıktığından beri kullanılan tasarım iOS 7 ile tümüyle değişiyor. Yeni tasarımın mükemmel olduğu söylenemez ancak zaman içinde gelişeceği ve değişeceği unutulmamalı.&lt;/p&gt;
-</description>
+&lt;p&gt;iOS 7&amp;rsquo;yi ilk gördüğümde gerçekten hayal kırıklığına uğradım. Windows Phone&amp;rsquo;a büyük ölçüde benzemesi, nedense bir türlü sevemediğim Avenir yazıtipi, genel görünümde skeumorphismin terkedilerek pastel tonlu renkli bir görünümün oluşturulması hiç hoşuma gitmemişti. Görünümün dışında uygulama geliştiriciler için sağlanan &lt;a href=&#34;https://developer.apple.com/ios7/&#34;&gt;1500&amp;rsquo;den fazla yeni API&lt;/a&gt;‘nin dışında yeni özellikler arasında beni çok etkileyen birşeyler de bulamamıştım.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>iOS 6.1 Göze Çarpan Yenilikler</title>
       <link>https://darkestnotes.org/posts/ios-6.1-g%C3%B6ze-%C3%A7arpan-yenilikler/</link>
       <pubDate>Tue, 29 Jan 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/ios-6.1-g%C3%B6ze-%C3%A7arpan-yenilikler/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mhelksQHEN1qz4rgp.png&#34; alt=&#34;image&#34;  /&gt;
 &lt;/p&gt;
@@ -453,37 +305,27 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mhelqd3sOI1qz4rgp.png&#34; alt=&#34;image&#34;  /&gt;
         &lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mhelqrxZhr1qz4rgp.png&#34; alt=&#34;image&#34;  /&gt;
-&lt;/p&gt;
-</description>
+&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>iPhone Homescreen</title>
       <link>https://darkestnotes.org/posts/iphone-homescreen/</link>
       <pubDate>Sun, 13 Jan 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/iphone-homescreen/</guid>
-      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;335&amp;rdquo;]&lt;/p&gt;
-</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;335&amp;rdquo;]&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Scott Forstall</title>
       <link>https://darkestnotes.org/posts/scott-forstall/</link>
       <pubDate>Sun, 04 Nov 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/scott-forstall/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Starting in 2000 with Mac OS X, Apple’s desktop operating system has been Unix-based. Why is this significant? Many developers were already familiar with the Unix operating system. With a Unix base, coders could use standard Unix commands in the command line, there was greater code portability, and Mac OS X got all of the associated benefits of Unix. For example, Unix is architected in a modular fashion, which can be beneficial when it comes to system security.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;Scott Forstall’s departure (Why Apple (and You) Might Miss Scott Forstall)&lt;/p&gt;
-</description>
+&lt;p&gt;Starting in 2000 with Mac OS X, Apple’s desktop operating system has been Unix-based. Why is this significant? Many developers were already familiar with the Unix operating system. With a Unix base, coders could use standard Unix commands in the command line, there was greater code portability, and Mac OS X got all of the associated benefits of Unix. For example, Unix is architected in a modular fashion, which can be beneficial when it comes to system security.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>iOS 6</title>
       <link>https://darkestnotes.org/posts/ios-6/</link>
       <pubDate>Sat, 22 Sep 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/ios-6/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_marlcnUvfd1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
@@ -492,153 +334,82 @@
 &lt;p&gt;- Beyaz gri fon&lt;/p&gt;
 &lt;p&gt;- Ses düğmesi üzerindeki metal yansıma.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;App Store&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;-Uygulama güncellemeleri için şifre sorulmuyor.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Clock&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;- iPad için yeni saat uygulaması&lt;/p&gt;
-&lt;p&gt;- Alarm olarak tonların dışında bir müzik parçası da seçilebiliyor.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Mail&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;- Aşağıya sürükleyerek postaları yeniden denetleme imkanı.&lt;/p&gt;
-&lt;p&gt;- VIP Posta Kutusu&lt;/p&gt;
-&lt;p&gt;- Her posta kutusu için farklı imza seçeneği.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Safari&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;- Landscape modunda iken fullscreen düğmesi (Sadece iPhone)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Maps&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;- Google yerine Apple kendi haritalarını kullanıyor.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Menubar&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;- Uygulamaya göre rengi değişebiliyor.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Telefon&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;- Beyaz tuş takımı&lt;/p&gt;
-&lt;p&gt;- Arayanı cevaplamak yerine yukarı sürükleyerek daha sonra aramayı hatırlamak yada kısa mesajla cevap verme imkanı.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genel&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;- Facebook entegrasyonu&lt;/p&gt;
-&lt;p&gt;- Sharing Sheet&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Safari&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;- iCloud Tabs&lt;/p&gt;
-&lt;p&gt;iOS 6 ile ilgili pek çok yerde yazılmış inceleme yazıları bulunuyor. Benim okuduğum ve beğendiğim en iyilerinin linkleri ise aşağıda yer alıyor.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.theverge.com/2012/9/21/3363060/ios-6-review&#34;&gt;http://www.theverge.com/2012/9/21/3363060/ios-6-review&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.macstories.net/stories/the-ios-6-trilemma/&#34;&gt;http://www.macstories.net/stories/the-ios-6-trilemma/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://arstechnica.com/apple/2012/09/review-ios-6-gets-the-spit-and-polish-treatment/&#34;&gt;http://arstechnica.com/apple/2012/09/review-ios-6-gets-the-spit-and-polish-treatment/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;iOS 6 bana göre sosyal network entegrasyonu, kullanımı kolaylaştıran yenilikleri ile bence başarılı bir güncelleme. Belki iOS 5.5 olarak adlandırılabilirdi. Böylece gelecek yıl çıkacak iPhone 6 ile iOS sürümlerinin isimleri de eşitlenmiş olurdu. :)&lt;/p&gt;
-</description>
+&lt;p&gt;-Uygulama güncellemeleri için şifre sorulmuyor.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mountain Lion</title>
       <link>https://darkestnotes.org/posts/mountain-lion/</link>
       <pubDate>Sat, 28 Jul 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/mountain-lion/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_m7vfnjWWhm1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Apple bir sürpriz yaptı ve işletim sistemi sürüm güncelleme süresini 2 yıldan bir yıla indirdi. Geçen yıl Temmuz ayında çıkan Lion&amp;rsquo;dan sonra bu yıl 25 Temmuz&amp;rsquo;da Mountain Lion kullanıma sunuldu.&lt;/p&gt;
-&lt;p&gt;Apple Mountain Lion&amp;rsquo;ın 200&amp;rsquo;den fazla yeni özellik ile geldiğini söylüyor. Pek çoğu güünlük kullanımda karşımıza çıkmayacak özellikler olsa da iOS cihazlarla iCloud sayesinde anında senkronizasyon sağlayan Notes, Reminders gibi uygulamalar, Messages, gerçekten mükemmel bir hıza erişmiş olan Safari, açılma süresi ile beni şaşırtan iTunes, Twitter entegrasyonu (Sonbaharda Facebook ile entegrasyon da sağlanacak) ve bildirimler en önemli özellikler arasında görünüyor.&lt;/p&gt;
-&lt;p&gt;Bütün bunların yanında işletim sisteminin alışılmış kullanım kolaylığı ile birlikte düşünüldüğünde, OS X Microsoft&amp;rsquo;un bir türlü yerleştiremedeiği UX ve UI özelliklerinden rahatlıkla yararlanarak, kullanıcıların ve içinde bulunulan yılların taleplerine göre eklentiler yaparak kolaylıkla gelişiyor.&lt;/p&gt;
-&lt;p&gt;UX ve UI özelliklerini bir türlü yerleştiremeyen Microsoft ise Windows 8&amp;rsquo;de Metro arabirimine büyük umutlar bağlamış durumda. Metro arabiriminin yeniliği ve eski kullanıcılar için karmaşıklığı düşünüldüğünde, Apple&amp;rsquo;ın gelecek yıllarda kişisel bilgisayar alanında liderliği rahatlıkla ele geçireceği kolaylıkla anlaşılıyor.&lt;/p&gt;
-</description>
+&lt;p&gt;Apple Mountain Lion&amp;rsquo;ın 200&amp;rsquo;den fazla yeni özellik ile geldiğini söylüyor. Pek çoğu güünlük kullanımda karşımıza çıkmayacak özellikler olsa da iOS cihazlarla iCloud sayesinde anında senkronizasyon sağlayan Notes, Reminders gibi uygulamalar, Messages, gerçekten mükemmel bir hıza erişmiş olan Safari, açılma süresi ile beni şaşırtan iTunes, Twitter entegrasyonu (Sonbaharda Facebook ile entegrasyon da sağlanacak) ve bildirimler en önemli özellikler arasında görünüyor.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>iPhone OS&#39;86</title>
       <link>https://darkestnotes.org/posts/iphone-os86/</link>
       <pubDate>Wed, 02 May 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/iphone-os86/</guid>
       <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;427&amp;rdquo;]&lt;/p&gt;
-&lt;p&gt;iPhone OS ‘86 by @repponen on @dribbble: &lt;a href=&#34;http://drbl.in/dbep&#34;&gt;http://drbl.in/dbep&lt;/a&gt; #BBApp&lt;/p&gt;
-</description>
+&lt;p&gt;iPhone OS ‘86 by @repponen on @dribbble: &lt;a href=&#34;http://drbl.in/dbep&#34;&gt;http://drbl.in/dbep&lt;/a&gt; #BBApp&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mastered for iTunes</title>
       <link>https://darkestnotes.org/posts/mastered-for-itunes/</link>
       <pubDate>Thu, 23 Feb 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/mastered-for-itunes/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Apple suggests submitting high-resolution audio files will become more important down the road. “As technology advances and bandwidth, storage, battery life, and processor power increase, keeping the highest quality masters available in our systems allows for full advantage of future improvements to your music,” reads their guide to iTunes mastering. “These masters matter—especially given the move into the cloud on post-PC devices.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://arstechnica.com/apple/news/2012/02/mastered-for-itunes-how-audio-engineers-tweak-tunes-for-the-ipod-age.ars/2&#34;&gt;Mastered for iTunes: how audio engineers tweak music for the iPod age&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;a href=&#34;http://arstechnica.com/apple/news/2012/02/mastered-for-itunes-how-audio-engineers-tweak-tunes-for-the-ipod-age.ars/2&#34;&gt;Mastered for iTunes: how audio engineers tweak music for the iPod age&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>OS X Mountain Lion</title>
       <link>https://darkestnotes.org/posts/os-x-mountain-lion/</link>
       <pubDate>Tue, 21 Feb 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/os-x-mountain-lion/</guid>
       <description>&lt;p&gt;Apple 2012 yılı yaz sonunda çıkacak olan işletim sistemi OS X Mountain Lion&amp;rsquo;ın ilk Geliştirici Sürümünü programcıların kullanımına açtı. Bu sürümü bilgisayarıma kurup kurmamakta önce kararsız olmama karşın, gerçekten kullanışlı özelliklerini okudukça ve gayet stabil olduğunu öğrenince kurmaya karar verdim.&lt;/p&gt;
-&lt;p&gt;Yükledikten sonra ilk işim iCloud bağlantısını sağlamak oldu. Çünkü artık OS X tamamen iCloud ile entegre bir hale gelmiş. Kişiler, Hatırlatıcılar, E-Posta, Notlar vb. pek çok özellik iCloud üzerinden eşitleniyor. Hayatımızı büyük ölçüde kolaylaştıran bu özellik kimi zaman karmaşayı da beraberinde getiriyor. Özellikle kurulum aşamasında Apple ID&amp;rsquo;leri arasındaki farklılık sebebi ile biraz sorun yaşadım. Eski MobileMe adresleri yeni iCloud sistemi ile tam entegrasyon sağlayamıyor. Ancak Notes uygulamasını iCloud ile eşitlemek isterseniz bir MobileMe adresinizin olması da şart. Yani 2 tane iCloud hesabınız (Primary ve Secondary) Apple tek bir iCloud hesabında tüm eşitlemeyi gerçekleştirebilecek bir sistem oluşturmazsa iCloud sisteminde kullanıcılar biraz karışıklık yaşayacak gibi.&lt;/p&gt;
-&lt;p&gt;iCloud bağlantısı sağlandıktan sonra tüm iOS cihazlarınız ile bilgisayarınızdaki uygulamalar anında eşitleniyor. iPhone&amp;rsquo;unuza eklediğiniz bir kişi, evdeki bilgisarınızdaki Contacts uygulamasında görülebiliyor.&lt;/p&gt;
-&lt;p&gt;iOS 5 ile iPhone ve iPad&amp;rsquo;e gelen Reminders uygulaması Mountain Lion ile bilgisayarınızdan yapacağınız değişikliklerle daha etkili bir yapılacaklar uygulaması haine gelmiş.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_lzr38bx7fs1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Notes iPhone&amp;rsquo;da kullandıkça alıştığım ve vazgeçemediğim bir uygulama. iPad&amp;rsquo;de de severek kullanıyorum. Şimdi OS X&amp;rsquo;e eklenmiş ve iCloud senkronizasyonu ile tüm cihazlar eşitleniyor. Denemelerimde gördüğüm kadarıyla her zaman başarılı bir senkronizasyon mümkün olmadı. OS X&amp;rsquo;deki Notes uygulamasına resimler eklenti olarak yapıştırılabiliyor. iOS cihazlar henüz bu özelliği desteklemiyor tabiki.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_lzr394Wpja1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Safari&amp;rsquo;deki en önemli yenilik Share (paylaşım) düğmesi ile adres çubuğunun aramalar için tek bir çubuk haline (omnibar) gelmesi olmuş. Bence adres çubuğu ile arama çubuğunun ayrı olması daha iyiydi. Share düğmesi Preview uygulamasında değişerek fotoğrafları Flickr&amp;rsquo;da paylaşabilir hale getirebiliyor.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_lzr36zeqfh1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Safari ile twitter&amp;rsquo;da yaptığım paylaşım iOS&amp;rsquo;dan gönderilmiş gibi gözükmesi bu program parçasının iOS&amp;rsquo;dan doğrudan aktarıldığını gösteriyor.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_lzr3adiU561qztw2k.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Game Center şu an için çalışabilir bir uygulama değil. Yalnız dikkatimi çeken Apple OS X&amp;rsquo;deki Game Center için yeni bir kimlik yaratmamı istedi. Eğer iOS ile eşitlemeyecekse burada da iCloud&amp;rsquo;da olduğu gibi çift kimlik sorunları yaşanabilir.&lt;/p&gt;
-&lt;p&gt;Genel haliyle oldukça stabil çalışan Mountain Lion&amp;rsquo;da en önemli çökmeleri System Preferences&amp;rsquo;da özellikle iCloud ayarlarını yaparken yaşadım.&lt;/p&gt;
-</description>
+&lt;p&gt;Yükledikten sonra ilk işim iCloud bağlantısını sağlamak oldu. Çünkü artık OS X tamamen iCloud ile entegre bir hale gelmiş. Kişiler, Hatırlatıcılar, E-Posta, Notlar vb. pek çok özellik iCloud üzerinden eşitleniyor. Hayatımızı büyük ölçüde kolaylaştıran bu özellik kimi zaman karmaşayı da beraberinde getiriyor. Özellikle kurulum aşamasında Apple ID&amp;rsquo;leri arasındaki farklılık sebebi ile biraz sorun yaşadım. Eski MobileMe adresleri yeni iCloud sistemi ile tam entegrasyon sağlayamıyor. Ancak Notes uygulamasını iCloud ile eşitlemek isterseniz bir MobileMe adresinizin olması da şart. Yani 2 tane iCloud hesabınız (Primary ve Secondary) Apple tek bir iCloud hesabında tüm eşitlemeyi gerçekleştirebilecek bir sistem oluşturmazsa iCloud sisteminde kullanıcılar biraz karışıklık yaşayacak gibi.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>iOS 5 for iPhone and iPad walkthrough | TiPb</title>
       <link>https://darkestnotes.org/posts/ios-5-for-iphone-and-ipad-walkthrough-tipb/</link>
       <pubDate>Sun, 16 Oct 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/ios-5-for-iphone-and-ipad-walkthrough-tipb/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.tipb.com/2011/10/12/ios-5-iphone-ipad-walkthrough/&#34;&gt;iOS 5 for iPhone and iPad walkthrough | TiPb&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;(via &lt;a href=&#34;http://www.instapaper.com/&#34;&gt;Instapaper&lt;/a&gt;)&lt;/p&gt;
-</description>
+&lt;p&gt;(via &lt;a href=&#34;http://www.instapaper.com/&#34;&gt;Instapaper&lt;/a&gt;)&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Steve Jobs</title>
       <link>https://darkestnotes.org/posts/steve-jobs/</link>
       <pubDate>Thu, 06 Oct 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/steve-jobs/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_lsnut3G1La1qztw2k.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;1986 yılında bir bilgisayar dergisini karıştırırken gördüğüm bu fotoğrafla tanıdım Steve Jobs&amp;rsquo;u. Bir garajda, ceplerinde hiç paraları olmadan, çeşitli bilgisayar parçalarını birleştirerek Steve Wozniak ile birlikte Apple&amp;rsquo;ı kurduklarını öğrenmek 10 yaşında bir çocuk için çok heyecan vericiydi.&lt;/p&gt;
-&lt;p&gt;Evdeki Commodore 64, bu fotoğraf sonrasında sadece oyun oynadığım, Basic ile ufak tefek programlar yazdığım bir bilgisayar olmaktan çıkmıştı. Onun nasıl çalıştığını anlamama, bozup, tamir etmeme, soketli chipleri değiştirerek yeni şeyler denememe bu fotoğraf sebep olmuştu. Doğrudan CPU&amp;rsquo;ya ulaşabilmek için Assembly, sistemi programlayabilmek için Pascal, kullanıcı arabirimli düzgün programlar yazabilmek için  C, Turbo C ve C++ öğrenmemi, iyi bilgisayar kullanabilmenin yolunun işletim sistemlerinin en gizli özelliklerini bilmekten geçtiğini bu fotoğraf sayesinde öğrendim.&lt;/p&gt;
-&lt;p&gt;Teşekkürler, Steve.&lt;/p&gt;
-</description>
+&lt;p&gt;Evdeki Commodore 64, bu fotoğraf sonrasında sadece oyun oynadığım, Basic ile ufak tefek programlar yazdığım bir bilgisayar olmaktan çıkmıştı. Onun nasıl çalıştığını anlamama, bozup, tamir etmeme, soketli chipleri değiştirerek yeni şeyler denememe bu fotoğraf sebep olmuştu. Doğrudan CPU&amp;rsquo;ya ulaşabilmek için Assembly, sistemi programlayabilmek için Pascal, kullanıcı arabirimli düzgün programlar yazabilmek için  C, Turbo C ve C++ öğrenmemi, iyi bilgisayar kullanabilmenin yolunun işletim sistemlerinin en gizli özelliklerini bilmekten geçtiğini bu fotoğraf sayesinde öğrendim.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Intel integrated graphics: finally good enough for the MacBook Air?</title>
       <link>https://darkestnotes.org/posts/intel-integrated-graphics-finally-good-enough-for-the-macbook-air/</link>
       <pubDate>Sun, 31 Jul 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/intel-integrated-graphics-finally-good-enough-for-the-macbook-air/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://arstechnica.com/apple/news/2011/07/intel-integrated-graphics-not-hampering-sandy-bridge-macs.ars&#34;&gt;Intel integrated graphics: finally good enough for the MacBook Air?&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;(via &lt;a href=&#34;http://www.instapaper.com/&#34;&gt;Instapaper&lt;/a&gt;)&lt;/p&gt;
-</description>
+&lt;p&gt;(via &lt;a href=&#34;http://www.instapaper.com/&#34;&gt;Instapaper&lt;/a&gt;)&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>MacOS X Lion</title>
       <link>https://darkestnotes.org/posts/macos-x-lion/</link>
       <pubDate>Wed, 20 Jul 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/macos-x-lion/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_loncitA2o31qztw2k.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
-&lt;p&gt;MacOS X Lion bugün Mac kullanıcılarının deneyimine sunuldu. MacOS X Lion&amp;rsquo;ın detaylı bir &lt;a href=&#34;http://arstechnica.com/apple/reviews/2011/07/mac-os-x-10-7.ars&#34; title=&#34;MacOS X Lion Review&#34;&gt;incelemesi&lt;/a&gt; Ars Technica&amp;rsquo;da yayınlandı.&lt;/p&gt;
-</description>
+&lt;p&gt;MacOS X Lion bugün Mac kullanıcılarının deneyimine sunuldu. MacOS X Lion&amp;rsquo;ın detaylı bir &lt;a href=&#34;http://arstechnica.com/apple/reviews/2011/07/mac-os-x-10-7.ars&#34; title=&#34;MacOS X Lion Review&#34;&gt;incelemesi&lt;/a&gt; Ars Technica&amp;rsquo;da yayınlandı.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>MacOS X Lion Hakkında Birkaç Not</title>
       <link>https://darkestnotes.org/posts/macos-x-lion-hakk%C4%B1nda-birka%C3%A7-not/</link>
       <pubDate>Sun, 17 Jul 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/macos-x-lion-hakk%C4%B1nda-birka%C3%A7-not/</guid>
       <description>&lt;p&gt;Yeni MacOS sürümü Lion&amp;rsquo;ın piyasaya çıkmasına günler kala göze çarpan değişiklikler hakkında aldığım notlar…&lt;/p&gt;
 &lt;p&gt;- Login ekranı yenilenmiş, aslında boot ekranındaki Apple logosunun devamı şeklinde yapılabilse estetik açıdan çok daha şık gözükebilirdi…&lt;/p&gt;
@@ -646,136 +417,85 @@
 &lt;/p&gt;
 &lt;p&gt;- Finder&amp;rsquo;da sidebar ikonları değiştirilmiş. Pencereler daha akıcı animasyonlar ile açılıyor.&lt;/p&gt;
 &lt;p&gt;-LaunchPad, bilgisayarınıza yüklü uygulamaların tümünü iPad (iOS) benzeri bir şekilde ekranda gösterilmesini sağlıyor.&lt;/p&gt;
-&lt;p&gt;-Reverse Scrolling, TrackPad&amp;rsquo;de yukarı-aşağı scroll&amp;rsquo;un yönü değiştirilmiş, iOS&amp;rsquo;da olduğu gibi yapılmış. Ben alışamadaım, doğrudan eski seçeneğe döndüm.&lt;/p&gt;
-&lt;p&gt;-Safari&amp;rsquo;de yenilikler…&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_lohb9zEsA41qztw2k.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;- Reading List ile daha sonra okumak istediğiniz linkleri kopyalama imkanı gelmiş, Instapaper ile ReadLater&amp;rsquo;a rakip olacak gibi, kullanışlı bir özellik.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_lohbazTBCA1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;- Download Manager ile artık toolbar&amp;rsquo;da indirilen dosyalarınızı ve ne kadarının indirildiğini grafiksel olarak görebileceğinizi sağlayan bir özellik.&lt;/p&gt;
-</description>
+&lt;p&gt;-Reverse Scrolling, TrackPad&amp;rsquo;de yukarı-aşağı scroll&amp;rsquo;un yönü değiştirilmiş, iOS&amp;rsquo;da olduğu gibi yapılmış. Ben alışamadaım, doğrudan eski seçeneğe döndüm.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mac App Store</title>
       <link>https://darkestnotes.org/posts/mac-app-store/</link>
       <pubDate>Sun, 09 Jan 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/mac-app-store/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_ler738Plav1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Geçtiğimiz hafta Apple MacOS işletim sistemi için geliştirilen uygulamaların satılacağı &lt;a href=&#34;http://www.apple.com/mac/app-store/&#34;&gt;Mac App Store&lt;/a&gt;‘un açılışını yaptı. Apple iPhone için yarattığı AppStore&amp;rsquo;un beklenmeyen başarısı sonrasında aynı başarıyı MacOS uygulama pazarında da yakalamak istiyor.&lt;/p&gt;
-&lt;p&gt;Apple&amp;rsquo;ın MacOS uygulamaları için merkezi bir sistem oluşturmasında, iPhone&amp;rsquo;da yakaladığı başarının yanısıra bağımsız uygulama geliştiricilerinin (&lt;em&gt;indie developer&lt;/em&gt;) son yıllarda, hem görsel, hem işlevsel mükemmele yakın programlar üretmelerini farketmiş olması yatıyor. Haliyle büyüyen bu pastadan kendisi de pay almak istiyor.&lt;/p&gt;
-&lt;p&gt;Mac AppStore&amp;rsquo;un başarıya ulaşması;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Programların ambalaj, satış-pazarlama için personel çalıştırılması gibi ek maliyetleri olmayacağından fiyatlandırmanın buna göre yapılması&lt;/li&gt;
-&lt;li&gt;Daha önceden alınmış uygulamalar ile App Store için derlenen uygulamalar arasında fark olmaması. (Aynı uygulama App Store&amp;rsquo;dan alınan ile farklı kanallardan alınmış olarak ayrılmamalı)&lt;/li&gt;
-&lt;li&gt;Önceden daha pahalıya satın alınmış uygulamaların güncelleştirme seçeneklerinin eski kullanıcılar için düşük tutulması&lt;/li&gt;
-&lt;li&gt;Korsan kullanıma karşı hem programcı hem Apple tarafından yeterli önlem alınması&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;halinde büyük başarıya ulaşacağı açıkça belli olmaktadır.&lt;/p&gt;
-&lt;p&gt;Apple&amp;rsquo;ın Mac App Store ile bağımsız programcılığın ilerleyen yıllarda pazarlama (marketing) açısından Apple&amp;rsquo;a kısmen bağlı olacağını da gözardı etmemek gerekiyor. Apple hiçbir geliştiriciyi “&lt;em&gt;programını sadece Mac App Store üzerinden satacaksın&lt;/em&gt;” şeklinde kendine bağlamıyor. Ama bağımsız programcıların pazarlama anlamında yaşadıkları sıkıntıları App Store ile kapatmaya alışacakları görünen bir gerçek.&lt;/p&gt;
-&lt;p&gt;Bağımsız programcıların yaşayacağı bir diğer sorun ise teknik destek sağlanması konusunda olacak. Ürünlerini App Store üzerinden eskisinden çok daha fazla kullanıcıya satacak olan geliştiriciler, kullanıcı sayısı artmış uygulamalarına en fazla 1-5 kişiden oluşan programlama ekipleri nasıl sağlayacak?&lt;/p&gt;
-</description>
+&lt;p&gt;Apple&amp;rsquo;ın MacOS uygulamaları için merkezi bir sistem oluşturmasında, iPhone&amp;rsquo;da yakaladığı başarının yanısıra bağımsız uygulama geliştiricilerinin (&lt;em&gt;indie developer&lt;/em&gt;) son yıllarda, hem görsel, hem işlevsel mükemmele yakın programlar üretmelerini farketmiş olması yatıyor. Haliyle büyüyen bu pastadan kendisi de pay almak istiyor.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ten ways I&#39;ll use Apple products to have more fun in 2011</title>
       <link>https://darkestnotes.org/posts/ten-ways-ill-use-apple-products-to-have-more-fun-in-2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/ten-ways-ill-use-apple-products-to-have-more-fun-in-2011/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.tuaw.com/2010/12/31/ten-ways-ill-use-apple-products-to-have-more-fun-in-2011/&#34;&gt;Ten ways I&amp;rsquo;ll use Apple products to have more fun in 2011&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.tuaw.com/2010/12/31/ten-ways-ill-use-apple-products-to-have-more-fun-in-2011/&#34;&gt;Ten ways I&amp;rsquo;ll use Apple products to have more fun in 2011&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>App Store Statistics</title>
       <link>https://darkestnotes.org/posts/app-store-statistics/</link>
       <pubDate>Sat, 18 Dec 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/app-store-statistics/</guid>
       <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;516&amp;rdquo;]&lt;/p&gt;
-&lt;p&gt;App Store Statistics&lt;/p&gt;
-</description>
+&lt;p&gt;App Store Statistics&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Susan Kare Art</title>
       <link>https://darkestnotes.org/posts/susan-kare-art/</link>
       <pubDate>Wed, 15 Dec 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/susan-kare-art/</guid>
       <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;519&amp;rdquo;]&lt;/p&gt;
 &lt;p&gt;The bomb was designed to represent a system failure&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.kareprints.com/?p=20&#34;&gt;BOMB | Susan Kare Prints&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;a href=&#34;http://www.kareprints.com/?p=20&#34;&gt;BOMB | Susan Kare Prints&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Apple 2000 - 2010</title>
       <link>https://darkestnotes.org/posts/apple-2000-2010/</link>
       <pubDate>Wed, 08 Dec 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/apple-2000-2010/</guid>
       <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;523&amp;rdquo;]&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://minimalmac.com/post/2145128241/10years&#34;&gt;minimalmac&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://and.rw/post/1215390063/10years&#34;&gt;ajdesign&lt;/a&gt;:&lt;/p&gt;
 &lt;p&gt;There is great truth in beauty.&lt;/p&gt;
-&lt;p&gt;(via &lt;a href=&#34;http://log.ianhines.com/2010/12/10-years-later/&#34;&gt;Ian Hines&lt;/a&gt;)&lt;/p&gt;&lt;/blockquote&gt;
-</description>
+&lt;p&gt;(via &lt;a href=&#34;http://log.ianhines.com/2010/12/10-years-later/&#34;&gt;Ian Hines&lt;/a&gt;)&lt;/p&gt;&lt;/blockquote&gt;</description>
     </item>
-    
     <item>
       <title>iTunes 10 - Ping - Game Center</title>
       <link>https://darkestnotes.org/posts/itunes-10-ping-game-center/</link>
       <pubDate>Tue, 14 Sep 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/itunes-10-ping-game-center/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_l8r23fX1Lj1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Eylül ayının başında yapılan ve genellikle Apple&amp;rsquo;ın yeni iPod modellerini tanıttığı keynote&amp;rsquo;da bu yıl yeni iPod Touch ve Nano&amp;rsquo;dan başka yazılım ürünleri iTunes 10 ve iOS 4.1&amp;rsquo;de tanıtıldı.&lt;/p&gt;
-&lt;p&gt;Apple geçmişte her zaman yeni ürünler ile teknoloji dünyasını farklı yönlere taşırken yavaş yavaş gelişmelerin gerisinde kaldığını ve hareketin içine sonradan katıldığını keynote&amp;rsquo;da tanıttığı sosyal ağ uygulamaları Ping ve Game Center&amp;rsquo;da görmekteyiz. Bu iki uygulama bana kalırsa yıllar önce iTunes&amp;rsquo;a ve iPhone&amp;rsquo;a eklenmiş olmalıydı.&lt;/p&gt;
-&lt;p&gt;iTunes 10&amp;rsquo;dan genel olarak beklentiler neydi bilemiyorum ama sosyal network Ping&amp;rsquo;in içine entegre edildiği bu yeni sürümün de Cocoa framework&amp;rsquo;ü ile değil eski 32 bit Carbon ile yazıldığını görmek beni şaşırttı. Buna rağmen kısmende olsa performans artışı sağlanmış.  iTunes 10&amp;rsquo;un en önemli özelliği olarak Ping vurgulandı. Tamamıyla monochrome şekilde düzenlenmiş arabirim ve büyük tartışma yaratan yeni iTunes ikonu ise dikkati çeken en önemli özelliklerden.&lt;/p&gt;
-&lt;p&gt;Sosyal ağları uygulamalarının içine katmakta çok geç kaldığını yeni farkeden Apple, yerleşmiş uygulamaları kullanarak başarılı olmak yerine çok büyük bir risk alarak kendi uygulamalarını geliştirmeye çalışıyor. Ping&amp;rsquo;in şimdilik hiç bir özelliği ve albenisi yok. Beğendiğiniz şarkıcı ve grupları takip etme seçeneği sadece Ping uygulamasına katılan sanatçılar için gerçekleştirilebiliyor.&lt;/p&gt;
-&lt;p&gt;Bunun yerine iTunes, Last.fm ile entegre edilebilirdi. Tamam, Last.fm&amp;rsquo;in radyo özelliği telif hakları yüzünden %100 entegre edilemeyebilir belki ama en azında scrobbling, şarkı etiketleme, beğendiğiniz müzik türüne göre yeni sanatçıların tavsiye edilmesi gibi özellikler (Songbird&amp;rsquo;de olduğu gibi) başarılı bir biçimde entegre edilebilirdi. Bu hali ile Ping&amp;rsquo;in gelişebilmesi mümkün değil gibi.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_l8r245H4hd1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Gelelim Game Center&amp;rsquo;a. Game Center&amp;rsquo;da Ping gibi çok geç kalmış bir uygulama, bununla birlikte Ping&amp;rsquo;e göre daha başarılı ve komplike olmuş. Cloudcell, OpenFeint gibi online oyun uygulama sistemleri dağınık ve birbirinden kopuk oldukları için tüm oyun geliştiricilerinin Game Center&amp;rsquo;a yöneleceklerini düşünüyorum. Game Center şimdilik daha emekleme aşamasında ancak çok hızlı gelişeceğe benziyor.&lt;/p&gt;
-&lt;p&gt;User Interface grafikleri eleştiri alsada bu basit yapı hoşuma gitti. Henüz çok sayıda Game Center&amp;rsquo;ı destekleyen oyun olmasa da sayının hızla artacağına eminim.&lt;/p&gt;
-</description>
+&lt;p&gt;Apple geçmişte her zaman yeni ürünler ile teknoloji dünyasını farklı yönlere taşırken yavaş yavaş gelişmelerin gerisinde kaldığını ve hareketin içine sonradan katıldığını keynote&amp;rsquo;da tanıttığı sosyal ağ uygulamaları Ping ve Game Center&amp;rsquo;da görmekteyiz. Bu iki uygulama bana kalırsa yıllar önce iTunes&amp;rsquo;a ve iPhone&amp;rsquo;a eklenmiş olmalıydı.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Game Center &amp; Achievements for Apps!</title>
       <link>https://darkestnotes.org/posts/game-center-achievements-for-apps/</link>
       <pubDate>Fri, 10 Sep 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/game-center-achievements-for-apps/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Game Center should allow non-game iOS apps to register for achievements and leaderboards. Think about it: Largest Dropbox File, Most TextExpander Time Saved, Longest iStat Uptime, Most LoseIt Pounds Lost This Week.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://onefps.net/post/1090089355/game-center-should-allow-non-game-ios-apps-to&#34;&gt;David Chartier&lt;/a&gt; nails a great idea. I’d love to make Game Center-shareable achievements in Instapaper, but I don’t think there’s any chance that Apple would approve it, even after &lt;a href=&#34;http://daringfireball.net/2010/09/app_store_guidelines&#34;&gt;today’s improvements&lt;/a&gt;. (via &lt;a href=&#34;http://www.marco.org/&#34;&gt;marco&lt;/a&gt;)&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;a href=&#34;http://onefps.net/post/1090089355/game-center-should-allow-non-game-ios-apps-to&#34;&gt;David Chartier&lt;/a&gt; nails a great idea. I’d love to make Game Center-shareable achievements in Instapaper, but I don’t think there’s any chance that Apple would approve it, even after &lt;a href=&#34;http://daringfireball.net/2010/09/app_store_guidelines&#34;&gt;today’s improvements&lt;/a&gt;. (via &lt;a href=&#34;http://www.marco.org/&#34;&gt;marco&lt;/a&gt;)&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mac Odyssey</title>
       <link>https://darkestnotes.org/posts/mac-odyssey/</link>
       <pubDate>Fri, 20 Aug 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/mac-odyssey/</guid>
       <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;575&amp;rdquo;]&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://feedproxy.google.com/~r/MacAppStorm/~3/jEjGte4mIGY/&#34;&gt;2001-2010: A Mac Odyssey&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;a href=&#34;http://feedproxy.google.com/~r/MacAppStorm/~3/jEjGte4mIGY/&#34;&gt;2001-2010: A Mac Odyssey&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>iPhone OS4 (iOS4)</title>
       <link>https://darkestnotes.org/posts/iphone-os4-ios4/</link>
       <pubDate>Thu, 24 Jun 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/iphone-os4-ios4/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_l4jemqIqwv1qztw2k.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
@@ -789,122 +509,79 @@
 &lt;li&gt;iBooks&lt;/li&gt;
 &lt;li&gt;Fotoğrafları çekildikleri yere göre organize edebilme&lt;/li&gt;
 &lt;li&gt;Multi-tasking&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>iPhone 3GS vs iPhone 4</title>
       <link>https://darkestnotes.org/posts/iphone-3gs-vs-iphone-4/</link>
       <pubDate>Fri, 18 Jun 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/iphone-3gs-vs-iphone-4/</guid>
       <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;622&amp;rdquo;]&lt;/p&gt;
-&lt;p&gt;iPhone 3GS vs iPhone 4&lt;/p&gt;
-</description>
+&lt;p&gt;iPhone 3GS vs iPhone 4&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Apple HTML5 Demo Page</title>
       <link>https://darkestnotes.org/posts/apple-html5-demo-page/</link>
       <pubDate>Fri, 04 Jun 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/apple-html5-demo-page/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Apple-HTML5-Demo-Page.jpg#center&#34; alt=&#34;HTML5 Demo Pages&#34;  /&gt;
-&lt;/p&gt;
-</description>
+&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>iPad Logic Board</title>
       <link>https://darkestnotes.org/posts/ipad-logic-board/</link>
       <pubDate>Sat, 03 Apr 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/ipad-logic-board/</guid>
       <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;675&amp;rdquo;]&lt;/p&gt;
-&lt;p&gt;Here is the iPad logic board!  via &lt;a href=&#34;http://www.ifixit.com/Teardown/iPad-Teardown/2183/1&#34;&gt;iFixit&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;Here is the iPad logic board!  via &lt;a href=&#34;http://www.ifixit.com/Teardown/iPad-Teardown/2183/1&#34;&gt;iFixit&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>iPad Interior</title>
       <link>https://darkestnotes.org/posts/ipad-interior/</link>
       <pubDate>Fri, 02 Apr 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/ipad-interior/</guid>
       <description>&lt;p&gt;[gallery]&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.macrumors.com/2010/04/02/fcc-ipad-images-reveal-broadcom-chip-apple-a4-toshiba-flash-memory/&#34;&gt;FCC iPad Images Reveal Broadcom Chip, Apple A4, Toshiba Flash Memory - Mac Rumors&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;a href=&#34;http://www.macrumors.com/2010/04/02/fcc-ipad-images-reveal-broadcom-chip-apple-a4-toshiba-flash-memory/&#34;&gt;FCC iPad Images Reveal Broadcom Chip, Apple A4, Toshiba Flash Memory - Mac Rumors&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>iBoard</title>
       <link>https://darkestnotes.org/posts/iboard/</link>
       <pubDate>Sun, 28 Feb 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/iboard/</guid>
       <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;690&amp;rdquo;]&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://feedproxy.google.com/~r/TheNextWeb/~3/z-qXqVe_Iko/&#34;&gt;The Future Of Apple&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;a href=&#34;http://feedproxy.google.com/~r/TheNextWeb/~3/z-qXqVe_Iko/&#34;&gt;The Future Of Apple&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>iBroke</title>
       <link>https://darkestnotes.org/posts/ibroke/</link>
       <pubDate>Mon, 01 Feb 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/ibroke/</guid>
       <description>&lt;p&gt;[gallery]&lt;/p&gt;
-&lt;p&gt;iBroke !&lt;/p&gt;
-</description>
+&lt;p&gt;iBroke !&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>iPad Hakkında Birkaç Düşünce</title>
       <link>https://darkestnotes.org/posts/ipad-hakk%C4%B1nda-birka%C3%A7-d%C3%BC%C5%9F%C3%BCnce/</link>
       <pubDate>Sat, 30 Jan 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/ipad-hakk%C4%B1nda-birka%C3%A7-d%C3%BC%C5%9F%C3%BCnce/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_kx2izovXfz1qztw2k.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;27 Ocak günü bizzat Steve Jobs&amp;rsquo;un tanıtımını yaptığı iPad ile ilgili yorum-eleştiri ve tahminleri pek çok internet sitesinden okumuş olmalısınız. iPad&amp;rsquo;in eksikleri, keşke şöyle olsaydı gibi tartışmalara girmeden saptadığım birkaç hususu burada paylaşmak istedim.&lt;/p&gt;
 &lt;p&gt;Öncelikle ülkemizdeki klasik PC kullanıcısının kapalı bilgisayar kavramını hiç bilmediğini, bilse bile anlamak istemediğini fark ettim.&lt;/p&gt;
-&lt;p&gt;iPad ile ilgili olarak vizyon sahibi olmayan ve kapalı bilgisayar kavramını bilmeyen kara ve kör-cahil yorumlarına gülüp geçiyorum. (iPad&amp;rsquo;i printer&amp;rsquo;a nasıl bağlanacağını soran bile var ;))&lt;/p&gt;
-&lt;p&gt;1987&amp;rsquo;den beri bilgisayar kullanan biri olarak  PC olarak adlandırılan bilgisayarlar ilk çıktığından bugüne ne değişti merak ederim. Klavye-Kasa-Monitör üçlemesinin yanına mouse eklendi, disket sürücüler yerini CD-DVD&amp;rsquo;lere bıraktı, işletim sistemleri geldi geçti, bunların dışında bilgisayar kullanma mantığı hep aynı oldu.&lt;/p&gt;
-&lt;p&gt;Kapalı bilgisayar denilen kavramla (kullanıcının dosya sistemine ulaşmasına gereksinimi olmadığı sistem), yeni nesil bilgisayar kullanıcıları iPhone ile tanıştı.  Artık dosyalar nerede,  o programı hangi klasöre yükledim gibi sorunlarla uğraşılmayan, uygulamayı internetten indirerek, otomatik olarak kurduğumuz, üzerinde işlem yaptığımız dosyanın veritabanı olarak yada cloud sistemi ile bellekte yada internet ortamında sakalandığı bir dönemdeyiz. Dosyalarımıza artık istediğimiz yerden erişebiliyor yanımızda taşımaya gerek kalmadan paylaşabiliyoruz.&lt;/p&gt;
-&lt;p&gt;Pek çok kullanıcı kapalı bilgisayar kavramını eleştiriyor, eskiden kalma bir alışkanlıkla dosya sistemine erişebilme endişesi yaşıyor. “Özgür bilgisayar istiyoruz(!)” diyerek son noktayı koyuyorlar.&lt;/p&gt;
-&lt;p&gt;Ben eski ve dinozor bir kullanıcı olarak tamamen kapalı bilgisayar kavramını savunuyorum. Program nereye yüklenmiş, hangi dosya üzerine yazmış beni hiç mi hiç ilgilendirmiyor. Programı açmak, yapacaklarımı yapmak ve çıkmak istiyorum. Özgür bilgisayar(!) dediğimiz şey aslında bilgisayarın çökmesi, mavi ekranlar, okuma/yazma hataları, driver uyumsuzlukları, virus tehlikesine karşı anti-virus uygulamalarını ve kayıp dosyaları barındırıyor. En özgür işletim sistemi Linux, bedava olmasına karşın 10 yıldır bir adım ilerleyemezken, iPhone OS 3 yılda milyonlarca kullanıcıya ulaştı.&lt;/p&gt;
-&lt;p&gt;iPhone için satın aldığım uygulamalar, bizzat işletim sistemini üreten Apple tarafından AppStore bünyesinde, programın çalışacağı donanım üzerinde test ediliyor. Son kullanıcıya sorunlarından %99 arınmış olarak geliyor.&lt;/p&gt;
-&lt;p&gt;Kısacası kapalı bilgisayar kavramının kullanıcının lehinde ve çok olumlu olduğunu düşünüyorum. iPad ile kapalı bilgisayar kavramının sadece smartphone&amp;rsquo;larda değil bilgisayarlarımızda da karşımıza çıkacağı anlaşılıyor.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Apple bilgisayar dünyasının geleceğini mobil teknolojilerin belirleyeceğinin farkında, bu sektörde liderlik koltuğuna oturmuş olmalarına şaşırarak sevinmiş durumdalar.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Apple&amp;rsquo;ın amacının bilgisayar ve mobil donanım satmanın yanında hiç beklemeden büyük bir başarı yakaladığı içerik satışı doğrultusunda olduğu görülüyor. iTunes ile müzik ve DVD filmlerin satışını, AppStore&amp;rsquo;da uygulama satışını büyük başarı ile gerçekleştirdiler. Şimdi de iBooks ile e-book satışına girecekler. iPad işte bu kapıyı açacak bir anahtar gibi görülüyor.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Apple&amp;rsquo;ı bu kadar övdükten sonra asıl önemli soruya gelelim: Ben iPad almayı düşünüyor muyum? Hayır, Türkiye&amp;rsquo;ye ne zaman gelir bilmiyorum ama iPad almayı düşünmüyorum. Kolay taşınabilir birşey değil. Klavyesini kullanmak biraz zor gibi. iPad ile yapılacak çoğu şeyi zaten iPhone ile yapabiliyorum.&lt;/p&gt;
-&lt;p&gt;iPad başarılı olur yada olmaz. Apple&amp;rsquo;ın sadık bir alıcı kitlesi olduğu düşünüldüğünde iyi satış rakamlarına ulaşabilir. Ama soruna sadece satış rakamları açısından bakmak büyük bir hata olur. Bilgisayar ve iletişim dünyasının geleceğini belirleyecek vizyonu görebilmek ve iPad&amp;rsquo;i bu açıdan değerlendirmek gerekiyor. Yoksa “Bunun neden kamerası yok?” yada “Flash desteği iPad&amp;rsquo;de yok!” gibi manasız şeyler sormaya ve söylemeye devam ederiz.&lt;/p&gt;
-</description>
+&lt;p&gt;iPad ile ilgili olarak vizyon sahibi olmayan ve kapalı bilgisayar kavramını bilmeyen kara ve kör-cahil yorumlarına gülüp geçiyorum. (iPad&amp;rsquo;i printer&amp;rsquo;a nasıl bağlanacağını soran bile var ;))&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Apple Tablet</title>
       <link>https://darkestnotes.org/posts/apple-tablet/</link>
       <pubDate>Sat, 23 Jan 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/apple-tablet/</guid>
       <description>&lt;p&gt;[gallery]&lt;/p&gt;
-&lt;p&gt;Steve Jobs &amp;amp; Apple Tablet&lt;/p&gt;
-</description>
+&lt;p&gt;Steve Jobs &amp;amp; Apple Tablet&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>iPhone 3GS vs iPhone 3G</title>
       <link>https://darkestnotes.org/posts/iphone-3gs-vs-iphone-3g/</link>
       <pubDate>Sat, 12 Dec 2009 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/iphone-3gs-vs-iphone-3g/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_kujbklIGbR1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
@@ -918,52 +595,38 @@
 &lt;li&gt;Pil şarj durumunun % olarak gösterimi&lt;/li&gt;
 &lt;li&gt;Pusula&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Hız konusunda bu kadar bir iyileşme görmek açıkçası beni çok şaşırttı. Sadece uygulamalar değil, wi-fi&amp;rsquo;ya bağlanmak gibi telefonun donanımsal özellikleri de bu hız artışından oldukça faydalanıyor. CPU&amp;rsquo;nun hızı 412 Mhz&amp;rsquo;den 600 Mhz&amp;rsquo;ye çıkarılmış, ama bu hız artışına en büyük katkıyı 128 MByte&amp;rsquo;tan 256 MByte&amp;rsquo;a artırılmış olan hafıza sağlıyor. Ekran kaplamasının farklı oluşu sayesinde, eskisinde olduğu kadar çabuk parmak izi kalmaması sağlanmış. Bu nedenle kutu içeriğine ekran temizleme bezi eklenmemiş.&lt;/p&gt;
-</description>
+&lt;p&gt;Hız konusunda bu kadar bir iyileşme görmek açıkçası beni çok şaşırttı. Sadece uygulamalar değil, wi-fi&amp;rsquo;ya bağlanmak gibi telefonun donanımsal özellikleri de bu hız artışından oldukça faydalanıyor. CPU&amp;rsquo;nun hızı 412 Mhz&amp;rsquo;den 600 Mhz&amp;rsquo;ye çıkarılmış, ama bu hız artışına en büyük katkıyı 128 MByte&amp;rsquo;tan 256 MByte&amp;rsquo;a artırılmış olan hafıza sağlıyor. Ekran kaplamasının farklı oluşu sayesinde, eskisinde olduğu kadar çabuk parmak izi kalmaması sağlanmış. Bu nedenle kutu içeriğine ekran temizleme bezi eklenmemiş.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>MacOS 7 on iPhone</title>
       <link>https://darkestnotes.org/posts/macos-7-on-iphone/</link>
       <pubDate>Thu, 26 Feb 2009 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/macos-7-on-iphone/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/mac-os-7-on-iphone-01.jpg&#34; alt=&#34;mac-os-7-on-iphone-01&#34;  /&gt;
 &lt;/p&gt;
-&lt;p&gt;MacOS 7 on iPhone&lt;/p&gt;
-</description>
+&lt;p&gt;MacOS 7 on iPhone&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Lego Mac Computer</title>
       <link>https://darkestnotes.org/posts/the-lego-mac-computer/</link>
       <pubDate>Mon, 16 Feb 2009 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/the-lego-mac-computer/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.omrb.org/wp-content/uploads/2009/02/Lego_Mac.jpeg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Lego_Mac-1024x683.jpeg&#34; alt=&#34;Lego_Mac&#34;  /&gt;
-&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Analog &amp; Digital Music</title>
       <link>https://darkestnotes.org/posts/analog-digital-music/</link>
       <pubDate>Sat, 20 Dec 2008 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/analog-digital-music/</guid>
-      <description>&lt;p&gt;Searching my old LP’s newly digital editions in iTunes store.&lt;/p&gt;
-</description>
+      <description>&lt;p&gt;Searching my old LP’s newly digital editions in iTunes store.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>iTunes Store</title>
       <link>https://darkestnotes.org/posts/itunes-store/</link>
       <pubDate>Fri, 19 Dec 2008 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/itunes-store/</guid>
-      <description>&lt;p&gt;I can not help myself to buying mp3’s from iTunes store.&lt;/p&gt;
-</description>
+      <description>&lt;p&gt;I can not help myself to buying mp3’s from iTunes store.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

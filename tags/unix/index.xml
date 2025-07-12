@@ -4,20 +4,17 @@
     <title>Unix on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/unix/</link>
     <description>Recent content in Unix on Darkest Notes</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 04 Nov 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/unix/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Nov 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://darkestnotes.org/tags/unix/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Scott Forstall</title>
       <link>https://darkestnotes.org/posts/scott-forstall/</link>
       <pubDate>Sun, 04 Nov 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/scott-forstall/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Starting in 2000 with Mac OS X, Apple’s desktop operating system has been Unix-based. Why is this significant? Many developers were already familiar with the Unix operating system. With a Unix base, coders could use standard Unix commands in the command line, there was greater code portability, and Mac OS X got all of the associated benefits of Unix. For example, Unix is architected in a modular fashion, which can be beneficial when it comes to system security.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;Scott Forstall’s departure (Why Apple (and You) Might Miss Scott Forstall)&lt;/p&gt;
-</description>
+&lt;p&gt;Starting in 2000 with Mac OS X, Apple’s desktop operating system has been Unix-based. Why is this significant? Many developers were already familiar with the Unix operating system. With a Unix base, coders could use standard Unix commands in the command line, there was greater code portability, and Mac OS X got all of the associated benefits of Unix. For example, Unix is architected in a modular fashion, which can be beneficial when it comes to system security.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

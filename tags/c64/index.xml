@@ -4,31 +4,25 @@
     <title>C64 on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/c64/</link>
     <description>Recent content in C64 on Darkest Notes</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/c64/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://darkestnotes.org/tags/c64/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bitmap Books</title>
       <link>https://darkestnotes.org/posts/bitmap-books/</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/bitmap-books/</guid>
       <description>&lt;p&gt;İngiltere merkezli bir kitabevi &lt;a href=&#34;https://www.bitmapbooks.co.uk&#34;&gt;Bitmap Books&lt;/a&gt;. Retro bilgisayarlar ve oyun konsolları ile ilgili kitap araştıran birinin internette ilk gözüne çarpan firmalardan biri.&lt;/p&gt;
 &lt;p&gt;Ağırlıklı olarak retro bilgisayar-oyun konsol severlere yönelik kitaplar hazırlasalar da yine retro koleksiyon severlere yönelik Unofficial Micro Machines Collection gibi minyatür araba katalogları ve çizgi roman - manga türünden kitapları da yayına hazırlıyorlar.&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Bitmap_Books.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
-&lt;p&gt;Günümüzde özenerek hazırlanmış internet siteleri ciddi kullanıcı ve alıcıların gözünden kaçması mümkün olmuyor zaten. Bitmap Books’un internet sitesi de bu şekilde özenle hazırlanmış, satıştaki ürünlerin detaylı ve yüksek çözünürlüklü profesyonelce çekilmiş fotoğrafları ile alma niyeti oladan siteyi dolaşan kullanıcılarda bile alma isteği uyandırmayı başarabiliyor.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Bitmap_Books-Commodore-1.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Kitapların sayfa düzeni, tipografisi, kalitesi ise ayrıca profesyonel ölçülerde. Benim gibi yaşını başını almış retro meraklısı eski scener’ların arşivinde mutlaka bulunması gereken kitaplar.&lt;/p&gt;
-</description>
+&lt;p&gt;Günümüzde özenerek hazırlanmış internet siteleri ciddi kullanıcı ve alıcıların gözünden kaçması mümkün olmuyor zaten. Bitmap Books’un internet sitesi de bu şekilde özenle hazırlanmış, satıştaki ürünlerin detaylı ve yüksek çözünürlüklü profesyonelce çekilmiş fotoğrafları ile alma niyeti oladan siteyi dolaşan kullanıcılarda bile alma isteği uyandırmayı başarabiliyor.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Assembly64</title>
       <link>https://darkestnotes.org/posts/assembly64/</link>
       <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/assembly64/</guid>
       <description>&lt;p&gt;Ne zaman kendim yapmayı hayal ettiğim bir programı görsem hem şaşkınlığa uğrarım, hem de programcısına saygı duyarım. Assembly64’de bu tür programlardan biri.&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Assembly64.png&#34; alt=&#34;&#34;  /&gt;
@@ -36,108 +30,64 @@
 &lt;p&gt;Commodore 64 Scene Database (&lt;a href=&#34;https://csdb.dk/&#34;&gt;CsDB&lt;/a&gt;)’nin bir kopyasını bilgisayarda tutma imkanı vermesinin yanında ara ara güncellemesi scene dünyasından uzak kalınan zamanlarında telafisini sağlıyor. Java ile yazılan programın arama fonksiyonunun tam anlamıyla çalışabilmesi için 5€ bağış yapmak gerekiyor.&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Assembly64-Installed-Hero.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
-&lt;p&gt;Kullanmaya başladığım zamandan beri neredeyse aradığım her demo’yu internetten indirme mecburiyeti kalmadan ulaşabildim. Bunun yanında HVSC’nin bir kopyası da bilgisayara yükleniyor, kimi demoların SID dosyaları da aynı klasör altından erişilebilir oluyor. Programın sabit sürücüde açacağı delik ise yaklaşık 28 GByte!&lt;/p&gt;
-&lt;p&gt;Yavaş yavaş, tek developer ile geliştirlen bir program olması nedeniyle kullanımı zaman zaman pek kolay değil, bug’lar mevcut ve kimi zaman kolaylıkla yapılabilecek işlemler için biraz dolambaçlı yollardan geçmek gerekiyor.&lt;/p&gt;
-&lt;p&gt;Kullanımı biraz karmaşık olsa da Commodore 64 scene dünyasında gezinmeyi zevkli hale getiren bir uygulama.&lt;/p&gt;
-</description>
+&lt;p&gt;Kullanmaya başladığım zamandan beri neredeyse aradığım her demo’yu internetten indirme mecburiyeti kalmadan ulaşabildim. Bunun yanında HVSC’nin bir kopyası da bilgisayara yükleniyor, kimi demoların SID dosyaları da aynı klasör altından erişilebilir oluyor. Programın sabit sürücüde açacağı delik ise yaklaşık 28 GByte!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Eskiden Hersey Ne Güzeldi!</title>
       <link>https://darkestnotes.org/posts/eskiden-hersey-ne-g%C3%BCzeldi/</link>
       <pubDate>Mon, 28 Dec 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/eskiden-hersey-ne-g%C3%BCzeldi/</guid>
       <description>&lt;p&gt;1987 yılbasında, soguk bir kıs günü eve giren Commodore 64 ile basladı hersey. Görüntü kablosu kocaman tüplü televizyona baglanır, oyunlar kasetten yüklenirdi. Degisik oyunları oynanırdı ailecek. (Çünkü tek televizyon olurdu evlerde) Hafta ici açılmazdı, çünkü okul vardı, hafta sonu iple çekilir, cuma gecesi bütün hafta hayali kurulan oyunlar heyecanla oynanırdı.&lt;/p&gt;
 &lt;p&gt;[caption id=&amp;ldquo;attachment_2748&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;1184&amp;rdquo;]&lt;img loading=&#34;lazy&#34; src=&#34;images/Steven_Vitale-Saturday_Morning.png&#34; alt=&#34;Steven_Vitale-Saturday_Morning&#34;  /&gt;
  Saturday Morning[/caption]&lt;/p&gt;
-&lt;p&gt;Hersey ne güzeldi 1990&amp;rsquo;da 1991&amp;rsquo;de. &lt;a href=&#34;https://darkestnotes.org/2009/09/26/eski-bilgisayarlar-amiga/&#34;&gt;Amiga&lt;/a&gt; bilgisayar vardı. Beyaz ekranda Workbench disketi tutan bir el. Disket sürücüden tuhaf sesler çıkardı yükleme esnasında. Mavi pencereli GUI&amp;rsquo;si vardı, kendine özel karakterleri, ikonları. Bazı programlar ve oyunlar sadece 1 MByte RAM&amp;rsquo;de çalışırdı. &lt;a href=&#34;https://darkestnotes.org/2015/07/12/dergilerdergicilik/&#34;&gt;Dergilerden&lt;/a&gt; takip ederdik yeni çıkan oyunları, programları. MAC Adventure okurduk, eski oyunları yeniden oynardık.&lt;/p&gt;
-&lt;p&gt;[caption id=&amp;ldquo;attachment_2750&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;1316&amp;rdquo;]&lt;img loading=&#34;lazy&#34; src=&#34;images/Amiga_500.png&#34; alt=&#34;Amiga_500&#34;  /&gt;
- Amiga 500, not Plus model![/caption]&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://darkestnotes.org/2010/05/31/80lerde-muzik-dinlemek/&#34;&gt;Müzik&lt;/a&gt; dinlemek ayrı bir keyifti. Kasete çekilirdi albümler, önceleri LP&amp;rsquo;den kopyalanırdı, cızırtılı olurdu ama bangır bangır gelirdi ses. Sonra CD&amp;rsquo;ler çıktı, daha kaliteli dedik ama bir yavanlık vardı, dijitaldi çünkü.&lt;/p&gt;
-&lt;p&gt;Hersey daha güzeldi eskiden, oynadığımız oyunun suyunu çıkarırdık, en ince detayları bilir, disketin içindeki hangi dosyanın ne işe yaradıgını ezberlerdik. Yaptıgımız hersey ayrı bir keyif verirdi, öylesine degildi hiçbirsey.&lt;/p&gt;
-&lt;p&gt;[caption id=&amp;ldquo;attachment_2755&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;1024&amp;rdquo;]&lt;img loading=&#34;lazy&#34; src=&#34;images/Amiga_500_Plus.png&#34; alt=&#34;Amiga_500_Plus&#34;  /&gt;
- Amiga 500 Plus Model[/caption]&lt;/p&gt;
-&lt;p&gt;Sonra Amiga 500+ çıktı. Aynı eski Amiga&amp;rsquo;ydı, mor fondaki hareketli Workbench disketi dısında. Bazı oyunları çalıstırmazdı, problem çıkarırdı, ama çok güzel aletti. Hep hayal etmisimdir, karlı bir yılbaşı günü, okulun olmadıgı bir hafta sabah erkenden kalkıp Amiga&amp;rsquo;mın basına oturup saatlerce oyun oynamayı. &lt;a href=&#34;https://darkestnotes.org/2006/12/03/f-29-retaliator/&#34;&gt;F-29 Retaliator&lt;/a&gt;, Pirates!, Guild of Thieves&amp;hellip;&lt;/p&gt;
-</description>
+&lt;p&gt;Hersey ne güzeldi 1990&amp;rsquo;da 1991&amp;rsquo;de. &lt;a href=&#34;https://darkestnotes.org/2009/09/26/eski-bilgisayarlar-amiga/&#34;&gt;Amiga&lt;/a&gt; bilgisayar vardı. Beyaz ekranda Workbench disketi tutan bir el. Disket sürücüden tuhaf sesler çıkardı yükleme esnasında. Mavi pencereli GUI&amp;rsquo;si vardı, kendine özel karakterleri, ikonları. Bazı programlar ve oyunlar sadece 1 MByte RAM&amp;rsquo;de çalışırdı. &lt;a href=&#34;https://darkestnotes.org/2015/07/12/dergilerdergicilik/&#34;&gt;Dergilerden&lt;/a&gt; takip ederdik yeni çıkan oyunları, programları. MAC Adventure okurduk, eski oyunları yeniden oynardık.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>ACE II</title>
       <link>https://darkestnotes.org/posts/ace-ii/</link>
       <pubDate>Sun, 13 Dec 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/ace-ii/</guid>
-      <description>&lt;p&gt;[soundcloud url=&amp;ldquo;&lt;a href=&#34;https://api.soundcloud.com/tracks/237345250%22&#34;&gt;https://api.soundcloud.com/tracks/237345250&amp;quot;&lt;/a&gt; params=&amp;ldquo;color=0066cc&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_artwork=true&amp;amp;visual=false&amp;amp;show_comments=false&amp;amp;show_user=false&amp;amp;show_reposts=false&amp;rdquo; width=&amp;ldquo;100%&amp;rdquo; height=&amp;ldquo;166&amp;rdquo; iframe=&amp;ldquo;true&amp;rdquo; /]&lt;/p&gt;
-</description>
+      <description>&lt;p&gt;[soundcloud url=&amp;ldquo;&lt;a href=&#34;https://api.soundcloud.com/tracks/237345250%22&#34;&gt;https://api.soundcloud.com/tracks/237345250&amp;quot;&lt;/a&gt; params=&amp;ldquo;color=0066cc&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_artwork=true&amp;amp;visual=false&amp;amp;show_comments=false&amp;amp;show_user=false&amp;amp;show_reposts=false&amp;rdquo; width=&amp;ldquo;100%&amp;rdquo; height=&amp;ldquo;166&amp;rdquo; iframe=&amp;ldquo;true&amp;rdquo; /]&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Rare Game Adverts</title>
       <link>https://darkestnotes.org/posts/rare-game-adverts/</link>
       <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/rare-game-adverts/</guid>
-      <description>&lt;p&gt;[gallery type=&amp;ldquo;slideshow&amp;rdquo; link=&amp;ldquo;file&amp;rdquo; size=&amp;ldquo;full&amp;rdquo; ids=&amp;ldquo;28,27&amp;rdquo;]&lt;/p&gt;
-</description>
+      <description>&lt;p&gt;[gallery type=&amp;ldquo;slideshow&amp;rdquo; link=&amp;ldquo;file&amp;rdquo; size=&amp;ldquo;full&amp;rdquo; ids=&amp;ldquo;28,27&amp;rdquo;]&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>C64 Art</title>
       <link>https://darkestnotes.org/posts/c64-art/</link>
       <pubDate>Mon, 23 May 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/c64-art/</guid>
       <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;490&amp;rdquo;]&lt;/p&gt;
-&lt;p&gt;One of the best picture i’ve seen on C64!&lt;/p&gt;
-</description>
+&lt;p&gt;One of the best picture i’ve seen on C64!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>DOSBox ve Boxer</title>
       <link>https://darkestnotes.org/posts/dosbox-ve-boxer/</link>
       <pubDate>Sun, 10 Apr 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/dosbox-ve-boxer/</guid>
       <description>&lt;p&gt;Geçmişe özlem duyanlar, geçmişe dönebilmenin yollarını ararlar. 1992 yılında ilk PC bilgisayarıma geçtiğimde Commodore 64 ve Amiga benim için tarihin tozlu sayfalarına gömülmüştü. Gelecek PC&amp;rsquo;lerdeydi, Amiga ve Commodore 64 için çıkmış oyunların çok daha iyileri PC&amp;rsquo;de mevcuttu. Ama hiç düşündüğüm gibi olmadı.&lt;/p&gt;
-&lt;p&gt;Öncelikle çoğu oyun PC&amp;rsquo;de olmasına karşın kimi oyunların Amiga versionları çok daha iyiydi. Oyunlar eğer 256 renk VGA çözünürlüğü kullanmıyorsa 16 renge mahkumdu, Amiga ise 32 renk sunuyordu. Eğer PC&amp;rsquo;de ses kartı yoksa (ki o zamanlar ses kartım yoktu) PC hoparlöründen gelen bip sesleriyle yetinmek zorundaydık. PC&amp;rsquo;lerde hız konusunda bir standart yoktu, eski oyunlar oynanılmayacak kadar hızlı çalışıyordu, Amiga oyunları ise o donanım için test edilmiş olarak çıktığından yavaş olsa da en azından bir standarta sahipti.&lt;/p&gt;
-&lt;p&gt;Bu nedenlerle çoğu oyunun Amiga versionlarını hatta bazı eski oyunların Commodore 64 versionlarını yeniden oynamak çok daha keyifli oluyordu. Bununla birlikte PC masamın üstünü tamamen kapladığından diğer bilgisayarlar zamanla dolaplarındaki yerini aldı, o bilgisayarlarda oynadığım oyunlar güzel birer hatıra oldu.&lt;/p&gt;
-&lt;p&gt;Aynı durumun PC&amp;rsquo;ler için yaşanacağı o zamanlar hayal edilememişti tabi. DOS için yazılmış oyunlar 1995&amp;rsquo;den itibaren yavaş yavaş yerini Windows için yazılmış oyunlara bıraktı. Bilgisayarlar hızlandı, floppy disklerin yerini CD-ROM&amp;rsquo;lar aldı. DOS için programlanan oyunları Windows uyumluluk modunda zorlukla oynayabiliyor olsakda uyumsuzluk problemleri gecikmedi.&lt;/p&gt;
-&lt;p&gt;Bu sorunları ortadan &lt;a href=&#34;http://www.dosbox.com/&#34; title=&#34;DOSBox&#34;&gt;DOSBox&lt;/a&gt; isimli program kaldırdı. DOSBox hemen hemen her işletim sistemi altında çalışan, tüm eski ses kartlarını destekleyen bir DOS penceresi açtı bizim gibi nostaljik kişiliklierin dünyasına. DOSBox&amp;rsquo;ı kullanmak çok kolay değildi tabi, sanal bir disk ortamı yaratmak, ses kartı adresi ve IRQ seçmek için konfigürasyon dosyası ile uğraşmak gerekiyordu. Bu işlemleri kolaylaştırmak için frontendler yazıldı. Bunların içinde bence en iyisi ve kolay kullanımlı olanı &lt;a href=&#34;http://boxerapp.com/&#34; title=&#34;Boxer&#34;&gt;Boxer&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_ljfnh8oPG01qztw2k.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Boxer&amp;rsquo;a yeni oyun eklemek çok kolay. Sadece oyun klasörünü Boxer&amp;rsquo;a sürüklüyorsunuz, eğer bir installer varsa program onu çalıştırıyor ve konfigürasyonu gerçekleştiriyorsunuz. Oyunun adını yazıp oyun kutusunun resmini eklemeniz yeterli.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_ljfnioC3G91qztw2k.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Aynı şey CD imajları içinde geçerli. Karşılaşılacak en önemli sorun Mac klavyesi ile PC klavyesi arasındaki farklılıklar nedeniyle bazı oyunların PC klavyesine özel tuş kombinasyonları kullanmaları olabilir. Bazı oyunlar içinde hızın ayarlanabilmesi için ince ayarlar yapmak gerekebiliyor.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_ljfnj7LHEp1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Eskiden oynadığımız oyunları tekrardan oynamak geçmişe dönmemizi sağlamaz belki ama yağmurlu bir pazar gününde Indiana Jones&amp;rsquo;un Fate of Atlantis&amp;rsquo;inin CD versionunu oynayabilmenin keyfini ancak o yıllarda PC kullananlar bilebilir.&lt;/p&gt;
-</description>
+&lt;p&gt;Öncelikle çoğu oyun PC&amp;rsquo;de olmasına karşın kimi oyunların Amiga versionları çok daha iyiydi. Oyunlar eğer 256 renk VGA çözünürlüğü kullanmıyorsa 16 renge mahkumdu, Amiga ise 32 renk sunuyordu. Eğer PC&amp;rsquo;de ses kartı yoksa (ki o zamanlar ses kartım yoktu) PC hoparlöründen gelen bip sesleriyle yetinmek zorundaydık. PC&amp;rsquo;lerde hız konusunda bir standart yoktu, eski oyunlar oynanılmayacak kadar hızlı çalışıyordu, Amiga oyunları ise o donanım için test edilmiş olarak çıktığından yavaş olsa da en azından bir standarta sahipti.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>25 Years of Yie Ar Kung-Fu</title>
       <link>https://darkestnotes.org/posts/25-years-of-yie-ar-kung-fu/</link>
       <pubDate>Sun, 03 Oct 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/25-years-of-yie-ar-kung-fu/</guid>
       <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;554&amp;rdquo;]&lt;/p&gt;
-&lt;p&gt;25 Years of Yie Ar Kung-Fu&lt;/p&gt;
-</description>
+&lt;p&gt;25 Years of Yie Ar Kung-Fu&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>C64 Laptop</title>
       <link>https://darkestnotes.org/posts/c64-laptop/</link>
       <pubDate>Tue, 07 Apr 2009 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/c64-laptop/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/c64.jpg&#34; alt=&#34;c64&#34;  /&gt;
 &lt;/p&gt;
-&lt;p&gt;Commodore 64 laptop designer looking for work. - &lt;a href=&#34;http://gadgets.boingboing.net/2009/04/06/commodore-64-laptop.html&#34;&gt;http://gadgets.boingboing.net/2009/04/06/commodore-64-laptop.html&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;Commodore 64 laptop designer looking for work. - &lt;a href=&#34;http://gadgets.boingboing.net/2009/04/06/commodore-64-laptop.html&#34;&gt;http://gadgets.boingboing.net/2009/04/06/commodore-64-laptop.html&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

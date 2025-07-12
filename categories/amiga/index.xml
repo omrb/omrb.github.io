@@ -4,90 +4,60 @@
     <title>Amiga on Darkest Notes</title>
     <link>https://darkestnotes.org/categories/amiga/</link>
     <description>Recent content in Amiga on Darkest Notes</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/categories/amiga/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://darkestnotes.org/categories/amiga/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vampire V4-Standalone</title>
       <link>https://darkestnotes.org/posts/vampire-v4-standalone/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/vampire-v4-standalone/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Vampire-V4-SA-Logo.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Retro computer dünyası ile 1999 yılında aldığımız PC bilgisayar ile tanıştım. Emülasyon kavramı çok öncelerden beri var olsa da ancak 90’lı yılların sonunda Intel Pentium III işlemcili bilgisayarın ulaşılabilir olmasıyla tam anlamıyla çalışan emülatör yazılımlarını kullanmak, internet sayesinde sonsuz bir disk image ve ROM arşivine erişebilmek mümkün oldu. Commodore 64 ile zamanında ulaşamadığım disket oyunlarına emülatörler ile ulaşmayı başardım ve sonrasında emülasyon dünyası ile scene dünyasının bana ucu bucağı olmayan bir pencereden yepyeni bir dünya açtığını gördüm.&lt;br&gt;
 Emülasyon ile deneyimlenen bilgisayarların gelişmiş donanımlar ile daha gelişmiş halde karşımıza çıkmaları ise 2010 ve sonrasında başlayan bir süreç oldu. FPGA (Field Programmable Gate Array) teknolojisi ile eski bilgisayarların “&lt;em&gt;düzeltilmiş&lt;/em&gt;”, “&lt;em&gt;yenilenmiş&lt;/em&gt;”, “&lt;em&gt;güçlendirilmiş&lt;/em&gt;” sürümlerini yaratmak retro çılgınları için yeni bir tutku olmuştu artık.&lt;br&gt;
-Apollo Team tarafından geliştirilen Vampire hızlandıcı Amiga kartları uzun yıllardır piyasada mevcut. Amiga üzerine işlemci yuvasına takılan kartlar bir miktar hız artışının yanında HDD desteği, çeşitli yamalar vb. özellikler ile geliyor.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Vampire-V4-SA-Box.jpeg&#34; alt=&#34;&#34;  /&gt;
-&lt;br&gt;
-Vampire V4-Standalone ise adı gibi kendi başına çalışan bir Amiga. İçerisinde aslında gerçekte -var olmayan- &lt;strong&gt;68080&lt;/strong&gt; işlemci barındırıyor. Mikrokodu geriye uyumlu bu 68080 işlemci bazı yeni komut setleriyle (AMMX) ile birlikte ve gelişmiş AGA modu &lt;strong&gt;SuperAGA&lt;/strong&gt; ile geliyor. 12 MByte Chip 512 MByte Fast RAM’a sahip bu Amiga saklama birimi olarak Compact Flash kartları kullanıyor. Cihaz AROS rom ile geliyor ancak Kickstart Romları da flashlamak mümkün. Paula ses sistemi ile uyumlu Arne -sanal ses chip-’i 14 bit sound sample özelliği barındırıyor.&lt;br&gt;
-Vampire V4-SA açık kaynak kodlu AROS temelli Apollo OS ile çalışıyor. Bununla birlikte CoffinOS veya CaffeineOS gibi distrolarda mevcut, ancak Amiga OS 3.2 yüklemek isterseniz SAGA sürücülerini de yüklenmesi gerekli.&lt;br&gt;
-Herkesin rüyalarını süsleyen bu gelişmiş Amiga maalesef hayal ettiğim kadar iyi çalışmıyor. Geriye uyum büyük ölçüde problemli olmakla birlikte yeni özelliklerinin kullanıldığı program-oyun ve demolar hem sayıca az, hem de beklentiyi karşılayacak etkileyicilikten çok uzaklar. Cihaz fazlasıyla deneysel, ortaya çıkan bug’lar rastlantısal ve reproduce edebilmek çoğu zaman imkansız.&lt;br&gt;
-Yaptığım uzun testler sonucunda diyebilirim ki bilgisayarınızda çalışan emülatörler ile daha keyifli ve huzurlu bir retro aktivitesi yaşayabilirsiniz. Bu ve benzeri ürünler ancak macera arayan &lt;strong&gt;&lt;em&gt;computer-nerd&lt;/em&gt;&lt;/strong&gt;’lere uygun…&lt;/p&gt;
-</description>
+Apollo Team tarafından geliştirilen Vampire hızlandıcı Amiga kartları uzun yıllardır piyasada mevcut. Amiga üzerine işlemci yuvasına takılan kartlar bir miktar hız artışının yanında HDD desteği, çeşitli yamalar vb. özellikler ile geliyor.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Bitmap Books</title>
       <link>https://darkestnotes.org/posts/bitmap-books/</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/bitmap-books/</guid>
       <description>&lt;p&gt;İngiltere merkezli bir kitabevi &lt;a href=&#34;https://www.bitmapbooks.co.uk&#34;&gt;Bitmap Books&lt;/a&gt;. Retro bilgisayarlar ve oyun konsolları ile ilgili kitap araştıran birinin internette ilk gözüne çarpan firmalardan biri.&lt;/p&gt;
 &lt;p&gt;Ağırlıklı olarak retro bilgisayar-oyun konsol severlere yönelik kitaplar hazırlasalar da yine retro koleksiyon severlere yönelik Unofficial Micro Machines Collection gibi minyatür araba katalogları ve çizgi roman - manga türünden kitapları da yayına hazırlıyorlar.&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Bitmap_Books.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
-&lt;p&gt;Günümüzde özenerek hazırlanmış internet siteleri ciddi kullanıcı ve alıcıların gözünden kaçması mümkün olmuyor zaten. Bitmap Books’un internet sitesi de bu şekilde özenle hazırlanmış, satıştaki ürünlerin detaylı ve yüksek çözünürlüklü profesyonelce çekilmiş fotoğrafları ile alma niyeti oladan siteyi dolaşan kullanıcılarda bile alma isteği uyandırmayı başarabiliyor.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Bitmap_Books-Commodore-1.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Kitapların sayfa düzeni, tipografisi, kalitesi ise ayrıca profesyonel ölçülerde. Benim gibi yaşını başını almış retro meraklısı eski scener’ların arşivinde mutlaka bulunması gereken kitaplar.&lt;/p&gt;
-</description>
+&lt;p&gt;Günümüzde özenerek hazırlanmış internet siteleri ciddi kullanıcı ve alıcıların gözünden kaçması mümkün olmuyor zaten. Bitmap Books’un internet sitesi de bu şekilde özenle hazırlanmış, satıştaki ürünlerin detaylı ve yüksek çözünürlüklü profesyonelce çekilmiş fotoğrafları ile alma niyeti oladan siteyi dolaşan kullanıcılarda bile alma isteği uyandırmayı başarabiliyor.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Eskiden Hersey Ne Güzeldi!</title>
       <link>https://darkestnotes.org/posts/eskiden-hersey-ne-g%C3%BCzeldi/</link>
       <pubDate>Mon, 28 Dec 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/eskiden-hersey-ne-g%C3%BCzeldi/</guid>
       <description>&lt;p&gt;1987 yılbasında, soguk bir kıs günü eve giren Commodore 64 ile basladı hersey. Görüntü kablosu kocaman tüplü televizyona baglanır, oyunlar kasetten yüklenirdi. Degisik oyunları oynanırdı ailecek. (Çünkü tek televizyon olurdu evlerde) Hafta ici açılmazdı, çünkü okul vardı, hafta sonu iple çekilir, cuma gecesi bütün hafta hayali kurulan oyunlar heyecanla oynanırdı.&lt;/p&gt;
 &lt;p&gt;[caption id=&amp;ldquo;attachment_2748&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;1184&amp;rdquo;]&lt;img loading=&#34;lazy&#34; src=&#34;images/Steven_Vitale-Saturday_Morning.png&#34; alt=&#34;Steven_Vitale-Saturday_Morning&#34;  /&gt;
  Saturday Morning[/caption]&lt;/p&gt;
-&lt;p&gt;Hersey ne güzeldi 1990&amp;rsquo;da 1991&amp;rsquo;de. &lt;a href=&#34;https://darkestnotes.org/2009/09/26/eski-bilgisayarlar-amiga/&#34;&gt;Amiga&lt;/a&gt; bilgisayar vardı. Beyaz ekranda Workbench disketi tutan bir el. Disket sürücüden tuhaf sesler çıkardı yükleme esnasında. Mavi pencereli GUI&amp;rsquo;si vardı, kendine özel karakterleri, ikonları. Bazı programlar ve oyunlar sadece 1 MByte RAM&amp;rsquo;de çalışırdı. &lt;a href=&#34;https://darkestnotes.org/2015/07/12/dergilerdergicilik/&#34;&gt;Dergilerden&lt;/a&gt; takip ederdik yeni çıkan oyunları, programları. MAC Adventure okurduk, eski oyunları yeniden oynardık.&lt;/p&gt;
-&lt;p&gt;[caption id=&amp;ldquo;attachment_2750&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;1316&amp;rdquo;]&lt;img loading=&#34;lazy&#34; src=&#34;images/Amiga_500.png&#34; alt=&#34;Amiga_500&#34;  /&gt;
- Amiga 500, not Plus model![/caption]&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://darkestnotes.org/2010/05/31/80lerde-muzik-dinlemek/&#34;&gt;Müzik&lt;/a&gt; dinlemek ayrı bir keyifti. Kasete çekilirdi albümler, önceleri LP&amp;rsquo;den kopyalanırdı, cızırtılı olurdu ama bangır bangır gelirdi ses. Sonra CD&amp;rsquo;ler çıktı, daha kaliteli dedik ama bir yavanlık vardı, dijitaldi çünkü.&lt;/p&gt;
-&lt;p&gt;Hersey daha güzeldi eskiden, oynadığımız oyunun suyunu çıkarırdık, en ince detayları bilir, disketin içindeki hangi dosyanın ne işe yaradıgını ezberlerdik. Yaptıgımız hersey ayrı bir keyif verirdi, öylesine degildi hiçbirsey.&lt;/p&gt;
-&lt;p&gt;[caption id=&amp;ldquo;attachment_2755&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;1024&amp;rdquo;]&lt;img loading=&#34;lazy&#34; src=&#34;images/Amiga_500_Plus.png&#34; alt=&#34;Amiga_500_Plus&#34;  /&gt;
- Amiga 500 Plus Model[/caption]&lt;/p&gt;
-&lt;p&gt;Sonra Amiga 500+ çıktı. Aynı eski Amiga&amp;rsquo;ydı, mor fondaki hareketli Workbench disketi dısında. Bazı oyunları çalıstırmazdı, problem çıkarırdı, ama çok güzel aletti. Hep hayal etmisimdir, karlı bir yılbaşı günü, okulun olmadıgı bir hafta sabah erkenden kalkıp Amiga&amp;rsquo;mın basına oturup saatlerce oyun oynamayı. &lt;a href=&#34;https://darkestnotes.org/2006/12/03/f-29-retaliator/&#34;&gt;F-29 Retaliator&lt;/a&gt;, Pirates!, Guild of Thieves&amp;hellip;&lt;/p&gt;
-</description>
+&lt;p&gt;Hersey ne güzeldi 1990&amp;rsquo;da 1991&amp;rsquo;de. &lt;a href=&#34;https://darkestnotes.org/2009/09/26/eski-bilgisayarlar-amiga/&#34;&gt;Amiga&lt;/a&gt; bilgisayar vardı. Beyaz ekranda Workbench disketi tutan bir el. Disket sürücüden tuhaf sesler çıkardı yükleme esnasında. Mavi pencereli GUI&amp;rsquo;si vardı, kendine özel karakterleri, ikonları. Bazı programlar ve oyunlar sadece 1 MByte RAM&amp;rsquo;de çalışırdı. &lt;a href=&#34;https://darkestnotes.org/2015/07/12/dergilerdergicilik/&#34;&gt;Dergilerden&lt;/a&gt; takip ederdik yeni çıkan oyunları, programları. MAC Adventure okurduk, eski oyunları yeniden oynardık.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Amiga</title>
       <link>https://darkestnotes.org/posts/amiga/</link>
       <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/amiga/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.omrb.org/wp-content/uploads/2009/07/e12aaa01284f5a7541186689a4d27187_large.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/e12aaa01284f5a7541186689a4d27187_large.jpg&#34; alt=&#34;e12aaa01284f5a7541186689a4d27187_large&#34;  /&gt;
 &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Amiga: Sent from my iPhonePosted using &lt;a href=&#34;http://mobypicture.com/?clhlqc&#34;&gt;http://mobypicture.com/?clhlqc&lt;/a&gt; &lt;a href=&#34;http://tinyurl.com/lx8h5r&#34;&gt;http://tinyurl.com/lx8h5r&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;Amiga: Sent from my iPhonePosted using &lt;a href=&#34;http://mobypicture.com/?clhlqc&#34;&gt;http://mobypicture.com/?clhlqc&lt;/a&gt; &lt;a href=&#34;http://tinyurl.com/lx8h5r&#34;&gt;http://tinyurl.com/lx8h5r&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Amiga 500 Working Condition</title>
       <link>https://darkestnotes.org/posts/amiga-500-working-condition/</link>
       <pubDate>Tue, 30 Jun 2009 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/amiga-500-working-condition/</guid>
       <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;947&amp;rdquo;]&lt;/p&gt;
 &lt;h2 id=&#34;amiga&#34;&gt;Amiga&lt;/h2&gt;
 &lt;p&gt;Sent from my iPhone - Posted using &lt;a href=&#34;http://mobypicture.com/?clhlqc&#34;&gt;Mobypicture.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://mobypicture.com/?clhlqc&#34;&gt;http://mobypicture.com/?clhlqc&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;a href=&#34;http://mobypicture.com/?clhlqc&#34;&gt;http://mobypicture.com/?clhlqc&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

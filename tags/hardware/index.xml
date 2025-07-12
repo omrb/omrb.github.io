@@ -4,28 +4,20 @@
     <title>Hardware on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/hardware/</link>
     <description>Recent content in Hardware on Darkest Notes</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://darkestnotes.org/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vampire V4-Standalone</title>
       <link>https://darkestnotes.org/posts/vampire-v4-standalone/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/vampire-v4-standalone/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Vampire-V4-SA-Logo.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Retro computer dünyası ile 1999 yılında aldığımız PC bilgisayar ile tanıştım. Emülasyon kavramı çok öncelerden beri var olsa da ancak 90’lı yılların sonunda Intel Pentium III işlemcili bilgisayarın ulaşılabilir olmasıyla tam anlamıyla çalışan emülatör yazılımlarını kullanmak, internet sayesinde sonsuz bir disk image ve ROM arşivine erişebilmek mümkün oldu. Commodore 64 ile zamanında ulaşamadığım disket oyunlarına emülatörler ile ulaşmayı başardım ve sonrasında emülasyon dünyası ile scene dünyasının bana ucu bucağı olmayan bir pencereden yepyeni bir dünya açtığını gördüm.&lt;br&gt;
 Emülasyon ile deneyimlenen bilgisayarların gelişmiş donanımlar ile daha gelişmiş halde karşımıza çıkmaları ise 2010 ve sonrasında başlayan bir süreç oldu. FPGA (Field Programmable Gate Array) teknolojisi ile eski bilgisayarların “&lt;em&gt;düzeltilmiş&lt;/em&gt;”, “&lt;em&gt;yenilenmiş&lt;/em&gt;”, “&lt;em&gt;güçlendirilmiş&lt;/em&gt;” sürümlerini yaratmak retro çılgınları için yeni bir tutku olmuştu artık.&lt;br&gt;
-Apollo Team tarafından geliştirilen Vampire hızlandıcı Amiga kartları uzun yıllardır piyasada mevcut. Amiga üzerine işlemci yuvasına takılan kartlar bir miktar hız artışının yanında HDD desteği, çeşitli yamalar vb. özellikler ile geliyor.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Vampire-V4-SA-Box.jpeg&#34; alt=&#34;&#34;  /&gt;
-&lt;br&gt;
-Vampire V4-Standalone ise adı gibi kendi başına çalışan bir Amiga. İçerisinde aslında gerçekte -var olmayan- &lt;strong&gt;68080&lt;/strong&gt; işlemci barındırıyor. Mikrokodu geriye uyumlu bu 68080 işlemci bazı yeni komut setleriyle (AMMX) ile birlikte ve gelişmiş AGA modu &lt;strong&gt;SuperAGA&lt;/strong&gt; ile geliyor. 12 MByte Chip 512 MByte Fast RAM’a sahip bu Amiga saklama birimi olarak Compact Flash kartları kullanıyor. Cihaz AROS rom ile geliyor ancak Kickstart Romları da flashlamak mümkün. Paula ses sistemi ile uyumlu Arne -sanal ses chip-’i 14 bit sound sample özelliği barındırıyor.&lt;br&gt;
-Vampire V4-SA açık kaynak kodlu AROS temelli Apollo OS ile çalışıyor. Bununla birlikte CoffinOS veya CaffeineOS gibi distrolarda mevcut, ancak Amiga OS 3.2 yüklemek isterseniz SAGA sürücülerini de yüklenmesi gerekli.&lt;br&gt;
-Herkesin rüyalarını süsleyen bu gelişmiş Amiga maalesef hayal ettiğim kadar iyi çalışmıyor. Geriye uyum büyük ölçüde problemli olmakla birlikte yeni özelliklerinin kullanıldığı program-oyun ve demolar hem sayıca az, hem de beklentiyi karşılayacak etkileyicilikten çok uzaklar. Cihaz fazlasıyla deneysel, ortaya çıkan bug’lar rastlantısal ve reproduce edebilmek çoğu zaman imkansız.&lt;br&gt;
-Yaptığım uzun testler sonucunda diyebilirim ki bilgisayarınızda çalışan emülatörler ile daha keyifli ve huzurlu bir retro aktivitesi yaşayabilirsiniz. Bu ve benzeri ürünler ancak macera arayan &lt;strong&gt;&lt;em&gt;computer-nerd&lt;/em&gt;&lt;/strong&gt;’lere uygun…&lt;/p&gt;
-</description>
+Apollo Team tarafından geliştirilen Vampire hızlandıcı Amiga kartları uzun yıllardır piyasada mevcut. Amiga üzerine işlemci yuvasına takılan kartlar bir miktar hız artışının yanında HDD desteği, çeşitli yamalar vb. özellikler ile geliyor.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -4,128 +4,69 @@
     <title>Operating-System on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/operating-system/</link>
     <description>Recent content in Operating-System on Darkest Notes</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 15 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/operating-system/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://darkestnotes.org/tags/operating-system/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BeOS&#39;un Kısa Tarihi</title>
       <link>https://darkestnotes.org/posts/beosun-k%C4%B1sa-tarihi/</link>
       <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/beosun-k%C4%B1sa-tarihi/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/BeLogo-with-black-background.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Jean-Louis Gassée 1990 yılında Apple&amp;rsquo;dan ayrıldıktan sonra Steve Jobs gibi kendi firmasını Be Inc. adıyla 1991 yılında kurdu. At&amp;amp;T tarafından geliştirilen RISC tabanlı &amp;ldquo;&lt;em&gt;Hobbit&lt;/em&gt;&amp;rdquo; isimli işlemciye sahip bir bilgisayar geliştirmekle kalmadı bu bilgisayar için bir işletim sistemi de hazırlamaya koyuldu. Bilgisayarın adı &lt;em&gt;&lt;strong&gt;BeBox&lt;/strong&gt;&lt;/em&gt; oldu ancak 1995 yılında AT&amp;amp;T Hobbit işlemcisini geliştirmeyi bıraktı ve Gassée&amp;rsquo;nin bilgisayar tasarımı yarı yolda kaldı.&lt;/p&gt;
 &lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;full&amp;rdquo; ids=&amp;ldquo;4031&amp;rdquo; justified_image_grid row_height=500]&lt;/p&gt;
-&lt;p&gt;Gassée kolay vaz geçen biri değildi, hemen bilgisayarını iki 66 Mhz hızında PowerPC 603 işlemcisi ile donattı, hazırladığı işletim sistemi de C ve C++ diliyle yazılmış olduğundan kolaylıkla yeni işlemciye uyarlandı ve BeBox 1996 yılı Ocak ayında kullanıcı ile buluştu. Bilgisayarı alanlar fazlasıyla memnun kaldılar üründen. Bilgisayar kasası üzerinde işlemci performansını gösteren &amp;ldquo;&lt;em&gt;blinkenlight&lt;/em&gt;&amp;rdquo; LED ışıklar, stabil, isometirk ikonlara sahip işletim sistemi herkesi fazlasıyla memnun etti.&lt;/p&gt;
-&lt;p&gt;Fakat bilgisayar üretmek pahalı ve sıkıntılı bir iş olduğundan Be Inc. yazılım işine yöneldi, hazır Apple&amp;rsquo;da PowerPC yongaları kullanırken işletim sistemini Apple&amp;rsquo;da çalışabilecek şekilde uyarladı. O dönem Apple&amp;rsquo;ın işletim sistemi konusunda sıkıntı çektiği dönem olduğundan Gassée&amp;rsquo;nin amacı BeOS&amp;rsquo;u Apple&amp;rsquo;a satmak oldu ancak istediği yüksek fiyatı Apple kabul etmedi ve Gassée&amp;rsquo;nin hayalleri suya düştü. Apple sonraki yıllarda donanımı ile ilgili bilgileri işletim sistemi geliştirebilecek kadar yazılımcılar ile paylaşmamaya karar verdiğinden BeOS&amp;rsquo;un Apple bilgisayarlar üzerinde geliştirilmesi sona erdi ve Intel X86 mimarisine doğru yöneldi.&lt;/p&gt;
-&lt;p&gt;Mart 1998&amp;rsquo;de BeOS R3 hem PowerPC hem X86 tabanlı bilgisayarlar için piyasaya sürüldü. Version R4 sadece x86 için 1999 başında, R4.5 ise 1999 ortalarında kullanıma sunuldu.&lt;/p&gt;
-&lt;p&gt;2000 yılında BeOS R5 sürümünü Windows içerisinden çalışabilecek 512 MByte&amp;rsquo;lık bir dosya halinde ücretsiz dağıttı. 1 milyondan fazla kişiye ulaşan bu sürüm BeOS&amp;rsquo;un kitleler tarafından tanınmasını sağlamış oldu. R5 Professional Edition ise bütün halinde tam bir işletim sistem olarak 99 US$&amp;lsquo;a satılıyordu.&lt;/p&gt;
-&lt;p&gt;BeOS R5 stabil yapısı ve Windows’a alternatif olabilecek medya oynatabilme becerileri ile yoğun ilgi gördü. Önceki sürümler için üretilen çoğu freeware ve shareware araç R5 için güncellendi. Bununla birlikte PC için işletim sistemi geliştirmek fazlasıyla meşakkatli bir işti. Gassee’de bunun farkındaydı. Her donanım için sık sık güncellenecek ve cihazın tüm yeteneklerini kullanabilecek aygıt sürücüleri yazmak, kullanıcılara destek sağlamak, 3. parti üreticilerden BeOS desteği sağlamalarını istemek çok ama çok zordu.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/20220213-113532-747.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Bütün bunları göz önüne alan Gassée BeOS’un popülerliğinden yararlanarak tüm haklarını 2001 yılında Palm&amp;rsquo;a sattı.&lt;/p&gt;
-&lt;p&gt;BeOS’un 5.1 beta sürümü sonrasında elden ele dolaştı ve Dano ismiyle bir dönem kullanıldı. Palm BeOS’u geliştirmeyeceğini duyurduktan sonra YellowTAB ve Magnussoft BeOS Zeta sürümlerini yayınladılar. BeOS sonraki yıllarda Haiku OS adıyla açık kaynak kodlu olarak gelişimini sürdürdü ve halen sürdürmeye devam ediyor.&lt;/p&gt;
-</description>
+&lt;p&gt;Gassée kolay vaz geçen biri değildi, hemen bilgisayarını iki 66 Mhz hızında PowerPC 603 işlemcisi ile donattı, hazırladığı işletim sistemi de C ve C++ diliyle yazılmış olduğundan kolaylıkla yeni işlemciye uyarlandı ve BeBox 1996 yılı Ocak ayında kullanıcı ile buluştu. Bilgisayarı alanlar fazlasıyla memnun kaldılar üründen. Bilgisayar kasası üzerinde işlemci performansını gösteren &amp;ldquo;&lt;em&gt;blinkenlight&lt;/em&gt;&amp;rdquo; LED ışıklar, stabil, isometirk ikonlara sahip işletim sistemi herkesi fazlasıyla memnun etti.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>iOS 13</title>
       <link>https://darkestnotes.org/posts/ios-13/</link>
       <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/ios-13/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/top-new-ios-13-features.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;iOS 13 iPhone’larımıza geldi gelmesine ama sorunlarıyla birlikte geldi. Daha iOS 13 çıkmadan 13.1 betaları dağıtıldı, 13.1.1 sonrasında 13.1.2. Herşey içinde bulunsun derken Apple fazlasıyla karman çorman bir hale getirdi iOS’u. Bu durum ister istemez sistemde hantallaşmaya yol açıyor kuşkusuz.&lt;/p&gt;
-&lt;p&gt;Pek çok özelliği zaten ülkemizde kullanamıyoruz, bazı özelliklerinde farkında değiliz bile. Apple’ın iOS 13 sayfasında şöyle bir baktım neyi kullanıyorum, hangi özellikler bana faydalı diye, görünürde pek birşey yok.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Face ID eskisine göre daha hızlı çalışıyor.&lt;/li&gt;
-&lt;li&gt;Batarya süresinde günlük kullanımda rahatlıkla farkedilebilir bir artış var.&lt;/li&gt;
-&lt;li&gt;Optimize şarj denilen bir özellik var, telefonu nasıl şarj ettiğinizi öğreniyor ve buna göre tam şarjı, şarjdan çıkaracağınız zamana yakın tamamlıyor.¯\_(ツ)_/¯&lt;img loading=&#34;lazy&#34; src=&#34;images/Memoji-Emoji-iOS13.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/li&gt;
-&lt;li&gt;En güzel özellik ise kendi Memojinizi, emoji olarak kullanabilmek.&lt;/li&gt;
-&lt;li&gt;3D Touch ortadan kalkmış, yerine Haptic Touch gelmiş.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+&lt;p&gt;Pek çok özelliği zaten ülkemizde kullanamıyoruz, bazı özelliklerinde farkında değiliz bile. Apple’ın iOS 13 sayfasında şöyle bir baktım neyi kullanıyorum, hangi özellikler bana faydalı diye, görünürde pek birşey yok.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>iOS 9</title>
       <link>https://darkestnotes.org/posts/ios-9/</link>
       <pubDate>Sun, 18 Oct 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/ios-9/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://d.pr/i/10hHo&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/10hHo&amp;#43;&#34; alt=&#34;&#34;  /&gt;
 &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;iOS 9 geçtiğimiz ay içinde 16 Eylül Çarşamba günü kullanılabilir oldu. Aylardır beta sürümlerini kullanıyor olsam da, bazı özellikleri ancak herkes tarafından kullanılabilir olduğunda, uygulamalar iOS 9 için güncellendiğinde anlaşılır hale gelebiliyor.&lt;/p&gt;
 &lt;p&gt;Internet üzerinde iOS 9 için yazılmış çok kapsamlı incelemeler yer alıyor. Rene Ritchie&amp;rsquo;nin 21000 kelimelik &lt;a href=&#34;http://www.imore.com/ios-9-review&#34;&gt;incelemesi&lt;/a&gt;, Federico Viticci&amp;rsquo;nin bir kitap kadar kapsamlı (48.000 kelime!) ve iPad ile yazılan &lt;a href=&#34;https://www.macstories.net/stories/ios-9-review/&#34;&gt;incelemelerinde&lt;/a&gt; detaylar mevcut.&lt;/p&gt;
-&lt;p&gt;iOS 9&amp;rsquo;da benim için önemli olan ve kullanımının yaygınlaşması ile daha da önemli hale gelecek özellikler şu şekilde sıralanıyor;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;App Thinning&lt;/li&gt;
-&lt;li&gt;Content Blockers&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;App Thinning henüz kullanılabilir değil. iCloud BackUp&amp;rsquo;larda yaşanan sorunlar &lt;a href=&#34;http://9to5mac.com/2015/09/24/ios-9-app-thinning-delayed-icloud-bug/&#34;&gt;nedeniyle&lt;/a&gt; henüz kullanılamıyor. Yenilik olarak tanımlanan bir özelliğin kullanılabilir olmaması eleştirilebilecek bir durum.&lt;/p&gt;
-&lt;p&gt;Content Blockers ise büyük tartışmaları da beraberinde getirdi. Sitelerin gelir kapısının bu reklamlar olduğu ve onları engellemenin etik olmadığı savunulmaya başlandı. Hatta trajikomik bir olay yaşandı, Marco Arment ücretli olarak sattığı content blocker Peace&amp;rsquo;i App Store&amp;rsquo;dan çekmek zorunda kaldı.&lt;/p&gt;
-&lt;p&gt;Internet&amp;rsquo;in tamamıyle reklamlarla dolmasına ve kullanıcıların takip edilmesine tamamen karşı çıkan biri olarak internetin tamamen reklamsız hale getirilmesini şiddetle savunanlardan biriyim. Siteler gelirleri için üyelik sistemi konusunda biraz daha düşünmeli ve çalışmalılar. Ben bir siteyi düzenli olarak kullanıyor ve faydalanıyorsam aldığım bu hizmet için reklamlara tıklamayı değil, belirli bir ücret ödemeyi tercih ederim.&lt;/p&gt;
-&lt;p&gt;Bunu beceremeyen siteler kaybolup gidebilir hiç umrumda olmaz. Internet tamamen amatör bir çaba ile doğdu, iyi kötü öyle devam edecek.&lt;/p&gt;
-&lt;p&gt;Bilgisayarlarımda AdBlock, iPhone&amp;rsquo;umda ise Purify kullanıyorum ve gayet memnunum, saçma sapan reklamları görmek zorunda kalmadan internetin kullanılabilir olması sevindirici. Bunları kullandığım için sayfalarını göstermeyi reddeden web siteleri ise benim için internetin çöplüğünde yer almaya başlamışlardır. Kendileri çalıp kendileri oynamaya devam edebilirler.&lt;/p&gt;
-</description>
+&lt;p&gt;iOS 9&amp;rsquo;da benim için önemli olan ve kullanımının yaygınlaşması ile daha da önemli hale gelecek özellikler şu şekilde sıralanıyor;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mountain Lion</title>
       <link>https://darkestnotes.org/posts/mountain-lion/</link>
       <pubDate>Sat, 28 Jul 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/mountain-lion/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_m7vfnjWWhm1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Apple bir sürpriz yaptı ve işletim sistemi sürüm güncelleme süresini 2 yıldan bir yıla indirdi. Geçen yıl Temmuz ayında çıkan Lion&amp;rsquo;dan sonra bu yıl 25 Temmuz&amp;rsquo;da Mountain Lion kullanıma sunuldu.&lt;/p&gt;
-&lt;p&gt;Apple Mountain Lion&amp;rsquo;ın 200&amp;rsquo;den fazla yeni özellik ile geldiğini söylüyor. Pek çoğu güünlük kullanımda karşımıza çıkmayacak özellikler olsa da iOS cihazlarla iCloud sayesinde anında senkronizasyon sağlayan Notes, Reminders gibi uygulamalar, Messages, gerçekten mükemmel bir hıza erişmiş olan Safari, açılma süresi ile beni şaşırtan iTunes, Twitter entegrasyonu (Sonbaharda Facebook ile entegrasyon da sağlanacak) ve bildirimler en önemli özellikler arasında görünüyor.&lt;/p&gt;
-&lt;p&gt;Bütün bunların yanında işletim sisteminin alışılmış kullanım kolaylığı ile birlikte düşünüldüğünde, OS X Microsoft&amp;rsquo;un bir türlü yerleştiremedeiği UX ve UI özelliklerinden rahatlıkla yararlanarak, kullanıcıların ve içinde bulunulan yılların taleplerine göre eklentiler yaparak kolaylıkla gelişiyor.&lt;/p&gt;
-&lt;p&gt;UX ve UI özelliklerini bir türlü yerleştiremeyen Microsoft ise Windows 8&amp;rsquo;de Metro arabirimine büyük umutlar bağlamış durumda. Metro arabiriminin yeniliği ve eski kullanıcılar için karmaşıklığı düşünüldüğünde, Apple&amp;rsquo;ın gelecek yıllarda kişisel bilgisayar alanında liderliği rahatlıkla ele geçireceği kolaylıkla anlaşılıyor.&lt;/p&gt;
-</description>
+&lt;p&gt;Apple Mountain Lion&amp;rsquo;ın 200&amp;rsquo;den fazla yeni özellik ile geldiğini söylüyor. Pek çoğu güünlük kullanımda karşımıza çıkmayacak özellikler olsa da iOS cihazlarla iCloud sayesinde anında senkronizasyon sağlayan Notes, Reminders gibi uygulamalar, Messages, gerçekten mükemmel bir hıza erişmiş olan Safari, açılma süresi ile beni şaşırtan iTunes, Twitter entegrasyonu (Sonbaharda Facebook ile entegrasyon da sağlanacak) ve bildirimler en önemli özellikler arasında görünüyor.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>OS X Mountain Lion</title>
       <link>https://darkestnotes.org/posts/os-x-mountain-lion/</link>
       <pubDate>Tue, 21 Feb 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/os-x-mountain-lion/</guid>
       <description>&lt;p&gt;Apple 2012 yılı yaz sonunda çıkacak olan işletim sistemi OS X Mountain Lion&amp;rsquo;ın ilk Geliştirici Sürümünü programcıların kullanımına açtı. Bu sürümü bilgisayarıma kurup kurmamakta önce kararsız olmama karşın, gerçekten kullanışlı özelliklerini okudukça ve gayet stabil olduğunu öğrenince kurmaya karar verdim.&lt;/p&gt;
-&lt;p&gt;Yükledikten sonra ilk işim iCloud bağlantısını sağlamak oldu. Çünkü artık OS X tamamen iCloud ile entegre bir hale gelmiş. Kişiler, Hatırlatıcılar, E-Posta, Notlar vb. pek çok özellik iCloud üzerinden eşitleniyor. Hayatımızı büyük ölçüde kolaylaştıran bu özellik kimi zaman karmaşayı da beraberinde getiriyor. Özellikle kurulum aşamasında Apple ID&amp;rsquo;leri arasındaki farklılık sebebi ile biraz sorun yaşadım. Eski MobileMe adresleri yeni iCloud sistemi ile tam entegrasyon sağlayamıyor. Ancak Notes uygulamasını iCloud ile eşitlemek isterseniz bir MobileMe adresinizin olması da şart. Yani 2 tane iCloud hesabınız (Primary ve Secondary) Apple tek bir iCloud hesabında tüm eşitlemeyi gerçekleştirebilecek bir sistem oluşturmazsa iCloud sisteminde kullanıcılar biraz karışıklık yaşayacak gibi.&lt;/p&gt;
-&lt;p&gt;iCloud bağlantısı sağlandıktan sonra tüm iOS cihazlarınız ile bilgisayarınızdaki uygulamalar anında eşitleniyor. iPhone&amp;rsquo;unuza eklediğiniz bir kişi, evdeki bilgisarınızdaki Contacts uygulamasında görülebiliyor.&lt;/p&gt;
-&lt;p&gt;iOS 5 ile iPhone ve iPad&amp;rsquo;e gelen Reminders uygulaması Mountain Lion ile bilgisayarınızdan yapacağınız değişikliklerle daha etkili bir yapılacaklar uygulaması haine gelmiş.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_lzr38bx7fs1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Notes iPhone&amp;rsquo;da kullandıkça alıştığım ve vazgeçemediğim bir uygulama. iPad&amp;rsquo;de de severek kullanıyorum. Şimdi OS X&amp;rsquo;e eklenmiş ve iCloud senkronizasyonu ile tüm cihazlar eşitleniyor. Denemelerimde gördüğüm kadarıyla her zaman başarılı bir senkronizasyon mümkün olmadı. OS X&amp;rsquo;deki Notes uygulamasına resimler eklenti olarak yapıştırılabiliyor. iOS cihazlar henüz bu özelliği desteklemiyor tabiki.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_lzr394Wpja1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Safari&amp;rsquo;deki en önemli yenilik Share (paylaşım) düğmesi ile adres çubuğunun aramalar için tek bir çubuk haline (omnibar) gelmesi olmuş. Bence adres çubuğu ile arama çubuğunun ayrı olması daha iyiydi. Share düğmesi Preview uygulamasında değişerek fotoğrafları Flickr&amp;rsquo;da paylaşabilir hale getirebiliyor.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_lzr36zeqfh1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Safari ile twitter&amp;rsquo;da yaptığım paylaşım iOS&amp;rsquo;dan gönderilmiş gibi gözükmesi bu program parçasının iOS&amp;rsquo;dan doğrudan aktarıldığını gösteriyor.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_lzr3adiU561qztw2k.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Game Center şu an için çalışabilir bir uygulama değil. Yalnız dikkatimi çeken Apple OS X&amp;rsquo;deki Game Center için yeni bir kimlik yaratmamı istedi. Eğer iOS ile eşitlemeyecekse burada da iCloud&amp;rsquo;da olduğu gibi çift kimlik sorunları yaşanabilir.&lt;/p&gt;
-&lt;p&gt;Genel haliyle oldukça stabil çalışan Mountain Lion&amp;rsquo;da en önemli çökmeleri System Preferences&amp;rsquo;da özellikle iCloud ayarlarını yaparken yaşadım.&lt;/p&gt;
-</description>
+&lt;p&gt;Yükledikten sonra ilk işim iCloud bağlantısını sağlamak oldu. Çünkü artık OS X tamamen iCloud ile entegre bir hale gelmiş. Kişiler, Hatırlatıcılar, E-Posta, Notlar vb. pek çok özellik iCloud üzerinden eşitleniyor. Hayatımızı büyük ölçüde kolaylaştıran bu özellik kimi zaman karmaşayı da beraberinde getiriyor. Özellikle kurulum aşamasında Apple ID&amp;rsquo;leri arasındaki farklılık sebebi ile biraz sorun yaşadım. Eski MobileMe adresleri yeni iCloud sistemi ile tam entegrasyon sağlayamıyor. Ancak Notes uygulamasını iCloud ile eşitlemek isterseniz bir MobileMe adresinizin olması da şart. Yani 2 tane iCloud hesabınız (Primary ve Secondary) Apple tek bir iCloud hesabında tüm eşitlemeyi gerçekleştirebilecek bir sistem oluşturmazsa iCloud sisteminde kullanıcılar biraz karışıklık yaşayacak gibi.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Linux Ubuntu</title>
       <link>https://darkestnotes.org/posts/linux-ubuntu/</link>
       <pubDate>Wed, 15 Apr 2009 00:00:00 +0000</pubDate>
-      
       <guid>https://darkestnotes.org/posts/linux-ubuntu/</guid>
       <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; type=&amp;ldquo;rectangular&amp;rdquo; ids=&amp;ldquo;1045,1042&amp;rdquo;]&lt;/p&gt;
 &lt;h2 id=&#34;linux-ubuntu&#34;&gt;Linux Ubuntu&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.mobypicture.com&#34;&gt;http://www.mobypicture.com&lt;/a&gt; - Posted using &lt;a href=&#34;http://mobypicture.com/?2yq1v6&#34;&gt;Mobypicture.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://mobypicture.com/?lw8u25&#34;&gt;http://mobypicture.com/?lw8u25&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;a href=&#34;http://mobypicture.com/?lw8u25&#34;&gt;http://mobypicture.com/?lw8u25&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
