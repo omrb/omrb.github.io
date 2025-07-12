@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>lego on Darkest Notes</title>
+    <title>Lego on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/lego/</link>
-    <description>Recent content in lego on Darkest Notes</description>
+    <description>Recent content in Lego on Darkest Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 15 Jun 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/lego/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,8 @@
       <pubDate>Sun, 15 Jun 2014 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/lego-battle-droid/</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;129&amp;rdquo;]</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;129&amp;rdquo;]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -22,7 +23,8 @@
       <pubDate>Sat, 02 Nov 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/the-lego-movie/</guid>
-      <description>https://www.youtube.com/watch?v=lPnY2NjSjrg</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=lPnY2NjSjrg&#34;&gt;https://www.youtube.com/watch?v=lPnY2NjSjrg&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -31,9 +33,10 @@
       <pubDate>Wed, 07 Jul 2010 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/stromtrooper/</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;592&amp;rdquo;]
-Benim gibi masasında sessiz sakin çalışan bir StormTrooper ;)
-Stacked (by Balakov)</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;592&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;Benim gibi masasında sessiz sakin çalışan bir StormTrooper ;)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/balakov/4768340225/&#34;&gt;Stacked&lt;/a&gt; (by &lt;a href=&#34;http://flickr.com/photos/balakov&#34;&gt;Balakov&lt;/a&gt;)&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -42,7 +45,9 @@ Stacked (by Balakov)</description>
       <pubDate>Mon, 16 Feb 2009 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/the-lego-mac-computer/</guid>
-      <description> </description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.omrb.org/wp-content/uploads/2009/02/Lego_Mac.jpeg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Lego_Mac-1024x683.jpeg&#34; alt=&#34;Lego_Mac&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

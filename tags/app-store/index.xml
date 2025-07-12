@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>app-store on Darkest Notes</title>
+    <title>App-Store on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/app-store/</link>
-    <description>Recent content in app-store on Darkest Notes</description>
+    <description>Recent content in App-Store on Darkest Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 29 Apr 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/app-store/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,15 @@
       <pubDate>Mon, 29 Apr 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/delicious-library-3/</guid>
-      <description>MacOs ile tanışmam sonrasında satın aldığım ilk uygulamalardan biri Delicious Library 2 olmuştu. Kitap, müzik CD&amp;rsquo;leri, araç-gereç, vb. nesneleri kataloglamak için göze hoş gelen arabirimi ve gelişmiş özellikleri olan bir programdı. Özellikle Mac&amp;rsquo;in iSight kamerasından objenin barkodununun okutularak Amazon&amp;rsquo;da araması ve veritabanı özelliklerini otomatik olarak doldurması programın en kullanışlı özelliği idi. Yıllarca severek kullandım, bir ara Hard Diski formatlarken veritabanı dosyasının yedeğini almayı unutmam nedeniyle tüm girdileri kaybettim ama yavaştan tekrar oluşturmaya başladım.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/S3U1&amp;#43;&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;MacOs ile tanışmam sonrasında satın aldığım ilk uygulamalardan biri Delicious Library 2 olmuştu. Kitap, müzik CD&amp;rsquo;leri, araç-gereç, vb. nesneleri kataloglamak için göze hoş gelen arabirimi ve gelişmiş özellikleri olan bir programdı. Özellikle Mac&amp;rsquo;in iSight kamerasından objenin barkodununun okutularak Amazon&amp;rsquo;da araması ve veritabanı özelliklerini otomatik olarak doldurması programın en kullanışlı özelliği idi. Yıllarca severek kullandım, bir ara Hard Diski formatlarken veritabanı dosyasının yedeğini almayı unutmam nedeniyle tüm girdileri kaybettim ama yavaştan tekrar oluşturmaya başladım.&lt;/p&gt;
+&lt;p&gt;Geçen hafta &lt;a href=&#34;http://www.delicious-monster.com&#34;&gt;Delicious Library 3&lt;/a&gt; çıktı. Her yeni sürümün bir öncekine kıyasla daha fazla özellik sunacağını düşünerek satın aldığım uygulamada biraz hayal kırıklığına uğramış durumdayım. Kutuların 3 boyutlu hale gelmesi, fare ile üzerinde dolaştığınızda sağa-sola dönmesi eğlenceli özellikler olarak görülmesinin yanında hem işlemciye bindirilen yük hem de kutuların 3 boyutlu yapılması sebebiyle resim kalitesinin kısmen düşürülmesi sebebiyle eskisine oranla daha soluk bir görünüm hakim olmuş. Kütüphanenin, &lt;em&gt;Scene Kit&lt;/em&gt; kullanılarak yapılan yeni raf sistemi, 3D grafikler ve OpenGL kullanılarak gölgelendirme ve yüzey yansıması ile gerçek birer obje gibi göründüğü iddia ediliyor.(real parallax!). Ayrıca firma kullanıcı arabirimini OpenGL ile oluşturan ilk tüketici uygulaması olduğunu söylüyor.&lt;/p&gt;
+&lt;p&gt;Veritabanı dosyamın silinmiş olmasının verdiği tecrübeyle yeni sürümde aradığım ilk özellik dosyanın yedeklenmesi oldu. Ama ne yazıkki böyle bir özellik yok. Programın App Store&amp;rsquo;dan satılması sebebiyle soapbox edilmiş olması veritabanı dosyasına ulaşabilmeyi bir hayli güç hale getirmiş. Programcılar Apple&amp;rsquo;ın Core Data arabirimi kullanılarak veritabanına kolaylıkla ulaşılabilecek SQLite3 olarak tutulduğunu söylüyorlar ama yedekleme ve dışarı aktarma seçeneklerinin programa eklenmesi şart.&lt;/p&gt;
+&lt;p&gt;Yeni sürümle birlikte gelen iOS uygulaması barkod tarayıcısı ise beklediğimden iyi çalışıyor. Ücretsiz uygulamayı iPhone&amp;rsquo;a indirip hemen kullanmaya başlayabiliyorsunuz. Daha sonra yaptığınız taramaları bilgisayarla eşitleyebilirsiniz.&lt;/p&gt;
+&lt;p&gt;Raflardaki kitapların sayfa sayısına göre kalınlıklarının artması gözümden kaçmayan eğlenceli özelliklerden biri.&lt;/p&gt;
+&lt;p&gt;Bununla birlikte Delicious Library 3&amp;rsquo;e kapsamlı bir veritabanı yada kataloglama yazılımı olarak bakmanın uygun olmadığını düşünüyorum. Eğlenceli, renkli bir uygulama ama ciddi işler için Bento vb. veritabanı uygulamalarını kullanmak yerinde olur.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -22,8 +30,21 @@
       <pubDate>Sun, 09 Jan 2011 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/mac-app-store/</guid>
-      <description>Geçtiğimiz hafta Apple MacOS işletim sistemi için geliştirilen uygulamaların satılacağı Mac App Store‘un açılışını yaptı. Apple iPhone için yarattığı AppStore&amp;rsquo;un beklenmeyen başarısı sonrasında aynı başarıyı MacOS uygulama pazarında da yakalamak istiyor.
-Apple&amp;rsquo;ın MacOS uygulamaları için merkezi bir sistem oluşturmasında, iPhone&amp;rsquo;da yakaladığı başarının yanısıra bağımsız uygulama geliştiricilerinin (indie developer) son yıllarda, hem görsel, hem işlevsel mükemmele yakın programlar üretmelerini farketmiş olması yatıyor. Haliyle büyüyen bu pastadan kendisi de pay almak istiyor.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_ler738Plav1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Geçtiğimiz hafta Apple MacOS işletim sistemi için geliştirilen uygulamaların satılacağı &lt;a href=&#34;http://www.apple.com/mac/app-store/&#34;&gt;Mac App Store&lt;/a&gt;‘un açılışını yaptı. Apple iPhone için yarattığı AppStore&amp;rsquo;un beklenmeyen başarısı sonrasında aynı başarıyı MacOS uygulama pazarında da yakalamak istiyor.&lt;/p&gt;
+&lt;p&gt;Apple&amp;rsquo;ın MacOS uygulamaları için merkezi bir sistem oluşturmasında, iPhone&amp;rsquo;da yakaladığı başarının yanısıra bağımsız uygulama geliştiricilerinin (&lt;em&gt;indie developer&lt;/em&gt;) son yıllarda, hem görsel, hem işlevsel mükemmele yakın programlar üretmelerini farketmiş olması yatıyor. Haliyle büyüyen bu pastadan kendisi de pay almak istiyor.&lt;/p&gt;
+&lt;p&gt;Mac AppStore&amp;rsquo;un başarıya ulaşması;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Programların ambalaj, satış-pazarlama için personel çalıştırılması gibi ek maliyetleri olmayacağından fiyatlandırmanın buna göre yapılması&lt;/li&gt;
+&lt;li&gt;Daha önceden alınmış uygulamalar ile App Store için derlenen uygulamalar arasında fark olmaması. (Aynı uygulama App Store&amp;rsquo;dan alınan ile farklı kanallardan alınmış olarak ayrılmamalı)&lt;/li&gt;
+&lt;li&gt;Önceden daha pahalıya satın alınmış uygulamaların güncelleştirme seçeneklerinin eski kullanıcılar için düşük tutulması&lt;/li&gt;
+&lt;li&gt;Korsan kullanıma karşı hem programcı hem Apple tarafından yeterli önlem alınması&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;halinde büyük başarıya ulaşacağı açıkça belli olmaktadır.&lt;/p&gt;
+&lt;p&gt;Apple&amp;rsquo;ın Mac App Store ile bağımsız programcılığın ilerleyen yıllarda pazarlama (marketing) açısından Apple&amp;rsquo;a kısmen bağlı olacağını da gözardı etmemek gerekiyor. Apple hiçbir geliştiriciyi “&lt;em&gt;programını sadece Mac App Store üzerinden satacaksın&lt;/em&gt;” şeklinde kendine bağlamıyor. Ama bağımsız programcıların pazarlama anlamında yaşadıkları sıkıntıları App Store ile kapatmaya alışacakları görünen bir gerçek.&lt;/p&gt;
+&lt;p&gt;Bağımsız programcıların yaşayacağı bir diğer sorun ise teknik destek sağlanması konusunda olacak. Ürünlerini App Store üzerinden eskisinden çok daha fazla kullanıcıya satacak olan geliştiriciler, kullanıcı sayısı artmış uygulamalarına en fazla 1-5 kişiden oluşan programlama ekipleri nasıl sağlayacak?&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -32,8 +53,9 @@ Apple&amp;rsquo;ın MacOS uygulamaları için merkezi bir sistem oluşturmasınd
       <pubDate>Sat, 18 Dec 2010 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/app-store-statistics/</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;516&amp;rdquo;]
-App Store Statistics</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;516&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;App Store Statistics&lt;/p&gt;
+</description>
     </item>
     
   </channel>

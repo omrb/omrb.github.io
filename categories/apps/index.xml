@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>apps on Darkest Notes</title>
+    <title>Apps on Darkest Notes</title>
     <link>https://darkestnotes.org/categories/apps/</link>
-    <description>Recent content in apps on Darkest Notes</description>
+    <description>Recent content in Apps on Darkest Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/categories/apps/index.xml" rel="self" type="application/rss+xml" />
@@ -13,9 +13,13 @@
       <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/tweetbota-veda/</guid>
-      <description>Twitter&amp;rsquo;a 2008 yılında kaydolmuştum. O yıllarda sosyal medya daha yeni oluşmaya başlıyordu ve Twitter&amp;rsquo;daki tek amaç o an ne yaptığını bildirmekten ibaretti.
-Yıllar geçtikçe işler değişti, Twitter büyüdü, artık takip edilmeyen hesapları bile size zorla göstermeye, aralara reklamlar almaya başladı. İşte o zamanlar Twitter&amp;rsquo;a sadece kendi timeline&amp;rsquo;ınıza ulaşmayı sağlayan programlar yaygınlaşmaya başladı. Echofon, Twitterrific, Tweetie&amp;hellip;ve TweetBot!
-Sadece takip ettiklerimi göstermesi ve reklamları timeline&amp;rsquo;ımın dışında tutması ile TweetBot 2011 yılından beri hem telefonumda hem de bilgisayarımda kullandığım bir program olmuştu.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/TweetBot.Ends_.jpeg&#34; alt=&#34;TweetBot.Ends&#34;  /&gt;
+ Twitter&amp;rsquo;a 2008 yılında kaydolmuştum. O yıllarda sosyal medya daha yeni oluşmaya başlıyordu ve Twitter&amp;rsquo;daki tek amaç &lt;strong&gt;&lt;em&gt;o an ne yaptığını&lt;/em&gt;&lt;/strong&gt; bildirmekten ibaretti.&lt;/p&gt;
+&lt;p&gt;Yıllar geçtikçe işler değişti, Twitter büyüdü, artık takip edilmeyen hesapları bile size zorla göstermeye, aralara reklamlar almaya başladı. İşte o zamanlar Twitter&amp;rsquo;a sadece kendi timeline&amp;rsquo;ınıza ulaşmayı sağlayan programlar yaygınlaşmaya başladı. &lt;em&gt;Echofon&lt;/em&gt;, &lt;em&gt;Twitterrific&lt;/em&gt;, &lt;em&gt;Tweetie&lt;/em&gt;&amp;hellip;ve &lt;em&gt;&lt;strong&gt;TweetBot&lt;/strong&gt;&lt;/em&gt;!&lt;/p&gt;
+&lt;p&gt;Sadece takip ettiklerimi göstermesi ve reklamları timeline&amp;rsquo;ımın dışında tutması ile TweetBot 2011 yılından beri hem telefonumda hem de bilgisayarımda kullandığım bir program olmuştu.&lt;/p&gt;
+&lt;p&gt;Elon Musk sonrası Twitter&amp;rsquo;ın fazlasıyla değişeceğini tahmin ediyordum, twitter dışından başka programların API&amp;rsquo;ye ulaşımına elbette yasak getirecekti yeni Twitter yönetimi, hiç şaşırmadım.&lt;/p&gt;
+&lt;p&gt;Geçtiğimiz haftalarda TweetBot ve diğerlerinin API&amp;rsquo;ye ulaşması engellenince &lt;a href=&#34;https://mastodon.world/@omerb&#34;&gt;Mastodon&lt;/a&gt;&amp;lsquo;a doğru yol almak gerekli oldu. TweetBot geliştiricileri de zaten bu durumu önceden fark etmişler ve Mastodon için Ivory isimli programı hazırlamaya başlamışlardı.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -24,9 +28,16 @@ Sadece takip ettiklerimi göstermesi ve reklamları timeline&amp;rsquo;ımın d�
       <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/assembly64/</guid>
-      <description>Ne zaman kendim yapmayı hayal ettiğim bir programı görsem hem şaşkınlığa uğrarım, hem de programcısına saygı duyarım. Assembly64’de bu tür programlardan biri.
-Commodore 64 Scene Database (CsDB)’nin bir kopyasını bilgisayarda tutma imkanı vermesinin yanında ara ara güncellemesi scene dünyasından uzak kalınan zamanlarında telafisini sağlıyor. Java ile yazılan programın arama fonksiyonunun tam anlamıyla çalışabilmesi için 5€ bağış yapmak gerekiyor.
-Kullanmaya başladığım zamandan beri neredeyse aradığım her demo’yu internetten indirme mecburiyeti kalmadan ulaşabildim.</description>
+      <description>&lt;p&gt;Ne zaman kendim yapmayı hayal ettiğim bir programı görsem hem şaşkınlığa uğrarım, hem de programcısına saygı duyarım. Assembly64’de bu tür programlardan biri.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Assembly64.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Commodore 64 Scene Database (&lt;a href=&#34;https://csdb.dk/&#34;&gt;CsDB&lt;/a&gt;)’nin bir kopyasını bilgisayarda tutma imkanı vermesinin yanında ara ara güncellemesi scene dünyasından uzak kalınan zamanlarında telafisini sağlıyor. Java ile yazılan programın arama fonksiyonunun tam anlamıyla çalışabilmesi için 5€ bağış yapmak gerekiyor.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Assembly64-Installed-Hero.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Kullanmaya başladığım zamandan beri neredeyse aradığım her demo’yu internetten indirme mecburiyeti kalmadan ulaşabildim. Bunun yanında HVSC’nin bir kopyası da bilgisayara yükleniyor, kimi demoların SID dosyaları da aynı klasör altından erişilebilir oluyor. Programın sabit sürücüde açacağı delik ise yaklaşık 28 GByte!&lt;/p&gt;
+&lt;p&gt;Yavaş yavaş, tek developer ile geliştirlen bir program olması nedeniyle kullanımı zaman zaman pek kolay değil, bug’lar mevcut ve kimi zaman kolaylıkla yapılabilecek işlemler için biraz dolambaçlı yollardan geçmek gerekiyor.&lt;/p&gt;
+&lt;p&gt;Kullanımı biraz karmaşık olsa da Commodore 64 scene dünyasında gezinmeyi zevkli hale getiren bir uygulama.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -35,8 +46,15 @@ Kullanmaya başladığım zamandan beri neredeyse aradığım her demo’yu inte
       <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/ibmulator/</guid>
-      <description>Soğuk kış günlerinde evde otururken nedense aklıma 1991 yılı sonu 1992 yılı başlarındaki soğuk bir kış gününde babamla IBM PS/1 bakmaya gittiğimiz gün geldi. Commodore 64 sonrası geleceğe dönük bir bilgisayar alma düşüncesi ile Amiga mı yoksa PC uyumlu bilgisayar mı alalım diye düşünürken TV&amp;rsquo;de reklamlarını gördüğümüz IBM PS/1 modeli neyin nesiymiş bakmaya gitmiştik soğuk bir Cumartesi akşam üzeri.
-Mağaza sahibi bizimle fazlasıyla ilgilenmiş, oğlu hemen teşhirdeki ürünü kullanıma hazır hale getirmişti.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/IBMulator-PS1_Realistic_View.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Soğuk kış günlerinde evde otururken nedense aklıma 1991 yılı sonu 1992 yılı başlarındaki soğuk bir kış gününde babamla IBM PS/1 bakmaya gittiğimiz gün geldi. Commodore 64 sonrası geleceğe dönük bir bilgisayar alma düşüncesi ile Amiga mı yoksa PC uyumlu bilgisayar mı alalım diye düşünürken TV&amp;rsquo;de reklamlarını gördüğümüz IBM PS/1 modeli neyin nesiymiş bakmaya gitmiştik soğuk bir Cumartesi akşam üzeri.&lt;/p&gt;
+&lt;p&gt;Mağaza sahibi bizimle fazlasıyla ilgilenmiş, oğlu hemen teşhirdeki ürünü kullanıma hazır hale getirmişti. Bilgisayar boot ederken hoparlöründen gelen &amp;ldquo;&lt;em&gt;beep-blüp&lt;/em&gt;&amp;rdquo; sesleri ve sonrasında 640x480x16 renkli ekranına gelen 4-Quadrant ile bizi orada büyülemişti bilgisayar. 640x480 çözünürlüklü renkli grafikler o zamanlar için günümüzün 4k teknolojisi gibi birşeydi. Yalnız anlaşılan şuydu ki IBM elinde kalan eski model PS/1&amp;rsquo;leri yeni modelleri çıkarmadan önce Türkiye&amp;rsquo;de satabilme çabasında idi. 1990 yılında üretilen ve 1991 yılının hemen başında Amerika ve Avrupa&amp;rsquo;da satılan bu ilk PS/1 modelleri &amp;ldquo;&lt;strong&gt;&lt;em&gt;5 Dakika ve İşin İçindesiniz&lt;/em&gt;&lt;/strong&gt;&amp;rdquo; gibi bir sloganla PC kullanmaya çekinen kitleleri PC dünyasına çekebilmek için üretilmişti. Zaten bu 4 quadrant hikayesi de Macintosh&amp;rsquo;un grafik kullanıcı arabiriminin benzerini PC dünyasına taşıma çabasıydı. Neyse sonuçta bu bilgisayarlar fazlasıyla eski bir teknolojiye sahipti. Türkiye&amp;rsquo;ye gelen 4 model 80286-10 MhZ işlemcili, renkli-renksiz ekranlı ve 30 MByte HDD&amp;rsquo;li, HDD&amp;rsquo;siz modellerden oluşuyordu. Sonuçta Türkiye&amp;rsquo;de bu cihazlardan kaç adet satıldı ne oldu bilemiyorum ama sonraki model PS/1&amp;rsquo;lerin hiçbiri Türkiye&amp;rsquo;ye gelmedi onu biliyorum. Dükkanda teşhirde incelediğim model HDD&amp;rsquo;si olmayan bir modeldi, HDD&amp;rsquo;li olsa belki o gün orada satın alınırdı ama almadık.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/PS1-4Quadrant.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;4 quadrant ekranı ve o arabirimin nasıl çalıştığını hep merak edip durdum sonrasında. Internet zamanında bile bu bilgisayar ile ilgili bilgi bulmak oldukça zor olmuştu. Macintosh&amp;rsquo;u andıran kasası ve orijinal mikrokodu ile tam bir koleksiyon ürünü olmuştu kendisi.&lt;/p&gt;
+&lt;p&gt;Yıllar sonra Marco Bortolin ismindeki IBM PS/1 meraklısı bir arkadaş, oturdu üşenmedi ve bir &lt;a href=&#34;https://barotto.github.io/IBMulator/&#34;&gt;IBM PS/1 emülatörü&lt;/a&gt; yazdı. Birkaç yıldır biraz geliştirilmesini bekledim ve geçtiğimiz haftalar içinde detaylıca inceledim. 4 Quadrant arabirimini ve bilgisayar ile yüklü gelen programları detaylıca inceleyip kurcaladım biraz. IBMulator&amp;rsquo;da IBM PS/1 için üretilen Audio/Joystick ses kartının emülasyonu bile var. Çok az Sierra oyununun desteklediği bu kartın nasıl ses verdiğini de görebilmiş olmak 30 yıl öncesinin anılarını tekrar canlandırdı.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -45,8 +63,11 @@ Mağaza sahibi bizimle fazlasıyla ilgilenmiş, oğlu hemen teşhirdeki ürünü
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/tweetbot-6/</guid>
-      <description>Tapbots’un iPhone için Twitter client’i Tweetbot’da abonelik sistemini zorunlu tutan uygulamalar kervanına katılmış sonunda.
-Her yıl yenilemem gereken aboneliklerin listesine Tweetbot’u da eklemek gerekiyor artık…</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tapbots_2021-Jan-27.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Tapbots’un iPhone için Twitter client’i Tweetbot’da abonelik sistemini zorunlu tutan uygulamalar kervanına katılmış sonunda.&lt;/p&gt;
+&lt;p&gt;Her yıl yenilemem gereken aboneliklerin listesine Tweetbot’u da eklemek gerekiyor artık…&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -55,9 +76,12 @@ Her yıl yenilemem gereken aboneliklerin listesine Tweetbot’u da eklemek gerek
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/instagram%C4%B1n-10.-y%C4%B1l%C4%B1/</guid>
-      <description>Instagram ortaya çıkalı 10 yıl olmuş, yeni güncelledikleri uygulamanın içine bir easter egg yerleştirmişler ve 1 ay boyunca uygulamanın eski ikonlarını seçebilme imkanı oluşmuş.
-Hangi ikonun, hangi sürüm ile hangi tarihte değiştiğini de eklemişler ki -benim gibi kronolojiye meraklı biri için yapmışlar sanki bunu- çok hoşuma gitti.
-İlk orijinal ikonu gerçekten hatırlamıyorum ama Instagram programını ne zaman yüklemişim diye yaptığım ilk paylaşıma hızla ilerleyince gördüğüm 6 Ekim 2010 tarihi şaşırttı beni.</description>
+      <description>&lt;p&gt;Instagram ortaya çıkalı 10 yıl olmuş, yeni güncelledikleri uygulamanın içine bir &lt;em&gt;easter egg&lt;/em&gt; yerleştirmişler ve 1 ay boyunca uygulamanın eski ikonlarını seçebilme imkanı oluşmuş.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Instagram_10th-Year.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Hangi ikonun, hangi sürüm ile hangi tarihte değiştiğini de eklemişler ki -&lt;em&gt;&lt;strong&gt;benim gibi kronolojiye meraklı biri için yapmışlar sanki bunu&lt;/strong&gt;&lt;/em&gt;- çok hoşuma gitti.&lt;/p&gt;
+&lt;p&gt;İlk orijinal ikonu gerçekten hatırlamıyorum ama Instagram programını ne zaman yüklemişim diye yaptığım ilk paylaşıma hızla ilerleyince gördüğüm 6 Ekim 2010 tarihi şaşırttı beni.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -66,7 +90,13 @@ Hangi ikonun, hangi sürüm ile hangi tarihte değiştiğini de eklemişler ki -
       <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/roon/</guid>
-      <description>Roon Windows, MacOS ve Linux için bir müzik yönetim ve çalma programı. Roon&amp;rsquo;u diğer programlardan ayıran en önemli özelliği büyük bir metadata kütüphanesine erişmesi ve dinlediğiniz müziğin yapımcısından tutun da plak şirketine, şarkıların bestecisinden albüm kapağına kadar bilgilere kolaylıkla ulaşım sağlayabilmesi. Zaten tanıtım sayfalarında da dijital müziğe geçişte iTunes ve Spotify gibi listelerden oluşan programların olumsuz yönüne vurgu yapılıyor. Roon bilgisayarda veya network ortamında bulunan müzik dosyalarına ulaşabildiği gibi TIDAL ve Qobuz lossless streaming servisleri ile de etkileşimli çalışabiliyor.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Roon_Header.png&#34; alt=&#34;&#34;  /&gt;
+ &lt;a href=&#34;https://roonlabs.com&#34;&gt;Roon&lt;/a&gt; Windows, MacOS ve Linux için bir müzik yönetim ve çalma programı. Roon&amp;rsquo;u diğer programlardan ayıran en önemli özelliği büyük bir metadata kütüphanesine erişmesi ve dinlediğiniz müziğin yapımcısından tutun da plak şirketine, şarkıların bestecisinden albüm kapağına kadar bilgilere kolaylıkla ulaşım sağlayabilmesi. Zaten tanıtım sayfalarında da dijital müziğe geçişte iTunes ve Spotify gibi listelerden oluşan programların olumsuz yönüne vurgu yapılıyor.&lt;img loading=&#34;lazy&#34; src=&#34;images/Roon-Problem.png&#34; alt=&#34;&#34;  /&gt;
+ Roon bilgisayarda veya network ortamında bulunan müzik dosyalarına ulaşabildiği gibi &lt;a href=&#34;https://tidal.com&#34;&gt;TIDAL&lt;/a&gt; ve &lt;a href=&#34;https://www.qobuz.com/&#34;&gt;Qobuz&lt;/a&gt; lossless streaming servisleri ile de etkileşimli çalışabiliyor. Dinlenilen albümün Allmusic&amp;rsquo;de yer alan eleştirisinden, yüksek çözünürlüklü albüm kapağına, sanatçının biyografisinden, şarkı sözlerine kolaylıkla ulaşabilmek mümkün. Eğer elinizde albümlerin PDF formatındaki Digital Booklet&amp;rsquo;leri veya JPG formatındaki albüm kapağı, iç kapak resimleri var ise bunlara da tek tıklama ile ulaşabilmek mümkün. Kısacası müzik arama ve dinlemeyi eskisinden keyifli bir hale getiriyor. &lt;img loading=&#34;lazy&#34; src=&#34;images/Roon-Solution.png&#34; alt=&#34;&#34;  /&gt;
+ Roon audiophile&amp;rsquo;ler için belli başlı donanımları otomatik olarak tanıyor ve partner programı sayesinde doğrudan bu donanımı destekliyor. DSP Engine ile ses çıkışına equalizer vb. geliştirmeler sağlamak mümkün. &lt;img loading=&#34;lazy&#34; src=&#34;images/Roon_Signal_Path.png&#34; alt=&#34;&#34;  /&gt;
+ Roon’un en güzel özelliklerinden biri ise Signal Path. Yani dijital ses dosyasının bilgisayarda okunduktan sonra analog hale dönüşünceye kadar geçtiği aşamaları teker teker göstermesi.&lt;/p&gt;
+&lt;p&gt;TIDAL ve Qobuz stream platformlarını da desteklediğinden yeni keşifler yapmak ve bilgisayar başında müzik dinlemeyi daha renkli ve keyifli hale getirmek isteyen ciddi müzikseverlerin denemesi gereken bir program.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -75,7 +105,11 @@ Hangi ikonun, hangi sürüm ile hangi tarihte değiştiğini de eklemişler ki -
       <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/macos-mojavede-yenilikler/</guid>
-      <description>1. Karanlık Mod 2. Dinamik Desktop, yani böyle havalı bir ismi var ama duvar kağıdının günün zamanına göre değişmesi özelliği aslında. Windows 7’de mi Vista’da mı vardı animasyonlu duvar kağıdı gibi birşey. 3. Tema renkleri, MacOS’da arabirimindeki renklendirme seçenekleri 8’e çıkmış (eskiden 2 idi galiba) Favorim mor. 4. Stacks, masaüstündeki dağınıklığı toparlamak için yeni bir seçenek, klasör ve dosyaları gruplandırarak masaüstünü derli toplu yapıyor. Masaüstünde hiçbirşey bulundurmayan benim gibiler için anlamsız bir özellik.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/macOS-Mojave-Night.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1&lt;/strong&gt;. &lt;em&gt;&lt;strong&gt;Karanlık Mod&lt;/strong&gt;&lt;/em&gt; &lt;strong&gt;2&lt;/strong&gt;. &lt;em&gt;&lt;strong&gt;Dinamik Desktop&lt;/strong&gt;&lt;/em&gt;, yani böyle havalı bir ismi var ama duvar kağıdının günün zamanına göre değişmesi özelliği aslında. Windows 7’de mi Vista’da mı vardı animasyonlu duvar kağıdı gibi birşey. &lt;strong&gt;3&lt;/strong&gt;. &lt;em&gt;&lt;strong&gt;Tema renkleri&lt;/strong&gt;&lt;/em&gt;, MacOS’da arabirimindeki renklendirme seçenekleri 8’e çıkmış (eskiden 2 idi galiba) Favorim mor. &lt;strong&gt;4&lt;/strong&gt;. &lt;em&gt;&lt;strong&gt;Stacks&lt;/strong&gt;&lt;/em&gt;, masaüstündeki dağınıklığı toparlamak için yeni bir seçenek, klasör ve dosyaları gruplandırarak masaüstünü derli toplu yapıyor. Masaüstünde hiçbirşey bulundurmayan benim gibiler için anlamsız bir özellik. &lt;strong&gt;5&lt;/strong&gt;. &lt;strong&gt;&lt;em&gt;Finder - Gallery View&lt;/em&gt;&lt;/strong&gt;, finder’da dosyaları önizleyerek göz gezdirebilirsiniz, özellikle GIF’ler için faydalı. &lt;strong&gt;6&lt;/strong&gt;. &lt;em&gt;&lt;strong&gt;Quick Actions&lt;/strong&gt;&lt;/em&gt;, finder’da göz atılan dosyalarda hızlı değişiklikler yapabilme imkanı, aynı durum Quick Look içi de geçerli. &lt;strong&gt;7&lt;/strong&gt;. &lt;em&gt;&lt;strong&gt;Metadata&lt;/strong&gt;&lt;/em&gt;, finder’da göz atılan dosyalarda eğer mevcut ise önemli tüm metadata’ları görebiliyoruz. &lt;strong&gt;8&lt;/strong&gt;. &lt;em&gt;&lt;strong&gt;Safari Tab Favicon&lt;/strong&gt;&lt;/em&gt;, Safari’de açtığımız sekmelerde artık faviconlar gözüküyor. &lt;strong&gt;9&lt;/strong&gt;. &lt;em&gt;&lt;strong&gt;Screenshot&lt;/strong&gt;&lt;/em&gt;’lar, artık Shift+Command+5 ile alınan ekran görüntülerini kaydetmeden önce düzenleme yapabilme ve video kaydedebilme imkanı. &lt;strong&gt;10&lt;/strong&gt;. &lt;strong&gt;&lt;em&gt;Yeni Mac AppStore&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bu yenilikleri toparlarken kısmen bu &lt;a href=&#34;https://9to5mac.com/2018/09/24/macos-mojave-top-features-changes-video/&#34;&gt;adresten&lt;/a&gt; faydalandım.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -84,8 +118,12 @@ Hangi ikonun, hangi sürüm ile hangi tarihte değiştiğini de eklemişler ki -
       <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/things-3-%C3%9Feta/</guid>
-      <description>İlk duyurulduğu zamandan bu yana çok uzun zaman geçti. Apple iOS 7 ile yeni tasarım sürecine girince sil baştan yeniden oluşturulmaya başlandı. O yıllardan bu yana to-do list’lerin popülerliği büyük oranda azaldı.
-Tüm bunlara karşın betası için e-posta aldığımda bir an önce kullanabilmek için heyecanlanmadım değil. Ulysses’de de olan “Gol” sistemi Things’e de eklenmiş. Beni motive eder mi etmez mi tartışılır tabi. Yapacakları bitirdikçe ilerleyişi görmek güzel ama bitiremediğim şeyleri o listelerde görmek ve yapamayacağını fark etmek moral bozmuyor değil.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Things-3.gif&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;İlk duyurulduğu zamandan bu yana çok uzun zaman geçti. Apple iOS 7 ile yeni tasarım sürecine girince sil baştan yeniden oluşturulmaya başlandı. O yıllardan bu yana to-do list’lerin popülerliği büyük oranda azaldı.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/things-3-is-coming.jpg&#34; alt=&#34;&#34;  /&gt;
+ Tüm bunlara karşın betası için e-posta aldığımda bir an önce kullanabilmek için heyecanlanmadım değil. &lt;a href=&#34;https://darkestnotes.org/2016/08/07/ulysses/&#34;&gt;Ulysses&lt;/a&gt;’de de olan “Gol” sistemi Things’e de eklenmiş. Beni motive eder mi etmez mi tartışılır tabi. Yapacakları bitirdikçe ilerleyişi görmek güzel ama bitiremediğim şeyleri o listelerde görmek ve yapamayacağını fark etmek moral bozmuyor değil.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -94,8 +132,13 @@ Tüm bunlara karşın betası için e-posta aldığımda bir an önce kullanabil
       <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/boxer-ve-dot-matrix-printer-em%C3%BClasyonu/</guid>
-      <description>Hafta sonu uzun zamandır beklediğim ancak programcısının artık herhangi bir geliştirme yapacağını düşünmediğim bir uygulama ile uğraşmakla geçti. Boxer. Büyük oranda gelişimini tamamlamış bir uygulama aslında, DOSBox için yazılmış bir kullanıcı arayüzü. Ancak MacOs’un kullanıcı dostu arabirimine yönelik o kadar ince detaylar düşünülerek geliştirilmiş ki bir daha Windows ile DOSBox kullanamaz oldum.
-Oyun ve programların dökümanları ve kutu resimleri ile bir paket haline getirilebilmesi, DOSBox’dan farklı daha gelişmiş Roland MT-32 emülasyonu, Roland MT-32’nin LCD ekranında kimi programlar tarafından yazılan mesajları benzer bir biçimde ekranda gösterme gibi eski bilgisayarcılara yönelik baştan çıkarıcı detaylar.</description>
+      <description>&lt;p&gt;Hafta sonu uzun zamandır beklediğim ancak programcısının artık herhangi bir geliştirme yapacağını düşünmediğim bir uygulama ile uğraşmakla geçti. &lt;a href=&#34;http://boxerapp.com&#34;&gt;Boxer&lt;/a&gt;. Büyük oranda gelişimini tamamlamış bir uygulama aslında, DOSBox için yazılmış bir kullanıcı arayüzü. Ancak MacOs’un kullanıcı dostu arabirimine yönelik o kadar ince detaylar düşünülerek geliştirilmiş ki bir daha Windows ile DOSBox kullanamaz oldum.&lt;/p&gt;
+&lt;p&gt;Oyun ve programların dökümanları ve kutu resimleri ile bir paket haline getirilebilmesi, DOSBox’dan farklı daha gelişmiş Roland MT-32 &lt;a href=&#34;https://sourceforge.net/projects/munt/&#34;&gt;emülasyonu&lt;/a&gt;, Roland MT-32’nin LCD ekranında kimi programlar tarafından yazılan mesajları benzer bir biçimde ekranda gösterme gibi eski bilgisayarcılara yönelik baştan çıkarıcı detaylar.&lt;/p&gt;
+&lt;p&gt;Geçen yıllarda bu özelliklere bir de dot-matrix yazıcı emülasyonunun ekleneceğinden &lt;a href=&#34;http://blog.boxerapp.com/page/3&#34;&gt;bahsedildi&lt;/a&gt;, ancak bu sürüm hiçbir zaman “public” olmadı.&lt;/p&gt;
+&lt;p&gt;Hazır yapacak çok birşey yokken oturdum kaynak kodunu GitHub’dan indirdim ve XCode ile derledim bu alpha sürümünü Boxerapp’in. Bir kez daha vuruldum programa. Alınan çıktı MacOs’un yazıcı arabirimine gönderiliyor ve istenirse PDF olarak kaydedilebiliyor. Normal text dosyalarının yazdırılması çok birşey ifade etmiyor belki ama grafik dosyalarını yazdırınca 1990’lı yılların başına bir yolculuk yapıyor insan.&lt;/p&gt;
+&lt;p&gt;İşte burada birkaç retro resim dosyasından emülasyon yolu ile alınan çıktı örneği var.&lt;/p&gt;
+&lt;p&gt;[gallery type=&amp;ldquo;slideshow&amp;rdquo; ids=&amp;ldquo;2999,3000,3004,3001,3002,3009,3003,3005,3008,3006,3007&amp;rdquo;]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -104,8 +147,19 @@ Oyun ve programların dökümanları ve kutu resimleri ile bir paket haline geti
       <pubDate>Sun, 07 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/ulysses/</guid>
-      <description>Yıllar önce kullandığım not alma -yazı yazma- programı Ulysses yenilenmiş, güncellenmiş, parlatılmış ve tekrar piyasaya çıkmış. Yaklaşık 118 ₺’lik fiyatını görünce şaşırdım tabi, önceden satın almış olduğum için bir indirim var mı acaba? diye bakarken bir upgrade ücreti olmadığını görünce hemen yükledim ve denemeye başladım, yüzeysel ilk izlenimlerim şu şekilde.
-Uzun zamandır Byword kullanmakta olduğum düşünüldüğünde ve tuhaf bir biçimde -eksiklikleriyle beraber- kullanmaya alışmış olduğumdan kendisinden kolay kolay vazgeçebileceğimi düşünmüyorum ancak Ulysses’de bazı özelliklerin fazlasıyla kullanışlı olması dikkatimi çekti.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/ADA_Ulysses.png&#34; alt=&#34;ADA_Ulysses&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Yıllar önce kullandığım not alma -yazı yazma- programı Ulysses yenilenmiş, güncellenmiş, parlatılmış ve tekrar piyasaya çıkmış. Yaklaşık 118 ₺’lik fiyatını görünce şaşırdım tabi, önceden satın almış olduğum için bir indirim var mı acaba? diye bakarken bir upgrade ücreti olmadığını görünce hemen yükledim ve denemeye başladım, yüzeysel ilk izlenimlerim şu şekilde.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Ulysses-Header.jpeg&#34; alt=&#34;Ulysses-Header&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Uzun zamandır &lt;a href=&#34;https://bywordapp.com&#34;&gt;Byword&lt;/a&gt; kullanmakta olduğum düşünüldüğünde ve tuhaf bir biçimde -&lt;em&gt;eksiklikleriyle beraber&lt;/em&gt;- kullanmaya alışmış olduğumdan kendisinden kolay kolay vazgeçebileceğimi düşünmüyorum ancak Ulysses’de bazı özelliklerin fazlasıyla kullanışlı olması dikkatimi çekti.&lt;/p&gt;
+&lt;p&gt;Wordpress ve Medium’a yükleme seçeneklerini saymıyorum, Byword’de de var bu özellik. Bununla birlikte Wordpress için yayınlama seçenekleri daha detaylı Byword’e göre. Yazılan yazıların bir kütüphane içerisinde toparlanması fikri Byword’de göre oldukça ileri bir özellik. Journal, Blog vb. gruplar oluşturarak (ve bunlar için ayrı uygun ikonlar seçerek) yazıları gruplandırmak hoşuma gitti. Byword’de bu işlem için kaydedilen yazıları farklı klasörler içinde organize etmek gerekiyor. Yazılan yazılar için bir gol belirleme seçeneği ise bence Ulysses’in en önemli ve en çok hoşuma giden özelliği oldu. En az 200 kelime yazmak istiyorum diyorsunuz ve yazarken ne kadar ilerlediğinizi küçük bir ilerleme ikonu ile rahatça görebiliyorsunuz.&lt;/p&gt;
+&lt;p&gt;Bu tür programlarda her zaman programcıyı ve programlam ekibini merak eden bir kişi olmuşumdur. Ulysses’in çok güzel bir web sitesi var ve sitede ekip hakkında detaylı bilgi alabileceğiniz eğlenceli bir bölüm mevcut.&lt;/p&gt;
+&lt;p&gt;Mevcut özellikleri ile yazı yazma ihtiyaçlarım için aslında tam aradığım program. Yıllar önce satın aldığımdan yüksek fiyatını bir eksi olarak değerlendirmiyorum. Yazı yazarken kaç kelime yazdığımı Byword gibi alt satırda belli belirsiz görebilsem iyi olurdu diyeceğim ama gol özelliği ile bu eksisini kapatıyor gibi sanki.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Dock-Ulysses.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Ayrıca belirtmeden geçemeyeceğim, Ulysses’in ikonu Dock’da gerçekten -&lt;em&gt;Byword’e kıyasla&lt;/em&gt;- çok hoş duruyor.😉&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -114,9 +168,14 @@ Uzun zamandır Byword kullanmakta olduğum düşünüldüğünde ve tuhaf bir bi
       <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/vox/</guid>
-      <description>2007 yılında Alessio Nonni tarafından piyasaya sürülen Vox, iTunes tarafından desteklenmeyen lossless formatlardaki dosyaları Mac OS bilgisayarlarda dinleyebilme amacını taşıyordu.
-2011 yılında Ukrayna’lı yazılım firması Coppertino tarafından satın alınan Vox&amp;rsquo;u biraz geliştiren firma 2013 Ağustos’unda yeni versionu, hemen 6 ay sonrasında ise 2.0 olarak adlandırılan yeni arabirim ve Winamp benzeri minimal tarz ile geliştirerek piyasaya sürdü.
-Bilgisayarlarımda yüklü olan iTunes ve Spotify müzik zevkimin büyük kısmını doyurmaya yetiyor ancak ses kalitesinin yüksek olarak dinlenmesi gereken bazı albümlerde yetersiz kalabiliiyorlar.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/VOX.png&#34; alt=&#34;VOX&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;2007 yılında Alessio Nonni tarafından piyasaya sürülen Vox, iTunes tarafından desteklenmeyen lossless formatlardaki dosyaları Mac OS bilgisayarlarda dinleyebilme amacını taşıyordu.&lt;/p&gt;
+&lt;p&gt;2011 yılında Ukrayna’lı yazılım firması Coppertino tarafından satın alınan Vox&amp;rsquo;u biraz geliştiren firma 2013 Ağustos’unda yeni versionu, hemen 6 ay sonrasında ise 2.0 olarak adlandırılan yeni arabirim ve Winamp benzeri minimal tarz ile geliştirerek piyasaya sürdü.&lt;/p&gt;
+&lt;p&gt;Bilgisayarlarımda yüklü olan iTunes ve &lt;a href=&#34;https://open.spotify.com/user/bjornheimdall&#34;&gt;Spotify&lt;/a&gt; müzik zevkimin büyük kısmını doyurmaya yetiyor ancak ses kalitesinin yüksek olarak dinlenmesi gereken bazı albümlerde yetersiz kalabiliiyorlar. Bu tür dosyaları dinleyebilmek için uzun yıllardır &lt;a href=&#34;https://www.feisty-dog.com/decibel/&#34;&gt;Decibel&lt;/a&gt; kullanıyordum. Ancak son versionundaki bir sorun nedeniyle Last.fm’e skroplamam yapamamasından ötürü yeni bir program aramaya başladım. Skroplama olayı müzik çalarlar için benim nezdimde “&lt;strong&gt;&lt;em&gt;olmazsa olmaz&lt;/em&gt;&lt;/strong&gt;” bir özellik.&lt;/p&gt;
+&lt;p&gt;Vox’u yıllar önce birkaç kez denemiştim ama o zamanlar tercih hakkımı Decibel’den yana kullanmıştım. Geçen haftalarda elimdeki &lt;a href=&#34;https://en.wikipedia.org/wiki/FLAC&#34;&gt;FLAC&lt;/a&gt; formatındaki albümler için tekrar yükledim Vox’u ve gayet memnun kaldım, en sık kullandığım programlar arasındaki yerini aldı.&lt;/p&gt;
+&lt;p&gt;Arabirimi OS X Yosemite ile gelen anti-skeumorphism’i tamamiyle benimseyen minimal bir tasarıma sahip. Ses kalitesi ve program içi opsiyonlar olarak Decibel’den aşağı kalır hiçbir yanı yok. Sadece FLAC değil diğer tüm müzik formatlarını da destekliyor, minimal bir ayak izi bırakıyor sistemde, hafıza ve işlemci kullanımı düşük seviyede, iTunes kütüphanesini içe aktarabiliyor ve olmazsa olmaz özelliğim &lt;a href=&#34;http://www.last.fm/user/OmerBalamir&#34;&gt;Last.fm&lt;/a&gt;’e skroplamayı da sorunsuz biçimde yapabiliyor.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -125,8 +184,36 @@ Bilgisayarlarımda yüklü olan iTunes ve Spotify müzik zevkimin büyük kısm�
       <pubDate>Sat, 06 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/day-one-2/</guid>
-      <description>Çocukluğumdan beri günlük tutarım. 1984 yılında yazmaya başladığım, üzerinde Snoopy resmi olan bir defterim olduğunu hatırlıyorum. Hergün yazmamakla ve bazen çok uzun süreler yazmaya ara veriyor olmamla birlikte her yıl sonunda, hangi ay ne yaptığımı, neler düşündüğümü özetlediğim uzun &amp;ldquo;yıllık gözden geçirme yazıları&amp;rdquo; yazmaya çalışırdım. O defter bitene kadar, (1992 başları) yazdığımı hatırlıyorum.
-Mobil cihazların gelişimi ile günlük tutma fikri yeniden canlandı bende. Sosyal medyaya yaptığım katkıları(!) otomatik olarak toplayan ve bir sosyal medya günlüğü şeklinde çalışan Momento kullandığım ilk uygulama olmuştu.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/DayOne-Header.png&#34; alt=&#34;DayOne-Header&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Çocukluğumdan beri günlük tutarım. 1984 yılında yazmaya başladığım, üzerinde Snoopy resmi olan bir defterim olduğunu hatırlıyorum. Hergün yazmamakla ve bazen çok uzun süreler yazmaya ara veriyor olmamla birlikte her yıl sonunda, hangi ay ne yaptığımı, neler düşündüğümü özetlediğim uzun &amp;ldquo;&lt;em&gt;yıllık gözden geçirme yazıları&lt;/em&gt;&amp;rdquo; yazmaya çalışırdım. O defter bitene kadar, (1992 başları) yazdığımı hatırlıyorum.&lt;/p&gt;
+&lt;p&gt;Mobil cihazların gelişimi ile günlük tutma fikri yeniden canlandı bende. Sosyal medyaya yaptığım katkıları(!) otomatik olarak toplayan ve bir sosyal medya günlüğü şeklinde çalışan &lt;a href=&#34;http://momentoapp.com&#34;&gt;Momento&lt;/a&gt; kullandığım ilk uygulama olmuştu. Sosyal medyadan toplanan entry&amp;rsquo;lerin yanında yaşadığım ve üzerinde düşündüğüm önemli olayları da ufak notlar halinde kaydediyordum. Bir ara Momento’nun gelişimi durunca ve iPad sürümü geliştirilmeyince 2012 yılı başında &lt;a href=&#34;http://dayoneapp.com&#34;&gt;Day One’a&lt;/a&gt; geçtim.&lt;/p&gt;
+&lt;p&gt;İlk sürümü 9 Mart 2011’de piyasaya çıkan Day One&amp;rsquo;ı iPad aldığım zaman 2012 yılı Mart ayında kullanmaya başlamışım.&lt;a href=&#34;#fn-1&#34; title=&#34;see footnote&#34;&gt;[1]&lt;/a&gt; Çok fazla seçeneği olmadığından o sıralar pek beğenmemiş ve Momento ile devam etmeye karar vermiştim. Bununla birlikte Momento olduğu yerde saymaya başladı ve Day One hızla geliştirildi. Özellikle Mayıs 2012’de sık seyahat ettiğim bir dönemde, gittiğim yerlerde kısa notlar almak ve düşündüklerimi not etmek amacıyla Day One kullandım. O zamanlar Day One’da resim ekleme seçeneği bile bulunnmuyordu.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Day_One-2-New-Features.jpg&#34; alt=&#34;Day_One-2 New Features&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Day One 2 baştan sona Sketch, Pixate, Github, HuBoard, Zeplin, Slack, and Xcode faydalanılarak yeniden tasarlanmış ve programlanmış bir &lt;a href=&#34;http://dayoneapp.com/2016/01/introducing-day-one-2/&#34;&gt;uygulama&lt;/a&gt;. Uygulamanın belli başlı yeni özellikleri şöyle;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Entry konularına göre kategorilere ayırma. Çoklu günlük olarak adlandırılmış bu özellik. Zaten tag’ler ile bu yapılabiliyordu, renklerle ve seçim kutuları ile daha kolay değişiklik imkanı sağlanmış.&lt;/li&gt;
+&lt;li&gt;Entrylere birden fazla fotoğraf ekleme. Kullanışlı bir özellik, Markdown ve Droplr aracılığı ile birden fazla fotoğraf eklemek eskiden de mümkündü, şimdi uygulamanın içine entegre edilen bir özellik olmuş.&lt;/li&gt;
+&lt;li&gt;Yeri, hava durumunu ve bazı diğer özelliklerin (Yürüyüş mesafesi vb.) otomatik eklenmesi ve Multi Markdown desteği. Zaten bu özellikler Day One Classic’de de bulunuyordu. Pek yeni bir özellik gibi durmuyor. iTunes’da dinlediğiniz müziğin aktarılması ise yeni bir özellik.&lt;/li&gt;
+&lt;li&gt;Day One Sync 2.0. Uygulama ile gelen en yeni ve önemli özellik. DropBox ve iCloud sync seçenekleri kaldırılmış durumda, sadece Day One’ın kendi cloud sistemi kullanılarak senkronizasyon sağlanbiliyor. Şifreleme sistemine sahip ve Dropbox ile iCloud’a göre sadece uygulama için geliştirilmiş olması ön planan çıkan &lt;a href=&#34;http://dayoneapp.com/sync/&#34;&gt;servisin&lt;/a&gt;, uygulamanın piyasaya çıktığı 4 Şubat günü yaşanan yoğunluk dolayısıyla bir süreliğine kullanılamaz hale geldiğini belirtmekte fayda var.&lt;/li&gt;
+&lt;li&gt;Day One 2 ile eski (şimdi Classic olarak adlandırılan) sürümde kullanılan entrylerin saklanma şekli XML’den SQL veritabanına çevrilmiş durumda. Bu, bir günlük programı için eskiye oranla biraz daha profesyonel ve derli toplu bir yaklaşım bana göre. Veritabanı düzenli olarak yedeklendiğinde veri kayıpları ve dosya karmaşasının eskiye nazaran daha az gerçekleşeceğini düşünüyorum.&lt;/li&gt;
+&lt;li&gt;Girdilerin toplu olarak silinmesi, taşınması, tag’lenmesi gibi seçenekler eklenmiş.&lt;/li&gt;
+&lt;li&gt;Fotoğraf görünümü OS X sürümü için getirilmiş.&lt;/li&gt;
+&lt;li&gt;Harita görünümü iOS sürümü için düzenlenmiş.&lt;/li&gt;
+&lt;li&gt;Hatırlatıcılar sayıca artırılabilecek şekilde ve metinleri değiştirlebilecek şekilde düzenlenebiliyor.&lt;/li&gt;
+&lt;li&gt;Zamandilimi desteği eklenmiş.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Day One 2’nin iOS cihazlar ile Mac versionu arasında, diğer tüm uygulamalarda rastlanabileceği gibi senkronizasyon sorunları yaşanabilir. Day One ilk zamanlarından beri bu işi gerçekten çok iyi kotarmıştı. Sadece geçtiğimiz aylarda yaptıkları bir güncelleme sonrasında bazı entry’lerin fazladan kopyaları oluşmuştu. Bu durum yeni versiona geçtiğinizde biraz başınızı ağrıtabiliyor. Tag’ler ile Journal isimleri arasında bazı karışıklıklar yaşadım, birde üzerine sync server’ları çökünce bir miktar vaktimi bu durumu düzeltmek için harcadım. Şimdilik herşey yolunda ama bu senkronizasyon işinde dikkatli ve tedbirli olmak, sık yedek almak gerekiyor.&lt;/p&gt;
+&lt;p&gt;iOS’da Notification Center’da kullandığım Day One widget’ını gerçekten seviyordum. Geçen yıldan veya rastgele seçtiği zamandan bir fotoğraf ile entry’lerin sayısını yada kelime sayısını gösteren grafik belki çok işlevsel değil ama keyifliydi. Day One 2’de bu widget maalesef yer almıyor. Yer bildirimi yapıp entry girebileceğiniz bir araç konulmuş onun yerine.🙁&lt;/p&gt;
+&lt;p&gt;Bir uygulamanın yeni sürümünde yaşanabilecek ufak tefek sorunlar mevcut Day One’da. Mac versionu bazen çökebiliyor, iOS’da ise Motion Activity ve adım sayaçları çalışmıyor. (Belki de ben çalıştıramadım!)&lt;/p&gt;
+&lt;p&gt;Önceki versionu en sık kullandığım programlardan biri olan Day One 2 önümüzdeki aylarda gelecek güncellemeler ile yine sık kullanacağım programlardan biri olmaya aday.&lt;/p&gt;
+&lt;p&gt;Day One 2, Mac için 39.99 US$, iOS için 9.99 US$ fiyat etiketi ile satılacak, bununla birlikte içinde bulunduğumuz hafta %50 indirim imkanı bulunuyor.&lt;/p&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li&gt;Bu bilgiyi Day One girdilerime bakarak teyit etmiş bulunmaktayım.  &lt;a href=&#34;#fnref-1&#34; title=&#34;return to article&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -135,8 +222,9 @@ Mobil cihazların gelişimi ile günlük tutma fikri yeniden canlandı bende. So
       <pubDate>Wed, 03 Dec 2014 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/spotify-2014-year-info/</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;full&amp;rdquo; ids=&amp;ldquo;89&amp;rdquo;]
-Here’s how I played in 2014. How did you play? spotify.com/2014 #Spotify2014</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;full&amp;rdquo; ids=&amp;ldquo;89&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;Here’s how I played in 2014. How did you play? spotify.com/2014 #Spotify2014&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -145,8 +233,9 @@ Here’s how I played in 2014. How did you play? spotify.com/2014 #Spotify2014</
       <pubDate>Wed, 06 Aug 2014 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/istat-menus/</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;110&amp;rdquo;]
-iStat Menus will not be leaving my menu bar.</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;110&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;iStat Menus will not be leaving my menu bar.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -155,8 +244,10 @@ iStat Menus will not be leaving my menu bar.</description>
       <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/facebook/</guid>
-      <description>Facebook&amp;rsquo;un gizlilik ayarları son derece karışık ve bir paylaşımda bulunduğunda kimin neyi görebildiğini hemen hemen hiç kimse tam olarak bilemiyor.
-Facebook yaşlanıyor | DW.DE | 18.11.2013</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Facebook&amp;rsquo;un gizlilik ayarları son derece karışık ve bir paylaşımda bulunduğunda kimin neyi görebildiğini hemen hemen hiç kimse tam olarak bilemiyor.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dw.de/facebook-ya%C5%9Flan%C4%B1yor/a-17238126&#34;&gt;Facebook yaşlanıyor | DW.DE | 18.11.2013&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -165,8 +256,21 @@ Facebook yaşlanıyor | DW.DE | 18.11.2013</description>
       <pubDate>Tue, 12 Nov 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/spotify-m%C3%BCzik-ve-jazz-fusion/</guid>
-      <description>Bugünlerde Spotify sayesinde gereğinden fazla müzik dinleyebiliyorum. Normalde yüzüne bile bakmayacağım pek çok albümü hazır boş vakit de bulumuşken dinleyebilme şansı edindim. Bu albümler içinde en kayda değer olanları şu şekilde sıraladım.
-Carcass - Surgical Steel Death Angel - The Dream Calls for Blood Metal Church - Generation Nothing Motörhead - Aftershock Paul McCartney - New Pearl Jam - Lightning Bolt Büyük heyecanla beklediğim Sepultura’nın yeni The Mediator Between Head &amp;amp; Hands Must Be The Heart albümü ise yetenekli davulcuları dışında bir hayal kırıklığı oldu.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/AIvd&amp;#43;&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Bugünlerde &lt;a href=&#34;http://open.spotify.com/user/bjornheimdall&#34;&gt;Spotify&lt;/a&gt; sayesinde gereğinden fazla müzik dinleyebiliyorum. Normalde yüzüne bile bakmayacağım pek çok albümü hazır boş vakit de bulumuşken dinleyebilme şansı edindim. Bu albümler içinde en kayda değer olanları şu şekilde sıraladım.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Carcass - Surgical Steel&lt;/li&gt;
+&lt;li&gt;Death Angel - The Dream Calls for Blood&lt;/li&gt;
+&lt;li&gt;Metal Church - Generation Nothing&lt;/li&gt;
+&lt;li&gt;Motörhead - Aftershock&lt;/li&gt;
+&lt;li&gt;Paul McCartney - New&lt;/li&gt;
+&lt;li&gt;Pearl Jam - Lightning Bolt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Büyük heyecanla beklediğim Sepultura’nın yeni &lt;em&gt;The Mediator Between Head &amp;amp; Hands Must Be The Heart&lt;/em&gt; albümü ise yetenekli davulcuları dışında bir hayal kırıklığı oldu.&lt;/p&gt;
+&lt;p&gt;90’lı yılların başında dinlediğim ve hayli etkilendiğim &lt;em&gt;Technical Death Metal&lt;/em&gt; alt türü ise bu haftanın ağırlıklı dinlenen müzik türü oldu. &lt;strong&gt;Tony Choy&lt;/strong&gt; ve &lt;strong&gt;Sean Malone&lt;/strong&gt; gibi sıradışı bassçıları müzik dünyasına tanıtan &lt;em&gt;Atheist&lt;/em&gt;, &lt;em&gt;Pestilence&lt;/em&gt; ve &lt;em&gt;Cynic&lt;/em&gt; en çok dinlediğim gruplar.&lt;/p&gt;
+&lt;p&gt;Pestilence’ın yeni albümü Obsideo hakkında ise internette farklı eleştiriler okudum. Çok sayıda eleştirmen albümü beğenmediğini belirtmiş. Albümü beğendikten sonra okuduğum bu eleştiriler insanın kendinden ve müzik zevkinden şüphe etmesine sebep oluyor. Bu yanıltıcı eleştirilerin ortak yönünü grubun tüm geçmişini ve müzik türünün gelişimini takip etmeden sadece bir önceki albümle kıyaslama yaparak yorumlamaları oluşturuyor. Birde sadece eleştirileri okuyarak yorum yazanlar var, onlara hiç değinmiyorum.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -175,8 +279,11 @@ Carcass - Surgical Steel Death Angel - The Dream Calls for Blood Metal Church - 
       <pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/apple%C4%B1n-gidi%C5%9Fat%C4%B1/</guid>
-      <description>iOS 7 ile başlayan ve skeumorphism’i ortadan kaldırmaya yönelik çalışmalar olarak algılanan Apple’daki yenilenme süreci daha kimsenin fark edemediği sorunları ortaya çıkardı aslında. Steve Jobs sonrası Apple yönetiminde gerçekleştirilen değişikliklerin kullanıcılara (ve müşterilere) sadece iOS ve MacOS’da görsel yenilikler yapılacağı şeklinde lanse edildi, oysa Apple kalite kontrol sisteminde büyük değişiklikler yapmışa benziyor.
-Apple’ın bu aşamadan sonra asıl problemi, işletim sistemlerinin yeni görünümününün kullanıcılar tarafından kabul edilmesi değil, stabil çalışan ve bug’lardan arındırılmış bir iOS sürümünü kullanıcıların deneyimine sunabilmek olduğu anlaşılıyor.</description>
+      <description>&lt;p&gt;iOS 7 ile başlayan ve skeumorphism’i ortadan kaldırmaya yönelik çalışmalar olarak algılanan Apple’daki yenilenme süreci daha kimsenin fark edemediği sorunları ortaya çıkardı aslında. Steve Jobs sonrası Apple yönetiminde gerçekleştirilen değişikliklerin kullanıcılara (ve müşterilere) sadece iOS ve MacOS’da görsel yenilikler yapılacağı şeklinde lanse edildi, oysa Apple &lt;strong&gt;&lt;em&gt;kalite kontrol&lt;/em&gt;&lt;/strong&gt; sisteminde büyük değişiklikler yapmışa benziyor.&lt;/p&gt;
+&lt;p&gt;Apple’ın bu aşamadan sonra asıl problemi, işletim sistemlerinin yeni görünümününün kullanıcılar tarafından kabul edilmesi değil, stabil çalışan ve bug’lardan arındırılmış bir iOS sürümünü kullanıcıların deneyimine sunabilmek olduğu anlaşılıyor.&lt;/p&gt;
+&lt;p&gt;PC’den Mac’e ve normal cep telefonlarından iPhone’a geçişimdeki en önemli etken stabil çalışan işletim sistemleri olmuştur. Ne yazık ki Apple’ın bir nevi Microsoft’laşmaya başladığını üzülerek izliyorum.&lt;/p&gt;
+&lt;p&gt;Kalite kontrolünden geçmeyen (yada çok hızlı geçen) iOS 7, Apple TV güncellemelerinden sonra bakalım Mavericks ile nelerle karşılaşacağız? Tek istediğim bilgisayarımda, telefonumda ve tabletimde stabil çalışan bir işletim sistemi. iOS 7.0.2’de iOS 7.0’da bile olmayan yeni bug’ları, hataları keşfetmek gerçekten can sıkıcı.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -185,9 +292,12 @@ Apple’ın bu aşamadan sonra asıl problemi, işletim sistemlerinin yeni gör�
       <pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/elveda-google-reader/</guid>
-      <description>2006 yılından beri her sabah e-postalarımı kontrol ettikten sonra açtığım ve düzenli olarak kullandığım web-uygulaması Google Reader’ı bu sabah son kez (serverlarının fişi çekilirken, yarım yamalak) kullandım.
-Alternatifleri pek inceleme fırsatım olmadıysa da Google Reader’ın yerini tutabilmeleri için çok uzun zaman geçmesi gerekecek gibi.
-Seni özleyeceğim Google Reader! Elveda!</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mpbqr4r7RE1qz4rgp.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;2006 yılından beri her sabah e-postalarımı kontrol ettikten sonra açtığım ve düzenli olarak kullandığım web-uygulaması Google Reader’ı bu sabah son kez (serverlarının fişi çekilirken, yarım yamalak) kullandım.&lt;/p&gt;
+&lt;p&gt;Alternatifleri pek inceleme fırsatım olmadıysa da Google Reader’ın yerini tutabilmeleri için çok uzun zaman geçmesi gerekecek gibi.&lt;/p&gt;
+&lt;p&gt;Seni özleyeceğim Google Reader! Elveda!&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -196,8 +306,18 @@ Seni özleyeceğim Google Reader! Elveda!</description>
       <pubDate>Sat, 22 Jun 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/ios-7/</guid>
-      <description>Haziran ayında tanıtımı yapılan iOS 7&amp;rsquo;nin 1.betasını telefonuma geçtiğimiz hafta içinde yüklemiş bulundum. Beta sürümleri sürekli kullandığınız telefonlara yüklemenin tehlikelerinden bahsedilse de yazılım-donanım tehlikeleri ile yüzleşmeyi seven birisi olarak bir beta sürümünü en iyi her gün kullandığım telefonla en iyi şekilde test edilebileceğini düşünenlerdenim.
-iOS 7&amp;rsquo;yi ilk gördüğümde gerçekten hayal kırıklığına uğradım. Windows Phone&amp;rsquo;a büyük ölçüde benzemesi, nedense bir türlü sevemediğim Avenir yazıtipi, genel görünümde skeumorphismin terkedilerek pastel tonlu renkli bir görünümün oluşturulması hiç hoşuma gitmemişti.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/jnmh&amp;#43;&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Haziran ayında tanıtımı yapılan iOS 7&amp;rsquo;nin 1.betasını telefonuma geçtiğimiz hafta içinde yüklemiş bulundum. Beta sürümleri sürekli kullandığınız telefonlara yüklemenin tehlikelerinden bahsedilse de yazılım-donanım tehlikeleri ile yüzleşmeyi seven birisi olarak bir beta sürümünü en iyi her gün kullandığım telefonla en iyi şekilde test edilebileceğini düşünenlerdenim.&lt;/p&gt;
+&lt;p&gt;iOS 7&amp;rsquo;yi ilk gördüğümde gerçekten hayal kırıklığına uğradım. Windows Phone&amp;rsquo;a büyük ölçüde benzemesi, nedense bir türlü sevemediğim Avenir yazıtipi, genel görünümde skeumorphismin terkedilerek pastel tonlu renkli bir görünümün oluşturulması hiç hoşuma gitmemişti. Görünümün dışında uygulama geliştiriciler için sağlanan &lt;a href=&#34;https://developer.apple.com/ios7/&#34;&gt;1500&amp;rsquo;den fazla yeni API&lt;/a&gt;‘nin dışında yeni özellikler arasında beni çok etkileyen birşeyler de bulamamıştım.&lt;/p&gt;
+&lt;p&gt;Bakış açım iOS 7&amp;rsquo;yi telefonuma yükledikten sonra değişti. Genel görünümün retina ekranlı iPhone&amp;rsquo;lara çok daha fazla yakıştığını söyleyebilirim. Status Bar ile birlikte Wi-Fi ve GPS ikonları ince detaylı olarak çizilmiş, uygulama açılışındaki geçişler retina ekranın imkanlarından çok daha iyi yararlandığı görülüyor. 3 boyutlu parallax efekti ile arka-plan, ikonlar, ve en önde yer alan bildirim ekranı farklı katmanlar halinde render ediliyor, telefonu tutuş şeklinize göre ikonlar bakışlarınızı takip ediyor.&lt;/p&gt;
+&lt;p&gt;Yeni özellikler arasında en önemlisi Control Center. Hızlı kullanılması gereken özelliklerden (Bluetooth açma-kapama, parlaklık ayarı vb.) buraya toplanmış. El feneri yeni uygulama olarak bu bölümde yer alıyor.&lt;/p&gt;
+&lt;p&gt;App Store&amp;rsquo;un uygulamaları kendiliğinden güncelleştirmesi ve bunları Notification Center&amp;rsquo;da bildirim olarak vermesi beğendiğim özelliklerden biri.&lt;/p&gt;
+&lt;p&gt;Camera uygulaması içinde Instagram&amp;rsquo;da olduğu gibi çektiğiniz fotoğraflara filtreler ekleyebiliyorsunuz.&lt;/p&gt;
+&lt;p&gt;Safari&amp;rsquo;deki en önemli yenilik Shared Links bölümü. Twitter hesabınızda paylaşılan linklere doğrudan ulaşma imkanı sağlanmış.&lt;/p&gt;
+&lt;p&gt;Dosya paylaşımı konusunda AirDrop seçeneği sunulmuş olmakla birlikte denemelerimde çok etkili biçimde kullanamadım.&lt;/p&gt;
+&lt;p&gt;iOS 7 bir anlamda yeni nesil iPhone&amp;rsquo;lar için iOS 1.0 sürümü olarak tanımlanabilir. İlk iPhone çıktığından beri kullanılan tasarım iOS 7 ile tümüyle değişiyor. Yeni tasarımın mükemmel olduğu söylenemez ancak zaman içinde gelişeceği ve değişeceği unutulmamalı.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -206,8 +326,9 @@ iOS 7&amp;rsquo;yi ilk gördüğümde gerçekten hayal kırıklığına uğradı
       <pubDate>Wed, 05 Jun 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/sendtodropbox/</guid>
-      <description>DropBox’ın ortaya çıkış sebebi insanların dosyaları paylaşabilmek için birbirlerine e-posta atmalarından kurtulması amaçlanmıştı. Bazen işyerinde oluşturulan dosyalarda akşam evde çalışabilme amacıyla kendime bile mail attığım olmuştur.
-Bununla birlikte işyerinde DropBox’a erişebilme imkanı olmaması nedeniyle bazı dosyaları e-posta yoluyla DropBox hesabıma göndermenin yollarını ararken sendtodropbox servisini buldum. DropBox’ın oluşum felsefesine ters düşse de servisin çok işime yaradığını ifade etmeliyim. Üstelik ücretsiz bir servis.</description>
+      <description>&lt;p&gt;DropBox’ın ortaya çıkış sebebi insanların dosyaları paylaşabilmek için birbirlerine e-posta atmalarından kurtulması amaçlanmıştı. Bazen işyerinde oluşturulan dosyalarda akşam evde çalışabilme amacıyla kendime bile mail attığım olmuştur.&lt;/p&gt;
+&lt;p&gt;Bununla birlikte işyerinde DropBox’a erişebilme imkanı olmaması nedeniyle bazı dosyaları e-posta yoluyla DropBox hesabıma göndermenin yollarını ararken &lt;a href=&#34;https://sendtodropbox.com/&#34;&gt;sendtodropbox&lt;/a&gt; servisini buldum. DropBox’ın oluşum felsefesine ters düşse de servisin çok işime yaradığını ifade etmeliyim. Üstelik ücretsiz bir servis.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -216,7 +337,8 @@ Bununla birlikte işyerinde DropBox’a erişebilme imkanı olmaması nedeniyle 
       <pubDate>Tue, 04 Jun 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/byword/</guid>
-      <description>Byword’ün bugün çıkan 2.0 sürümü ile yazdıklarımı doğrudan blog’uma ekleyebilme imkanına kavuştum.</description>
+      <description>&lt;p&gt;Byword’ün bugün çıkan 2.0 sürümü ile yazdıklarımı doğrudan blog’uma ekleyebilme imkanına kavuştum.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -225,7 +347,15 @@ Bununla birlikte işyerinde DropBox’a erişebilme imkanı olmaması nedeniyle 
       <pubDate>Mon, 29 Apr 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/delicious-library-3/</guid>
-      <description>MacOs ile tanışmam sonrasında satın aldığım ilk uygulamalardan biri Delicious Library 2 olmuştu. Kitap, müzik CD&amp;rsquo;leri, araç-gereç, vb. nesneleri kataloglamak için göze hoş gelen arabirimi ve gelişmiş özellikleri olan bir programdı. Özellikle Mac&amp;rsquo;in iSight kamerasından objenin barkodununun okutularak Amazon&amp;rsquo;da araması ve veritabanı özelliklerini otomatik olarak doldurması programın en kullanışlı özelliği idi. Yıllarca severek kullandım, bir ara Hard Diski formatlarken veritabanı dosyasının yedeğini almayı unutmam nedeniyle tüm girdileri kaybettim ama yavaştan tekrar oluşturmaya başladım.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/S3U1&amp;#43;&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;MacOs ile tanışmam sonrasında satın aldığım ilk uygulamalardan biri Delicious Library 2 olmuştu. Kitap, müzik CD&amp;rsquo;leri, araç-gereç, vb. nesneleri kataloglamak için göze hoş gelen arabirimi ve gelişmiş özellikleri olan bir programdı. Özellikle Mac&amp;rsquo;in iSight kamerasından objenin barkodununun okutularak Amazon&amp;rsquo;da araması ve veritabanı özelliklerini otomatik olarak doldurması programın en kullanışlı özelliği idi. Yıllarca severek kullandım, bir ara Hard Diski formatlarken veritabanı dosyasının yedeğini almayı unutmam nedeniyle tüm girdileri kaybettim ama yavaştan tekrar oluşturmaya başladım.&lt;/p&gt;
+&lt;p&gt;Geçen hafta &lt;a href=&#34;http://www.delicious-monster.com&#34;&gt;Delicious Library 3&lt;/a&gt; çıktı. Her yeni sürümün bir öncekine kıyasla daha fazla özellik sunacağını düşünerek satın aldığım uygulamada biraz hayal kırıklığına uğramış durumdayım. Kutuların 3 boyutlu hale gelmesi, fare ile üzerinde dolaştığınızda sağa-sola dönmesi eğlenceli özellikler olarak görülmesinin yanında hem işlemciye bindirilen yük hem de kutuların 3 boyutlu yapılması sebebiyle resim kalitesinin kısmen düşürülmesi sebebiyle eskisine oranla daha soluk bir görünüm hakim olmuş. Kütüphanenin, &lt;em&gt;Scene Kit&lt;/em&gt; kullanılarak yapılan yeni raf sistemi, 3D grafikler ve OpenGL kullanılarak gölgelendirme ve yüzey yansıması ile gerçek birer obje gibi göründüğü iddia ediliyor.(real parallax!). Ayrıca firma kullanıcı arabirimini OpenGL ile oluşturan ilk tüketici uygulaması olduğunu söylüyor.&lt;/p&gt;
+&lt;p&gt;Veritabanı dosyamın silinmiş olmasının verdiği tecrübeyle yeni sürümde aradığım ilk özellik dosyanın yedeklenmesi oldu. Ama ne yazıkki böyle bir özellik yok. Programın App Store&amp;rsquo;dan satılması sebebiyle soapbox edilmiş olması veritabanı dosyasına ulaşabilmeyi bir hayli güç hale getirmiş. Programcılar Apple&amp;rsquo;ın Core Data arabirimi kullanılarak veritabanına kolaylıkla ulaşılabilecek SQLite3 olarak tutulduğunu söylüyorlar ama yedekleme ve dışarı aktarma seçeneklerinin programa eklenmesi şart.&lt;/p&gt;
+&lt;p&gt;Yeni sürümle birlikte gelen iOS uygulaması barkod tarayıcısı ise beklediğimden iyi çalışıyor. Ücretsiz uygulamayı iPhone&amp;rsquo;a indirip hemen kullanmaya başlayabiliyorsunuz. Daha sonra yaptığınız taramaları bilgisayarla eşitleyebilirsiniz.&lt;/p&gt;
+&lt;p&gt;Raflardaki kitapların sayfa sayısına göre kalınlıklarının artması gözümden kaçmayan eğlenceli özelliklerden biri.&lt;/p&gt;
+&lt;p&gt;Bununla birlikte Delicious Library 3&amp;rsquo;e kapsamlı bir veritabanı yada kataloglama yazılımı olarak bakmanın uygun olmadığını düşünüyorum. Eğlenceli, renkli bir uygulama ama ciddi işler için Bento vb. veritabanı uygulamalarını kullanmak yerinde olur.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -234,8 +364,14 @@ Bununla birlikte işyerinde DropBox’a erişebilme imkanı olmaması nedeniyle 
       <pubDate>Sat, 06 Apr 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/ulysses-iii/</guid>
-      <description>Internette dolaşırken gördüğüm Ulysses isimli Markdown Editor dikkatimi çekti bugün. Pek çok editor kullanmama rağmen MultiMarkdown1 yazımı editör boyutunda destekleyen uygulama bulmak aslında çok zor. Ulysses MultiMarkdown desteklemesinin yanında editör olarakta kullandığım pek çok uygulamadan daha gelişmiş özellikler sağlıyor. Bununla birlikte Ulysses ile entegre olduğu söylenen ve satın aldığım iOS uygulaması Daedalus Markdown görüntüleme desteğine sahip değil.
-Byword ile oluşturmuş olduğum notları Ulysses III ile kategoriler içinde toplamayı başardım. Blog-Journal ve Notes olarak 3 farklı kategori oluşturdum.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/tQjZ&amp;#43;&#34; alt=&#34;image&#34;  title=&#34;Ulysses III&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Internette dolaşırken gördüğüm &lt;a href=&#34;http://www.ulyssesapp.com&#34;&gt;Ulysses&lt;/a&gt; isimli Markdown Editor dikkatimi çekti bugün. Pek çok editor kullanmama rağmen MultiMarkdown&lt;a href=&#34;#fn1&#34;&gt;1&lt;/a&gt; yazımı editör boyutunda destekleyen uygulama bulmak aslında çok zor. Ulysses MultiMarkdown desteklemesinin yanında editör olarakta kullandığım pek çok uygulamadan daha gelişmiş özellikler sağlıyor. Bununla birlikte Ulysses ile entegre olduğu söylenen ve satın aldığım iOS uygulaması Daedalus Markdown görüntüleme desteğine sahip değil.&lt;/p&gt;
+&lt;p&gt;Byword ile oluşturmuş olduğum notları Ulysses III ile kategoriler içinde toplamayı başardım. &lt;em&gt;Blog&lt;/em&gt;-&lt;em&gt;Journal&lt;/em&gt; ve &lt;em&gt;Notes&lt;/em&gt; olarak 3 farklı kategori oluşturdum. Oluşturulan bu kategoriler için farklı ikonlar da seçilebiliyor. Bununla birlikte bu kategorileri Ulysses III farklı dizinler altında topladığından Daedalus ile Dropbox aracılığı ile senkronize etmeyi başaramadım.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Markdown&amp;rsquo;ın bir ileri aşaması. Dipnot imkanı var. &lt;a href=&#34;#fn1&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -244,9 +380,12 @@ Byword ile oluşturmuş olduğum notları Ulysses III ile kategoriler içinde to
       <pubDate>Sat, 23 Feb 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/thinglist/</guid>
-      <description>Bir daha hiçbirşeyi unutmayın!
-Bazen unutmak istemediğim şeyleri hızlı bir şekilde not almam gerekir, ama alınan bu notlar zamanla karmaşık hale gelir, aranılan bulunamaz ve notlar kaybolur gider.
-Thinglist işte böyle karmaşık notları belirli kategorilere ayırmak için minimal bir tasarımla hazırlanmış bir iOS uygulaması. Ana ekranında 9 kategori (Film, Kitap, Müzik, Yemek, Kişi, Ürün, Yer, Bar ve Fikir) yer alıyor. Seçimimi yapıp notumu kaydediyorum, işte bu kadar! İşlevsel, başarıyla tasarlanan ve uygulanan minimalist uygulamaları seviyorum.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/WAc7&amp;#43;&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Bir daha hiçbirşeyi unutmayın&lt;/em&gt;!&lt;/p&gt;
+&lt;p&gt;Bazen unutmak istemediğim şeyleri hızlı bir şekilde not almam gerekir, ama alınan bu notlar zamanla karmaşık hale gelir, aranılan bulunamaz ve notlar kaybolur gider.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://getthinglist.com&#34;&gt;Thinglist&lt;/a&gt; işte böyle karmaşık notları belirli kategorilere ayırmak için minimal bir tasarımla hazırlanmış bir &lt;a href=&#34;http://appstore.com/thinglist&#34;&gt;iOS&lt;/a&gt; uygulaması. Ana ekranında 9 kategori (Film, Kitap, Müzik, Yemek, Kişi, Ürün, Yer, Bar ve Fikir) yer alıyor. Seçimimi yapıp notumu kaydediyorum, işte bu kadar! İşlevsel, başarıyla tasarlanan ve uygulanan minimalist uygulamaları seviyorum.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -255,8 +394,9 @@ Thinglist işte böyle karmaşık notları belirli kategorilere ayırmak için m
       <pubDate>Thu, 31 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/find-me-on-path/</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;307&amp;rdquo;]
-Find me on #Path!</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;307&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;Find me on #Path!&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -265,8 +405,9 @@ Find me on #Path!</description>
       <pubDate>Thu, 31 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/tweet-ping-twitter-activity-in-realtime/</guid>
-      <description>Tweet ping
-Check out the Twitter activity in realtime!</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://tweetping.net/&#34;&gt;Tweet ping&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Check out the Twitter activity in realtime!&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -275,7 +416,10 @@ Check out the Twitter activity in realtime!</description>
       <pubDate>Sun, 13 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/app.net/</guid>
-      <description>Twitter&amp;rsquo;ın bir ileri aşaması App.net olmalı. Reklam olmadan, yarattığımız içeriğin tümüyle kontrolümüz altında olması sosyal network&amp;rsquo;ün en önemli özelliklerinden biri.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mgkq3tzndm1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Twitter&amp;rsquo;ın bir ileri aşaması App.net olmalı. Reklam olmadan, yarattığımız içeriğin tümüyle kontrolümüz altında olması sosyal network&amp;rsquo;ün en önemli özelliklerinden biri.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -284,7 +428,8 @@ Check out the Twitter activity in realtime!</description>
       <pubDate>Sun, 13 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/iphone-homescreen/</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;335&amp;rdquo;]</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;335&amp;rdquo;]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -293,8 +438,11 @@ Check out the Twitter activity in realtime!</description>
       <pubDate>Sun, 21 Oct 2012 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/gog-os-x/</guid>
-      <description>Eski DOS oyunlarını OS X&amp;rsquo;de oynamak DOSBox için yazılmış Boxer gibi arabirimler sayesinde çok zor olmuyordu. Bununla birlikte GOG.com‘dan satın aldığım oyunları install etmek için öncelikle Windows&amp;rsquo;a geçmem daha sonra dosyaları OS X&amp;rsquo;e aktarmam gerekirdi.
-GOG.com artık DOS oyunlarını tek bir tıklama ile çalıştırılabilecek paketler halinde OS X için de satmaya başladı. Çok fazla oyunu deneme imkanım olmadı ama Boxer&amp;rsquo;ın sağladığı stabil platform sayesinde eski DOS oyunlarını Windows&amp;rsquo;a dönmeden rahatlıkla OS X&amp;rsquo;de oynayabilmek artık mümkün.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_mc9bssHXgj1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Eski DOS oyunlarını OS X&amp;rsquo;de oynamak DOSBox için yazılmış &lt;a href=&#34;http://boxerapp.com&#34;&gt;Boxer&lt;/a&gt; gibi arabirimler sayesinde çok zor olmuyordu. Bununla birlikte &lt;a href=&#34;http://www.gog.com&#34;&gt;GOG.com&lt;/a&gt;‘dan satın aldığım oyunları install etmek için öncelikle Windows&amp;rsquo;a geçmem daha sonra dosyaları OS X&amp;rsquo;e aktarmam gerekirdi.&lt;/p&gt;
+&lt;p&gt;GOG.com artık DOS oyunlarını tek bir tıklama ile çalıştırılabilecek paketler halinde OS X için de satmaya başladı. Çok fazla oyunu deneme imkanım olmadı ama Boxer&amp;rsquo;ın sağladığı stabil platform sayesinde eski DOS oyunlarını Windows&amp;rsquo;a dönmeden rahatlıkla OS X&amp;rsquo;de oynayabilmek artık mümkün.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -303,9 +451,16 @@ GOG.com artık DOS oyunlarını tek bir tıklama ile çalıştırılabilecek pak
       <pubDate>Thu, 02 Aug 2012 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/dayone/</guid>
-      <description>Günlük tutmak. Düşündüklerini yazıya dökmek. Daha sonra hatırlayabilmek için, hatırladıkça yazarken düşündüğün duyguları tekrar hissedebilmek için. Nostaljik ve melankolik yapılı insanların işi.
-Oğuz Atay Tutunamayanlar’ın kahramanına benzetir kendini, kendi günlüğünü tutmaya başladığında. Selim gibi günlük tutmaya başladığında sonunun da onun gibi hayırlı olmayacağını düşünür.
-Hayatımın bir döneminde bende günlük tutmuştum, sonra ara verdim. Post-PC olarak adlandırılan bu dönemde sosyal networklerde hayatımızla ilgili pek çok şeyi paylaşırken kendi düşündüklerim ile paylaştıklarımı bir araya toparlayan Momento iPhone’da en beğendiğim günlük uygulaması olmuştu.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_m855o9DZ0m1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Günlük tutmak. Düşündüklerini yazıya dökmek. Daha sonra hatırlayabilmek için, hatırladıkça yazarken düşündüğün duyguları tekrar hissedebilmek için. Nostaljik ve melankolik yapılı insanların işi.&lt;/p&gt;
+&lt;p&gt;Oğuz Atay &lt;em&gt;Tutunamayanlar&lt;/em&gt;’ın kahramanına benzetir kendini, kendi günlüğünü tutmaya başladığında. Selim gibi günlük tutmaya başladığında sonunun da onun gibi hayırlı olmayacağını düşünür.&lt;/p&gt;
+&lt;p&gt;Hayatımın bir döneminde bende günlük tutmuştum, sonra ara verdim. Post-PC olarak adlandırılan bu dönemde sosyal networklerde hayatımızla ilgili pek çok şeyi paylaşırken kendi düşündüklerim ile paylaştıklarımı bir araya toparlayan &lt;a href=&#34;http://momentoapp.com&#34;&gt;Momento&lt;/a&gt; iPhone’da en beğendiğim günlük uygulaması olmuştu. Farkettimki bu uygulama sayesinde ufak ufak yeniden günlük tutmaya başlamışım. Ne yazıkki bu çok başarılı uygulama kendini geliştiremedi, iPad ve Mac uygulamaları ile desteklenmedi, günlüğü iPhone dışına aktarabilme imkanını geliştirmedi ve artık pek kullanmadığım bir uygulama olarak iPhone’umda bir klasör içine hapsoldu.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://dayoneapp.com&#34;&gt;DayOne&lt;/a&gt; ise sessiz sakin girdi günlük hayatıma. iCloud ve &lt;a href=&#34;http://dropbox.com&#34;&gt;DropBox&lt;/a&gt; eşitlemesinin yanında hem iPhone hem iPad hem de Mac platformu için hazırlanmıştı. Sadece metin girmek dışında pek fazla özelliği olmasa da güzel dizayn edilmiş olması, ilginç ses efektleri ile kendine hem iOS hem de OSX platformunda yer edinmeyi başardı.&lt;/p&gt;
+&lt;p&gt;Bugün AppStore’da yerini alan yeni güncellemesi ile DayOne kullanacağım tek günlük uygulaması olma yolunda büyük bir adım attı. Fotoğraf eklenebilmesi, bulunduğunuz yeri Foursquare aracılığı ile tespit etmesi, hava durumunu eklemesi bence bir günlüğü yaşanan anı tüm yönleri ile hatırlanabilecek şekle getirmesi ve bütün bunları ince ve sade bir arabirimle sunması DayOne’ın en çekici özelliği.&lt;/p&gt;
+&lt;p&gt;DayOne ayrıca Apple’ın yeni sandboxing gereksinimlerini karşılaması bakımından da önemli, güncellemenin gecikmesinin en önemli sebebi bu yeni gereksinimleri karşılamak için programda yapılması zorunlu değişiklikler olarak belirtiliyor.&lt;/p&gt;
+&lt;p&gt;DayOne’ın halen geliştirilmesi gereken özellikleri de var. Etiketleme seçeneği, yazılan günlük girişlerinin çeşitli etiketler ile kategorilere ayrılması, geçmişe yönelik yapılacak aramaları kolaylaştıracaktır. Günlüğün PDF olarak dışa aktarılabilmesi de önemli bir eklenti olacaktır.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -314,7 +469,8 @@ Hayatımın bir döneminde bende günlük tutmuştum, sonra ara verdim. Post-PC 
       <pubDate>Thu, 12 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/path/</guid>
-      <description>Trying Path…</description>
+      <description>&lt;p&gt;Trying Path…&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -323,9 +479,13 @@ Hayatımın bir döneminde bende günlük tutmuştum, sonra ara verdim. Post-PC 
       <pubDate>Sat, 03 Dec 2011 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/thermo-translation/</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;452&amp;rdquo;]
-robokitten:
-There’re lots of things to be happy about in this chilly December, but right now we’re celebrating a milestone. We’ve surpassed the five hundred thousand (500.000) thermometer served! Rounding a half a million downloads seemed like the perfect time to launch another update that would make Thermo even more accessible to people around the world. Thermo 1.3 is now live in the App Store, and with it we’re introducing 17 New languages.</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;452&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://robokitten.tumblr.com/post/13633967815/therere-lots-of-things-to-be-happy-about-in-this&#34;&gt;robokitten&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;There’re lots of things to be happy about in this chilly December, but right now we’re celebrating a milestone. We’ve surpassed the &lt;strong&gt;five hundred thousand&lt;/strong&gt; (500.000) thermometer served! Rounding a half a million downloads seemed like the perfect time to launch another update that would make &lt;a href=&#34;http://thermo.me&#34;&gt;Thermo&lt;/a&gt; even more accessible to people around the world. Thermo 1.3 is now live in the App Store, and with it we’re introducing &lt;strong&gt;17 New languages&lt;/strong&gt;. We’re also introducing Horizontal History (For awesome History owners), iOS Twitter integration and a redesigned auto location system.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://itunes.apple.com/app/thermo/id414215658?mt=8&#34;&gt;Go get the update from the App Store now!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We’d like to thank all the awesome Thermo users from around the world who contributed to the translations: &lt;em&gt;Leonidas, Anh Do, Greg, vegazvegaz, Jan Jansen, Kim Schneider, René Zschoch, Guillaume, Bas van der Ploeg, Mattia, Yannick Lung, Kirill, Colin Kneupper, Sigurd Ljødal, Pascal Reymond, Boris Bügling, Baldur Jón Kristjánsson, Stefano Giacomuzzi, Szabolcs Sz, Lars, Martin Sedlak, Freerk Smit, Roy Swinkels, Till, Tomasz Zając, Alexsander Akers, Alex Wild, Lars Schütt, Peter Kovár, Hannes Hasselberg, Oscar Alaniz, Marcus Lindgren, Oscar Palmér, Juan C Guzman, Alejandro, Leandro Vale, Yosun, SaMaHy, Ömer Balamir, irmq8i, Samer Sabeeh, Aaron, Khalid Shahbic, Maksi soufiane, Ahmed, Samer Sabeeh, Lachin Akhmedov, Isaac Cortez, Furkan Mustafa, George Nirakis, Kuba Bąk, Hazem Alendari, saichon bratholm, Egehan Dülger, Marius Paliulionis, M.N., Mhmood Zaidan&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+</description>
     </item>
     
     <item>
@@ -334,7 +494,10 @@ There’re lots of things to be happy about in this chilly December, but right n
       <pubDate>Thu, 15 Sep 2011 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/windows-8-bsod/</guid>
-      <description>Windows 8 önceki sürümlerine göre en önemli gelişmeyi BSOD ekranında gerçekleştirmiş gibi görünüyor. Daha sevimli ve kullanıcı dostu (!) bir hata ekranı. Windows 8&amp;rsquo;de geliştirilen birşeyler olduğunu görmek güzel…</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_lrkohthP421qztw2k.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Windows 8 önceki sürümlerine göre en önemli gelişmeyi BSOD ekranında gerçekleştirmiş gibi görünüyor. Daha sevimli ve kullanıcı dostu (!) bir hata ekranı. Windows 8&amp;rsquo;de geliştirilen birşeyler olduğunu görmek güzel…&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -343,7 +506,10 @@ There’re lots of things to be happy about in this chilly December, but right n
       <pubDate>Thu, 11 Aug 2011 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/notebook-backpack/</guid>
-      <description>Notebook Backpack by Omer Balamir</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_lps1197Ydv1qztaweo1_250.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Notebook Backpack by Omer Balamir&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -352,8 +518,9 @@ There’re lots of things to be happy about in this chilly December, but right n
       <pubDate>Sat, 21 May 2011 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/wakoopa-10.000-points/</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;493&amp;rdquo;]
-Breaking the 10.000 points level in Wakoopa!</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;493&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;Breaking the 10.000 points level in Wakoopa!&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -362,8 +529,21 @@ Breaking the 10.000 points level in Wakoopa!</description>
       <pubDate>Sun, 10 Apr 2011 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/dosbox-ve-boxer/</guid>
-      <description>Geçmişe özlem duyanlar, geçmişe dönebilmenin yollarını ararlar. 1992 yılında ilk PC bilgisayarıma geçtiğimde Commodore 64 ve Amiga benim için tarihin tozlu sayfalarına gömülmüştü. Gelecek PC&amp;rsquo;lerdeydi, Amiga ve Commodore 64 için çıkmış oyunların çok daha iyileri PC&amp;rsquo;de mevcuttu. Ama hiç düşündüğüm gibi olmadı.
-Öncelikle çoğu oyun PC&amp;rsquo;de olmasına karşın kimi oyunların Amiga versionları çok daha iyiydi. Oyunlar eğer 256 renk VGA çözünürlüğü kullanmıyorsa 16 renge mahkumdu, Amiga ise 32 renk sunuyordu. Eğer PC&amp;rsquo;de ses kartı yoksa (ki o zamanlar ses kartım yoktu) PC hoparlöründen gelen bip sesleriyle yetinmek zorundaydık.</description>
+      <description>&lt;p&gt;Geçmişe özlem duyanlar, geçmişe dönebilmenin yollarını ararlar. 1992 yılında ilk PC bilgisayarıma geçtiğimde Commodore 64 ve Amiga benim için tarihin tozlu sayfalarına gömülmüştü. Gelecek PC&amp;rsquo;lerdeydi, Amiga ve Commodore 64 için çıkmış oyunların çok daha iyileri PC&amp;rsquo;de mevcuttu. Ama hiç düşündüğüm gibi olmadı.&lt;/p&gt;
+&lt;p&gt;Öncelikle çoğu oyun PC&amp;rsquo;de olmasına karşın kimi oyunların Amiga versionları çok daha iyiydi. Oyunlar eğer 256 renk VGA çözünürlüğü kullanmıyorsa 16 renge mahkumdu, Amiga ise 32 renk sunuyordu. Eğer PC&amp;rsquo;de ses kartı yoksa (ki o zamanlar ses kartım yoktu) PC hoparlöründen gelen bip sesleriyle yetinmek zorundaydık. PC&amp;rsquo;lerde hız konusunda bir standart yoktu, eski oyunlar oynanılmayacak kadar hızlı çalışıyordu, Amiga oyunları ise o donanım için test edilmiş olarak çıktığından yavaş olsa da en azından bir standarta sahipti.&lt;/p&gt;
+&lt;p&gt;Bu nedenlerle çoğu oyunun Amiga versionlarını hatta bazı eski oyunların Commodore 64 versionlarını yeniden oynamak çok daha keyifli oluyordu. Bununla birlikte PC masamın üstünü tamamen kapladığından diğer bilgisayarlar zamanla dolaplarındaki yerini aldı, o bilgisayarlarda oynadığım oyunlar güzel birer hatıra oldu.&lt;/p&gt;
+&lt;p&gt;Aynı durumun PC&amp;rsquo;ler için yaşanacağı o zamanlar hayal edilememişti tabi. DOS için yazılmış oyunlar 1995&amp;rsquo;den itibaren yavaş yavaş yerini Windows için yazılmış oyunlara bıraktı. Bilgisayarlar hızlandı, floppy disklerin yerini CD-ROM&amp;rsquo;lar aldı. DOS için programlanan oyunları Windows uyumluluk modunda zorlukla oynayabiliyor olsakda uyumsuzluk problemleri gecikmedi.&lt;/p&gt;
+&lt;p&gt;Bu sorunları ortadan &lt;a href=&#34;http://www.dosbox.com/&#34; title=&#34;DOSBox&#34;&gt;DOSBox&lt;/a&gt; isimli program kaldırdı. DOSBox hemen hemen her işletim sistemi altında çalışan, tüm eski ses kartlarını destekleyen bir DOS penceresi açtı bizim gibi nostaljik kişiliklierin dünyasına. DOSBox&amp;rsquo;ı kullanmak çok kolay değildi tabi, sanal bir disk ortamı yaratmak, ses kartı adresi ve IRQ seçmek için konfigürasyon dosyası ile uğraşmak gerekiyordu. Bu işlemleri kolaylaştırmak için frontendler yazıldı. Bunların içinde bence en iyisi ve kolay kullanımlı olanı &lt;a href=&#34;http://boxerapp.com/&#34; title=&#34;Boxer&#34;&gt;Boxer&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_ljfnh8oPG01qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Boxer&amp;rsquo;a yeni oyun eklemek çok kolay. Sadece oyun klasörünü Boxer&amp;rsquo;a sürüklüyorsunuz, eğer bir installer varsa program onu çalıştırıyor ve konfigürasyonu gerçekleştiriyorsunuz. Oyunun adını yazıp oyun kutusunun resmini eklemeniz yeterli.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_ljfnioC3G91qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Aynı şey CD imajları içinde geçerli. Karşılaşılacak en önemli sorun Mac klavyesi ile PC klavyesi arasındaki farklılıklar nedeniyle bazı oyunların PC klavyesine özel tuş kombinasyonları kullanmaları olabilir. Bazı oyunlar içinde hızın ayarlanabilmesi için ince ayarlar yapmak gerekebiliyor.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_ljfnj7LHEp1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Eskiden oynadığımız oyunları tekrardan oynamak geçmişe dönmemizi sağlamaz belki ama yağmurlu bir pazar gününde Indiana Jones&amp;rsquo;un Fate of Atlantis&amp;rsquo;inin CD versionunu oynayabilmenin keyfini ancak o yıllarda PC kullananlar bilebilir.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -372,8 +552,21 @@ Breaking the 10.000 points level in Wakoopa!</description>
       <pubDate>Sun, 09 Jan 2011 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/mac-app-store/</guid>
-      <description>Geçtiğimiz hafta Apple MacOS işletim sistemi için geliştirilen uygulamaların satılacağı Mac App Store‘un açılışını yaptı. Apple iPhone için yarattığı AppStore&amp;rsquo;un beklenmeyen başarısı sonrasında aynı başarıyı MacOS uygulama pazarında da yakalamak istiyor.
-Apple&amp;rsquo;ın MacOS uygulamaları için merkezi bir sistem oluşturmasında, iPhone&amp;rsquo;da yakaladığı başarının yanısıra bağımsız uygulama geliştiricilerinin (indie developer) son yıllarda, hem görsel, hem işlevsel mükemmele yakın programlar üretmelerini farketmiş olması yatıyor. Haliyle büyüyen bu pastadan kendisi de pay almak istiyor.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_ler738Plav1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Geçtiğimiz hafta Apple MacOS işletim sistemi için geliştirilen uygulamaların satılacağı &lt;a href=&#34;http://www.apple.com/mac/app-store/&#34;&gt;Mac App Store&lt;/a&gt;‘un açılışını yaptı. Apple iPhone için yarattığı AppStore&amp;rsquo;un beklenmeyen başarısı sonrasında aynı başarıyı MacOS uygulama pazarında da yakalamak istiyor.&lt;/p&gt;
+&lt;p&gt;Apple&amp;rsquo;ın MacOS uygulamaları için merkezi bir sistem oluşturmasında, iPhone&amp;rsquo;da yakaladığı başarının yanısıra bağımsız uygulama geliştiricilerinin (&lt;em&gt;indie developer&lt;/em&gt;) son yıllarda, hem görsel, hem işlevsel mükemmele yakın programlar üretmelerini farketmiş olması yatıyor. Haliyle büyüyen bu pastadan kendisi de pay almak istiyor.&lt;/p&gt;
+&lt;p&gt;Mac AppStore&amp;rsquo;un başarıya ulaşması;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Programların ambalaj, satış-pazarlama için personel çalıştırılması gibi ek maliyetleri olmayacağından fiyatlandırmanın buna göre yapılması&lt;/li&gt;
+&lt;li&gt;Daha önceden alınmış uygulamalar ile App Store için derlenen uygulamalar arasında fark olmaması. (Aynı uygulama App Store&amp;rsquo;dan alınan ile farklı kanallardan alınmış olarak ayrılmamalı)&lt;/li&gt;
+&lt;li&gt;Önceden daha pahalıya satın alınmış uygulamaların güncelleştirme seçeneklerinin eski kullanıcılar için düşük tutulması&lt;/li&gt;
+&lt;li&gt;Korsan kullanıma karşı hem programcı hem Apple tarafından yeterli önlem alınması&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;halinde büyük başarıya ulaşacağı açıkça belli olmaktadır.&lt;/p&gt;
+&lt;p&gt;Apple&amp;rsquo;ın Mac App Store ile bağımsız programcılığın ilerleyen yıllarda pazarlama (marketing) açısından Apple&amp;rsquo;a kısmen bağlı olacağını da gözardı etmemek gerekiyor. Apple hiçbir geliştiriciyi “&lt;em&gt;programını sadece Mac App Store üzerinden satacaksın&lt;/em&gt;” şeklinde kendine bağlamıyor. Ama bağımsız programcıların pazarlama anlamında yaşadıkları sıkıntıları App Store ile kapatmaya alışacakları görünen bir gerçek.&lt;/p&gt;
+&lt;p&gt;Bağımsız programcıların yaşayacağı bir diğer sorun ise teknik destek sağlanması konusunda olacak. Ürünlerini App Store üzerinden eskisinden çok daha fazla kullanıcıya satacak olan geliştiriciler, kullanıcı sayısı artmış uygulamalarına en fazla 1-5 kişiden oluşan programlama ekipleri nasıl sağlayacak?&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -382,8 +575,9 @@ Apple&amp;rsquo;ın MacOS uygulamaları için merkezi bir sistem oluşturmasınd
       <pubDate>Sat, 18 Dec 2010 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/app-store-statistics/</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;516&amp;rdquo;]
-App Store Statistics</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;516&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;App Store Statistics&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -392,9 +586,10 @@ App Store Statistics</description>
       <pubDate>Tue, 28 Sep 2010 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/parallels-desktop-6-the-ars-review/</guid>
-      <description>Parallels Desktop 6: The Ars Review
-Big step on virtualization.
-(via Instapaper)</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://arstechnica.com/apple/reviews/2010/09/parallels-desktop-6-the-ars-review.ars&#34;&gt;Parallels Desktop 6: The Ars Review&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Big step on virtualization.&lt;/p&gt;
+&lt;p&gt;(via &lt;a href=&#34;http://www.instapaper.com/&#34;&gt;Instapaper&lt;/a&gt;)&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -403,8 +598,14 @@ Big step on virtualization.
       <pubDate>Mon, 20 Sep 2010 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/ommwriter/</guid>
-      <description>OmmWriter Dana I ve II bilgisayarda yazı yazarken, kafasındaki düşünceler ile bilgisayarı arasına dikkat dağıtıcı hiç bir unsurun girmesini istemeyen minimalistik bilgisayar kullanıcıları için tasarlanmış bir text editor. ChromaTherapy adı verilen arkaplanlar ve relaxing ses tonları ile bilgisayar başında yazı yazmayı dinlendirici ve zevkli bir hale getiriyor. Şimdilik sadece MacOS versionu bulunan OmmWriter Dana I ve II&amp;rsquo;nin yakın gelecekte Windows versionununda hazırlanması bekleniyor.
-Bilgisayarda yazı yazmak zordur. Yazı yazmak için kullandığınız program size tam istediğiniz sonucu vermek için çok sayıda özellik sunar.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_l925kzBqen1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;OmmWriter Dana I ve II bilgisayarda yazı yazarken, kafasındaki düşünceler ile bilgisayarı arasına dikkat dağıtıcı hiç bir unsurun girmesini istemeyen minimalistik bilgisayar kullanıcıları için tasarlanmış bir text editor. ChromaTherapy adı verilen arkaplanlar ve relaxing ses tonları ile bilgisayar başında yazı yazmayı dinlendirici ve zevkli bir hale getiriyor. Şimdilik sadece MacOS versionu bulunan OmmWriter Dana I ve II&amp;rsquo;nin yakın gelecekte Windows versionununda hazırlanması bekleniyor.&lt;/p&gt;
+&lt;p&gt;Bilgisayarda yazı yazmak zordur. Yazı yazmak için kullandığınız program size tam istediğiniz sonucu vermek için çok sayıda özellik sunar. Büyük çoğunluğunu kullanmayı bile bilmediğimiz özellikler sürekli gözümüzün önünde toolbar&amp;rsquo;larda kullanılmayı bekler.&lt;/p&gt;
+&lt;p&gt;Bilgisayarınızın başına birşeyler yazmak için oturduğunuzda arkaplanda pekçok uygulama çalışır. Yeni bir mail iletisi aldığınızda bilgisayarınız sizi uyarır. Dinlediğiniz şarkı değiştiğinde farklı bir uyarı alırsınız. Twitter clientleri saymıyorum bile. Kısacası bilgisayar başına birşeyler yazmak için oturduğunuzda dikkatinizi dağıtan çok sayıda unsur vardır. Konsantre olmak zordur.&lt;/p&gt;
+&lt;p&gt;OmmWriter&amp;rsquo;ı kullanmaya başlayana kadar gerçekten ne kadar çok şeyin dikkatimi dağıttığını fark etmemiştim. OmmWriter bütün dikkat dağıtıcıları programı kapatana kadar geçici bir süre kullanım dışı bırakıyor. Tüm ekranı kaplayan basit bir  text editor, arka planda çalan relax edici müzik tonları ile kafanızdaki düşünceler ve bilgisayarınız arasına hiçbir dikkat dağıtıcı unsur giremiyor.&lt;/p&gt;
+&lt;p&gt;Windows versionu henüz planlanma aşamasındaki programın tüm özelliklerini denemek ücretsiz, buna karşılık chromatherapy arkaplanlar için sonu 1 ile biten (4.11 US$ veya 4.91 US$) herhangi bir ücret ödeyerek Dana II sürümünü satın almak gerekiyor.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -413,8 +614,12 @@ Bilgisayarda yazı yazmak zordur. Yazı yazmak için kullandığınız program s
       <pubDate>Sun, 19 Sep 2010 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/everplay-1.5/</guid>
-      <description>Uzun süredir bilgisayarımda müzik dinlemek için Everplay kullanıyorum. Yaklaşık 3-4 aydır beta tester olarak kullandığım 1.5 sürümü dün yayınlandı. Her yeni sürümü ile müzik çalar olarak bilgisayarımdaki yerini sağlamlaştıran Everplay özellikle beta sürümünde test etme olanağı bulamadığımız şarkı sözleri özelliği ile tam istediğim program olmayı başarmış gibi görünüyor.
-Program özellikle hafıza kullanımında da çok iyi. Dün yaptığım denemelerde 50-60 MByte aralığını tüm zorlamalara karşın aşmadı. Bununla birlikte tek eksik şimdilik 64 Bit olmaması gözüküyor.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_l8zoho7JOg1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Uzun süredir bilgisayarımda müzik dinlemek için &lt;a href=&#34;http://snarbsoft.com/everplay.html&#34;&gt;Everplay&lt;/a&gt; kullanıyorum. Yaklaşık 3-4 aydır beta tester olarak kullandığım 1.5 sürümü dün yayınlandı. Her yeni sürümü ile müzik çalar olarak bilgisayarımdaki yerini sağlamlaştıran Everplay özellikle beta sürümünde test etme olanağı bulamadığımız şarkı sözleri özelliği ile tam istediğim program olmayı başarmış gibi görünüyor.&lt;/p&gt;
+&lt;p&gt;Program özellikle hafıza kullanımında da çok iyi. Dün yaptığım denemelerde 50-60 MByte aralığını tüm zorlamalara karşın aşmadı. Bununla birlikte tek eksik şimdilik 64 Bit olmaması gözüküyor. Ayrıca şarkı sözleri veritabanı aranılan şarkı sözüne ulaşamadığında başka veritabanlarını da araştırmalı. iTunes yerine alternatif player arayanlar Everplay&amp;rsquo;i kaçırmasınlar…&lt;/p&gt;
+&lt;p&gt;Not: Dün başlayan Everplay piyangosu ile hafta boyunca her gün Everplay lisansı bedava olarak verilecek. Yapmanız gereken tek şey “&lt;strong&gt;Yes please! I want a free #Everplay license to spice up my iTunes: &lt;a href=&#34;http://snarbsoft.com&#34;&gt;http://snarbsoft.com&lt;/a&gt; #mac #software #giveaway&lt;/strong&gt;” şekinde tweet atmak.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -423,8 +628,18 @@ Program özellikle hafıza kullanımında da çok iyi. Dün yaptığım denemele
       <pubDate>Tue, 14 Sep 2010 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/itunes-10-ping-game-center/</guid>
-      <description>Eylül ayının başında yapılan ve genellikle Apple&amp;rsquo;ın yeni iPod modellerini tanıttığı keynote&amp;rsquo;da bu yıl yeni iPod Touch ve Nano&amp;rsquo;dan başka yazılım ürünleri iTunes 10 ve iOS 4.1&amp;rsquo;de tanıtıldı.
-Apple geçmişte her zaman yeni ürünler ile teknoloji dünyasını farklı yönlere taşırken yavaş yavaş gelişmelerin gerisinde kaldığını ve hareketin içine sonradan katıldığını keynote&amp;rsquo;da tanıttığı sosyal ağ uygulamaları Ping ve Game Center&amp;rsquo;da görmekteyiz. Bu iki uygulama bana kalırsa yıllar önce iTunes&amp;rsquo;a ve iPhone&amp;rsquo;a eklenmiş olmalıydı.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_l8r23fX1Lj1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Eylül ayının başında yapılan ve genellikle Apple&amp;rsquo;ın yeni iPod modellerini tanıttığı keynote&amp;rsquo;da bu yıl yeni iPod Touch ve Nano&amp;rsquo;dan başka yazılım ürünleri iTunes 10 ve iOS 4.1&amp;rsquo;de tanıtıldı.&lt;/p&gt;
+&lt;p&gt;Apple geçmişte her zaman yeni ürünler ile teknoloji dünyasını farklı yönlere taşırken yavaş yavaş gelişmelerin gerisinde kaldığını ve hareketin içine sonradan katıldığını keynote&amp;rsquo;da tanıttığı sosyal ağ uygulamaları Ping ve Game Center&amp;rsquo;da görmekteyiz. Bu iki uygulama bana kalırsa yıllar önce iTunes&amp;rsquo;a ve iPhone&amp;rsquo;a eklenmiş olmalıydı.&lt;/p&gt;
+&lt;p&gt;iTunes 10&amp;rsquo;dan genel olarak beklentiler neydi bilemiyorum ama sosyal network Ping&amp;rsquo;in içine entegre edildiği bu yeni sürümün de Cocoa framework&amp;rsquo;ü ile değil eski 32 bit Carbon ile yazıldığını görmek beni şaşırttı. Buna rağmen kısmende olsa performans artışı sağlanmış.  iTunes 10&amp;rsquo;un en önemli özelliği olarak Ping vurgulandı. Tamamıyla monochrome şekilde düzenlenmiş arabirim ve büyük tartışma yaratan yeni iTunes ikonu ise dikkati çeken en önemli özelliklerden.&lt;/p&gt;
+&lt;p&gt;Sosyal ağları uygulamalarının içine katmakta çok geç kaldığını yeni farkeden Apple, yerleşmiş uygulamaları kullanarak başarılı olmak yerine çok büyük bir risk alarak kendi uygulamalarını geliştirmeye çalışıyor. Ping&amp;rsquo;in şimdilik hiç bir özelliği ve albenisi yok. Beğendiğiniz şarkıcı ve grupları takip etme seçeneği sadece Ping uygulamasına katılan sanatçılar için gerçekleştirilebiliyor.&lt;/p&gt;
+&lt;p&gt;Bunun yerine iTunes, Last.fm ile entegre edilebilirdi. Tamam, Last.fm&amp;rsquo;in radyo özelliği telif hakları yüzünden %100 entegre edilemeyebilir belki ama en azında scrobbling, şarkı etiketleme, beğendiğiniz müzik türüne göre yeni sanatçıların tavsiye edilmesi gibi özellikler (Songbird&amp;rsquo;de olduğu gibi) başarılı bir biçimde entegre edilebilirdi. Bu hali ile Ping&amp;rsquo;in gelişebilmesi mümkün değil gibi.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_l8r245H4hd1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Gelelim Game Center&amp;rsquo;a. Game Center&amp;rsquo;da Ping gibi çok geç kalmış bir uygulama, bununla birlikte Ping&amp;rsquo;e göre daha başarılı ve komplike olmuş. Cloudcell, OpenFeint gibi online oyun uygulama sistemleri dağınık ve birbirinden kopuk oldukları için tüm oyun geliştiricilerinin Game Center&amp;rsquo;a yöneleceklerini düşünüyorum. Game Center şimdilik daha emekleme aşamasında ancak çok hızlı gelişeceğe benziyor.&lt;/p&gt;
+&lt;p&gt;User Interface grafikleri eleştiri alsada bu basit yapı hoşuma gitti. Henüz çok sayıda Game Center&amp;rsquo;ı destekleyen oyun olmasa da sayının hızla artacağına eminim.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -433,8 +648,10 @@ Apple geçmişte her zaman yeni ürünler ile teknoloji dünyasını farklı yö
       <pubDate>Fri, 10 Sep 2010 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/game-center-achievements-for-apps/</guid>
-      <description>Game Center should allow non-game iOS apps to register for achievements and leaderboards. Think about it: Largest Dropbox File, Most TextExpander Time Saved, Longest iStat Uptime, Most LoseIt Pounds Lost This Week.
-David Chartier nails a great idea. I’d love to make Game Center-shareable achievements in Instapaper, but I don’t think there’s any chance that Apple would approve it, even after today’s improvements. (via marco)</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Game Center should allow non-game iOS apps to register for achievements and leaderboards. Think about it: Largest Dropbox File, Most TextExpander Time Saved, Longest iStat Uptime, Most LoseIt Pounds Lost This Week.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://onefps.net/post/1090089355/game-center-should-allow-non-game-ios-apps-to&#34;&gt;David Chartier&lt;/a&gt; nails a great idea. I’d love to make Game Center-shareable achievements in Instapaper, but I don’t think there’s any chance that Apple would approve it, even after &lt;a href=&#34;http://daringfireball.net/2010/09/app_store_guidelines&#34;&gt;today’s improvements&lt;/a&gt;. (via &lt;a href=&#34;http://www.marco.org/&#34;&gt;marco&lt;/a&gt;)&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -443,8 +660,12 @@ David Chartier nails a great idea. I’d love to make Game Center-shareable achi
       <pubDate>Sun, 11 Jul 2010 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/epicwin/</guid>
-      <description>Bilgisayar dünyasında yeni fikirler ortaya çıkarmak zor, bu fikirleri uygun algoritmalarla, işe yarayabilecek bir program haline getirebilmek daha da zordur. Artık bundan daha iyisi yapılamaz denilen türde programlara yeni bir bakış açısı ile bakabilmek ve hiç denenmemiş bir şeyi denemeyi başaran program geliştiricilerine hayran kalmamak elde değil.
-EpicWin bildiğimiz -yapılacak işler listesi-(to-do list app) uygulaması olarak düşünülebilir. Internette basit bir arama yaparak yüzlerce örneğini bulabileceğimiz bu türden bir uygulamayı nasıl daha ilginç hale getirilebileceğini düşünenler, bu basit programı bir online RPG oyunu gibi hazırlamışlar.</description>
+      <description>&lt;p&gt;Bilgisayar dünyasında yeni fikirler ortaya çıkarmak zor, bu fikirleri uygun algoritmalarla, işe yarayabilecek bir program haline getirebilmek daha da zordur. Artık bundan daha iyisi yapılamaz denilen türde programlara yeni bir bakış açısı ile bakabilmek ve hiç denenmemiş bir şeyi denemeyi başaran program geliştiricilerine hayran kalmamak elde değil.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.epicwinapp.com/&#34; title=&#34;EpicWin&#34;&gt;EpicWin&lt;/a&gt; bildiğimiz -yapılacak işler listesi-(to-do list app) uygulaması olarak düşünülebilir. Internette basit bir arama yaparak yüzlerce örneğini bulabileceğimiz bu türden bir uygulamayı nasıl daha ilginç hale getirilebileceğini düşünenler, bu basit programı bir online RPG oyunu gibi hazırlamışlar.&lt;/p&gt;
+&lt;p&gt;Yani yapmayı planladığınız işleri bu programa giriyorsunuz, bitirdiğiniz her iş için XP kazanıp, ganimet topluyorsunuz. Bir -yapılacak işler listesi-(to-do list) uygulaması bundan daha eğlenceli bir hale getirilemezdi sanırım.&lt;/p&gt;
+&lt;p&gt;Uygulamanın çıkış tarihi 1-2 ay sonrasına verilmiş, beklemeye değer bir iPhone uygulaması.&lt;/p&gt;
+&lt;p&gt;(Source: &lt;a href=&#34;https://www.youtube.com/&#34;&gt;https://www.youtube.com/&lt;/a&gt;)&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -453,9 +674,10 @@ EpicWin bildiğimiz -yapılacak işler listesi-(to-do list app) uygulaması olar
       <pubDate>Thu, 08 Jul 2010 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/foursquare-badges/</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;589&amp;rdquo;]
-Real Foursquare badges!…
-New Nerdmeritbadges (by MariSheibley)</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;589&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;Real Foursquare badges!…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/mariss007/4627143507/in/pool-4sq&#34;&gt;New Nerdmeritbadges&lt;/a&gt; (by &lt;a href=&#34;http://flickr.com/photos/mariss007&#34;&gt;MariSheibley&lt;/a&gt;)&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -464,8 +686,9 @@ New Nerdmeritbadges (by MariSheibley)</description>
       <pubDate>Tue, 25 May 2010 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/google-chrome/</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;full&amp;rdquo; type=&amp;ldquo;rectangular&amp;rdquo; ids=&amp;ldquo;646&amp;rdquo;]
-Chrome for Mac artık Beta değil.</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;full&amp;rdquo; type=&amp;ldquo;rectangular&amp;rdquo; ids=&amp;ldquo;646&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;Chrome for Mac artık Beta değil.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -474,9 +697,17 @@ Chrome for Mac artık Beta değil.</description>
       <pubDate>Sun, 21 Mar 2010 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/everplay/</guid>
-      <description>Bilgisayarda çalışırken genelde müzik dinliyorum. Bir albümü başından sonuna dinlemeyi severim.
-Şarkıları karıştırıp dinlemem, programların müzik parçalarımı verdiğim yıldızlara göre yada en çok dinlediğim parçaları “tanıyarak” sıralamasından hiç hoşlanmam. iTunes&amp;rsquo;un karmaşık seçeneklerini hiç kullanmadım, kullanmaya da çalışmadım. Durum böyle olunca basit müzik programları işimi görüyor.
-Bununla birlikte dinlediğim parçaların Last.fm‘e skroplanması benim için fazlasıyla önemli bir konu. Bunu yapabilmek için ya arka planda ek bir program çalıştırmak gerekiyor, ya da karmaşık programları kullanıyor olmak gerekiyor.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_kznhei3wbB1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Bilgisayarda çalışırken genelde müzik dinliyorum. Bir albümü başından sonuna dinlemeyi severim.&lt;/p&gt;
+&lt;p&gt;Şarkıları karıştırıp dinlemem, programların müzik parçalarımı verdiğim yıldızlara göre yada en çok dinlediğim parçaları “tanıyarak” sıralamasından hiç hoşlanmam. iTunes&amp;rsquo;un karmaşık seçeneklerini hiç kullanmadım, kullanmaya da çalışmadım. Durum böyle olunca basit müzik programları işimi görüyor.&lt;/p&gt;
+&lt;p&gt;Bununla birlikte dinlediğim parçaların Last.fm‘e skroplanması benim için fazlasıyla önemli bir konu. Bunu yapabilmek için ya arka planda ek bir program çalıştırmak gerekiyor, ya da karmaşık programları kullanıyor olmak gerekiyor.&lt;/p&gt;
+&lt;p&gt;Everplay işte bu iki işi gayet başarı ile becerebilen bir program. Albümü seçiyorum ve dinliyorum, dinlediğim şarkılar Last.fm&amp;rsquo;e skroplanıyor. Eğer bir şarkıyı beğenirsem twitter&amp;rsquo;da otomatik olarak güncelleniyor, dinlediğim şarkıyı twitter&amp;rsquo;a göndermekte sadece bir kısayol tuşuna bakıyor.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_kznhf0HXVV1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Hafıza kullanımı iTunes&amp;rsquo;a göre daha iyi olmasına karşın programın memory leaklerden biraz daha optimize edilerek kurtarılması lazım. Uzunca bir süredir Everplay kullanıyorum, herhangi bir sorunla karşılaşmadım.&lt;/p&gt;
+&lt;p&gt;Fiyatı biraz yüksek olsa da bizleri hantal programlardan kurtaran programcılar ufak bir teşekkürü hak ediyorlar doğrusu…&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -485,7 +716,10 @@ Bununla birlikte dinlediğim parçaların Last.fm‘e skroplanması benim için 
       <pubDate>Sun, 20 Dec 2009 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/outside/</guid>
-      <description>iPhone&amp;rsquo;un standart hava durumu uygulamasının tekdüze görünümünden sıkılanlar için daha renkli ve eğlenceli bir uygulama Outside, uzun süren testler sonrasında bu sabah itibariyle indirilebilir hale geldi. Robocatapps tarafından geliştirilen uygulamanın en önemli özelliği Push-Notifications desteği olması. Belirli durumlar hakkında (mesela hava sıcaklığının 0&amp;rsquo;ın altına düşmesi, yada o gün içinde yağmur yağacak olması gibi) sizi ikaz etmesini sağlayabiliyorsunuz. 2.99 US$‘a satılan uygulama iTunes Store&amp;lsquo;dan satın alınabilir.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_kuy7r7Eupq1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;iPhone&amp;rsquo;un standart hava durumu uygulamasının tekdüze görünümünden sıkılanlar için daha renkli ve eğlenceli bir uygulama &lt;a href=&#34;http://www.outsideapp.com/&#34;&gt;Outside&lt;/a&gt;, uzun süren testler sonrasında bu sabah itibariyle indirilebilir hale geldi. &lt;a href=&#34;http://robocatapps.com/&#34;&gt;Robocatapps&lt;/a&gt; tarafından geliştirilen uygulamanın en önemli özelliği Push-Notifications desteği olması. Belirli durumlar hakkında (mesela hava sıcaklığının 0&amp;rsquo;ın altına düşmesi, yada o gün içinde yağmur yağacak olması gibi) sizi ikaz etmesini sağlayabiliyorsunuz. 2.99 US$‘a satılan uygulama &lt;a href=&#34;http://bit.ly/getoutsideapp&#34;&gt;iTunes Store&lt;/a&gt;&amp;lsquo;dan satın alınabilir.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -494,9 +728,15 @@ Bununla birlikte dinlediğim parçaların Last.fm‘e skroplanması benim için 
       <pubDate>Thu, 17 Dec 2009 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/socialite/</guid>
-      <description>Internette çok fazla sayıda sosyal ağ bulunması ve bunların pek çoğuna üye olmam sebebiyle, tüm bu siteleri tek bir çatı altında toplayan programlara yada web sitelerine gereksinim duyuyorum. Bunların içinde en derli toplu olanlarının başında FriendFeed geliyordu.
-Ama her zaman web tabanlı uygulamaları kullanmak mümkün olmuyor. Bilgisayara yüklenebilecek bir program olarak EventBox (Beta) gerek güzel dizaynı gerek sade yapısı ile dikkatimi çekti ve kullanmaya başladım.
-EventBox&amp;rsquo;ı RealMacSoftware satın aldı. Programın ismi Socialite olarak değişti.</description>
+      <description>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/12d_socialite.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Internette çok fazla sayıda sosyal ağ bulunması ve bunların pek çoğuna üye olmam sebebiyle, tüm bu siteleri tek bir çatı altında toplayan programlara yada web sitelerine gereksinim duyuyorum. Bunların içinde en derli toplu olanlarının başında &lt;a href=&#34;http://www.friendfeed.com&#34; title=&#34;FriendFeed&#34;&gt;FriendFeed&lt;/a&gt; geliyordu.&lt;/p&gt;
+&lt;p&gt;Ama her zaman web tabanlı uygulamaları kullanmak mümkün olmuyor. Bilgisayara yüklenebilecek bir program olarak EventBox (Beta) gerek güzel dizaynı gerek sade yapısı ile dikkatimi çekti ve kullanmaya başladım.&lt;/p&gt;
+&lt;p&gt;EventBox&amp;rsquo;ı &lt;a href=&#34;http://realmacsoftware.com&#34; title=&#34;RealMacSoftware&#34;&gt;RealMacSoftware&lt;/a&gt; satın aldı. Programın ismi Socialite olarak değişti. Uygulamadaki kimi özellikler çıkarıldı, daha modüler bir yapı ile baştan yazıldı. Twitter API&amp;rsquo;de yapılan değişikliklere uygun hale getirildi.&lt;/p&gt;
+&lt;p&gt;Facebook, Twitter, Flickr, Digg güncellemelerini ve RSS feedlerini tek bir programdan takip etmenin yanında bu programı en çok Google Reader&amp;rsquo;a ulaşmak için kullanıyorum.&lt;/p&gt;
+&lt;p&gt;Bugün 1.0.2 güncellemesi yayınlanan &lt;a href=&#34;http://www.realmacsoftware.com/socialite/&#34; title=&#34;Socialite&#34;&gt;Socialite&lt;/a&gt; son 2 aydır en çok kullandığım uygulamalar arasında yer alıyor.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -505,8 +745,26 @@ EventBox&amp;rsquo;ı RealMacSoftware satın aldı. Programın ismi Socialite ol
       <pubDate>Sat, 05 Dec 2009 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/a-week-with-google-chrome/</guid>
-      <description>nikf:
-In the five years that I’ve used a Mac, I’ve had two browsers of choice: Camino, and then with Safari 3’s arrival Safari. I know that folks swear by Firefox, but I don’t - and typically find myself swearing at Firefox. Whilst the Mozilla folks have done a fine job of making it look like a Mac app, it never seems for feel and behave like a Mac application. Part of my Safari preference is that I also have a teeny bit of a crush for WebKit, the engine that powers Safari with its CSS animations and long-supported (much clichéd) rounded corners.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://nikf.org/post/270793613/a-week-with-google-chrome&#34;&gt;nikf&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In the five years that I’ve used a Mac, I’ve had two browsers of choice: Camino, and then with Safari 3’s arrival Safari. I know that folks swear by Firefox, but I don’t - and typically find myself swearing &lt;em&gt;at&lt;/em&gt; Firefox. Whilst the Mozilla folks have done a fine job of making it look like a Mac app, it never seems for feel and behave like a Mac application. Part of my Safari preference is that I also have a teeny bit of a crush for WebKit, the engine that powers Safari with its CSS animations and long-supported (much clichéd) rounded corners.&lt;/p&gt;
+&lt;p&gt;In a quick trawl through my Applications folder last weekend, I happened to come across a rather old Chrome OS X Developer Preview that I’d downloaded and promptly forgotten about. Purely out of curiosity I ran it, made sure it was up to date, and started using it.&lt;/p&gt;
+&lt;p&gt;I haven’t stopped since.&lt;/p&gt;
+&lt;h4 id=&#34;some-observations&#34;&gt;Some Observations&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;It’s fast. Lightning fast&lt;/strong&gt; - I thought Safari was snappy (and compared to Firefox and Camino, it is) but Chrome is screaming in comparison.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Top tabs&lt;/strong&gt; - I was probably in the minority to mourn their demise in the final Safari 4 release, but it’s great to have them back. The behaviour of Chrome’s “Open in New Tab” option is also fantastic: when opening links in a new tab, the tab opens alongside the existing tab you’re working in. Safari adds tabs after the right-most tab, whereas Chrome’s option groups the links together, easily allowing you to return to your original tab.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;It’s super-stable&lt;/strong&gt; - it’s not crashed or hung on me in a week - and it’s still not entered Beta. Take that, Safari.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The combined search / address field&lt;/strong&gt; - I find myself still hitting Tab, expecting it to focus a search box, but another few days use should cure that.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;It’s WebKit&lt;/strong&gt; - enough said.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;the-bit-where-i-whinge-about-some-minor-issue&#34;&gt;The bit where I whinge about some minor issue&lt;/h4&gt;
+&lt;p&gt;Whilst Chrome looks and feels like a Mac application, there’s one striking annoyance that irritates me: the behaviour when you click on a Folder in the Bookmark bar. In any other browser, it behaves as an OS X menu should. That is, no matter where you click the item, the menu should appear in a fixed location, below the menu item in question. OS X’s default contextual menus appear directly below and to the right of the area you click.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_ku7964PMBj1qz4ska.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;As it stands right now - and shown in the above comparison - Chrome’s bookmark folders behave like a contextual menu (despite &lt;strong&gt;also&lt;/strong&gt; having their own contextual menus), and it’s driving me a little crazy. Yes, Chrome remains in Pre-Beta - and these things can change - but it’s details like this that make or break whether an application feels like a Mac application. Never mind if an app’s got aqua buttons, a sexy HUD or any other aesthetic beauty. It’s all about how an application behaves.&lt;/p&gt;
+&lt;p&gt;If you’re wanting to give Chrome a go, it’s available from the &lt;a href=&#34;http://www.google.com/chrome/intl/en/eula_dev.html?dl=mac&#34;&gt;Chrome Developer Channel&lt;/a&gt;. It’s still pre-beta, however in my experience it seems to be more relating to its feature-incomplete state than anything else. I’ve been using the Chrome Preview non-stop for the past week, and you’ll have to pry it out of my cold, dead hands.&lt;/p&gt;&lt;/blockquote&gt;
+</description>
     </item>
     
     <item>
@@ -515,8 +773,11 @@ In the five years that I’ve used a Mac, I’ve had two browsers of choice: Cam
       <pubDate>Sat, 05 Dec 2009 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/espresso/</guid>
-      <description>GeoCities ile beraber gelen kişisel web sitesi sahibi olma furyasında HTML ile düzenlenen web siteleri için editörler şart olmuştu. O zamanlar Macromedia&amp;rsquo;nın Dreamweaver isimli yazılımını kullanıyordum. Aradan neredeyse 10 yıl geçti.
-Zamanının ötesinde bir program olan Dreamweaver&amp;rsquo;ın yetenekleri ile şimdiki editörleri kıyasladığımda oldukça şaşırıyorum. Tamam Espresso‘da gelişmiş özellikler sunuyor ama pek çok işlemi gerçekleştirmek için çok ilkel yolları tercih etmek gerekiyor.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_ku6r8aDqiN1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;GeoCities ile beraber gelen kişisel web sitesi sahibi olma furyasında HTML ile düzenlenen web siteleri için editörler şart olmuştu. O zamanlar Macromedia&amp;rsquo;nın Dreamweaver isimli yazılımını kullanıyordum. Aradan neredeyse 10 yıl geçti.&lt;/p&gt;
+&lt;p&gt;Zamanının ötesinde bir program olan Dreamweaver&amp;rsquo;ın yetenekleri ile şimdiki editörleri kıyasladığımda oldukça şaşırıyorum. Tamam &lt;a href=&#34;http://macrabbit.com/espresso/&#34; title=&#34;Espresso !&#34;&gt;Espresso&lt;/a&gt;‘da gelişmiş özellikler sunuyor ama pek çok işlemi gerçekleştirmek için çok ilkel yolları tercih etmek gerekiyor.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -525,9 +786,15 @@ Zamanının ötesinde bir program olan Dreamweaver&amp;rsquo;ın yetenekleri ile
       <pubDate>Tue, 10 Nov 2009 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/google-wave/</guid>
-      <description>Sonunda Google Wave&amp;rsquo;i test edebilme imkanım oldu.
-Bence davetiye ile katılım olması pek çok kişide büyük beklentiler oluşmasına sebep oldu. Çoğu kişi Wave&amp;rsquo;i FaceBook tarzı bir sosyal ağ olarak tahmin ediyordu. Ben Facebook, FriendFeed&amp;rsquo;i satın aldıktan sonra, GoogleWave&amp;rsquo;in FriendFeed ile benzer bir yapıda olacağını düşünenlerdendim. Genel olarak tüm social-network sitelerini bir çatı altında (GoogleWave) toplanacağını düşünmüştüm. Yanılmışım.
-Bu haliyle bile aslında GoogleWave&amp;rsquo;i bir yenilik, ileriye doğru atılmış bir adım olarak görmek mümkün.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mhlqkcqpNj1qz4rgp.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Sonunda Google Wave&amp;rsquo;i test edebilme imkanım oldu.&lt;/p&gt;
+&lt;p&gt;Bence davetiye ile katılım olması pek çok kişide büyük beklentiler oluşmasına sebep oldu. Çoğu kişi Wave&amp;rsquo;i FaceBook tarzı bir sosyal ağ olarak tahmin ediyordu. Ben Facebook, FriendFeed&amp;rsquo;i satın aldıktan sonra, GoogleWave&amp;rsquo;in FriendFeed ile benzer bir yapıda olacağını düşünenlerdendim. Genel olarak tüm social-network sitelerini bir çatı altında (GoogleWave) toplanacağını düşünmüştüm. Yanılmışım.&lt;/p&gt;
+&lt;p&gt;Bu haliyle bile aslında GoogleWave&amp;rsquo;i bir yenilik, ileriye doğru atılmış bir adım olarak görmek mümkün. E-Posta+Anında Mesajlaşma+Forum. Internet dünyasının gelişimine baktığımızda bu 3 öğenin ilk çıktığından bu yana pek fazla değişmediğini görüyoruz. GoogleWave kullandıkça farkettimki bir hafta öncesine kadar severek kullandığım bu 3 unsur fazlasıyla eskimiş ve köhnemiş.:)&lt;/p&gt;
+&lt;p&gt;Tamam GoogleWave şimdilik çok yavaş, bazı sorunlarıda var ama henüz Beta aşamasında bile değil.&lt;/p&gt;
+&lt;p&gt;Bunlarla birlikte GoogleWave internetin gelişimini kökünden değiştirecek çok büyük bir fikirde değil tabi, sadece ileriye atılmış bir adım.&lt;/p&gt;
+&lt;p&gt;( Bu yazının &lt;a href=&#34;http://googlewave.com/w2BWLGM1GHYC&#34;&gt;Google Wave&lt;/a&gt; bağlantısı)&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -536,7 +803,10 @@ Bu haliyle bile aslında GoogleWave&amp;rsquo;i bir yenilik, ileriye doğru atı
       <pubDate>Thu, 22 Oct 2009 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/wallet/</guid>
-      <description>Şifreleri saklamak, gerektiğinde bakmak, yanınızda (iPhone ile) taşımak için ideal bir program. iPhone ile Wi-Fi yolu ile senkronize edilebilmesi bu programı tüm diğer şifre saklama programlarından ayırıyor.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.omrb.org/wp-content/uploads/2009/10/Wallet.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Wallet.png&#34; alt=&#34;Wallet&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Şifreleri saklamak, gerektiğinde bakmak, yanınızda (iPhone ile) taşımak için ideal bir program. iPhone ile Wi-Fi yolu ile senkronize edilebilmesi bu programı tüm diğer şifre saklama programlarından ayırıyor.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -545,8 +815,13 @@ Bu haliyle bile aslında GoogleWave&amp;rsquo;i bir yenilik, ileriye doğru atı
       <pubDate>Mon, 19 Oct 2009 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/littlesnapper/</guid>
-      <description>Her ne kadar fotografik bir hafızaya sahip olsamda (!) internette gezinirken beğendiğim çoğu siteyi daha sonra hatırlayıp bulabilmek zor ve uğraştıran bir iştir. Özellikle beğendiğim sayfa dizaynı ve görüntüleri güncellenirse o sayfaları bir daha bulabilmek imkansızdır.
-LittleSnapper işte bu noktada devreye giriyor. Normal ekran görüntüsü yakalayan programlardan farklı olarak web sayfalarının tümünün görüntüsünü bir resim dosyası olarak saklayabiliyor. Programın içinde yer alan kataloglama özellikleri sayesinde ekran görüntüsü dosyalarını ayrı kategorilerde saklayabilir, yine programla bağlantılı bir site olan Ember&amp;lsquo;a veya Flickr&amp;lsquo;a yollayabiliyorsunuz.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.omrb.org/wp-content/uploads/2009/10/Introducing-LittleSnapper-Desktop.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Introducing-LittleSnapper-Desktop.jpg&#34; alt=&#34;Introducing LittleSnapper Desktop&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Her ne kadar fotografik bir hafızaya sahip olsamda (!) internette gezinirken beğendiğim çoğu siteyi daha sonra hatırlayıp bulabilmek zor ve uğraştıran bir iştir. Özellikle beğendiğim sayfa dizaynı ve görüntüleri güncellenirse o sayfaları bir daha bulabilmek imkansızdır.&lt;/p&gt;
+&lt;p&gt;LittleSnapper işte bu noktada devreye giriyor. Normal ekran görüntüsü yakalayan programlardan farklı olarak web sayfalarının tümünün görüntüsünü bir resim dosyası olarak saklayabiliyor. Programın içinde yer alan kataloglama özellikleri sayesinde  ekran görüntüsü dosyalarını ayrı kategorilerde saklayabilir, yine programla bağlantılı bir site olan &lt;a href=&#34;http://emberapp.com/&#34;&gt;Ember&lt;/a&gt;&amp;lsquo;a veya &lt;a href=&#34;http://www.flickr.com/&#34;&gt;Flickr&lt;/a&gt;&amp;lsquo;a yollayabiliyorsunuz.&lt;/p&gt;
+&lt;p&gt;Beğenilen web sayfalarını arşivlemek ve ekran görüntülerini düzenli bir şekilde kataloglamak için LittleSnapper benzersiz bir program.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://emberapp.com/balamir/&#34;&gt;http://emberapp.com/balamir/&lt;/a&gt; &lt;a href=&#34;http://www.flickr.com/photos/balamir/&#34;&gt;http://www.flickr.com/photos/balamir/&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -555,7 +830,8 @@ LittleSnapper işte bu noktada devreye giriyor. Normal ekran görüntüsü yakal
       <pubDate>Sun, 28 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/wakoopa/</guid>
-      <description>Wakoopa: Wakoopa bilgisayarınızda kullandığınız programların takibini yaparak, web ortamında istatistiğini tutan.. http://tinyurl.com/84d7u2</description>
+      <description>&lt;p&gt;Wakoopa: Wakoopa bilgisayarınızda kullandığınız programların takibini yaparak, web ortamında istatistiğini tutan.. &lt;a href=&#34;http://tinyurl.com/84d7u2&#34;&gt;http://tinyurl.com/84d7u2&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -564,8 +840,16 @@ LittleSnapper işte bu noktada devreye giriyor. Normal ekran görüntüsü yakal
       <pubDate>Sat, 27 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/songbird/</guid>
-      <description>Analog medyanın yavaş yavaş yerini dijital ortama bıraktığı 90&amp;rsquo;lı yılların sonunda PC&amp;rsquo;lerimizde müzik dinlemek için Winamp kullanırdık. MP3&amp;rsquo;leri bir klasör altına kopyalar, ufak tefek playlistler hazırlar, dijital müziğin keyfini çıkarırdık. O dönemlerde genelde müzik CD&amp;rsquo;lerinin tamamını dijital ortama aktarmaz, sadece beğendiğimiz şarkıları MP3 olarak saklar, veya internetten indirirdik. Malum hard disklerimiz binlerce MP3 depolayamayacak kadar düşük kapasiteliydi.
-Yıllar geçtikçe Winamp&amp;rsquo;ın kimi özellikleri yetersiz kalmaya başladı. Yeni programlar yavaş yavaş Winamp&amp;rsquo;ın yerini almaya başladı.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mhlpg1ST9o1qz4rgp.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Analog medyanın yavaş yavaş yerini dijital ortama bıraktığı 90&amp;rsquo;lı yılların sonunda PC&amp;rsquo;lerimizde müzik dinlemek için Winamp kullanırdık. MP3&amp;rsquo;leri bir klasör altına kopyalar, ufak tefek playlistler hazırlar, dijital müziğin keyfini çıkarırdık. O dönemlerde genelde müzik CD&amp;rsquo;lerinin tamamını dijital ortama aktarmaz, sadece beğendiğimiz şarkıları MP3 olarak saklar, veya internetten indirirdik. Malum hard disklerimiz binlerce MP3 depolayamayacak kadar düşük kapasiteliydi.&lt;/p&gt;
+&lt;p&gt;Yıllar geçtikçe Winamp&amp;rsquo;ın kimi özellikleri yetersiz kalmaya başladı. Yeni programlar yavaş yavaş Winamp&amp;rsquo;ın yerini almaya başladı. Bu yenilerin çoğu cicili bicili ama işlevsellikten uzak hantal programlar oldu. Winamp uzun yıllar tahtını korumaya başardı.&lt;/p&gt;
+&lt;p&gt;2000&amp;rsquo;lerin başından itibaren iPod gibi yeni MP3 playerların çağı başladı. Donanım üreticileri bu playerlar ile birlikte kendi programlarını kullanıcılara sunmaya başladı. Fakat en önemli değişiklik DRM&amp;rsquo;in hayatımıza girmesiyle oldu. DRM&amp;rsquo;li müzik dosyalarının çalınabilmesi için özel programlara ihtiyaç duyuldu. Apple iTunes ile Microsoft ise Windows Media Player ile sahnede yerini almış oldu. Apple&amp;rsquo;ın iPod&amp;rsquo;lara müzik yükleyebilmek için iTunes dışında başka programlara yetki vermemesi iTunes&amp;rsquo;un piyasada yerini sağlamlaştırmasını sağladı. Ne kadar dirensemde bende 2006 yılından itibaren iTunes&amp;rsquo;a geçmek zorunda kaldım.&lt;/p&gt;
+&lt;p&gt;Aralık ayının başında iTunes&amp;rsquo;un yerini alabilecek, müzik çalıcıların Firefox&amp;rsquo;u olacağı söylenen açık kaynak kodlu Songbird 1.0 versionu ile piyasaya çıktı. Neyin nesiymiş bu program diyerek bilgisayarıma yükledim ve kullanmaya başladım.&lt;/p&gt;
+&lt;p&gt;Açıkçası Songbird&amp;rsquo;e ne hayran oldum, ne de hemen bilgisayarımdan kaldırdım. Kendi çapında komple bir program, add-on&amp;rsquo;lar ile yeni özellikler eklenebiliyor, sonuçta amaç bilgisayardan müzik dinlemekse, program bunu yapıyor. Hatta iTunes&amp;rsquo;dan satın aldığım DRM&amp;rsquo;li müzik dosyalarını bile çalabiliyor. (Bazen saçmalasa da genelde bu özellik problemsiz) Last.fm add-on&amp;rsquo;u ile dinlediğiniz parçaların scrobble işlemide gerçekleşiyor. Programın hafıza kullanımı da iTunes civarında.&lt;/p&gt;
+&lt;p&gt;Eklentiler (Add-on) ile programa ekleyebileceğiniz yeni özelliklerin olması bazen saatli bomba gibi çalışabilir. Çok faydalı ve iyi yazılmış eklentilerin yanında, gerçekten ne olduğu bilinmeyen eklentiler Songbird gibi programların güvenilirliğini oldukça sarsıyor bence. Memory leak&amp;rsquo;lerden tutun, harddiskinizde dosyalara zarar verebilecek ileri hatalara kadar herşey bu bilinçsizce yazılmış add-onlardan kaynaklanabilir. Bu şikayetim Firefox içinde geçerli. Eklentilerin çok sıkı bir biçimde denetlenmesi ve changeloglar ile yeni versionda ne gibi iyileştirmelerin yapıldığının kullanıcılara net bir biçimde anlatılması şart.&lt;/p&gt;
+&lt;p&gt;Songbird, iTunes&amp;rsquo;un yerini alabilir mi ? Bu haliyle sanmıyorum. Şu özelliği iTunes&amp;rsquo;dan daha iyi diyebileceğim birşey yok şimdilik. iPod/iPhone senkronizasyon işlevi nasıl çalışıyor, tam bilemiyorum ancak bu konuda okuduğum yorumlar pek iç açıcı değil. Zaten iTunes Store&amp;rsquo;dan alışveriş yapan biri olarak iTunes&amp;rsquo;dan vazgeçmek imkansız gibi. Ama Songbird&amp;rsquo;ü sistemimden kaldırmayı da düşünmüyorum. Ara sıra kullanıyorum, Last.fm eklentisi ayrı bir program çalışmadan dinlediğim parçaları scrobble ediyor, LiveTweeter&amp;rsquo;da beğendiğim diğer bir eklenti. Entegre web tarayıcısı işlerimi kolaylaştıryor. Denemek isteyenler Songbird&amp;rsquo;ü bu adresten indirebilirler.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -574,7 +858,8 @@ Yıllar geçtikçe Winamp&amp;rsquo;ın kimi özellikleri yetersiz kalmaya başl
       <pubDate>Sat, 20 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/safari-browser-in-vista/</guid>
-      <description>Testing Apple’s Safari web browser in Vista.</description>
+      <description>&lt;p&gt;Testing Apple’s Safari web browser in Vista.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -583,8 +868,12 @@ Yıllar geçtikçe Winamp&amp;rsquo;ın kimi özellikleri yetersiz kalmaya başl
       <pubDate>Fri, 04 May 2007 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/windows-vista-capable/</guid>
-      <description>HP Compaq NX6110 Notebook bilgisayarımı bundan tam 2 yıl önce bugün almıştım. Aldığım zaman giriş seviyesi en ucuz notebook bilgisayarlardan biriydi. Sanırım 999 $+KDV gibi bir fiyata almıştım. Zaman içinde 256 MByte bellek ekleyerek hafızasını 512 MByte&amp;rsquo;a çıkardım. Celeron 1.4 Ghz işlemcili, i915 Chipsetli basit bir notebook anlayacağınız.
-Ancak bu notebook bilgisayara aslında Windows Vista Capable etiketi yapıştırılabilir. i915 chipsetine sahip bilgisayarlar halen satılıyor ve Windows Vista Capable etiketi taşıyorlar.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mhlreq1AkM1qz4rgp.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;HP Compaq NX6110 Notebook bilgisayarımı bundan tam 2 yıl önce bugün almıştım. Aldığım zaman giriş seviyesi en ucuz notebook bilgisayarlardan biriydi. Sanırım 999 $+KDV gibi bir fiyata almıştım. Zaman içinde 256 MByte bellek ekleyerek hafızasını 512 MByte&amp;rsquo;a çıkardım. Celeron 1.4 Ghz işlemcili, i915 Chipsetli basit bir notebook anlayacağınız.&lt;/p&gt;
+&lt;p&gt;Ancak bu notebook bilgisayara aslında Windows Vista Capable etiketi yapıştırılabilir. i915 chipsetine sahip bilgisayarlar halen satılıyor ve Windows Vista Capable etiketi taşıyorlar. Windows Vista&amp;rsquo;yı en basit haliyle çalıştırabilir anlamına gelen bu etikete göre en azından 800 Mhz güce sahip bir işlemci + 512 MByte RAM ve DirectX 9 uyumlu bir grafik kartı ile Aero gibi özellikleri kullanmadan en basit haliyle Windows Vista&amp;rsquo;yı (Windows Vista Basic) çalıştırabilirsiniz.&lt;/p&gt;
+&lt;p&gt;Bu etikete aldanıp son bir yıl içinde notebook alanlar büyük hayal kırıklığı yaşıyorlar. Çünkü i915 chipseti Windows Vista&amp;rsquo;nın Aero grafik özelliklerini destekleyecek güce sahip değil. Aslında intel gerekli driverları çıkarsa bu özellik en temel anlamda desteklenebilir, ancak intel i915 için WDDM driverları çıkarmayacağını açıkladı…&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -593,8 +882,22 @@ Ancak bu notebook bilgisayara aslında Windows Vista Capable etiketi yapıştır
       <pubDate>Sun, 29 Apr 2007 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/windows-vista/</guid>
-      <description>Windows Vista™ yenilik olarak neler getiriyor ? Bunları madde madde sıralamak mümkün, ancak göze çarpan ilk değişiklik görsellikte. Masaüstü ikonları, pencerelerin görünümü vb…
-Bilgisayarınıza yükleyip kullanmaya başladığınızda bu yeni görünümden etkilenmemek mümkün değil. Bilgisayarda yapacak işiniz olmasa bile Windows Vista™ ile uğraşmak, yeni neler var acaba diyerek saatler boyunca bilgisayarınızın başından kalkamıyorsunuz… Ancak belli bir süre Windows Vista&amp;rsquo;yı kullandıktan sonra gözünüz bu yeniliklere alışıyor, bu yeni görünümün aslında sistem kaynaklarınızın ne kadar büyük bir kısmını tükettiğini fark ediyorsunuz.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mhlrgvZ9bR1qz4rgp.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Windows Vista™ yenilik olarak neler getiriyor ? Bunları madde madde sıralamak mümkün, ancak göze çarpan ilk değişiklik görsellikte. Masaüstü ikonları, pencerelerin görünümü vb…&lt;/p&gt;
+&lt;p&gt;Bilgisayarınıza yükleyip kullanmaya başladığınızda bu yeni görünümden etkilenmemek mümkün değil. Bilgisayarda yapacak işiniz olmasa bile Windows Vista™ ile uğraşmak, yeni neler var acaba diyerek saatler boyunca bilgisayarınızın başından kalkamıyorsunuz… Ancak belli bir süre Windows Vista&amp;rsquo;yı kullandıktan sonra gözünüz bu yeniliklere alışıyor, bu yeni görünümün aslında sistem kaynaklarınızın ne kadar büyük bir kısmını tükettiğini fark ediyorsunuz. Performans gerektiren işlemlerde Windows Vista&amp;rsquo;nın nasıl şiştiğini (!) bizzat farkediyorsunuz.&lt;/p&gt;
+&lt;p&gt;Windows Vista&amp;rsquo;nın getirdiği yenilikler şöyle özetlenebilir.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Aero, saydam olabilen pencereler, pencereler arasında 3D geçiş…&lt;/li&gt;
+&lt;li&gt;Dialog kutuları, dosyaları etiketlemeyi kolaylaştıran ek özelliklerin yanında, standart ikonlar yerine dosyaların önizlemelerini görebilmek mümkün.&lt;/li&gt;
+&lt;li&gt;Sistem tepsisindeki bildirimler artık 32x32 boyutunda ikonlarla birlikte, eğer kullanıcı tam ekran bir programla çalışmıyor, inaktif değilse gözüküyor ve 9 saniye ekranda kalıyor.&lt;/li&gt;
+&lt;li&gt;Search kutuları, explorer içine entegre edilmiş, Windows Vista&amp;rsquo;nın endeksleme sistemi ile daha verimli aramalar yapılabiliyor.&lt;/li&gt;
+&lt;li&gt;Görev Dialog kutuları, çalıştırılacak programlar ile ilgili bilgi veren kutular. (User Account Control&amp;rsquo;ün bir parçası)&lt;/li&gt;
+&lt;li&gt;Kontrol Panel, işletim sisteminin özelliklerine ulaşabilmek için merkezi bir yer.&lt;/li&gt;
+&lt;li&gt;İkonlar maksimum boy olarak 256x256 pixele ulaşmış durumda, özellikle büyük ekranlar için önemli bir özellik.&lt;/li&gt;
+&lt;li&gt;System font Segoe olarak değişmiş, ClearType kullanımına uygun bir font kullanılmış. Default boy olarak 9 kullanılmış.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -603,9 +906,13 @@ Bilgisayarınıza yükleyip kullanmaya başladığınızda bu yeni görünümden
       <pubDate>Wed, 15 Nov 2006 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/beos-r5/</guid>
-      <description>BeOS, BeBox adını taşıyan bilgisayarlar için üretilmişti. Görsel olarak ünik ve dikkat çekici olan BeOS&amp;rsquo;un 90&amp;rsquo;ların ikinci yarısında Apple MacOS&amp;rsquo;un yerini alacağı düşünülmüştü. Hesaplar tutmadı, BeOS yalnız ve terkedilmiş olarak bir kenara bırakıldı.
-Günümüzde BeOS&amp;rsquo;u yeniden canlandıran YellowTab isimli firma, işletim sistemini günümüz donanım ve yazılım kriterlerine uygun hale getirerek yeniden piyasaya sundu. 80 ile 120 $ arası fiyatlarda satılan bu yeni BeOS, Zeta ismiyle öncekinden ayrılıyor.
-BeOS ile ilgili detaylı bilgi edinmek için ;</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mhlscl8w3K1qz4rgp.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;BeOS, BeBox adını taşıyan bilgisayarlar için üretilmişti. Görsel olarak ünik ve dikkat çekici olan BeOS&amp;rsquo;un 90&amp;rsquo;ların ikinci yarısında Apple MacOS&amp;rsquo;un yerini alacağı düşünülmüştü. Hesaplar tutmadı, BeOS yalnız ve terkedilmiş olarak bir kenara bırakıldı.&lt;/p&gt;
+&lt;p&gt;Günümüzde BeOS&amp;rsquo;u yeniden canlandıran YellowTab isimli firma, işletim sistemini günümüz donanım ve yazılım kriterlerine uygun hale getirerek yeniden piyasaya sundu. 80 ile 120 $ arası fiyatlarda satılan bu yeni BeOS, Zeta ismiyle öncekinden ayrılıyor.&lt;/p&gt;
+&lt;p&gt;BeOS ile ilgili detaylı bilgi edinmek için ;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/BeOS_R5&#34;&gt;http://en.wikipedia.org/wiki/BeOS_R5&lt;/a&gt; &lt;a href=&#34;http://www.yellowtab.com/&#34;&gt;http://www.yellowtab.com/&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -614,8 +921,11 @@ BeOS ile ilgili detaylı bilgi edinmek için ;</description>
       <pubDate>Fri, 20 Oct 2006 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/windows-vista/</guid>
-      <description>Şu an laptopumda Windows Vista RC1 Build 5600 kullanıyorum. Genel olarak stabil çalışıyor, herhangi bir problemle karşılaşmama karşın performans oldukça düşük. Yeni özelliklerden bazıları çok güzel. Mesela Sidebar ve gadget sistemi güzel… (Bunlar Yahoo! Widgets olarak vardı önceden) İşletim sistemine entegre edilmiş olması hoş.
-Internet Explorer 7 ve Media Player 10 ise tam bir felaket bence, sonuçta beta sürüm elbette performans problemleri olacaktır ama sistemin kaynaklarını resmen tüketiyorlar…</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Desktop.jpg&#34; alt=&#34;Desktop&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Şu an laptopumda Windows Vista RC1 Build 5600 kullanıyorum. Genel olarak stabil çalışıyor, herhangi bir problemle karşılaşmama karşın performans oldukça düşük. Yeni özelliklerden bazıları çok güzel. Mesela Sidebar ve gadget sistemi güzel… (Bunlar Yahoo! Widgets olarak vardı önceden) İşletim sistemine entegre edilmiş olması hoş.&lt;/p&gt;
+&lt;p&gt;Internet Explorer 7 ve Media Player 10 ise tam bir felaket bence, sonuçta beta sürüm elbette performans problemleri olacaktır ama sistemin kaynaklarını resmen tüketiyorlar…&lt;/p&gt;
+</description>
     </item>
     
   </channel>

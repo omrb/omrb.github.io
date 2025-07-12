@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>assembly on Darkest Notes</title>
+    <title>Assembly on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/assembly/</link>
-    <description>Recent content in assembly on Darkest Notes</description>
+    <description>Recent content in Assembly on Darkest Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 12 Feb 2011 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/assembly/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,10 @@
       <pubDate>Sat, 12 Feb 2011 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/programming/</guid>
-      <description>If BASIC programming was like putting together an Airfix aeroplane kit with ready-made plastic parts, assembly-code programming was more like building a model suspension bridge from matchsticks.
-www.guardian.co.uk</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;If BASIC programming was like putting together an Airfix aeroplane kit with ready-made plastic parts, assembly-code programming was more like building a model suspension bridge from matchsticks.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.guardian.co.uk&#34;&gt;www.guardian.co.uk&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

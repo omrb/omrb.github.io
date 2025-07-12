@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>design on Darkest Notes</title>
+    <title>Design on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/design/</link>
-    <description>Recent content in design on Darkest Notes</description>
+    <description>Recent content in Design on Darkest Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 20 Jan 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/design/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,8 @@
       <pubDate>Wed, 20 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/typography/</guid>
-      <description>Fontlar ve tipografi ile ilgili tüm ansiklopedik bilgiler burada yer alıyor. Bu konuda ihtiyaç duyulabilecek hemen hemen tüm bilgilerin yer aldığı muazzam bir kaynak.</description>
+      <description>&lt;p&gt;Fontlar ve tipografi ile ilgili tüm ansiklopedik bilgiler burada yer alıyor. Bu konuda ihtiyaç duyulabilecek hemen hemen tüm bilgilerin yer aldığı muazzam bir kaynak.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -22,7 +23,9 @@
       <pubDate>Sun, 17 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/peanuts-family/</guid>
-      <description> </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://darkestnotes.org/wp-content/uploads/2016/01/Peanuts_Family.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Peanuts_Family.jpg&#34; alt=&#34;Peanuts_Family&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -31,8 +34,14 @@
       <pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/blog-tarih%C3%A7esi/</guid>
-      <description>tumblr.’ın belirli sunucularına erişimin yasaklanması sebebiyle kısmen tuhaflaşan 10 yıllık blog’umu WordPress.org’ye taşımaya karar verdim.
-Ücretsiz blog (veya içerik diyelim) servislerinin en önemli sorunu tüm içeriğin onların sunucusunda kalması ve sorunlar oluştuğunda ulaşılamaz hale gelmesi. İlk blogumu Blogger ile oluşturmuştum. Yaklaşık 2006–2008 arası kullandım. Daha sonra blogger’a erişim yasaklandığında 26 Ekim 2008’de LiveJournal’a (2008–2009) geçtim. Bir ara WordPress&amp;lsquo;i de denedim. Daha organize ve hızlı paylaşım özellikleri bulunması sebebiyle 2009’da ise tumblr.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://bromr.tumblr.com&#34;&gt;tumblr.&lt;/a&gt;’ın belirli sunucularına erişimin yasaklanması sebebiyle kısmen tuhaflaşan 10 yıllık blog’umu &lt;a href=&#34;http://wordpress.org&#34;&gt;WordPress.org&lt;/a&gt;’ye taşımaya karar verdim.&lt;/p&gt;
+&lt;p&gt;Ücretsiz blog (veya içerik diyelim) servislerinin en önemli sorunu tüm içeriğin onların sunucusunda kalması ve sorunlar oluştuğunda ulaşılamaz hale gelmesi. İlk blogumu &lt;a href=&#34;http://omerbalamir.blogspot.com.tr&#34;&gt;Blogger&lt;/a&gt; ile oluşturmuştum. Yaklaşık 2006–2008 arası kullandım. Daha sonra blogger’a erişim yasaklandığında 26 Ekim 2008’de &lt;a href=&#34;http://omerbalamir.livejournal.com&#34;&gt;LiveJournal&lt;/a&gt;’a (2008–2009) geçtim. Bir ara &lt;a href=&#34;https://omerbalamir.wordpress.com&#34;&gt;WordPress&lt;/a&gt;&amp;lsquo;i de denedim. Daha organize ve hızlı paylaşım özellikleri bulunması sebebiyle 2009’da ise tumblr. kullanmaya başladım.&lt;/p&gt;
+&lt;p&gt;[gallery type=&amp;ldquo;slideshow&amp;rdquo; ids=&amp;ldquo;2690,2688,2687,2686,2685,2684,2689&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;Hepsi ücretsiz olan bu servislerde yer alan içeriğimi tumblr.’da birleştirmeye çalıştım. Ancak iyi kötü içeriğin büyük kısmı tumblr. sunucularında kaldı. Tasarım ve görünüm olarak 2 Şubat 2013&amp;rsquo;de şeklini alan blog o zamandan bu zamana pek büyük değişim geçirmedi. Ta ki 06 Aralık 2015&amp;rsquo;de kendi alanıma taşımaya karar verinceye kadar.&lt;/p&gt;
+&lt;p&gt;Geçen yıl heveslenerek bir hosting satın aldım, kısmen taşıma işlemini gerçekleştirmiş, ancak gerekli düzenlemeleri yapmaya üşendiğimden kullanmamıştım, tumblr. ile yola devam etmiştim. Bu yıl kararlı bir şekilde Wordpress ile birlikte tüm içeriği bir &lt;em&gt;plug-in&lt;/em&gt; sayesinde kendi alanıma taşıdım, şimdi site tamamıyla elimin altında. Yedeğini alıp başka bir yere taşımak kolay, yaklaşık son bir haftadır bu işle uğraşıyorum.&lt;/p&gt;
+&lt;p&gt;Öncelikle sadece blogu taşıyıp bırakmadım. Tüm entry’ler tek tek incelendi, gözden geçirildi. Yıllar önce (ağırlıklı olarak 2009 yılı) twitter iletilerimin bloguma import edilmesi sebebiyle çok sayıda durum güncellemesi, wordpress’in &lt;em&gt;post-type&lt;/em&gt;’larına uygun hale getirildi, çoğu ölü link düzeltilmeye çalışıldı. Kaybolan içerik tamamlanmaya çalışıldı. Yaklaşık &lt;strong&gt;900&lt;/strong&gt; entry’den oluşan blog hayatım, gereksiz ve ne olduğu anlaşılamayan entry’lerin silinmesi ile &lt;strong&gt;818&lt;/strong&gt; civarında enty’ye daraltıldı.&lt;/p&gt;
+&lt;p&gt;Kendi kendime oturup baştan sona baktığımda 2006 yılından itibaren güzel bir arşiv oluşmuş aslında. Nelerle uğraşmışım, ilgilenmişim, sayısız internet sitesi, uygulama kullanılmış, çoğu tarihin tozlu çöplüğünde kaybolup gitmiş artık. Paylaştığım linklerin hemen hepsi ölmüş, arada çok eskilerden kalan ve halan yaşayan linklerin olması şaşırttı tabi beni. Bundan sonra dışarıya link verirken (yada içerik paylaşırken) daha seçici olmam gerektiğini düşünüyorum. En azından içeriğin bir bölümü kopya edilerek kendi sunucumda barındırılabilir, neyin ne olduğu yıllar sonra bakıldığında bile anlaşılabilir böylece.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -41,7 +50,8 @@
       <pubDate>Mon, 16 Jun 2014 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/susan-kare-iconographer/</guid>
-      <description>https://vimeo.com/97583369</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://vimeo.com/97583369&#34;&gt;https://vimeo.com/97583369&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -50,7 +60,9 @@
       <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/vaum-watch-concept/</guid>
-      <description>Vaum Watch Concept by Steel Drake</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Vaum.jpg&#34; alt=&#34;&#34;  /&gt;
+Vaum Watch Concept by Steel Drake&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -59,8 +71,9 @@
       <pubDate>Thu, 31 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/elephant-character/</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;310&amp;rdquo;]
-Original image for Elephant Character</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;310&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;Original image for Elephant Character&lt;/p&gt;
+</description>
     </item>
     
   </channel>

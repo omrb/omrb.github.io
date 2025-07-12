@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>macbook on Darkest Notes</title>
+    <title>Macbook on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/macbook/</link>
-    <description>Recent content in macbook on Darkest Notes</description>
+    <description>Recent content in Macbook on Darkest Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 15 Mar 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/macbook/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,56 @@
       <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/macbook-early-2015/</guid>
-      <description>Başka birşeyler almak için girdiğim teknoloji markette vakit geçirmek için dolandığım sırada, Apple ürünlerini incelerken gördüm geçtiğimiz yılın ilk çeyreğinde çıkan MacBook modelini. Nisan ayında ilk çıktığı zaman beğenmiş, incelemiş, almayı düşünmüş ancak fiyatı çok yüksek olduğundan ertelemiştim.
-İncelemelerden okuduğum kadarıyla en büyük yeniliği klavyesinde taşıyordu. İlk bu özelliğini denemek için tuşlara dokunduğum an vuruldum. Düz, fazla çıkıntılı olmayan, bununla birlikte önceki modellere göre daha büyük tasarlanmış tuşlar. Butterfly Mechanism diye adlandırmış Apple, tuşa basma hissi çok çok farklı ve keyifli bir deneyim sunuyor.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/MacBook-Space_Grey.jpeg&#34; alt=&#34;MacBook-Space_Grey&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Başka birşeyler almak için girdiğim teknoloji markette vakit geçirmek için dolandığım sırada, Apple ürünlerini incelerken gördüm geçtiğimiz yılın ilk çeyreğinde çıkan MacBook modelini. Nisan ayında ilk çıktığı zaman beğenmiş, incelemiş, almayı düşünmüş ancak fiyatı çok yüksek olduğundan ertelemiştim.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/b_86829.jpg&#34; alt=&#34;b_86829&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;İncelemelerden okuduğum kadarıyla en büyük yeniliği klavyesinde taşıyordu. İlk bu özelliğini denemek için tuşlara dokunduğum an vuruldum. Düz, fazla çıkıntılı olmayan, bununla birlikte önceki modellere göre daha büyük tasarlanmış tuşlar. &lt;em&gt;Butterfly Mechanism&lt;/em&gt; diye adlandırmış Apple, tuşa basma hissi çok çok farklı ve keyifli bir deneyim sunuyor.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/macbook-12-butterfly-keyboard-switch-100572318-large.png&#34; alt=&#34;macbook-12-butterfly-keyboard-switch-100572318-large&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Daha sonra Force Touchpad&amp;rsquo;i denedim. Yavaşça güç uyguladım, ne değişiyor diye görmek amacıyla. İlk başta alışması biraz zor tabi ama zaten sözlük uygulamasını kullanmayı seven biriydim, ikinci kez kendine hayran bırakan bir özellik oldu.&lt;/p&gt;
+&lt;p&gt;Kısıtlı zamanda teknoloji markette bunları deneyebildim, fiyatı ve taksit seçenekleri de dikkatimi çekti. Hiçbir zaman bir Apple ürünü almak için mükemmel zaman değildir. Şimdi de öyle oldu. Ama kararımı vermiştim.&lt;/p&gt;
+&lt;p&gt;Cumartesi günü sabahtan teknoloji marketin yolu tutuldu ve Early 2015 olarak adlandırılan yeni MacBook bilgisayarın giriş modelini (1.1 Ghz, 256 MByte Flash Storage) satın aldım.&lt;/p&gt;
+&lt;p&gt;Küçüklüğü ve hafifliği ile MacBook Pro sonrası biraz oyuncak gibi gelse de, son yıllarda hesaplama ağırlıklı geliştirmeden, grafik ve fotoğraf düzenlemeye, güçlü GPU gerektiren oyunlardan oluşan bilgisayar kullanma alışkanlığımın web&amp;rsquo;de gezinti, müzik dinlemek ve yazı yazmak gibi minimal bir yöne evrildiği düşünüldüğünde aslında biçilmiş kaftan.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Broadwell-Package-Diagonal.jpg&#34; alt=&#34;Broadwell-Package-Diagonal&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;iNtel Core M 1.1 Ghz (&lt;a href=&#34;http://ark.intel.com/products/84666/Intel-Core-M-5Y31-Processor-4M-Cache-up-to-2_40-GHz&#34;&gt;5Y31&lt;/a&gt;) 64 bit, 14 nanometre teknolojisine sahip mobil işlemcisine sahip. GPU olarak Intel® HD Graphics 5300 barındırıyor. İşlemci soğutmaya ihtiyaç duymadığından, gereksiz gürültü de yok.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Entry Model&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Base Model&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Option&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Core M 1.1 Ghz (5Y31)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Core M 1.2 Ghz (5Y51)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Core M 1.3 Ghz (5Y71)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;256 GB&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;512 GB&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;512 GB&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;8 GByte RAM&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;8 GByte RAM&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;8 GByte RAM&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Klavye mükemmel, tuşlar birbirine yakın yerleştirilmiş ama daha büyük olduklarından parmaklarıma tam oturuyor ve tuşa basmanın verdiği keyfe diyecek yok. Bilgisayarın küçük olmasına alışamadım yalnız, klavyenin yanından tutup biryere koyarken tuşlara basıyorum yanlışlıkla.&lt;/p&gt;
+&lt;p&gt;Ses kalitesi gerçekten fazlasıyla iyi, güçlü ve net bir ses çıkıyor o küçük hoparlörlerden. Müzik dinlerken web&amp;rsquo;de gezinmek, mail&amp;rsquo;lere cevap vermek, birşeyler yazmanın keyfinin yanında eski CaseLogic iPad kılıfımın içine sığarak rahatlıkla taşınabilir olması da ayrı bir avantajı.&lt;/p&gt;
+&lt;p&gt;8-9 saatlik pil ömrü günlük yaptığım sıradan işler için çok uygun. Hafif, sessiz, mobil bilgisayar olması, klavyesinin rahat ve keyifli kullanımı sebebiyle iPad Mini&amp;rsquo;min yerini almaya başladı.&lt;/p&gt;
+&lt;p&gt;Gelelim eksilere. Bilgisayara şarj edilebilmesi için konulan USB-C portundan başka port yok. Bir dongle olmadan kapalı bir kutu gibi ve her şekilde kablosuz internete bağımlısınız, eski tarz konvansiyonel bilgisayar kullanıcılarına göre değil ama yavaş yavaş alışıyor gibiyiz.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;P.S. Yaklaşık 3 aydır taslaklar içinde duran ve 24 Ekim 2015&amp;rsquo;de satın aldığım MacBook ile ilgili bu incelemeyi yeni modeller çıkmadan önce ancak(😬) yayınlayabiliyorum.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -23,8 +71,29 @@
       <pubDate>Sat, 03 Aug 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/macbook-pro-with-retina-display-early-2013/</guid>
-      <description>Yeni aldığım 15.4&amp;quot; Retina MacBook Pro’yu test etmekle meşgulum. Teknik özellikleri şu şekilde sıralayabilirim.
-2.4 GHz quad-core iNtel Core i7 CPU 8 GB 1600 MHz DDR3L Memory 256 GB SSD Flash Storage 15.4 inch 2880x1800 220 ppi (Samsung) 2.02 Kg. iNtel HD 4000 Graphics nVidia GeForce GT 650M with 1 GB of GDDR5 720p FaceTime HD Camera 7 hours Battery-Life Önceki MacBook’dan yenisine tüm programları ve ayarları aktarmak için Migration Assistant’ı kullandım.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/pZ3r&amp;#43;&#34; alt=&#34;&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/aSI5&amp;#43;&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Yeni aldığım 15.4&amp;quot; Retina MacBook Pro’yu test etmekle meşgulum. Teknik özellikleri şu şekilde sıralayabilirim.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2.4 GHz quad-core iNtel Core i7 CPU&lt;/li&gt;
+&lt;li&gt;8 GB 1600 MHz DDR3L Memory&lt;/li&gt;
+&lt;li&gt;256 GB SSD Flash Storage&lt;/li&gt;
+&lt;li&gt;15.4 inch 2880x1800 220 ppi (Samsung)&lt;/li&gt;
+&lt;li&gt;2.02 Kg.&lt;/li&gt;
+&lt;li&gt;iNtel HD 4000 Graphics&lt;/li&gt;
+&lt;li&gt;nVidia GeForce GT 650M with 1 GB of GDDR5&lt;/li&gt;
+&lt;li&gt;720p FaceTime HD Camera&lt;/li&gt;
+&lt;li&gt;7 hours Battery-Life&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Önceki MacBook’dan yenisine tüm programları ve ayarları aktarmak için Migration Assistant’ı kullandım. Yaklaşık 10 saat süren aktarım süreci sonrasında tüm programlarım ayarlarım ve dokümanlarım yeni bilgisayarımda karşıma çıkmış oldu.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/Tj5R&amp;#43;&#34; alt=&#34;&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/tNqf&amp;#43;&#34; alt=&#34;&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/ORNA&amp;#43;&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;İlk dikkat çeken özellik tabiki retina ekran. Yazılar ve grafikler o kadar net ve keskinki bakmaya doyulmuyor. Bununla birlikte Retina ekran için hazırlanmamış (güncellenmemiş) program ve internet siteleri doğal olarak çok güzel gözükmüyor.&lt;/p&gt;
+&lt;p&gt;Dikkatimi çeken diğer husus SSD diskin bir bilgisayarı bu kadar fazla hızlandırması oldu. Ön tarafta bulunan hoparlörlerin ses kalitesi de gerçekten çok iyi. Halen pil ömrünü test ediyorum, yaklaşık 2 saattir yoğun olarak kullandığım programlara rağmen (internet, Civilization V, iPhoto, Decibel) bilgisayarın pili hala % 58 dolu.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

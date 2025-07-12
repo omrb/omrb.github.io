@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>abandonware on Darkest Notes</title>
+    <title>Abandonware on Darkest Notes</title>
     <link>https://darkestnotes.org/categories/abandonware/</link>
-    <description>Recent content in abandonware on Darkest Notes</description>
+    <description>Recent content in Abandonware on Darkest Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/categories/abandonware/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,18 @@
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/vampire-v4-standalone/</guid>
-      <description>Retro computer dünyası ile 1999 yılında aldığımız PC bilgisayar ile tanıştım. Emülasyon kavramı çok öncelerden beri var olsa da ancak 90’lı yılların sonunda Intel Pentium III işlemcili bilgisayarın ulaşılabilir olmasıyla tam anlamıyla çalışan emülatör yazılımlarını kullanmak, internet sayesinde sonsuz bir disk image ve ROM arşivine erişebilmek mümkün oldu. Commodore 64 ile zamanında ulaşamadığım disket oyunlarına emülatörler ile ulaşmayı başardım ve sonrasında emülasyon dünyası ile scene dünyasının bana ucu bucağı olmayan bir pencereden yepyeni bir dünya açtığını gördüm.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Vampire-V4-SA-Logo.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Retro computer dünyası ile 1999 yılında aldığımız PC bilgisayar ile tanıştım. Emülasyon kavramı çok öncelerden beri var olsa da ancak 90’lı yılların sonunda Intel Pentium III işlemcili bilgisayarın ulaşılabilir olmasıyla tam anlamıyla çalışan emülatör yazılımlarını kullanmak, internet sayesinde sonsuz bir disk image ve ROM arşivine erişebilmek mümkün oldu. Commodore 64 ile zamanında ulaşamadığım disket oyunlarına emülatörler ile ulaşmayı başardım ve sonrasında emülasyon dünyası ile scene dünyasının bana ucu bucağı olmayan bir pencereden yepyeni bir dünya açtığını gördüm.&lt;br&gt;
+Emülasyon ile deneyimlenen bilgisayarların gelişmiş donanımlar ile daha gelişmiş halde karşımıza çıkmaları ise 2010 ve sonrasında başlayan bir süreç oldu. FPGA (Field Programmable Gate Array) teknolojisi ile eski bilgisayarların “&lt;em&gt;düzeltilmiş&lt;/em&gt;”, “&lt;em&gt;yenilenmiş&lt;/em&gt;”, “&lt;em&gt;güçlendirilmiş&lt;/em&gt;” sürümlerini yaratmak retro çılgınları için yeni bir tutku olmuştu artık.&lt;br&gt;
+Apollo Team tarafından geliştirilen Vampire hızlandıcı Amiga kartları uzun yıllardır piyasada mevcut. Amiga üzerine işlemci yuvasına takılan kartlar bir miktar hız artışının yanında HDD desteği, çeşitli yamalar vb. özellikler ile geliyor.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Vampire-V4-SA-Box.jpeg&#34; alt=&#34;&#34;  /&gt;
+&lt;br&gt;
+Vampire V4-Standalone ise adı gibi kendi başına çalışan bir Amiga. İçerisinde aslında gerçekte -var olmayan- &lt;strong&gt;68080&lt;/strong&gt; işlemci barındırıyor. Mikrokodu geriye uyumlu bu 68080 işlemci bazı yeni komut setleriyle (AMMX) ile birlikte ve gelişmiş AGA modu &lt;strong&gt;SuperAGA&lt;/strong&gt; ile geliyor. 12 MByte Chip 512 MByte Fast RAM’a sahip bu Amiga saklama birimi olarak Compact Flash kartları kullanıyor. Cihaz AROS rom ile geliyor ancak Kickstart Romları da flashlamak mümkün. Paula ses sistemi ile uyumlu Arne -sanal ses chip-’i 14 bit sound sample özelliği barındırıyor.&lt;br&gt;
+Vampire V4-SA açık kaynak kodlu AROS temelli Apollo OS ile çalışıyor. Bununla birlikte CoffinOS veya CaffeineOS gibi distrolarda mevcut, ancak Amiga OS 3.2 yüklemek isterseniz SAGA sürücülerini de yüklenmesi gerekli.&lt;br&gt;
+Herkesin rüyalarını süsleyen bu gelişmiş Amiga maalesef hayal ettiğim kadar iyi çalışmıyor. Geriye uyum büyük ölçüde problemli olmakla birlikte yeni özelliklerinin kullanıldığı program-oyun ve demolar hem sayıca az, hem de beklentiyi karşılayacak etkileyicilikten çok uzaklar. Cihaz fazlasıyla deneysel, ortaya çıkan bug’lar rastlantısal ve reproduce edebilmek çoğu zaman imkansız.&lt;br&gt;
+Yaptığım uzun testler sonucunda diyebilirim ki bilgisayarınızda çalışan emülatörler ile daha keyifli ve huzurlu bir retro aktivitesi yaşayabilirsiniz. Bu ve benzeri ürünler ancak macera arayan &lt;strong&gt;&lt;em&gt;computer-nerd&lt;/em&gt;&lt;/strong&gt;’lere uygun…&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -22,7 +33,15 @@
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/sound-blaster-pro/</guid>
-      <description>IBM PC dünyası 90’lı yılların başından itibaren ses kartları ile tanıştı. 1987 yılında çıkan Adlib ve sonrasında ultra pahalı Roland MIDI modüllerinin ardından Creative piyasaya makul fiyat etiketli ve dijital ses efektleri sunabilen Sound Blaster ses kartları ile 1990 yılında girdi ve piyasaya 10 yıldan fazla bir süre hakim oldu. Creative ses kartları içinde bence en önemlisi Sound Blaster Pro modelidir. Hem eskiyle uyumlu, hem stereo, hem güçlü OPL3 yongası hem de CD-ROM arabirimi ile 1991 yılında ortaya çıkar.</description>
+      <description>&lt;p&gt;IBM PC dünyası 90’lı yılların başından itibaren ses kartları ile tanıştı. 1987 yılında çıkan Adlib ve sonrasında ultra pahalı Roland MIDI modüllerinin ardından Creative piyasaya makul fiyat etiketli ve dijital ses efektleri sunabilen Sound Blaster ses kartları ile 1990 yılında girdi ve piyasaya 10 yıldan fazla bir süre hakim oldu.&lt;img loading=&#34;lazy&#34; src=&#34;images/Sound_Blaster_Pro2-Box-Win31_Label2.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Creative ses kartları içinde bence en önemlisi Sound Blaster Pro modelidir. Hem eskiyle uyumlu, hem stereo, hem güçlü OPL3 yongası hem de CD-ROM arabirimi ile 1991 yılında ortaya çıkar. O zamanın ev bilgisayarı Amiga ile hemen hemen aynı kalitede ses çıkışı verebilen bir karttır bu. Çıktığı dönem biraz problemlidir elbette. İlk sürümünde OPL3 yongası yerine stereo ses çıkışı için 2 adet YM3812 synthisizer chip bulundurur. O dönem piyasada Windows 3.0 olduğundan paketten çıkan yazılımlar Windows 3.0 için üretilmiştir. &lt;img loading=&#34;lazy&#34; src=&#34;images/Sound_Blaster_Pro-1991.jpg&#34; alt=&#34;https://www.retrogamingmuseum.com/the-collection/sound-blaster-pro-ct1330-1991&#34;  /&gt;
+Sonraki modellerde (Sound Blaster Pro2 olarak adlandırılan) gerçek OPL3 (YMF262) eklenir, 1992 yılında Windows 3.1 multimedia desteği ile çıkınca ses kartı ile bundle edilen Windows 3.0 programları işlevsiz kalır, kartın kutusu üzerine Windows 3.1 uyumludur ibaresi ile bir süre daha satılır. Sürücüler ve programlar Windows 3.1 için hazırlandıktan sonra kutu üzerine etiketle Windows 3.1 sürücülerinin eklendiği belirtilir.&lt;/p&gt;
+&lt;p&gt;Bu etiketli Sound Blaster Pro kutuları benim PC’ye ses kartı almaya çalıştığım dönemde sıkça karşıma çıkıyordu, ben farklı bir model ses kartı aldığımdan Sound Blaster Pro içinden hangi programlar çıkıyor ve sürücülerde ne gibi değişiklikler vardı hep merak ettim. &lt;img loading=&#34;lazy&#34; src=&#34;images/Sound-Blaster-Pro-Disk_Label-1992.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Geçtiğimiz günlerde bu disketin orijinal içeriğine kavuştum ve bir miktar inceleme imkanı bulabildim 30 yıl sonra. &lt;img loading=&#34;lazy&#34; src=&#34;images/Sound_Blaster_Pro-1993-1994-a.png&#34; alt=&#34;&#34;  /&gt;
+Sound Blaster Pro daha iyi Sound Blaster modelleri çıkmasına rağmen (Sound Blaster 16) 1993-1994 yıllarında yeni kutu dizaynı ve Indianapolis 500 ve Lemmings oyun bundle’ları ile satışına uzun bir süre devam etti.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -31,8 +50,13 @@
       <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/boxer-ve-dot-matrix-printer-em%C3%BClasyonu/</guid>
-      <description>Hafta sonu uzun zamandır beklediğim ancak programcısının artık herhangi bir geliştirme yapacağını düşünmediğim bir uygulama ile uğraşmakla geçti. Boxer. Büyük oranda gelişimini tamamlamış bir uygulama aslında, DOSBox için yazılmış bir kullanıcı arayüzü. Ancak MacOs’un kullanıcı dostu arabirimine yönelik o kadar ince detaylar düşünülerek geliştirilmiş ki bir daha Windows ile DOSBox kullanamaz oldum.
-Oyun ve programların dökümanları ve kutu resimleri ile bir paket haline getirilebilmesi, DOSBox’dan farklı daha gelişmiş Roland MT-32 emülasyonu, Roland MT-32’nin LCD ekranında kimi programlar tarafından yazılan mesajları benzer bir biçimde ekranda gösterme gibi eski bilgisayarcılara yönelik baştan çıkarıcı detaylar.</description>
+      <description>&lt;p&gt;Hafta sonu uzun zamandır beklediğim ancak programcısının artık herhangi bir geliştirme yapacağını düşünmediğim bir uygulama ile uğraşmakla geçti. &lt;a href=&#34;http://boxerapp.com&#34;&gt;Boxer&lt;/a&gt;. Büyük oranda gelişimini tamamlamış bir uygulama aslında, DOSBox için yazılmış bir kullanıcı arayüzü. Ancak MacOs’un kullanıcı dostu arabirimine yönelik o kadar ince detaylar düşünülerek geliştirilmiş ki bir daha Windows ile DOSBox kullanamaz oldum.&lt;/p&gt;
+&lt;p&gt;Oyun ve programların dökümanları ve kutu resimleri ile bir paket haline getirilebilmesi, DOSBox’dan farklı daha gelişmiş Roland MT-32 &lt;a href=&#34;https://sourceforge.net/projects/munt/&#34;&gt;emülasyonu&lt;/a&gt;, Roland MT-32’nin LCD ekranında kimi programlar tarafından yazılan mesajları benzer bir biçimde ekranda gösterme gibi eski bilgisayarcılara yönelik baştan çıkarıcı detaylar.&lt;/p&gt;
+&lt;p&gt;Geçen yıllarda bu özelliklere bir de dot-matrix yazıcı emülasyonunun ekleneceğinden &lt;a href=&#34;http://blog.boxerapp.com/page/3&#34;&gt;bahsedildi&lt;/a&gt;, ancak bu sürüm hiçbir zaman “public” olmadı.&lt;/p&gt;
+&lt;p&gt;Hazır yapacak çok birşey yokken oturdum kaynak kodunu GitHub’dan indirdim ve XCode ile derledim bu alpha sürümünü Boxerapp’in. Bir kez daha vuruldum programa. Alınan çıktı MacOs’un yazıcı arabirimine gönderiliyor ve istenirse PDF olarak kaydedilebiliyor. Normal text dosyalarının yazdırılması çok birşey ifade etmiyor belki ama grafik dosyalarını yazdırınca 1990’lı yılların başına bir yolculuk yapıyor insan.&lt;/p&gt;
+&lt;p&gt;İşte burada birkaç retro resim dosyasından emülasyon yolu ile alınan çıktı örneği var.&lt;/p&gt;
+&lt;p&gt;[gallery type=&amp;ldquo;slideshow&amp;rdquo; ids=&amp;ldquo;2999,3000,3004,3001,3002,3009,3003,3005,3008,3006,3007&amp;rdquo;]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -41,7 +65,21 @@ Oyun ve programların dökümanları ve kutu resimleri ile bir paket haline geti
       <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/civilization/</guid>
-      <description>1992 yılı, Temmuz ayı. Okul kapanmış (-kredili sistem olduğu için normal öğrencilere göre 3 hafta daha fazla gitmiştik okula-😡) Avrupa Futbol Şampiyonası sona ermiş, uzun bir yaz tatili beni bekliyor. Odamın baş köşesine kurulmuş yepyeni, gıcır gıcır bir 80386DX-40 işlemcili, 4 MByte RAM’li Sound Blaster Pro ses kartlı SVGA ekranlı bir PC. Biraz DOS ve Windows denemeleri, mouse ile çizim yapma denemeleri, debug ile yazılan ufak tefek Assembly kodları derken bilgisayarın asıl alınış amacına gelmişti sıra.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Civ-VI.8c3ad02e0f1d45a0b657c8f29d811e7a.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;1992 yılı, Temmuz ayı. Okul kapanmış (-kredili sistem olduğu için normal öğrencilere göre 3 hafta daha fazla gitmiştik okula-😡) Avrupa Futbol Şampiyonası sona ermiş, uzun bir yaz tatili beni bekliyor. Odamın baş köşesine kurulmuş yepyeni, gıcır gıcır bir 80386DX-40 işlemcili, 4 MByte RAM’li Sound Blaster Pro ses kartlı SVGA ekranlı bir PC. Biraz DOS ve Windows denemeleri, mouse ile çizim yapma denemeleri, debug ile yazılan ufak tefek Assembly kodları derken bilgisayarın asıl alınış amacına gelmişti sıra. Oyunlar!!!&lt;/p&gt;
+&lt;p&gt;Sağdan soldan alınıp oynanan birkaç uyduruk oyundan sonra heyecanla bilgisayara yüklediğim ilk oyun olmuştur Civilization. Gerçekten Sid Meier’a ait olan tek Civilization. Commodore 64’de yazdığı Pirates! sonrasında beni etkileyen ve en uzun zaman ayırdığım oyunu bu olmuştur Sid Meier’in.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/civ1_logo.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;O yaz, yeni alınan bilgisayarın heyecanıyla pek çok oyun ve programı heyecanla yüklemeye devam etsem de, Civilization’ın yeri hep aynı kalmıştır Hard Disk’imde. Oyundan sıkıldığım zaman bile yanıma sözlüğümü alır Civilopedia okurdum. Tarihe, felsefeye ve arkeolojiye yönelişimin sebebidir Civilization’ın Civilopedia’sı ayrıca kendi kendime ingilizcemi geliştirmemi sağlamıştır.&lt;/p&gt;
+&lt;p&gt;Civilization zor bir oyundu, en azından sulandırılmamış gerçek bir strateji oyunuydu. AI’da birkaç hata vardı, zor level’larda AI’ın hile yapması söz konusuydu, RNG bazen saç baş yoldururdu, güncellemeleri çıksa da giderilemeyen bug’lar her daim mevcuttu. Bütün bunlara rağmen oyundan hiç sıkılmadım. Basit ve sade grafikleri, insanın kafasını karıştırmayacak sayıda unit olması, oyunun atmosferi, dünya harikalarını erkenden bitirmenin heyecanı, yapabilecek ve deneyebilecek hep farklı şeyler bulunması, bazen tüm dünyayı fethetmek, bazen kültürel olarak ilerlemek amacıyla oynamak gibi sayısız kombinasyon mümkündü. Demographics ekranındaki istatistikleri geliştirmek için bile oynardım bazen, okur-yazarlığı %100 yapmak, tebamın yaşam süresini artırmak, dünya haritasında tüm Sibirya’ya yayılan bir imparatorluk oluştururdum.&lt;/p&gt;
+&lt;p&gt;Civilization II MultiMedia dünyasının kurbanı olmuştur. Saçma sapan videoları araya sıkıştıralım derken oyun oynanabilirliğinden çok şey kaybetmişti. Civilization III yeni oyun sistemine adapte edilmeye çalışılan dönem olmuştur. Yeni nesil oyun dünyasında Civilization IV ise favorimdir. Belki 1. oyun sonrasında en fazla vakit ayırabildiğim Civilization oyunu olmuştur. Civilization V’i hevesle alsam da oynamak için yeterli vaktim olmamıştı. Oyunu öğrenebilmek için uzunca bir zaman ayırmanın yanında cidden güçlü bir hafızaya sahip olmak gerektiğini anlamıştım oynarken. Ne ne işe yarar sürekli Civilopedia’ya bakarak oyun oynanmıyordu. Bununla birlikte her gelen güncelleme ile sürekli değişen özellikler iyice kafa karıştırıyordu. Belki ilk oyunu bu kadar seviyor olmamın sebebi bu, sürekli güncelleme ve DLC ile oyunun özünün çok değişmiyor oluşu.&lt;/p&gt;
+&lt;p&gt;Geçen haftalarda Civilization VI çıktığı vakit düşündüm bunları. Artık oyunu oynayabilecek, öğrenebilecek ve başarıya ulaşabilecek ne enerjim, ne zamanın ne de hafızam da yeterli boşluk var. Ancak Twitch’den birkaç oynayış videosu izleyip ekran görüntülerine bakıp geçerim. Sonuçta ilk oyun çıkalı 25 yıl olmuş. 15-16 yaşlarında o oyunu oynayan biri olarak Civilization VI’yı bırakayım da gençler oynasın. Turn based oyunlar gençler arasında pek tutmasa da biraz vakit ayırırlar diye düşünüyorum. Civilopedia okudukları takdirde belki biraz ufukları açılır genişler.&lt;/p&gt;
+&lt;p&gt;Bu arada Sid Meier’de kendi yarattığı bu oyunda o kadar da başarılı değilmiş. Oyunda başarılı olmak için oyunun açıklarını bulmak gerektiğini, kendisinin ise bu yola başvurmadığını, oyunu olduğu gibi oynayarak role adapte olmaya çalıştığını söylüyor.&lt;a href=&#34;#fn1&#34;&gt;1&lt;/a&gt; Asıl eğlenceli olan kısmı bu diyor ki bence de öyle…&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://arstechnica.com/gaming/2016/10/sid-meier-reflects-on-25-years-of-civilization/&#34;&gt;http://arstechnica.com/gaming/2016/10/sid-meier-reflects-on-25-years-of-civilization/&lt;/a&gt; &lt;a href=&#34;#ffn1&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -50,7 +88,8 @@ Oyun ve programların dökümanları ve kutu resimleri ile bir paket haline geti
       <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/rare-game-adverts/</guid>
-      <description>[gallery type=&amp;ldquo;slideshow&amp;rdquo; link=&amp;ldquo;file&amp;rdquo; size=&amp;ldquo;full&amp;rdquo; ids=&amp;ldquo;28,27&amp;rdquo;]</description>
+      <description>&lt;p&gt;[gallery type=&amp;ldquo;slideshow&amp;rdquo; link=&amp;ldquo;file&amp;rdquo; size=&amp;ldquo;full&amp;rdquo; ids=&amp;ldquo;28,27&amp;rdquo;]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -59,8 +98,21 @@ Oyun ve programların dökümanları ve kutu resimleri ile bir paket haline geti
       <pubDate>Sun, 12 Jul 2015 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/dergiler-ve-dergicilik/</guid>
-      <description>Çocukluğumdan beri en sevdiğim meslek olmuştur dergi editörlüğü. Sevdiğim ve bilgi sahibi olduğum bir konuda, bildiklerimi paylaşmak, bilmediğim şeyleri öğrenmek ve insanların elinde sayfalarını çevirmekten zevk alacakları renkli ve kaliteli birşeyler oluşturmak hep hayalim olmuştur.
-İlk kez 1987&amp;rsquo;de istemiştim dergi editörü olmayı, Commodore dergisini elime aldığımda. Pahalıydı, kaliteliydi, renkliydi, kuşe kağıda basılıydı, üst düzeydi ve felsefiydi. Okuyup bitirdikten sonra yeni sayı çıkana kadar sürekli sayfalarını çevirir dururdum. Sadece bakmak bile yeterince keyif vericiydi.</description>
+      <description>&lt;p&gt;Çocukluğumdan beri en sevdiğim meslek olmuştur dergi editörlüğü. Sevdiğim ve bilgi sahibi olduğum bir konuda, bildiklerimi paylaşmak, bilmediğim şeyleri öğrenmek ve insanların elinde sayfalarını çevirmekten zevk alacakları renkli ve kaliteli birşeyler oluşturmak hep hayalim olmuştur.&lt;/p&gt;
+&lt;p&gt;İlk kez 1987&amp;rsquo;de istemiştim dergi editörü olmayı, Commodore dergisini elime aldığımda. Pahalıydı, kaliteliydi, renkliydi, kuşe kağıda basılıydı, üst düzeydi ve felsefiydi. Okuyup bitirdikten sonra yeni sayı çıkana kadar sürekli sayfalarını çevirir dururdum. Sadece bakmak bile yeterince keyif vericiydi. Kendi kendime gelecek sayıda neler olabilir acaba diye düşünür, hayali editoryal yazılar hazırlar, hatta oyun tanıtımları bile yapardım.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Commodore_Dergi_Logo.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Sonra 64&amp;rsquo;ler dergisi çıktı. Commodore Dergisine göre daha basitti, sadece oyunlar üzerine eğilmişti. Böyle bir dergide çalışmak ne kadar keyifli olur diye düşünmüştüm. O zamanlar hayatımın en büyük zevki bilgisayarlar ve oyun oynamak. En yeni oyunları oynayıp, onları tanıtan yazılar yazıyorsun ve üzerine para ödeniyor sana. İnsan daha ne isteyebilir?&lt;/p&gt;
+&lt;p&gt;Bilgisayar dergilerinin hep bir ayrı yeri olmuştur hayatımda. Mesele ACE (Advanced Computer Entertainment)‘i görünce, sayfa düzeniyle, kutucuklu yorumlarıyla kim hayran kalmamıştır. Editörlükden daha önemli olan şeyin, aslında okuyucuya hitap eden şeyin görsel yönetmenlik olduğunu farketmişimdir ACE&amp;rsquo;i gördükten sonra. Bizim dergilerde özenirdi onlara ama bir türlü becerememişlerdir, o ayrı. (64&amp;rsquo;ler bir ara baya ilerleme kaydetmişti, hakkını vermek lazım)&lt;/p&gt;
+&lt;p&gt;Daha sonra underground fanzin&amp;rsquo;ler çıktı. Siyah-beyaz ve fotokopi ile çoğaltılırlardı. Underground olmak, çok bilinmemek, para kazanmak için değil keyif alındığı için yapılan işlerin temel düsturu olmakla birlikte bir noktadan sonra çok iyi reklam aracı olmuştu. Örneğin Laneth dergisi. Tamamen underground bir alayışla oluşturulmasına karşın daha o kadar tutmuştuki daha 4. sayısında fotokopiden ofset baskıya geçmişti. Speed-Thrash&amp;rsquo;den daha hafif müzikler kesinlikle olmayacak dendiği halde kısa sürede rock dergisine dönüşüvermişti.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://d.pr/i/1arpC&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/1arpC&amp;#43;&#34; alt=&#34;&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Severdim Laneth&amp;rsquo;i, hele Murat Adanç&amp;rsquo;da yazmaya başlayınca. Bilgisayar dergiciliği sonrasında ufak tefek birşeyler yazdığım konular arasında pek bilinmeyen müzik gruplarını tanıtma amaçlı yazdığım yazılar olmuştur o dönemlerde. (tabi hiçbiri yayınlanmadı, o ayrı mesele)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://d.pr/i/cveE&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/cveE&amp;#43;&#34; alt=&#34;&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Şimdi neden oturdum da bunları yazma gereği hissettim diye sorabilir herkes. Socrates Dergisi yüzünden. Nisan ayında elime aldığım ilk sayısında, Commodore Dergisi&amp;rsquo;ni, 64&amp;rsquo;ler Dergisi&amp;rsquo;ni, Amiga Dünyası Dergisi&amp;rsquo;ni, Laneth Dergisi&amp;rsquo;ni, ACE&amp;rsquo;i, PC Format&amp;rsquo;ı ilk kez elime aldığımda hissettiğim şeyleri hissettiğim için yazdım. Yani dergiyi okuyup bitirdikten sonra görsel tasarımı sayesinde sadece sayfalarına göz gezdirmek için bile tekrar elime alabiliyorsam o dergi okunup atılmak için değil, kütüphanede biryerlerde saklanmak içindir. Takip ettiğim sayısız dergi olmuştur şimdiye kadar ama sadece yukarıda saydıklarımı saklamışım biryerlerde, diğerleri yok olup gitmiş. Socrates&amp;rsquo;de yıllar sonra ilk kez saklayacağım dergiler arasında yerini aldı.&lt;/p&gt;
+&lt;p&gt;Oynadığımız oyunlar dijital, ne kutusu ne basılı kullanım kılavuzu var artık, müzik albümü satın almıyoruz, dinlediğimiz şarkılar dijital, dinliyoruz ve unutuyoruz, kitaplar e-book oluyor yavaş yavaş…Saklayabileceğim birşeyler bulduğumda seviniyorum artık…&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -69,8 +121,9 @@ Oyun ve programların dökümanları ve kutu resimleri ile bir paket haline geti
       <pubDate>Mon, 09 Mar 2015 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/commodore-magazines/</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;52&amp;rdquo;]
-Good old memories… – View on Path.</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;52&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;Good old memories… – View on &lt;a href=&#34;https://path.com/p/2zlcKs&#34;&gt;Path&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -79,8 +132,11 @@ Good old memories… – View on Path.</description>
       <pubDate>Sun, 21 Oct 2012 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/gog-os-x/</guid>
-      <description>Eski DOS oyunlarını OS X&amp;rsquo;de oynamak DOSBox için yazılmış Boxer gibi arabirimler sayesinde çok zor olmuyordu. Bununla birlikte GOG.com‘dan satın aldığım oyunları install etmek için öncelikle Windows&amp;rsquo;a geçmem daha sonra dosyaları OS X&amp;rsquo;e aktarmam gerekirdi.
-GOG.com artık DOS oyunlarını tek bir tıklama ile çalıştırılabilecek paketler halinde OS X için de satmaya başladı. Çok fazla oyunu deneme imkanım olmadı ama Boxer&amp;rsquo;ın sağladığı stabil platform sayesinde eski DOS oyunlarını Windows&amp;rsquo;a dönmeden rahatlıkla OS X&amp;rsquo;de oynayabilmek artık mümkün.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_mc9bssHXgj1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Eski DOS oyunlarını OS X&amp;rsquo;de oynamak DOSBox için yazılmış &lt;a href=&#34;http://boxerapp.com&#34;&gt;Boxer&lt;/a&gt; gibi arabirimler sayesinde çok zor olmuyordu. Bununla birlikte &lt;a href=&#34;http://www.gog.com&#34;&gt;GOG.com&lt;/a&gt;‘dan satın aldığım oyunları install etmek için öncelikle Windows&amp;rsquo;a geçmem daha sonra dosyaları OS X&amp;rsquo;e aktarmam gerekirdi.&lt;/p&gt;
+&lt;p&gt;GOG.com artık DOS oyunlarını tek bir tıklama ile çalıştırılabilecek paketler halinde OS X için de satmaya başladı. Çok fazla oyunu deneme imkanım olmadı ama Boxer&amp;rsquo;ın sağladığı stabil platform sayesinde eski DOS oyunlarını Windows&amp;rsquo;a dönmeden rahatlıkla OS X&amp;rsquo;de oynayabilmek artık mümkün.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -89,8 +145,21 @@ GOG.com artık DOS oyunlarını tek bir tıklama ile çalıştırılabilecek pak
       <pubDate>Sun, 10 Apr 2011 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/dosbox-ve-boxer/</guid>
-      <description>Geçmişe özlem duyanlar, geçmişe dönebilmenin yollarını ararlar. 1992 yılında ilk PC bilgisayarıma geçtiğimde Commodore 64 ve Amiga benim için tarihin tozlu sayfalarına gömülmüştü. Gelecek PC&amp;rsquo;lerdeydi, Amiga ve Commodore 64 için çıkmış oyunların çok daha iyileri PC&amp;rsquo;de mevcuttu. Ama hiç düşündüğüm gibi olmadı.
-Öncelikle çoğu oyun PC&amp;rsquo;de olmasına karşın kimi oyunların Amiga versionları çok daha iyiydi. Oyunlar eğer 256 renk VGA çözünürlüğü kullanmıyorsa 16 renge mahkumdu, Amiga ise 32 renk sunuyordu. Eğer PC&amp;rsquo;de ses kartı yoksa (ki o zamanlar ses kartım yoktu) PC hoparlöründen gelen bip sesleriyle yetinmek zorundaydık.</description>
+      <description>&lt;p&gt;Geçmişe özlem duyanlar, geçmişe dönebilmenin yollarını ararlar. 1992 yılında ilk PC bilgisayarıma geçtiğimde Commodore 64 ve Amiga benim için tarihin tozlu sayfalarına gömülmüştü. Gelecek PC&amp;rsquo;lerdeydi, Amiga ve Commodore 64 için çıkmış oyunların çok daha iyileri PC&amp;rsquo;de mevcuttu. Ama hiç düşündüğüm gibi olmadı.&lt;/p&gt;
+&lt;p&gt;Öncelikle çoğu oyun PC&amp;rsquo;de olmasına karşın kimi oyunların Amiga versionları çok daha iyiydi. Oyunlar eğer 256 renk VGA çözünürlüğü kullanmıyorsa 16 renge mahkumdu, Amiga ise 32 renk sunuyordu. Eğer PC&amp;rsquo;de ses kartı yoksa (ki o zamanlar ses kartım yoktu) PC hoparlöründen gelen bip sesleriyle yetinmek zorundaydık. PC&amp;rsquo;lerde hız konusunda bir standart yoktu, eski oyunlar oynanılmayacak kadar hızlı çalışıyordu, Amiga oyunları ise o donanım için test edilmiş olarak çıktığından yavaş olsa da en azından bir standarta sahipti.&lt;/p&gt;
+&lt;p&gt;Bu nedenlerle çoğu oyunun Amiga versionlarını hatta bazı eski oyunların Commodore 64 versionlarını yeniden oynamak çok daha keyifli oluyordu. Bununla birlikte PC masamın üstünü tamamen kapladığından diğer bilgisayarlar zamanla dolaplarındaki yerini aldı, o bilgisayarlarda oynadığım oyunlar güzel birer hatıra oldu.&lt;/p&gt;
+&lt;p&gt;Aynı durumun PC&amp;rsquo;ler için yaşanacağı o zamanlar hayal edilememişti tabi. DOS için yazılmış oyunlar 1995&amp;rsquo;den itibaren yavaş yavaş yerini Windows için yazılmış oyunlara bıraktı. Bilgisayarlar hızlandı, floppy disklerin yerini CD-ROM&amp;rsquo;lar aldı. DOS için programlanan oyunları Windows uyumluluk modunda zorlukla oynayabiliyor olsakda uyumsuzluk problemleri gecikmedi.&lt;/p&gt;
+&lt;p&gt;Bu sorunları ortadan &lt;a href=&#34;http://www.dosbox.com/&#34; title=&#34;DOSBox&#34;&gt;DOSBox&lt;/a&gt; isimli program kaldırdı. DOSBox hemen hemen her işletim sistemi altında çalışan, tüm eski ses kartlarını destekleyen bir DOS penceresi açtı bizim gibi nostaljik kişiliklierin dünyasına. DOSBox&amp;rsquo;ı kullanmak çok kolay değildi tabi, sanal bir disk ortamı yaratmak, ses kartı adresi ve IRQ seçmek için konfigürasyon dosyası ile uğraşmak gerekiyordu. Bu işlemleri kolaylaştırmak için frontendler yazıldı. Bunların içinde bence en iyisi ve kolay kullanımlı olanı &lt;a href=&#34;http://boxerapp.com/&#34; title=&#34;Boxer&#34;&gt;Boxer&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_ljfnh8oPG01qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Boxer&amp;rsquo;a yeni oyun eklemek çok kolay. Sadece oyun klasörünü Boxer&amp;rsquo;a sürüklüyorsunuz, eğer bir installer varsa program onu çalıştırıyor ve konfigürasyonu gerçekleştiriyorsunuz. Oyunun adını yazıp oyun kutusunun resmini eklemeniz yeterli.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_ljfnioC3G91qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Aynı şey CD imajları içinde geçerli. Karşılaşılacak en önemli sorun Mac klavyesi ile PC klavyesi arasındaki farklılıklar nedeniyle bazı oyunların PC klavyesine özel tuş kombinasyonları kullanmaları olabilir. Bazı oyunlar içinde hızın ayarlanabilmesi için ince ayarlar yapmak gerekebiliyor.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_ljfnj7LHEp1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Eskiden oynadığımız oyunları tekrardan oynamak geçmişe dönmemizi sağlamaz belki ama yağmurlu bir pazar gününde Indiana Jones&amp;rsquo;un Fate of Atlantis&amp;rsquo;inin CD versionunu oynayabilmenin keyfini ancak o yıllarda PC kullananlar bilebilir.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -99,7 +168,10 @@ GOG.com artık DOS oyunlarını tek bir tıklama ile çalıştırılabilecek pak
       <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/amiga/</guid>
-      <description>Amiga: Sent from my iPhonePosted using http://mobypicture.com/?clhlqc http://tinyurl.com/lx8h5r</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.omrb.org/wp-content/uploads/2009/07/e12aaa01284f5a7541186689a4d27187_large.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/e12aaa01284f5a7541186689a4d27187_large.jpg&#34; alt=&#34;e12aaa01284f5a7541186689a4d27187_large&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Amiga: Sent from my iPhonePosted using &lt;a href=&#34;http://mobypicture.com/?clhlqc&#34;&gt;http://mobypicture.com/?clhlqc&lt;/a&gt; &lt;a href=&#34;http://tinyurl.com/lx8h5r&#34;&gt;http://tinyurl.com/lx8h5r&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -108,9 +180,11 @@ GOG.com artık DOS oyunlarını tek bir tıklama ile çalıştırılabilecek pak
       <pubDate>Tue, 30 Jun 2009 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/amiga-500-working-condition/</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;947&amp;rdquo;]
-Amiga Sent from my iPhone - Posted using Mobypicture.com
-http://mobypicture.com/?clhlqc</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;947&amp;rdquo;]&lt;/p&gt;
+&lt;h2 id=&#34;amiga&#34;&gt;Amiga&lt;/h2&gt;
+&lt;p&gt;Sent from my iPhone - Posted using &lt;a href=&#34;http://mobypicture.com/?clhlqc&#34;&gt;Mobypicture.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://mobypicture.com/?clhlqc&#34;&gt;http://mobypicture.com/?clhlqc&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -119,7 +193,10 @@ http://mobypicture.com/?clhlqc</description>
       <pubDate>Tue, 07 Apr 2009 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/c64-laptop/</guid>
-      <description>Commodore 64 laptop designer looking for work. - http://gadgets.boingboing.net/2009/04/06/commodore-64-laptop.html</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/c64.jpg&#34; alt=&#34;c64&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Commodore 64 laptop designer looking for work. - &lt;a href=&#34;http://gadgets.boingboing.net/2009/04/06/commodore-64-laptop.html&#34;&gt;http://gadgets.boingboing.net/2009/04/06/commodore-64-laptop.html&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ios on Darkest Notes</title>
+    <title>Ios on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/ios/</link>
-    <description>Recent content in ios on Darkest Notes</description>
+    <description>Recent content in Ios on Darkest Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/ios/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,11 @@
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/tweetbot-6/</guid>
-      <description>Tapbots’un iPhone için Twitter client’i Tweetbot’da abonelik sistemini zorunlu tutan uygulamalar kervanına katılmış sonunda.
-Her yıl yenilemem gereken aboneliklerin listesine Tweetbot’u da eklemek gerekiyor artık…</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tapbots_2021-Jan-27.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Tapbots’un iPhone için Twitter client’i Tweetbot’da abonelik sistemini zorunlu tutan uygulamalar kervanına katılmış sonunda.&lt;/p&gt;
+&lt;p&gt;Her yıl yenilemem gereken aboneliklerin listesine Tweetbot’u da eklemek gerekiyor artık…&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -23,8 +26,19 @@ Her yıl yenilemem gereken aboneliklerin listesine Tweetbot’u da eklemek gerek
       <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/ios-13/</guid>
-      <description>iOS 13 iPhone’larımıza geldi gelmesine ama sorunlarıyla birlikte geldi. Daha iOS 13 çıkmadan 13.1 betaları dağıtıldı, 13.1.1 sonrasında 13.1.2. Herşey içinde bulunsun derken Apple fazlasıyla karman çorman bir hale getirdi iOS’u. Bu durum ister istemez sistemde hantallaşmaya yol açıyor kuşkusuz.
-Pek çok özelliği zaten ülkemizde kullanamıyoruz, bazı özelliklerinde farkında değiliz bile. Apple’ın iOS 13 sayfasında şöyle bir baktım neyi kullanıyorum, hangi özellikler bana faydalı diye, görünürde pek birşey yok.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/top-new-ios-13-features.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;iOS 13 iPhone’larımıza geldi gelmesine ama sorunlarıyla birlikte geldi. Daha iOS 13 çıkmadan 13.1 betaları dağıtıldı, 13.1.1 sonrasında 13.1.2. Herşey içinde bulunsun derken Apple fazlasıyla karman çorman bir hale getirdi iOS’u. Bu durum ister istemez sistemde hantallaşmaya yol açıyor kuşkusuz.&lt;/p&gt;
+&lt;p&gt;Pek çok özelliği zaten ülkemizde kullanamıyoruz, bazı özelliklerinde farkında değiliz bile. Apple’ın iOS 13 sayfasında şöyle bir baktım neyi kullanıyorum, hangi özellikler bana faydalı diye, görünürde pek birşey yok.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Face ID eskisine göre daha hızlı çalışıyor.&lt;/li&gt;
+&lt;li&gt;Batarya süresinde günlük kullanımda rahatlıkla farkedilebilir bir artış var.&lt;/li&gt;
+&lt;li&gt;Optimize şarj denilen bir özellik var, telefonu nasıl şarj ettiğinizi öğreniyor ve buna göre tam şarjı, şarjdan çıkaracağınız zamana yakın tamamlıyor.¯\_(ツ)_/¯&lt;img loading=&#34;lazy&#34; src=&#34;images/Memoji-Emoji-iOS13.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/li&gt;
+&lt;li&gt;En güzel özellik ise kendi Memojinizi, emoji olarak kullanabilmek.&lt;/li&gt;
+&lt;li&gt;3D Touch ortadan kalkmış, yerine Haptic Touch gelmiş.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -33,9 +47,21 @@ Pek çok özelliği zaten ülkemizde kullanamıyoruz, bazı özelliklerinde fark
       <pubDate>Sun, 18 Oct 2015 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/ios-9/</guid>
-      <description>iOS 9 geçtiğimiz ay içinde 16 Eylül Çarşamba günü kullanılabilir oldu. Aylardır beta sürümlerini kullanıyor olsam da, bazı özellikleri ancak herkes tarafından kullanılabilir olduğunda, uygulamalar iOS 9 için güncellendiğinde anlaşılır hale gelebiliyor.
-Internet üzerinde iOS 9 için yazılmış çok kapsamlı incelemeler yer alıyor. Rene Ritchie&amp;rsquo;nin 21000 kelimelik incelemesi, Federico Viticci&amp;rsquo;nin bir kitap kadar kapsamlı (48.000 kelime!) ve iPad ile yazılan incelemelerinde detaylar mevcut.
-iOS 9&amp;rsquo;da benim için önemli olan ve kullanımının yaygınlaşması ile daha da önemli hale gelecek özellikler şu şekilde sıralanıyor;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://d.pr/i/10hHo&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/10hHo&amp;#43;&#34; alt=&#34;&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;iOS 9 geçtiğimiz ay içinde 16 Eylül Çarşamba günü kullanılabilir oldu. Aylardır beta sürümlerini kullanıyor olsam da, bazı özellikleri ancak herkes tarafından kullanılabilir olduğunda, uygulamalar iOS 9 için güncellendiğinde anlaşılır hale gelebiliyor.&lt;/p&gt;
+&lt;p&gt;Internet üzerinde iOS 9 için yazılmış çok kapsamlı incelemeler yer alıyor. Rene Ritchie&amp;rsquo;nin 21000 kelimelik &lt;a href=&#34;http://www.imore.com/ios-9-review&#34;&gt;incelemesi&lt;/a&gt;, Federico Viticci&amp;rsquo;nin bir kitap kadar kapsamlı (48.000 kelime!) ve iPad ile yazılan &lt;a href=&#34;https://www.macstories.net/stories/ios-9-review/&#34;&gt;incelemelerinde&lt;/a&gt; detaylar mevcut.&lt;/p&gt;
+&lt;p&gt;iOS 9&amp;rsquo;da benim için önemli olan ve kullanımının yaygınlaşması ile daha da önemli hale gelecek özellikler şu şekilde sıralanıyor;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;App Thinning&lt;/li&gt;
+&lt;li&gt;Content Blockers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;App Thinning henüz kullanılabilir değil. iCloud BackUp&amp;rsquo;larda yaşanan sorunlar &lt;a href=&#34;http://9to5mac.com/2015/09/24/ios-9-app-thinning-delayed-icloud-bug/&#34;&gt;nedeniyle&lt;/a&gt; henüz kullanılamıyor. Yenilik olarak tanımlanan bir özelliğin kullanılabilir olmaması eleştirilebilecek bir durum.&lt;/p&gt;
+&lt;p&gt;Content Blockers ise büyük tartışmaları da beraberinde getirdi. Sitelerin gelir kapısının bu reklamlar olduğu ve onları engellemenin etik olmadığı savunulmaya başlandı. Hatta trajikomik bir olay yaşandı, Marco Arment ücretli olarak sattığı content blocker Peace&amp;rsquo;i App Store&amp;rsquo;dan çekmek zorunda kaldı.&lt;/p&gt;
+&lt;p&gt;Internet&amp;rsquo;in tamamıyle reklamlarla dolmasına ve kullanıcıların takip edilmesine tamamen karşı çıkan biri olarak internetin tamamen reklamsız hale getirilmesini şiddetle savunanlardan biriyim. Siteler gelirleri için üyelik sistemi konusunda biraz daha düşünmeli ve çalışmalılar. Ben bir siteyi düzenli olarak kullanıyor ve faydalanıyorsam aldığım bu hizmet için reklamlara tıklamayı değil, belirli bir ücret ödemeyi tercih ederim.&lt;/p&gt;
+&lt;p&gt;Bunu beceremeyen siteler kaybolup gidebilir hiç umrumda olmaz. Internet tamamen amatör bir çaba ile doğdu, iyi kötü öyle devam edecek.&lt;/p&gt;
+&lt;p&gt;Bilgisayarlarımda AdBlock, iPhone&amp;rsquo;umda ise Purify kullanıyorum ve gayet memnunum, saçma sapan reklamları görmek zorunda kalmadan internetin kullanılabilir olması sevindirici. Bunları kullandığım için sayfalarını göstermeyi reddeden web siteleri ise benim için internetin çöplüğünde yer almaya başlamışlardır. Kendileri çalıp kendileri oynamaya devam edebilirler.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -44,8 +70,14 @@ iOS 9&amp;rsquo;da benim için önemli olan ve kullanımının yaygınlaşması 
       <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/ios-8-devkit/</guid>
-      <description>Sonbaharın gelişi Apple dünyasında son yıllarda yeni iPhone modelleri ve iOS ile Mac OS’un piyasaya çıkış tarihlerinin yaklaştığına işaret eder. Yaz aylarında Beta sürümlerle yenilikler hakkında tecrübe edinmeye çalışsak da Final sürümler piyasaya çıkmadan işletim sistemleri ile ilgili yazılıp çizilen şeylerin çok anlamı yok.
-Telefonumda yaklaşık 3 haftadır iOS 8 Beta kullanıyorum. Genel olarak stabil, bunun yanında çeşitli uygulamalarda doğal olarak sorunlar var. Yoğun kullanımda telefonun ısınması ve bataryanın hızla boşalıyor olması betaların ortak problemlerinden.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://d.pr/i/SyX9&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/SyX9&amp;#43;&#34; alt=&#34;iOS 8 DevKit&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sonbaharın gelişi Apple dünyasında son yıllarda yeni iPhone modelleri ve iOS ile Mac OS’un piyasaya çıkış tarihlerinin yaklaştığına işaret eder. Yaz aylarında Beta sürümlerle yenilikler hakkında tecrübe edinmeye çalışsak da Final sürümler piyasaya çıkmadan işletim sistemleri ile ilgili yazılıp çizilen şeylerin çok anlamı yok.&lt;/p&gt;
+&lt;p&gt;Telefonumda yaklaşık 3 haftadır iOS 8 Beta kullanıyorum. Genel olarak stabil, bunun yanında çeşitli uygulamalarda doğal olarak sorunlar var. Yoğun kullanımda telefonun ısınması ve bataryanın hızla boşalıyor olması betaların ortak problemlerinden.&lt;/p&gt;
+&lt;p&gt;7 Versionu ile ile görsel ve UX olarak yenileşen iOS, iOS 8 ile geliştiricilere sağlayacağı olanaklar ile ön plana çıkacak gibi. 4000’den fazla yeni API’nin kullanıma girecek olması geliştiricilerin eski programlarında yeni özellikleri denemesi ve yeni yazılacak programların ise yepyeni olanaklarla ile özelleştirilmesi anlamına geliyor.&lt;/p&gt;
+&lt;p&gt;iOS 8 ile &lt;em&gt;CloudKit&lt;/em&gt; ve &lt;em&gt;iCloud Drive&lt;/em&gt; sayesinde dosya depolamada, &lt;em&gt;Metal, SpriteKit&lt;/em&gt; ve &lt;em&gt;SceneKit&lt;/em&gt; ile oyunlarda hız ve mimimum güç tüketimi imkanı sağlanıyor. App Extensions uygulamaların sistem ile daha kolay entegrasyonu ve dosya paylaşımının kolaylaşması demek. &lt;em&gt;HomeKit&lt;/em&gt;, aile bireylerinin uygulama ve veri alışverişini kolaylaştıracak, &lt;em&gt;Handoff&lt;/em&gt; telefonunuzu Apple’ın diğer ürünlerinde kullanabilmenizi sağlayacak. &lt;em&gt;Manual Camera Controls&lt;/em&gt;, uygulamaların dahili kamera ile iletişimini güçlendirecek, &lt;em&gt;Health Kit&lt;/em&gt; ise sağlık uygulamalarının iPhone tarafından tutulan verilerle bir arada çalışmasını sağlayacak özellikler içeriyor.&lt;/p&gt;
+&lt;p&gt;iPhone’un kapalı bir kutu olmasını eleştirenler iOS 8’in DevKit’ini detaylı olarak incelediklerinde veri ve dosya paylaşımı konusunda büyük yenilikler içerdiğini rahatlıkla görebilecekler. Kısaca iOS 7 görünüm ve UX yenilikleri ile geldi, iOS 8 ise geliştiricilere yönelik yenilikler içerecek.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -54,8 +86,18 @@ Telefonumda yaklaşık 3 haftadır iOS 8 Beta kullanıyorum. Genel olarak stabil
       <pubDate>Sat, 22 Jun 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/ios-7/</guid>
-      <description>Haziran ayında tanıtımı yapılan iOS 7&amp;rsquo;nin 1.betasını telefonuma geçtiğimiz hafta içinde yüklemiş bulundum. Beta sürümleri sürekli kullandığınız telefonlara yüklemenin tehlikelerinden bahsedilse de yazılım-donanım tehlikeleri ile yüzleşmeyi seven birisi olarak bir beta sürümünü en iyi her gün kullandığım telefonla en iyi şekilde test edilebileceğini düşünenlerdenim.
-iOS 7&amp;rsquo;yi ilk gördüğümde gerçekten hayal kırıklığına uğradım. Windows Phone&amp;rsquo;a büyük ölçüde benzemesi, nedense bir türlü sevemediğim Avenir yazıtipi, genel görünümde skeumorphismin terkedilerek pastel tonlu renkli bir görünümün oluşturulması hiç hoşuma gitmemişti.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/jnmh&amp;#43;&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Haziran ayında tanıtımı yapılan iOS 7&amp;rsquo;nin 1.betasını telefonuma geçtiğimiz hafta içinde yüklemiş bulundum. Beta sürümleri sürekli kullandığınız telefonlara yüklemenin tehlikelerinden bahsedilse de yazılım-donanım tehlikeleri ile yüzleşmeyi seven birisi olarak bir beta sürümünü en iyi her gün kullandığım telefonla en iyi şekilde test edilebileceğini düşünenlerdenim.&lt;/p&gt;
+&lt;p&gt;iOS 7&amp;rsquo;yi ilk gördüğümde gerçekten hayal kırıklığına uğradım. Windows Phone&amp;rsquo;a büyük ölçüde benzemesi, nedense bir türlü sevemediğim Avenir yazıtipi, genel görünümde skeumorphismin terkedilerek pastel tonlu renkli bir görünümün oluşturulması hiç hoşuma gitmemişti. Görünümün dışında uygulama geliştiriciler için sağlanan &lt;a href=&#34;https://developer.apple.com/ios7/&#34;&gt;1500&amp;rsquo;den fazla yeni API&lt;/a&gt;‘nin dışında yeni özellikler arasında beni çok etkileyen birşeyler de bulamamıştım.&lt;/p&gt;
+&lt;p&gt;Bakış açım iOS 7&amp;rsquo;yi telefonuma yükledikten sonra değişti. Genel görünümün retina ekranlı iPhone&amp;rsquo;lara çok daha fazla yakıştığını söyleyebilirim. Status Bar ile birlikte Wi-Fi ve GPS ikonları ince detaylı olarak çizilmiş, uygulama açılışındaki geçişler retina ekranın imkanlarından çok daha iyi yararlandığı görülüyor. 3 boyutlu parallax efekti ile arka-plan, ikonlar, ve en önde yer alan bildirim ekranı farklı katmanlar halinde render ediliyor, telefonu tutuş şeklinize göre ikonlar bakışlarınızı takip ediyor.&lt;/p&gt;
+&lt;p&gt;Yeni özellikler arasında en önemlisi Control Center. Hızlı kullanılması gereken özelliklerden (Bluetooth açma-kapama, parlaklık ayarı vb.) buraya toplanmış. El feneri yeni uygulama olarak bu bölümde yer alıyor.&lt;/p&gt;
+&lt;p&gt;App Store&amp;rsquo;un uygulamaları kendiliğinden güncelleştirmesi ve bunları Notification Center&amp;rsquo;da bildirim olarak vermesi beğendiğim özelliklerden biri.&lt;/p&gt;
+&lt;p&gt;Camera uygulaması içinde Instagram&amp;rsquo;da olduğu gibi çektiğiniz fotoğraflara filtreler ekleyebiliyorsunuz.&lt;/p&gt;
+&lt;p&gt;Safari&amp;rsquo;deki en önemli yenilik Shared Links bölümü. Twitter hesabınızda paylaşılan linklere doğrudan ulaşma imkanı sağlanmış.&lt;/p&gt;
+&lt;p&gt;Dosya paylaşımı konusunda AirDrop seçeneği sunulmuş olmakla birlikte denemelerimde çok etkili biçimde kullanamadım.&lt;/p&gt;
+&lt;p&gt;iOS 7 bir anlamda yeni nesil iPhone&amp;rsquo;lar için iOS 1.0 sürümü olarak tanımlanabilir. İlk iPhone çıktığından beri kullanılan tasarım iOS 7 ile tümüyle değişiyor. Yeni tasarımın mükemmel olduğu söylenemez ancak zaman içinde gelişeceği ve değişeceği unutulmamalı.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -64,9 +106,12 @@ iOS 7&amp;rsquo;yi ilk gördüğümde gerçekten hayal kırıklığına uğradı
       <pubDate>Sat, 23 Feb 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/thinglist/</guid>
-      <description>Bir daha hiçbirşeyi unutmayın!
-Bazen unutmak istemediğim şeyleri hızlı bir şekilde not almam gerekir, ama alınan bu notlar zamanla karmaşık hale gelir, aranılan bulunamaz ve notlar kaybolur gider.
-Thinglist işte böyle karmaşık notları belirli kategorilere ayırmak için minimal bir tasarımla hazırlanmış bir iOS uygulaması. Ana ekranında 9 kategori (Film, Kitap, Müzik, Yemek, Kişi, Ürün, Yer, Bar ve Fikir) yer alıyor. Seçimimi yapıp notumu kaydediyorum, işte bu kadar! İşlevsel, başarıyla tasarlanan ve uygulanan minimalist uygulamaları seviyorum.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/WAc7&amp;#43;&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Bir daha hiçbirşeyi unutmayın&lt;/em&gt;!&lt;/p&gt;
+&lt;p&gt;Bazen unutmak istemediğim şeyleri hızlı bir şekilde not almam gerekir, ama alınan bu notlar zamanla karmaşık hale gelir, aranılan bulunamaz ve notlar kaybolur gider.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://getthinglist.com&#34;&gt;Thinglist&lt;/a&gt; işte böyle karmaşık notları belirli kategorilere ayırmak için minimal bir tasarımla hazırlanmış bir &lt;a href=&#34;http://appstore.com/thinglist&#34;&gt;iOS&lt;/a&gt; uygulaması. Ana ekranında 9 kategori (Film, Kitap, Müzik, Yemek, Kişi, Ürün, Yer, Bar ve Fikir) yer alıyor. Seçimimi yapıp notumu kaydediyorum, işte bu kadar! İşlevsel, başarıyla tasarlanan ve uygulanan minimalist uygulamaları seviyorum.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -75,10 +120,28 @@ Thinglist işte böyle karmaşık notları belirli kategorilere ayırmak için m
       <pubDate>Tue, 29 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/ios-6.1-g%C3%B6ze-%C3%A7arpan-yenilikler/</guid>
-      <description> Apple&amp;rsquo;ın mobil cihazlar için ürettiği iOS işletim sisteminin 6.1 sürümü 28 Ocak&amp;rsquo;da kullanıcıların hizmetine sunuldu. Görsel olarak çok fazla yenilik bulunmamasına karşın pek çok güvenlik güncelleştirmesini içinde barındıran yeni sürümde göze çarpan yenilikler ise şöyle;
-Çeşitli ülkelerde sağlanan LTE desteği Fandango (USA) iTunes Match üyeleri için iCloud&amp;rsquo;dan şarkı indirebilme Reklam kimliğini sıfırlama - Carrier Update
-Turkcell 14.0 - Music.app
-Lock ekranında değişiklik Lock ekranında kontrol düğmelerinde değişiklik </description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mhelksQHEN1qz4rgp.png&#34; alt=&#34;image&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Apple&amp;rsquo;ın mobil cihazlar için ürettiği iOS işletim sisteminin 6.1 sürümü 28 Ocak&amp;rsquo;da kullanıcıların hizmetine sunuldu. Görsel olarak çok fazla yenilik bulunmamasına karşın pek çok &lt;a href=&#34;http://support.apple.com/kb/HT5642#&#34;&gt;güvenlik&lt;/a&gt; güncelleştirmesini içinde barındıran yeni sürümde göze çarpan yenilikler ise şöyle;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Çeşitli ülkelerde sağlanan LTE desteği&lt;/li&gt;
+&lt;li&gt;Fandango (USA)&lt;/li&gt;
+&lt;li&gt;iTunes Match üyeleri için iCloud&amp;rsquo;dan şarkı indirebilme&lt;/li&gt;
+&lt;li&gt;Reklam kimliğini sıfırlama&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;- Carrier Update&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Turkcell 14.0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;- Music.app&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lock ekranında değişiklik&lt;/li&gt;
+&lt;li&gt;Lock ekranında kontrol düğmelerinde değişiklik&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mhelqd3sOI1qz4rgp.png&#34; alt=&#34;image&#34;  /&gt;
+        &lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mhelqrxZhr1qz4rgp.png&#34; alt=&#34;image&#34;  /&gt;
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -87,12 +150,41 @@ Lock ekranında değişiklik Lock ekranında kontrol düğmelerinde değişiklik
       <pubDate>Sat, 22 Sep 2012 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/ios-6/</guid>
-      <description>Apple iOS 6&amp;rsquo;nın 200&amp;rsquo;den fazla yeni özellikle birlikte geldiğini söylüyor. Bu özelliklerin pek çoğu biz kullanıcılar tarafından farkında olmadan kullanılıyor. Bir kısmı ise dikkatimizi çekmiyor. Bir bölümünü ilk bakışta, bir bölümünü ise bir süre kullandıkça fark ediyoruz. Yaklaşık bir haftadır kullandığım iOS 6&amp;rsquo;da fark ettiğim ve diğer incelemelerde okuyarak kullandığım bazı özellikleri sıraladım.
-Music.app
-- Beyaz gri fon
-- Ses düğmesi üzerindeki metal yansıma.
-App Store
--Uygulama güncellemeleri için şifre sorulmuyor.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_marlcnUvfd1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Apple iOS 6&amp;rsquo;nın 200&amp;rsquo;den fazla yeni özellikle birlikte geldiğini söylüyor. Bu özelliklerin pek çoğu biz kullanıcılar tarafından farkında olmadan kullanılıyor. Bir kısmı ise dikkatimizi çekmiyor. Bir bölümünü ilk bakışta, bir bölümünü ise bir süre kullandıkça fark ediyoruz. Yaklaşık bir haftadır kullandığım iOS 6&amp;rsquo;da fark ettiğim ve diğer incelemelerde okuyarak kullandığım bazı özellikleri sıraladım.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Music.app&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Beyaz gri fon&lt;/p&gt;
+&lt;p&gt;- Ses düğmesi üzerindeki metal yansıma.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;App Store&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;-Uygulama güncellemeleri için şifre sorulmuyor.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Clock&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- iPad için yeni saat uygulaması&lt;/p&gt;
+&lt;p&gt;- Alarm olarak tonların dışında bir müzik parçası da seçilebiliyor.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mail&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Aşağıya sürükleyerek postaları yeniden denetleme imkanı.&lt;/p&gt;
+&lt;p&gt;- VIP Posta Kutusu&lt;/p&gt;
+&lt;p&gt;- Her posta kutusu için farklı imza seçeneği.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Safari&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Landscape modunda iken fullscreen düğmesi (Sadece iPhone)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Maps&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Google yerine Apple kendi haritalarını kullanıyor.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Menubar&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Uygulamaya göre rengi değişebiliyor.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Telefon&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Beyaz tuş takımı&lt;/p&gt;
+&lt;p&gt;- Arayanı cevaplamak yerine yukarı sürükleyerek daha sonra aramayı hatırlamak yada kısa mesajla cevap verme imkanı.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genel&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Facebook entegrasyonu&lt;/p&gt;
+&lt;p&gt;- Sharing Sheet&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Safari&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- iCloud Tabs&lt;/p&gt;
+&lt;p&gt;iOS 6 ile ilgili pek çok yerde yazılmış inceleme yazıları bulunuyor. Benim okuduğum ve beğendiğim en iyilerinin linkleri ise aşağıda yer alıyor.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.theverge.com/2012/9/21/3363060/ios-6-review&#34;&gt;http://www.theverge.com/2012/9/21/3363060/ios-6-review&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.macstories.net/stories/the-ios-6-trilemma/&#34;&gt;http://www.macstories.net/stories/the-ios-6-trilemma/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://arstechnica.com/apple/2012/09/review-ios-6-gets-the-spit-and-polish-treatment/&#34;&gt;http://arstechnica.com/apple/2012/09/review-ios-6-gets-the-spit-and-polish-treatment/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;iOS 6 bana göre sosyal network entegrasyonu, kullanımı kolaylaştıran yenilikleri ile bence başarılı bir güncelleme. Belki iOS 5.5 olarak adlandırılabilirdi. Böylece gelecek yıl çıkacak iPhone 6 ile iOS sürümlerinin isimleri de eşitlenmiş olurdu. :)&lt;/p&gt;
+</description>
     </item>
     
   </channel>

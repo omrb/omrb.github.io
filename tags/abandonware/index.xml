@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>abandonware on Darkest Notes</title>
+    <title>Abandonware on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/abandonware/</link>
-    <description>Recent content in abandonware on Darkest Notes</description>
+    <description>Recent content in Abandonware on Darkest Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 27 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/abandonware/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,15 @@
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/sound-blaster-pro/</guid>
-      <description>IBM PC dünyası 90’lı yılların başından itibaren ses kartları ile tanıştı. 1987 yılında çıkan Adlib ve sonrasında ultra pahalı Roland MIDI modüllerinin ardından Creative piyasaya makul fiyat etiketli ve dijital ses efektleri sunabilen Sound Blaster ses kartları ile 1990 yılında girdi ve piyasaya 10 yıldan fazla bir süre hakim oldu. Creative ses kartları içinde bence en önemlisi Sound Blaster Pro modelidir. Hem eskiyle uyumlu, hem stereo, hem güçlü OPL3 yongası hem de CD-ROM arabirimi ile 1991 yılında ortaya çıkar.</description>
+      <description>&lt;p&gt;IBM PC dünyası 90’lı yılların başından itibaren ses kartları ile tanıştı. 1987 yılında çıkan Adlib ve sonrasında ultra pahalı Roland MIDI modüllerinin ardından Creative piyasaya makul fiyat etiketli ve dijital ses efektleri sunabilen Sound Blaster ses kartları ile 1990 yılında girdi ve piyasaya 10 yıldan fazla bir süre hakim oldu.&lt;img loading=&#34;lazy&#34; src=&#34;images/Sound_Blaster_Pro2-Box-Win31_Label2.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Creative ses kartları içinde bence en önemlisi Sound Blaster Pro modelidir. Hem eskiyle uyumlu, hem stereo, hem güçlü OPL3 yongası hem de CD-ROM arabirimi ile 1991 yılında ortaya çıkar. O zamanın ev bilgisayarı Amiga ile hemen hemen aynı kalitede ses çıkışı verebilen bir karttır bu. Çıktığı dönem biraz problemlidir elbette. İlk sürümünde OPL3 yongası yerine stereo ses çıkışı için 2 adet YM3812 synthisizer chip bulundurur. O dönem piyasada Windows 3.0 olduğundan paketten çıkan yazılımlar Windows 3.0 için üretilmiştir. &lt;img loading=&#34;lazy&#34; src=&#34;images/Sound_Blaster_Pro-1991.jpg&#34; alt=&#34;https://www.retrogamingmuseum.com/the-collection/sound-blaster-pro-ct1330-1991&#34;  /&gt;
+Sonraki modellerde (Sound Blaster Pro2 olarak adlandırılan) gerçek OPL3 (YMF262) eklenir, 1992 yılında Windows 3.1 multimedia desteği ile çıkınca ses kartı ile bundle edilen Windows 3.0 programları işlevsiz kalır, kartın kutusu üzerine Windows 3.1 uyumludur ibaresi ile bir süre daha satılır. Sürücüler ve programlar Windows 3.1 için hazırlandıktan sonra kutu üzerine etiketle Windows 3.1 sürücülerinin eklendiği belirtilir.&lt;/p&gt;
+&lt;p&gt;Bu etiketli Sound Blaster Pro kutuları benim PC’ye ses kartı almaya çalıştığım dönemde sıkça karşıma çıkıyordu, ben farklı bir model ses kartı aldığımdan Sound Blaster Pro içinden hangi programlar çıkıyor ve sürücülerde ne gibi değişiklikler vardı hep merak ettim. &lt;img loading=&#34;lazy&#34; src=&#34;images/Sound-Blaster-Pro-Disk_Label-1992.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Geçtiğimiz günlerde bu disketin orijinal içeriğine kavuştum ve bir miktar inceleme imkanı bulabildim 30 yıl sonra. &lt;img loading=&#34;lazy&#34; src=&#34;images/Sound_Blaster_Pro-1993-1994-a.png&#34; alt=&#34;&#34;  /&gt;
+Sound Blaster Pro daha iyi Sound Blaster modelleri çıkmasına rağmen (Sound Blaster 16) 1993-1994 yıllarında yeni kutu dizaynı ve Indianapolis 500 ve Lemmings oyun bundle’ları ile satışına uzun bir süre devam etti.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -22,8 +30,15 @@
       <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/ibmulator/</guid>
-      <description>Soğuk kış günlerinde evde otururken nedense aklıma 1991 yılı sonu 1992 yılı başlarındaki soğuk bir kış gününde babamla IBM PS/1 bakmaya gittiğimiz gün geldi. Commodore 64 sonrası geleceğe dönük bir bilgisayar alma düşüncesi ile Amiga mı yoksa PC uyumlu bilgisayar mı alalım diye düşünürken TV&amp;rsquo;de reklamlarını gördüğümüz IBM PS/1 modeli neyin nesiymiş bakmaya gitmiştik soğuk bir Cumartesi akşam üzeri.
-Mağaza sahibi bizimle fazlasıyla ilgilenmiş, oğlu hemen teşhirdeki ürünü kullanıma hazır hale getirmişti.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/IBMulator-PS1_Realistic_View.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Soğuk kış günlerinde evde otururken nedense aklıma 1991 yılı sonu 1992 yılı başlarındaki soğuk bir kış gününde babamla IBM PS/1 bakmaya gittiğimiz gün geldi. Commodore 64 sonrası geleceğe dönük bir bilgisayar alma düşüncesi ile Amiga mı yoksa PC uyumlu bilgisayar mı alalım diye düşünürken TV&amp;rsquo;de reklamlarını gördüğümüz IBM PS/1 modeli neyin nesiymiş bakmaya gitmiştik soğuk bir Cumartesi akşam üzeri.&lt;/p&gt;
+&lt;p&gt;Mağaza sahibi bizimle fazlasıyla ilgilenmiş, oğlu hemen teşhirdeki ürünü kullanıma hazır hale getirmişti. Bilgisayar boot ederken hoparlöründen gelen &amp;ldquo;&lt;em&gt;beep-blüp&lt;/em&gt;&amp;rdquo; sesleri ve sonrasında 640x480x16 renkli ekranına gelen 4-Quadrant ile bizi orada büyülemişti bilgisayar. 640x480 çözünürlüklü renkli grafikler o zamanlar için günümüzün 4k teknolojisi gibi birşeydi. Yalnız anlaşılan şuydu ki IBM elinde kalan eski model PS/1&amp;rsquo;leri yeni modelleri çıkarmadan önce Türkiye&amp;rsquo;de satabilme çabasında idi. 1990 yılında üretilen ve 1991 yılının hemen başında Amerika ve Avrupa&amp;rsquo;da satılan bu ilk PS/1 modelleri &amp;ldquo;&lt;strong&gt;&lt;em&gt;5 Dakika ve İşin İçindesiniz&lt;/em&gt;&lt;/strong&gt;&amp;rdquo; gibi bir sloganla PC kullanmaya çekinen kitleleri PC dünyasına çekebilmek için üretilmişti. Zaten bu 4 quadrant hikayesi de Macintosh&amp;rsquo;un grafik kullanıcı arabiriminin benzerini PC dünyasına taşıma çabasıydı. Neyse sonuçta bu bilgisayarlar fazlasıyla eski bir teknolojiye sahipti. Türkiye&amp;rsquo;ye gelen 4 model 80286-10 MhZ işlemcili, renkli-renksiz ekranlı ve 30 MByte HDD&amp;rsquo;li, HDD&amp;rsquo;siz modellerden oluşuyordu. Sonuçta Türkiye&amp;rsquo;de bu cihazlardan kaç adet satıldı ne oldu bilemiyorum ama sonraki model PS/1&amp;rsquo;lerin hiçbiri Türkiye&amp;rsquo;ye gelmedi onu biliyorum. Dükkanda teşhirde incelediğim model HDD&amp;rsquo;si olmayan bir modeldi, HDD&amp;rsquo;li olsa belki o gün orada satın alınırdı ama almadık.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/PS1-4Quadrant.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;4 quadrant ekranı ve o arabirimin nasıl çalıştığını hep merak edip durdum sonrasında. Internet zamanında bile bu bilgisayar ile ilgili bilgi bulmak oldukça zor olmuştu. Macintosh&amp;rsquo;u andıran kasası ve orijinal mikrokodu ile tam bir koleksiyon ürünü olmuştu kendisi.&lt;/p&gt;
+&lt;p&gt;Yıllar sonra Marco Bortolin ismindeki IBM PS/1 meraklısı bir arkadaş, oturdu üşenmedi ve bir &lt;a href=&#34;https://barotto.github.io/IBMulator/&#34;&gt;IBM PS/1 emülatörü&lt;/a&gt; yazdı. Birkaç yıldır biraz geliştirilmesini bekledim ve geçtiğimiz haftalar içinde detaylıca inceledim. 4 Quadrant arabirimini ve bilgisayar ile yüklü gelen programları detaylıca inceleyip kurcaladım biraz. IBMulator&amp;rsquo;da IBM PS/1 için üretilen Audio/Joystick ses kartının emülasyonu bile var. Çok az Sierra oyununun desteklediği bu kartın nasıl ses verdiğini de görebilmiş olmak 30 yıl öncesinin anılarını tekrar canlandırdı.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -32,8 +47,13 @@ Mağaza sahibi bizimle fazlasıyla ilgilenmiş, oğlu hemen teşhirdeki ürünü
       <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/boxer-ve-dot-matrix-printer-em%C3%BClasyonu/</guid>
-      <description>Hafta sonu uzun zamandır beklediğim ancak programcısının artık herhangi bir geliştirme yapacağını düşünmediğim bir uygulama ile uğraşmakla geçti. Boxer. Büyük oranda gelişimini tamamlamış bir uygulama aslında, DOSBox için yazılmış bir kullanıcı arayüzü. Ancak MacOs’un kullanıcı dostu arabirimine yönelik o kadar ince detaylar düşünülerek geliştirilmiş ki bir daha Windows ile DOSBox kullanamaz oldum.
-Oyun ve programların dökümanları ve kutu resimleri ile bir paket haline getirilebilmesi, DOSBox’dan farklı daha gelişmiş Roland MT-32 emülasyonu, Roland MT-32’nin LCD ekranında kimi programlar tarafından yazılan mesajları benzer bir biçimde ekranda gösterme gibi eski bilgisayarcılara yönelik baştan çıkarıcı detaylar.</description>
+      <description>&lt;p&gt;Hafta sonu uzun zamandır beklediğim ancak programcısının artık herhangi bir geliştirme yapacağını düşünmediğim bir uygulama ile uğraşmakla geçti. &lt;a href=&#34;http://boxerapp.com&#34;&gt;Boxer&lt;/a&gt;. Büyük oranda gelişimini tamamlamış bir uygulama aslında, DOSBox için yazılmış bir kullanıcı arayüzü. Ancak MacOs’un kullanıcı dostu arabirimine yönelik o kadar ince detaylar düşünülerek geliştirilmiş ki bir daha Windows ile DOSBox kullanamaz oldum.&lt;/p&gt;
+&lt;p&gt;Oyun ve programların dökümanları ve kutu resimleri ile bir paket haline getirilebilmesi, DOSBox’dan farklı daha gelişmiş Roland MT-32 &lt;a href=&#34;https://sourceforge.net/projects/munt/&#34;&gt;emülasyonu&lt;/a&gt;, Roland MT-32’nin LCD ekranında kimi programlar tarafından yazılan mesajları benzer bir biçimde ekranda gösterme gibi eski bilgisayarcılara yönelik baştan çıkarıcı detaylar.&lt;/p&gt;
+&lt;p&gt;Geçen yıllarda bu özelliklere bir de dot-matrix yazıcı emülasyonunun ekleneceğinden &lt;a href=&#34;http://blog.boxerapp.com/page/3&#34;&gt;bahsedildi&lt;/a&gt;, ancak bu sürüm hiçbir zaman “public” olmadı.&lt;/p&gt;
+&lt;p&gt;Hazır yapacak çok birşey yokken oturdum kaynak kodunu GitHub’dan indirdim ve XCode ile derledim bu alpha sürümünü Boxerapp’in. Bir kez daha vuruldum programa. Alınan çıktı MacOs’un yazıcı arabirimine gönderiliyor ve istenirse PDF olarak kaydedilebiliyor. Normal text dosyalarının yazdırılması çok birşey ifade etmiyor belki ama grafik dosyalarını yazdırınca 1990’lı yılların başına bir yolculuk yapıyor insan.&lt;/p&gt;
+&lt;p&gt;İşte burada birkaç retro resim dosyasından emülasyon yolu ile alınan çıktı örneği var.&lt;/p&gt;
+&lt;p&gt;[gallery type=&amp;ldquo;slideshow&amp;rdquo; ids=&amp;ldquo;2999,3000,3004,3001,3002,3009,3003,3005,3008,3006,3007&amp;rdquo;]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -42,9 +62,18 @@ Oyun ve programların dökümanları ve kutu resimleri ile bir paket haline geti
       <pubDate>Mon, 28 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/eskiden-hersey-ne-g%C3%BCzeldi/</guid>
-      <description>1987 yılbasında, soguk bir kıs günü eve giren Commodore 64 ile basladı hersey. Görüntü kablosu kocaman tüplü televizyona baglanır, oyunlar kasetten yüklenirdi. Degisik oyunları oynanırdı ailecek. (Çünkü tek televizyon olurdu evlerde) Hafta ici açılmazdı, çünkü okul vardı, hafta sonu iple çekilir, cuma gecesi bütün hafta hayali kurulan oyunlar heyecanla oynanırdı.
-[caption id=&amp;ldquo;attachment_2748&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;1184&amp;rdquo;] Saturday Morning[/caption]
-Hersey ne güzeldi 1990&amp;rsquo;da 1991&amp;rsquo;de. Amiga bilgisayar vardı. Beyaz ekranda Workbench disketi tutan bir el.</description>
+      <description>&lt;p&gt;1987 yılbasında, soguk bir kıs günü eve giren Commodore 64 ile basladı hersey. Görüntü kablosu kocaman tüplü televizyona baglanır, oyunlar kasetten yüklenirdi. Degisik oyunları oynanırdı ailecek. (Çünkü tek televizyon olurdu evlerde) Hafta ici açılmazdı, çünkü okul vardı, hafta sonu iple çekilir, cuma gecesi bütün hafta hayali kurulan oyunlar heyecanla oynanırdı.&lt;/p&gt;
+&lt;p&gt;[caption id=&amp;ldquo;attachment_2748&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;1184&amp;rdquo;]&lt;img loading=&#34;lazy&#34; src=&#34;images/Steven_Vitale-Saturday_Morning.png&#34; alt=&#34;Steven_Vitale-Saturday_Morning&#34;  /&gt;
+ Saturday Morning[/caption]&lt;/p&gt;
+&lt;p&gt;Hersey ne güzeldi 1990&amp;rsquo;da 1991&amp;rsquo;de. &lt;a href=&#34;https://darkestnotes.org/2009/09/26/eski-bilgisayarlar-amiga/&#34;&gt;Amiga&lt;/a&gt; bilgisayar vardı. Beyaz ekranda Workbench disketi tutan bir el. Disket sürücüden tuhaf sesler çıkardı yükleme esnasında. Mavi pencereli GUI&amp;rsquo;si vardı, kendine özel karakterleri, ikonları. Bazı programlar ve oyunlar sadece 1 MByte RAM&amp;rsquo;de çalışırdı. &lt;a href=&#34;https://darkestnotes.org/2015/07/12/dergilerdergicilik/&#34;&gt;Dergilerden&lt;/a&gt; takip ederdik yeni çıkan oyunları, programları. MAC Adventure okurduk, eski oyunları yeniden oynardık.&lt;/p&gt;
+&lt;p&gt;[caption id=&amp;ldquo;attachment_2750&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;1316&amp;rdquo;]&lt;img loading=&#34;lazy&#34; src=&#34;images/Amiga_500.png&#34; alt=&#34;Amiga_500&#34;  /&gt;
+ Amiga 500, not Plus model![/caption]&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://darkestnotes.org/2010/05/31/80lerde-muzik-dinlemek/&#34;&gt;Müzik&lt;/a&gt; dinlemek ayrı bir keyifti. Kasete çekilirdi albümler, önceleri LP&amp;rsquo;den kopyalanırdı, cızırtılı olurdu ama bangır bangır gelirdi ses. Sonra CD&amp;rsquo;ler çıktı, daha kaliteli dedik ama bir yavanlık vardı, dijitaldi çünkü.&lt;/p&gt;
+&lt;p&gt;Hersey daha güzeldi eskiden, oynadığımız oyunun suyunu çıkarırdık, en ince detayları bilir, disketin içindeki hangi dosyanın ne işe yaradıgını ezberlerdik. Yaptıgımız hersey ayrı bir keyif verirdi, öylesine degildi hiçbirsey.&lt;/p&gt;
+&lt;p&gt;[caption id=&amp;ldquo;attachment_2755&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;1024&amp;rdquo;]&lt;img loading=&#34;lazy&#34; src=&#34;images/Amiga_500_Plus.png&#34; alt=&#34;Amiga_500_Plus&#34;  /&gt;
+ Amiga 500 Plus Model[/caption]&lt;/p&gt;
+&lt;p&gt;Sonra Amiga 500+ çıktı. Aynı eski Amiga&amp;rsquo;ydı, mor fondaki hareketli Workbench disketi dısında. Bazı oyunları çalıstırmazdı, problem çıkarırdı, ama çok güzel aletti. Hep hayal etmisimdir, karlı bir yılbaşı günü, okulun olmadıgı bir hafta sabah erkenden kalkıp Amiga&amp;rsquo;mın basına oturup saatlerce oyun oynamayı. &lt;a href=&#34;https://darkestnotes.org/2006/12/03/f-29-retaliator/&#34;&gt;F-29 Retaliator&lt;/a&gt;, Pirates!, Guild of Thieves&amp;hellip;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -53,8 +82,11 @@ Hersey ne güzeldi 1990&amp;rsquo;da 1991&amp;rsquo;de. Amiga bilgisayar vardı.
       <pubDate>Sun, 21 Oct 2012 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/gog-os-x/</guid>
-      <description>Eski DOS oyunlarını OS X&amp;rsquo;de oynamak DOSBox için yazılmış Boxer gibi arabirimler sayesinde çok zor olmuyordu. Bununla birlikte GOG.com‘dan satın aldığım oyunları install etmek için öncelikle Windows&amp;rsquo;a geçmem daha sonra dosyaları OS X&amp;rsquo;e aktarmam gerekirdi.
-GOG.com artık DOS oyunlarını tek bir tıklama ile çalıştırılabilecek paketler halinde OS X için de satmaya başladı. Çok fazla oyunu deneme imkanım olmadı ama Boxer&amp;rsquo;ın sağladığı stabil platform sayesinde eski DOS oyunlarını Windows&amp;rsquo;a dönmeden rahatlıkla OS X&amp;rsquo;de oynayabilmek artık mümkün.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_mc9bssHXgj1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Eski DOS oyunlarını OS X&amp;rsquo;de oynamak DOSBox için yazılmış &lt;a href=&#34;http://boxerapp.com&#34;&gt;Boxer&lt;/a&gt; gibi arabirimler sayesinde çok zor olmuyordu. Bununla birlikte &lt;a href=&#34;http://www.gog.com&#34;&gt;GOG.com&lt;/a&gt;‘dan satın aldığım oyunları install etmek için öncelikle Windows&amp;rsquo;a geçmem daha sonra dosyaları OS X&amp;rsquo;e aktarmam gerekirdi.&lt;/p&gt;
+&lt;p&gt;GOG.com artık DOS oyunlarını tek bir tıklama ile çalıştırılabilecek paketler halinde OS X için de satmaya başladı. Çok fazla oyunu deneme imkanım olmadı ama Boxer&amp;rsquo;ın sağladığı stabil platform sayesinde eski DOS oyunlarını Windows&amp;rsquo;a dönmeden rahatlıkla OS X&amp;rsquo;de oynayabilmek artık mümkün.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -63,8 +95,21 @@ GOG.com artık DOS oyunlarını tek bir tıklama ile çalıştırılabilecek pak
       <pubDate>Sun, 10 Apr 2011 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/dosbox-ve-boxer/</guid>
-      <description>Geçmişe özlem duyanlar, geçmişe dönebilmenin yollarını ararlar. 1992 yılında ilk PC bilgisayarıma geçtiğimde Commodore 64 ve Amiga benim için tarihin tozlu sayfalarına gömülmüştü. Gelecek PC&amp;rsquo;lerdeydi, Amiga ve Commodore 64 için çıkmış oyunların çok daha iyileri PC&amp;rsquo;de mevcuttu. Ama hiç düşündüğüm gibi olmadı.
-Öncelikle çoğu oyun PC&amp;rsquo;de olmasına karşın kimi oyunların Amiga versionları çok daha iyiydi. Oyunlar eğer 256 renk VGA çözünürlüğü kullanmıyorsa 16 renge mahkumdu, Amiga ise 32 renk sunuyordu. Eğer PC&amp;rsquo;de ses kartı yoksa (ki o zamanlar ses kartım yoktu) PC hoparlöründen gelen bip sesleriyle yetinmek zorundaydık.</description>
+      <description>&lt;p&gt;Geçmişe özlem duyanlar, geçmişe dönebilmenin yollarını ararlar. 1992 yılında ilk PC bilgisayarıma geçtiğimde Commodore 64 ve Amiga benim için tarihin tozlu sayfalarına gömülmüştü. Gelecek PC&amp;rsquo;lerdeydi, Amiga ve Commodore 64 için çıkmış oyunların çok daha iyileri PC&amp;rsquo;de mevcuttu. Ama hiç düşündüğüm gibi olmadı.&lt;/p&gt;
+&lt;p&gt;Öncelikle çoğu oyun PC&amp;rsquo;de olmasına karşın kimi oyunların Amiga versionları çok daha iyiydi. Oyunlar eğer 256 renk VGA çözünürlüğü kullanmıyorsa 16 renge mahkumdu, Amiga ise 32 renk sunuyordu. Eğer PC&amp;rsquo;de ses kartı yoksa (ki o zamanlar ses kartım yoktu) PC hoparlöründen gelen bip sesleriyle yetinmek zorundaydık. PC&amp;rsquo;lerde hız konusunda bir standart yoktu, eski oyunlar oynanılmayacak kadar hızlı çalışıyordu, Amiga oyunları ise o donanım için test edilmiş olarak çıktığından yavaş olsa da en azından bir standarta sahipti.&lt;/p&gt;
+&lt;p&gt;Bu nedenlerle çoğu oyunun Amiga versionlarını hatta bazı eski oyunların Commodore 64 versionlarını yeniden oynamak çok daha keyifli oluyordu. Bununla birlikte PC masamın üstünü tamamen kapladığından diğer bilgisayarlar zamanla dolaplarındaki yerini aldı, o bilgisayarlarda oynadığım oyunlar güzel birer hatıra oldu.&lt;/p&gt;
+&lt;p&gt;Aynı durumun PC&amp;rsquo;ler için yaşanacağı o zamanlar hayal edilememişti tabi. DOS için yazılmış oyunlar 1995&amp;rsquo;den itibaren yavaş yavaş yerini Windows için yazılmış oyunlara bıraktı. Bilgisayarlar hızlandı, floppy disklerin yerini CD-ROM&amp;rsquo;lar aldı. DOS için programlanan oyunları Windows uyumluluk modunda zorlukla oynayabiliyor olsakda uyumsuzluk problemleri gecikmedi.&lt;/p&gt;
+&lt;p&gt;Bu sorunları ortadan &lt;a href=&#34;http://www.dosbox.com/&#34; title=&#34;DOSBox&#34;&gt;DOSBox&lt;/a&gt; isimli program kaldırdı. DOSBox hemen hemen her işletim sistemi altında çalışan, tüm eski ses kartlarını destekleyen bir DOS penceresi açtı bizim gibi nostaljik kişiliklierin dünyasına. DOSBox&amp;rsquo;ı kullanmak çok kolay değildi tabi, sanal bir disk ortamı yaratmak, ses kartı adresi ve IRQ seçmek için konfigürasyon dosyası ile uğraşmak gerekiyordu. Bu işlemleri kolaylaştırmak için frontendler yazıldı. Bunların içinde bence en iyisi ve kolay kullanımlı olanı &lt;a href=&#34;http://boxerapp.com/&#34; title=&#34;Boxer&#34;&gt;Boxer&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_ljfnh8oPG01qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Boxer&amp;rsquo;a yeni oyun eklemek çok kolay. Sadece oyun klasörünü Boxer&amp;rsquo;a sürüklüyorsunuz, eğer bir installer varsa program onu çalıştırıyor ve konfigürasyonu gerçekleştiriyorsunuz. Oyunun adını yazıp oyun kutusunun resmini eklemeniz yeterli.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_ljfnioC3G91qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Aynı şey CD imajları içinde geçerli. Karşılaşılacak en önemli sorun Mac klavyesi ile PC klavyesi arasındaki farklılıklar nedeniyle bazı oyunların PC klavyesine özel tuş kombinasyonları kullanmaları olabilir. Bazı oyunlar içinde hızın ayarlanabilmesi için ince ayarlar yapmak gerekebiliyor.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_ljfnj7LHEp1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Eskiden oynadığımız oyunları tekrardan oynamak geçmişe dönmemizi sağlamaz belki ama yağmurlu bir pazar gününde Indiana Jones&amp;rsquo;un Fate of Atlantis&amp;rsquo;inin CD versionunu oynayabilmenin keyfini ancak o yıllarda PC kullananlar bilebilir.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

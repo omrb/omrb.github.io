@@ -6,9 +6,18 @@
     <description>Recent content in Categories on Darkest Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 20 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>music</title>
+      <title>Blog</title>
+      <link>https://darkestnotes.org/categories/blog/</link>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
       <link>https://darkestnotes.org/categories/music/</link>
       <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
       
@@ -17,7 +26,7 @@
     </item>
     
     <item>
-      <title>review</title>
+      <title>Review</title>
       <link>https://darkestnotes.org/categories/review/</link>
       <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
       
@@ -26,7 +35,7 @@
     </item>
     
     <item>
-      <title>internet</title>
+      <title>Internet</title>
       <link>https://darkestnotes.org/categories/internet/</link>
       <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
       
@@ -35,16 +44,7 @@
     </item>
     
     <item>
-      <title>blog</title>
-      <link>https://darkestnotes.org/categories/blog/</link>
-      <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://darkestnotes.org/categories/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>wordpress</title>
+      <title>Wordpress</title>
       <link>https://darkestnotes.org/categories/wordpress/</link>
       <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
       
@@ -53,7 +53,7 @@
     </item>
     
     <item>
-      <title>apps</title>
+      <title>Apps</title>
       <link>https://darkestnotes.org/categories/apps/</link>
       <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
       
@@ -62,7 +62,7 @@
     </item>
     
     <item>
-      <title>comics</title>
+      <title>Comics</title>
       <link>https://darkestnotes.org/categories/comics/</link>
       <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
       
@@ -71,7 +71,7 @@
     </item>
     
     <item>
-      <title>story</title>
+      <title>Story</title>
       <link>https://darkestnotes.org/categories/story/</link>
       <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
       
@@ -80,7 +80,7 @@
     </item>
     
     <item>
-      <title>abandonware</title>
+      <title>Abandonware</title>
       <link>https://darkestnotes.org/categories/abandonware/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       
@@ -89,7 +89,7 @@
     </item>
     
     <item>
-      <title>amiga</title>
+      <title>Amiga</title>
       <link>https://darkestnotes.org/categories/amiga/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       
@@ -98,7 +98,7 @@
     </item>
     
     <item>
-      <title>hardware</title>
+      <title>Hardware</title>
       <link>https://darkestnotes.org/categories/hardware/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       
@@ -107,7 +107,7 @@
     </item>
     
     <item>
-      <title>computer</title>
+      <title>Computer</title>
       <link>https://darkestnotes.org/categories/computer/</link>
       <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
       
@@ -116,7 +116,7 @@
     </item>
     
     <item>
-      <title>design</title>
+      <title>Design</title>
       <link>https://darkestnotes.org/categories/design/</link>
       <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
       
@@ -125,7 +125,7 @@
     </item>
     
     <item>
-      <title>pc</title>
+      <title>Pc</title>
       <link>https://darkestnotes.org/categories/pc/</link>
       <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
       
@@ -134,7 +134,7 @@
     </item>
     
     <item>
-      <title>games</title>
+      <title>Games</title>
       <link>https://darkestnotes.org/categories/games/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       
@@ -143,7 +143,7 @@
     </item>
     
     <item>
-      <title>picture</title>
+      <title>Picture</title>
       <link>https://darkestnotes.org/categories/picture/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
@@ -152,7 +152,7 @@
     </item>
     
     <item>
-      <title>movie</title>
+      <title>Movie</title>
       <link>https://darkestnotes.org/categories/movie/</link>
       <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
       
@@ -161,7 +161,7 @@
     </item>
     
     <item>
-      <title>quote</title>
+      <title>Quote</title>
       <link>https://darkestnotes.org/categories/quote/</link>
       <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
       
@@ -170,7 +170,7 @@
     </item>
     
     <item>
-      <title>video</title>
+      <title>Video</title>
       <link>https://darkestnotes.org/categories/video/</link>
       <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
       
@@ -179,7 +179,7 @@
     </item>
     
     <item>
-      <title>book</title>
+      <title>Book</title>
       <link>https://darkestnotes.org/categories/book/</link>
       <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
       
@@ -188,7 +188,7 @@
     </item>
     
     <item>
-      <title>c64</title>
+      <title>C64</title>
       <link>https://darkestnotes.org/categories/c64/</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
       
@@ -197,7 +197,7 @@
     </item>
     
     <item>
-      <title>apple</title>
+      <title>Apple</title>
       <link>https://darkestnotes.org/categories/apple/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
       
@@ -206,7 +206,7 @@
     </item>
     
     <item>
-      <title>philosophy</title>
+      <title>Philosophy</title>
       <link>https://darkestnotes.org/categories/philosophy/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
       
@@ -215,7 +215,7 @@
     </item>
     
     <item>
-      <title>pessimism</title>
+      <title>Pessimism</title>
       <link>https://darkestnotes.org/categories/pessimism/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
       
@@ -224,7 +224,7 @@
     </item>
     
     <item>
-      <title>trip</title>
+      <title>Trip</title>
       <link>https://darkestnotes.org/categories/trip/</link>
       <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
       
@@ -233,7 +233,7 @@
     </item>
     
     <item>
-      <title>football</title>
+      <title>Football</title>
       <link>https://darkestnotes.org/categories/football/</link>
       <pubDate>Mon, 11 Jul 2016 00:00:00 +0000</pubDate>
       
@@ -242,7 +242,7 @@
     </item>
     
     <item>
-      <title>archaeology</title>
+      <title>Archaeology</title>
       <link>https://darkestnotes.org/categories/archaeology/</link>
       <pubDate>Fri, 13 Nov 2015 00:00:00 +0000</pubDate>
       
@@ -251,7 +251,7 @@
     </item>
     
     <item>
-      <title>toy</title>
+      <title>Toy</title>
       <link>https://darkestnotes.org/categories/toy/</link>
       <pubDate>Sun, 15 Jun 2014 00:00:00 +0000</pubDate>
       

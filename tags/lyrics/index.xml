@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>lyrics on Darkest Notes</title>
+    <title>Lyrics on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/lyrics/</link>
-    <description>Recent content in lyrics on Darkest Notes</description>
+    <description>Recent content in Lyrics on Darkest Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 15 Aug 2010 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/lyrics/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,12 @@
       <pubDate>Sun, 15 Aug 2010 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/lystener/</guid>
-      <description>Bilgisayarda müzik dinlerken, dinlediğimiz şarkının sözlerini bulmak kimi zaman gerçekten zor olur. Google&amp;rsquo;da yapılan aramalar, genellikle olumlu sonuç verse de bulduğumuz şarkı sözleri saçma sapan reklamların arasında kaybolur, sözleri kopyalamamıza izin verilmez vb…
-Lystener işte bu noktada önemli bir açığı kapatıyor. Doğrudan Last.fm&amp;rsquo;deki hesabınızdan o anda hangi şarkıyı dinlediğinizi öğrenerek, şarkı sözlerini ekrana döküyor. İsterseniz sözleri kopyalayabilir, Twitter veya Facebook&amp;rsquo;da paylaşabilirsiniz. Ayrıca webapp&amp;rsquo;e yeni eklenen özellik sayesinde dinlediğiniz şarkının bulunduğu albümü Amazon.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_l76vh11DW01qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Bilgisayarda müzik dinlerken, dinlediğimiz şarkının sözlerini bulmak kimi zaman gerçekten zor olur. Google&amp;rsquo;da yapılan aramalar, genellikle olumlu sonuç verse de bulduğumuz şarkı sözleri saçma sapan reklamların arasında kaybolur, sözleri kopyalamamıza izin verilmez vb…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lystener.com/&#34; title=&#34;Lystener !&#34;&gt;Lystener&lt;/a&gt; işte bu noktada önemli bir açığı kapatıyor. Doğrudan Last.fm&amp;rsquo;deki hesabınızdan o anda hangi şarkıyı dinlediğinizi öğrenerek, şarkı sözlerini ekrana döküyor. İsterseniz sözleri kopyalayabilir, Twitter veya Facebook&amp;rsquo;da paylaşabilirsiniz. Ayrıca webapp&amp;rsquo;e yeni eklenen özellik sayesinde dinlediğiniz şarkının bulunduğu albümü Amazon.com üzerinden satın alma linkine ulaşabilme imkanına ve YouTube&amp;rsquo;daki video-clip&amp;rsquo;ine ulaşabiliyorsunuz.&lt;/p&gt;
+&lt;p&gt;Lystener&amp;rsquo;ın şimdilik tek sorunu şarkı sözü veritabanının biraz küçük olması. Aradığınız bazı şarkı sözlerine erişemeyebilirsiniz. Ama saçma sapan reklamlarla dolu olmayan, sade görünümlü bir uygulama da şarkı sözlerini takip etmek isterseniz, aradığınız adres işte bu…&lt;/p&gt;
+</description>
     </item>
     
   </channel>

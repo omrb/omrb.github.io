@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>computer on Darkest Notes</title>
+    <title>Computer on Darkest Notes</title>
     <link>https://darkestnotes.org/categories/computer/</link>
-    <description>Recent content in computer on Darkest Notes</description>
+    <description>Recent content in Computer on Darkest Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 15 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/categories/computer/index.xml" rel="self" type="application/rss+xml" />
@@ -13,9 +13,20 @@
       <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/beosun-k%C4%B1sa-tarihi/</guid>
-      <description>Jean-Louis Gassée 1990 yılında Apple&amp;rsquo;dan ayrıldıktan sonra Steve Jobs gibi kendi firmasını Be Inc. adıyla 1991 yılında kurdu. At&amp;amp;T tarafından geliştirilen RISC tabanlı &amp;ldquo;Hobbit&amp;rdquo; isimli işlemciye sahip bir bilgisayar geliştirmekle kalmadı bu bilgisayar için bir işletim sistemi de hazırlamaya koyuldu. Bilgisayarın adı BeBox oldu ancak 1995 yılında AT&amp;amp;T Hobbit işlemcisini geliştirmeyi bıraktı ve Gassée&amp;rsquo;nin bilgisayar tasarımı yarı yolda kaldı.
-[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;full&amp;rdquo; ids=&amp;ldquo;4031&amp;rdquo; justified_image_grid row_height=500]
-Gassée kolay vaz geçen biri değildi, hemen bilgisayarını iki 66 Mhz hızında PowerPC 603 işlemcisi ile donattı, hazırladığı işletim sistemi de C ve C++ diliyle yazılmış olduğundan kolaylıkla yeni işlemciye uyarlandı ve BeBox 1996 yılı Ocak ayında kullanıcı ile buluştu.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/BeLogo-with-black-background.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Jean-Louis Gassée 1990 yılında Apple&amp;rsquo;dan ayrıldıktan sonra Steve Jobs gibi kendi firmasını Be Inc. adıyla 1991 yılında kurdu. At&amp;amp;T tarafından geliştirilen RISC tabanlı &amp;ldquo;&lt;em&gt;Hobbit&lt;/em&gt;&amp;rdquo; isimli işlemciye sahip bir bilgisayar geliştirmekle kalmadı bu bilgisayar için bir işletim sistemi de hazırlamaya koyuldu. Bilgisayarın adı &lt;em&gt;&lt;strong&gt;BeBox&lt;/strong&gt;&lt;/em&gt; oldu ancak 1995 yılında AT&amp;amp;T Hobbit işlemcisini geliştirmeyi bıraktı ve Gassée&amp;rsquo;nin bilgisayar tasarımı yarı yolda kaldı.&lt;/p&gt;
+&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;full&amp;rdquo; ids=&amp;ldquo;4031&amp;rdquo; justified_image_grid row_height=500]&lt;/p&gt;
+&lt;p&gt;Gassée kolay vaz geçen biri değildi, hemen bilgisayarını iki 66 Mhz hızında PowerPC 603 işlemcisi ile donattı, hazırladığı işletim sistemi de C ve C++ diliyle yazılmış olduğundan kolaylıkla yeni işlemciye uyarlandı ve BeBox 1996 yılı Ocak ayında kullanıcı ile buluştu. Bilgisayarı alanlar fazlasıyla memnun kaldılar üründen. Bilgisayar kasası üzerinde işlemci performansını gösteren &amp;ldquo;&lt;em&gt;blinkenlight&lt;/em&gt;&amp;rdquo; LED ışıklar, stabil, isometirk ikonlara sahip işletim sistemi herkesi fazlasıyla memnun etti.&lt;/p&gt;
+&lt;p&gt;Fakat bilgisayar üretmek pahalı ve sıkıntılı bir iş olduğundan Be Inc. yazılım işine yöneldi, hazır Apple&amp;rsquo;da PowerPC yongaları kullanırken işletim sistemini Apple&amp;rsquo;da çalışabilecek şekilde uyarladı. O dönem Apple&amp;rsquo;ın işletim sistemi konusunda sıkıntı çektiği dönem olduğundan Gassée&amp;rsquo;nin amacı BeOS&amp;rsquo;u Apple&amp;rsquo;a satmak oldu ancak istediği yüksek fiyatı Apple kabul etmedi ve Gassée&amp;rsquo;nin hayalleri suya düştü. Apple sonraki yıllarda donanımı ile ilgili bilgileri işletim sistemi geliştirebilecek kadar yazılımcılar ile paylaşmamaya karar verdiğinden BeOS&amp;rsquo;un Apple bilgisayarlar üzerinde geliştirilmesi sona erdi ve Intel X86 mimarisine doğru yöneldi.&lt;/p&gt;
+&lt;p&gt;Mart 1998&amp;rsquo;de BeOS R3 hem PowerPC hem X86 tabanlı bilgisayarlar için piyasaya sürüldü. Version R4 sadece x86 için 1999 başında, R4.5 ise 1999 ortalarında kullanıma sunuldu.&lt;/p&gt;
+&lt;p&gt;2000 yılında BeOS R5 sürümünü Windows içerisinden çalışabilecek 512 MByte&amp;rsquo;lık bir dosya halinde ücretsiz dağıttı. 1 milyondan fazla kişiye ulaşan bu sürüm BeOS&amp;rsquo;un kitleler tarafından tanınmasını sağlamış oldu. R5 Professional Edition ise bütün halinde tam bir işletim sistem olarak 99 US$&amp;lsquo;a satılıyordu.&lt;/p&gt;
+&lt;p&gt;BeOS R5 stabil yapısı ve Windows’a alternatif olabilecek medya oynatabilme becerileri ile yoğun ilgi gördü. Önceki sürümler için üretilen çoğu freeware ve shareware araç R5 için güncellendi. Bununla birlikte PC için işletim sistemi geliştirmek fazlasıyla meşakkatli bir işti. Gassee’de bunun farkındaydı. Her donanım için sık sık güncellenecek ve cihazın tüm yeteneklerini kullanabilecek aygıt sürücüleri yazmak, kullanıcılara destek sağlamak, 3. parti üreticilerden BeOS desteği sağlamalarını istemek çok ama çok zordu.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/20220213-113532-747.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Bütün bunları göz önüne alan Gassée BeOS’un popülerliğinden yararlanarak tüm haklarını 2001 yılında Palm&amp;rsquo;a sattı.&lt;/p&gt;
+&lt;p&gt;BeOS’un 5.1 beta sürümü sonrasında elden ele dolaştı ve Dano ismiyle bir dönem kullanıldı. Palm BeOS’u geliştirmeyeceğini duyurduktan sonra YellowTAB ve Magnussoft BeOS Zeta sürümlerini yayınladılar. BeOS sonraki yıllarda Haiku OS adıyla açık kaynak kodlu olarak gelişimini sürdürdü ve halen sürdürmeye devam ediyor.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -24,7 +35,15 @@ Gassée kolay vaz geçen biri değildi, hemen bilgisayarını iki 66 Mhz hızın
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/sound-blaster-pro/</guid>
-      <description>IBM PC dünyası 90’lı yılların başından itibaren ses kartları ile tanıştı. 1987 yılında çıkan Adlib ve sonrasında ultra pahalı Roland MIDI modüllerinin ardından Creative piyasaya makul fiyat etiketli ve dijital ses efektleri sunabilen Sound Blaster ses kartları ile 1990 yılında girdi ve piyasaya 10 yıldan fazla bir süre hakim oldu. Creative ses kartları içinde bence en önemlisi Sound Blaster Pro modelidir. Hem eskiyle uyumlu, hem stereo, hem güçlü OPL3 yongası hem de CD-ROM arabirimi ile 1991 yılında ortaya çıkar.</description>
+      <description>&lt;p&gt;IBM PC dünyası 90’lı yılların başından itibaren ses kartları ile tanıştı. 1987 yılında çıkan Adlib ve sonrasında ultra pahalı Roland MIDI modüllerinin ardından Creative piyasaya makul fiyat etiketli ve dijital ses efektleri sunabilen Sound Blaster ses kartları ile 1990 yılında girdi ve piyasaya 10 yıldan fazla bir süre hakim oldu.&lt;img loading=&#34;lazy&#34; src=&#34;images/Sound_Blaster_Pro2-Box-Win31_Label2.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Creative ses kartları içinde bence en önemlisi Sound Blaster Pro modelidir. Hem eskiyle uyumlu, hem stereo, hem güçlü OPL3 yongası hem de CD-ROM arabirimi ile 1991 yılında ortaya çıkar. O zamanın ev bilgisayarı Amiga ile hemen hemen aynı kalitede ses çıkışı verebilen bir karttır bu. Çıktığı dönem biraz problemlidir elbette. İlk sürümünde OPL3 yongası yerine stereo ses çıkışı için 2 adet YM3812 synthisizer chip bulundurur. O dönem piyasada Windows 3.0 olduğundan paketten çıkan yazılımlar Windows 3.0 için üretilmiştir. &lt;img loading=&#34;lazy&#34; src=&#34;images/Sound_Blaster_Pro-1991.jpg&#34; alt=&#34;https://www.retrogamingmuseum.com/the-collection/sound-blaster-pro-ct1330-1991&#34;  /&gt;
+Sonraki modellerde (Sound Blaster Pro2 olarak adlandırılan) gerçek OPL3 (YMF262) eklenir, 1992 yılında Windows 3.1 multimedia desteği ile çıkınca ses kartı ile bundle edilen Windows 3.0 programları işlevsiz kalır, kartın kutusu üzerine Windows 3.1 uyumludur ibaresi ile bir süre daha satılır. Sürücüler ve programlar Windows 3.1 için hazırlandıktan sonra kutu üzerine etiketle Windows 3.1 sürücülerinin eklendiği belirtilir.&lt;/p&gt;
+&lt;p&gt;Bu etiketli Sound Blaster Pro kutuları benim PC’ye ses kartı almaya çalıştığım dönemde sıkça karşıma çıkıyordu, ben farklı bir model ses kartı aldığımdan Sound Blaster Pro içinden hangi programlar çıkıyor ve sürücülerde ne gibi değişiklikler vardı hep merak ettim. &lt;img loading=&#34;lazy&#34; src=&#34;images/Sound-Blaster-Pro-Disk_Label-1992.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Geçtiğimiz günlerde bu disketin orijinal içeriğine kavuştum ve bir miktar inceleme imkanı bulabildim 30 yıl sonra. &lt;img loading=&#34;lazy&#34; src=&#34;images/Sound_Blaster_Pro-1993-1994-a.png&#34; alt=&#34;&#34;  /&gt;
+Sound Blaster Pro daha iyi Sound Blaster modelleri çıkmasına rağmen (Sound Blaster 16) 1993-1994 yıllarında yeni kutu dizaynı ve Indianapolis 500 ve Lemmings oyun bundle’ları ile satışına uzun bir süre devam etti.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -33,8 +52,15 @@ Gassée kolay vaz geçen biri değildi, hemen bilgisayarını iki 66 Mhz hızın
       <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/ibmulator/</guid>
-      <description>Soğuk kış günlerinde evde otururken nedense aklıma 1991 yılı sonu 1992 yılı başlarındaki soğuk bir kış gününde babamla IBM PS/1 bakmaya gittiğimiz gün geldi. Commodore 64 sonrası geleceğe dönük bir bilgisayar alma düşüncesi ile Amiga mı yoksa PC uyumlu bilgisayar mı alalım diye düşünürken TV&amp;rsquo;de reklamlarını gördüğümüz IBM PS/1 modeli neyin nesiymiş bakmaya gitmiştik soğuk bir Cumartesi akşam üzeri.
-Mağaza sahibi bizimle fazlasıyla ilgilenmiş, oğlu hemen teşhirdeki ürünü kullanıma hazır hale getirmişti.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/IBMulator-PS1_Realistic_View.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Soğuk kış günlerinde evde otururken nedense aklıma 1991 yılı sonu 1992 yılı başlarındaki soğuk bir kış gününde babamla IBM PS/1 bakmaya gittiğimiz gün geldi. Commodore 64 sonrası geleceğe dönük bir bilgisayar alma düşüncesi ile Amiga mı yoksa PC uyumlu bilgisayar mı alalım diye düşünürken TV&amp;rsquo;de reklamlarını gördüğümüz IBM PS/1 modeli neyin nesiymiş bakmaya gitmiştik soğuk bir Cumartesi akşam üzeri.&lt;/p&gt;
+&lt;p&gt;Mağaza sahibi bizimle fazlasıyla ilgilenmiş, oğlu hemen teşhirdeki ürünü kullanıma hazır hale getirmişti. Bilgisayar boot ederken hoparlöründen gelen &amp;ldquo;&lt;em&gt;beep-blüp&lt;/em&gt;&amp;rdquo; sesleri ve sonrasında 640x480x16 renkli ekranına gelen 4-Quadrant ile bizi orada büyülemişti bilgisayar. 640x480 çözünürlüklü renkli grafikler o zamanlar için günümüzün 4k teknolojisi gibi birşeydi. Yalnız anlaşılan şuydu ki IBM elinde kalan eski model PS/1&amp;rsquo;leri yeni modelleri çıkarmadan önce Türkiye&amp;rsquo;de satabilme çabasında idi. 1990 yılında üretilen ve 1991 yılının hemen başında Amerika ve Avrupa&amp;rsquo;da satılan bu ilk PS/1 modelleri &amp;ldquo;&lt;strong&gt;&lt;em&gt;5 Dakika ve İşin İçindesiniz&lt;/em&gt;&lt;/strong&gt;&amp;rdquo; gibi bir sloganla PC kullanmaya çekinen kitleleri PC dünyasına çekebilmek için üretilmişti. Zaten bu 4 quadrant hikayesi de Macintosh&amp;rsquo;un grafik kullanıcı arabiriminin benzerini PC dünyasına taşıma çabasıydı. Neyse sonuçta bu bilgisayarlar fazlasıyla eski bir teknolojiye sahipti. Türkiye&amp;rsquo;ye gelen 4 model 80286-10 MhZ işlemcili, renkli-renksiz ekranlı ve 30 MByte HDD&amp;rsquo;li, HDD&amp;rsquo;siz modellerden oluşuyordu. Sonuçta Türkiye&amp;rsquo;de bu cihazlardan kaç adet satıldı ne oldu bilemiyorum ama sonraki model PS/1&amp;rsquo;lerin hiçbiri Türkiye&amp;rsquo;ye gelmedi onu biliyorum. Dükkanda teşhirde incelediğim model HDD&amp;rsquo;si olmayan bir modeldi, HDD&amp;rsquo;li olsa belki o gün orada satın alınırdı ama almadık.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/PS1-4Quadrant.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;4 quadrant ekranı ve o arabirimin nasıl çalıştığını hep merak edip durdum sonrasında. Internet zamanında bile bu bilgisayar ile ilgili bilgi bulmak oldukça zor olmuştu. Macintosh&amp;rsquo;u andıran kasası ve orijinal mikrokodu ile tam bir koleksiyon ürünü olmuştu kendisi.&lt;/p&gt;
+&lt;p&gt;Yıllar sonra Marco Bortolin ismindeki IBM PS/1 meraklısı bir arkadaş, oturdu üşenmedi ve bir &lt;a href=&#34;https://barotto.github.io/IBMulator/&#34;&gt;IBM PS/1 emülatörü&lt;/a&gt; yazdı. Birkaç yıldır biraz geliştirilmesini bekledim ve geçtiğimiz haftalar içinde detaylıca inceledim. 4 Quadrant arabirimini ve bilgisayar ile yüklü gelen programları detaylıca inceleyip kurcaladım biraz. IBMulator&amp;rsquo;da IBM PS/1 için üretilen Audio/Joystick ses kartının emülasyonu bile var. Çok az Sierra oyununun desteklediği bu kartın nasıl ses verdiğini de görebilmiş olmak 30 yıl öncesinin anılarını tekrar canlandırdı.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -43,8 +69,22 @@ Mağaza sahibi bizimle fazlasıyla ilgilenmiş, oğlu hemen teşhirdeki ürünü
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/creative-sound-blasterx-g6/</guid>
-      <description>2003-2004 yıllarından sonra anakart üzerinde gelen ses yongaları yeteneklerini fazlasıyla artırınca, ses kartları hobi amaçlı kullanılan pahalı oyuncaklar haline dönüşmeye başladı. Creative Sound Blaster Live! serisinden sonra çıkardığı Audigy serisinde istediği başarıyı yakalayamadı ve bilgisayar dünyası uzunca bir süre anakart üzerindeki onboard ses çözümlerine mahkum oldu.
-Son yıllarda artmaya başlayan yüksek kaliteli müzik dinleme isteği ile ses kartı ve DAC piyasasında gözle görülür bir hareketlenme yaşanıyor. Geçen yıl kullandığım Audioquest&amp;lsquo;in DAC&amp;rsquo;larının müzik dosyaları için ideal ancak oyunlar için fazlasıyla yetersiz olduğunu gördüğümden bir süredir her iki amaca uygun kullanımı olan birşeyler aramaya başladım.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Sound_BlasterX-G6-Logo.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;2003-2004 yıllarından sonra anakart üzerinde gelen ses yongaları yeteneklerini fazlasıyla artırınca, ses kartları hobi amaçlı kullanılan pahalı oyuncaklar haline dönüşmeye başladı. Creative Sound Blaster Live! serisinden sonra çıkardığı Audigy serisinde istediği başarıyı yakalayamadı ve bilgisayar dünyası uzunca bir süre anakart üzerindeki onboard ses çözümlerine mahkum oldu.&lt;/p&gt;
+&lt;p&gt;Son yıllarda artmaya başlayan yüksek kaliteli müzik dinleme isteği ile ses kartı ve DAC piyasasında gözle görülür bir hareketlenme yaşanıyor. Geçen yıl kullandığım &lt;a href=&#34;https://darkestnotes.org/?p=3227&#34;&gt;Audioquest&lt;/a&gt;&amp;lsquo;in DAC&amp;rsquo;larının müzik dosyaları için ideal ancak oyunlar için fazlasıyla yetersiz olduğunu gördüğümden bir süredir her iki amaca uygun kullanımı olan birşeyler aramaya başladım. Ancak Hi-Res müzik dünyasında maalesef böyle donanım bulabilmenin mümkün olmadığını görmem çok zaman almadı. Müzik konusunu ayrı, oyunlardaki ses efektleri konusunu ayrı değerlendirmek gerekiyor.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Sound-BlasterX-General-Info.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Ses kartlarının oyunlarda kullanımı deyince PC dünyasında aklıma gelen tek isim tabiki Creative Labs. 1989 yılından beri iyi kötü piyasada ürünleri bulunan firmanın yeni nesil External Ses kartları uzun zamandır takibimdeydi. Geçen hafta elime geçen yeni donanım oyuncağım Creative&amp;rsquo;in 2018 yılı sonunda çıkardığı Sound BlasterX G6 modeli oldu. Cirrus Logic tarafından üretilen &lt;a href=&#34;https://www.cirrus.com/products/cs43131/&#34;&gt;CS43131&lt;/a&gt; DAC yongasına sahip, 32 bit ses derinliği ve 384 kHz örnekleme hızını destekleyen bu yonganın yanında Creative&amp;rsquo;in SB-Axx1 ses işlemcisi (Digital Sound Processor) ile bütün ses işlemlerini CPU&amp;rsquo;ya yük bindirmeden kendi başına becerebilen bir ses kartı. ASIO ve WASAPI desteği de bulunan ses kartının asıl kullanım alanı tabiki oyunlar.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Sound-BlasterX-SB-Axx-1.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Oyunlardaki kullanım için yazılım desteği Sound Blaster Connect 2 ile sağlanıyor. Hazır profillerin yanında farklı oyunlar için yeni profiller oluşturmak da mümkün. Bunun yanında kartla ilgili tüm diğer işlemler (firmware güncellemesi, led ışıkların renkleri vb.) bu program ile yapılıyor.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Sound_BlasterX-G6-001.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Monitörün hemen altına rahatlıkla yerleştirebildiğim şık tasarıma sahip ses kartı desktop bilgisayarımda kullanırken kulaklık takmak için bilgisayarın arka tarafına uzanma sıkıntısından ve ses açıp/kapama işlemlerinin de büyük radyo düğmesi ile yapılabilmesi sayesinde artan müzik ve ses kalitesinin yanında hayat kalitemi de artıran bir etken oldu.&lt;/p&gt;
+&lt;p&gt;Müzik ve ses subjektif bir konu. Kimi yüksek kalitedeki ses ve müziği gereksiz ve anlamsız bulup düşük kaliteden hiçbir farkı olmadığını söylerken kimi 24 bit ses derinliğinin yetersizliğinden bahsedebiliyor. Çoğu zaman standart mp3 formatı yeterli gelirken aynı albümün 24 bit/96 kHz &amp;ldquo;&lt;em&gt;kayıpsız&lt;/em&gt;&amp;rdquo; dosyalarını arşivde bulundurmak ayrı bir keyif verebiliyor insana.&lt;/p&gt;
+&lt;p&gt;Hi-Res müzik dinlemenin keyif aldığım kısmın sadece bir tarafı. İşin eğlencesi bilgisayar ve bu tür özel donanımlarla ilgilenirken aldığım keyifle müzik dinlerken aldığım keyfin birleşiyor olması.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -53,7 +93,9 @@ Son yıllarda artmaya başlayan yüksek kaliteli müzik dinleme isteği ile ses 
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/dead-pixel/</guid>
-      <description> </description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/A6BE6E88-F227-41C8-941E-388D507CE33A.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -62,8 +104,56 @@ Son yıllarda artmaya başlayan yüksek kaliteli müzik dinleme isteği ile ses 
       <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/macbook-early-2015/</guid>
-      <description>Başka birşeyler almak için girdiğim teknoloji markette vakit geçirmek için dolandığım sırada, Apple ürünlerini incelerken gördüm geçtiğimiz yılın ilk çeyreğinde çıkan MacBook modelini. Nisan ayında ilk çıktığı zaman beğenmiş, incelemiş, almayı düşünmüş ancak fiyatı çok yüksek olduğundan ertelemiştim.
-İncelemelerden okuduğum kadarıyla en büyük yeniliği klavyesinde taşıyordu. İlk bu özelliğini denemek için tuşlara dokunduğum an vuruldum. Düz, fazla çıkıntılı olmayan, bununla birlikte önceki modellere göre daha büyük tasarlanmış tuşlar. Butterfly Mechanism diye adlandırmış Apple, tuşa basma hissi çok çok farklı ve keyifli bir deneyim sunuyor.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/MacBook-Space_Grey.jpeg&#34; alt=&#34;MacBook-Space_Grey&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Başka birşeyler almak için girdiğim teknoloji markette vakit geçirmek için dolandığım sırada, Apple ürünlerini incelerken gördüm geçtiğimiz yılın ilk çeyreğinde çıkan MacBook modelini. Nisan ayında ilk çıktığı zaman beğenmiş, incelemiş, almayı düşünmüş ancak fiyatı çok yüksek olduğundan ertelemiştim.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/b_86829.jpg&#34; alt=&#34;b_86829&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;İncelemelerden okuduğum kadarıyla en büyük yeniliği klavyesinde taşıyordu. İlk bu özelliğini denemek için tuşlara dokunduğum an vuruldum. Düz, fazla çıkıntılı olmayan, bununla birlikte önceki modellere göre daha büyük tasarlanmış tuşlar. &lt;em&gt;Butterfly Mechanism&lt;/em&gt; diye adlandırmış Apple, tuşa basma hissi çok çok farklı ve keyifli bir deneyim sunuyor.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/macbook-12-butterfly-keyboard-switch-100572318-large.png&#34; alt=&#34;macbook-12-butterfly-keyboard-switch-100572318-large&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Daha sonra Force Touchpad&amp;rsquo;i denedim. Yavaşça güç uyguladım, ne değişiyor diye görmek amacıyla. İlk başta alışması biraz zor tabi ama zaten sözlük uygulamasını kullanmayı seven biriydim, ikinci kez kendine hayran bırakan bir özellik oldu.&lt;/p&gt;
+&lt;p&gt;Kısıtlı zamanda teknoloji markette bunları deneyebildim, fiyatı ve taksit seçenekleri de dikkatimi çekti. Hiçbir zaman bir Apple ürünü almak için mükemmel zaman değildir. Şimdi de öyle oldu. Ama kararımı vermiştim.&lt;/p&gt;
+&lt;p&gt;Cumartesi günü sabahtan teknoloji marketin yolu tutuldu ve Early 2015 olarak adlandırılan yeni MacBook bilgisayarın giriş modelini (1.1 Ghz, 256 MByte Flash Storage) satın aldım.&lt;/p&gt;
+&lt;p&gt;Küçüklüğü ve hafifliği ile MacBook Pro sonrası biraz oyuncak gibi gelse de, son yıllarda hesaplama ağırlıklı geliştirmeden, grafik ve fotoğraf düzenlemeye, güçlü GPU gerektiren oyunlardan oluşan bilgisayar kullanma alışkanlığımın web&amp;rsquo;de gezinti, müzik dinlemek ve yazı yazmak gibi minimal bir yöne evrildiği düşünüldüğünde aslında biçilmiş kaftan.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Broadwell-Package-Diagonal.jpg&#34; alt=&#34;Broadwell-Package-Diagonal&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;iNtel Core M 1.1 Ghz (&lt;a href=&#34;http://ark.intel.com/products/84666/Intel-Core-M-5Y31-Processor-4M-Cache-up-to-2_40-GHz&#34;&gt;5Y31&lt;/a&gt;) 64 bit, 14 nanometre teknolojisine sahip mobil işlemcisine sahip. GPU olarak Intel® HD Graphics 5300 barındırıyor. İşlemci soğutmaya ihtiyaç duymadığından, gereksiz gürültü de yok.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Entry Model&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Base Model&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Option&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Core M 1.1 Ghz (5Y31)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Core M 1.2 Ghz (5Y51)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Core M 1.3 Ghz (5Y71)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;256 GB&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;512 GB&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;512 GB&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;8 GByte RAM&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;8 GByte RAM&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;8 GByte RAM&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Klavye mükemmel, tuşlar birbirine yakın yerleştirilmiş ama daha büyük olduklarından parmaklarıma tam oturuyor ve tuşa basmanın verdiği keyfe diyecek yok. Bilgisayarın küçük olmasına alışamadım yalnız, klavyenin yanından tutup biryere koyarken tuşlara basıyorum yanlışlıkla.&lt;/p&gt;
+&lt;p&gt;Ses kalitesi gerçekten fazlasıyla iyi, güçlü ve net bir ses çıkıyor o küçük hoparlörlerden. Müzik dinlerken web&amp;rsquo;de gezinmek, mail&amp;rsquo;lere cevap vermek, birşeyler yazmanın keyfinin yanında eski CaseLogic iPad kılıfımın içine sığarak rahatlıkla taşınabilir olması da ayrı bir avantajı.&lt;/p&gt;
+&lt;p&gt;8-9 saatlik pil ömrü günlük yaptığım sıradan işler için çok uygun. Hafif, sessiz, mobil bilgisayar olması, klavyesinin rahat ve keyifli kullanımı sebebiyle iPad Mini&amp;rsquo;min yerini almaya başladı.&lt;/p&gt;
+&lt;p&gt;Gelelim eksilere. Bilgisayara şarj edilebilmesi için konulan USB-C portundan başka port yok. Bir dongle olmadan kapalı bir kutu gibi ve her şekilde kablosuz internete bağımlısınız, eski tarz konvansiyonel bilgisayar kullanıcılarına göre değil ama yavaş yavaş alışıyor gibiyiz.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;P.S. Yaklaşık 3 aydır taslaklar içinde duran ve 24 Ekim 2015&amp;rsquo;de satın aldığım MacBook ile ilgili bu incelemeyi yeni modeller çıkmadan önce ancak(😬) yayınlayabiliyorum.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -72,9 +162,18 @@ Son yıllarda artmaya başlayan yüksek kaliteli müzik dinleme isteği ile ses 
       <pubDate>Mon, 28 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/eskiden-hersey-ne-g%C3%BCzeldi/</guid>
-      <description>1987 yılbasında, soguk bir kıs günü eve giren Commodore 64 ile basladı hersey. Görüntü kablosu kocaman tüplü televizyona baglanır, oyunlar kasetten yüklenirdi. Degisik oyunları oynanırdı ailecek. (Çünkü tek televizyon olurdu evlerde) Hafta ici açılmazdı, çünkü okul vardı, hafta sonu iple çekilir, cuma gecesi bütün hafta hayali kurulan oyunlar heyecanla oynanırdı.
-[caption id=&amp;ldquo;attachment_2748&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;1184&amp;rdquo;] Saturday Morning[/caption]
-Hersey ne güzeldi 1990&amp;rsquo;da 1991&amp;rsquo;de. Amiga bilgisayar vardı. Beyaz ekranda Workbench disketi tutan bir el.</description>
+      <description>&lt;p&gt;1987 yılbasında, soguk bir kıs günü eve giren Commodore 64 ile basladı hersey. Görüntü kablosu kocaman tüplü televizyona baglanır, oyunlar kasetten yüklenirdi. Degisik oyunları oynanırdı ailecek. (Çünkü tek televizyon olurdu evlerde) Hafta ici açılmazdı, çünkü okul vardı, hafta sonu iple çekilir, cuma gecesi bütün hafta hayali kurulan oyunlar heyecanla oynanırdı.&lt;/p&gt;
+&lt;p&gt;[caption id=&amp;ldquo;attachment_2748&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;1184&amp;rdquo;]&lt;img loading=&#34;lazy&#34; src=&#34;images/Steven_Vitale-Saturday_Morning.png&#34; alt=&#34;Steven_Vitale-Saturday_Morning&#34;  /&gt;
+ Saturday Morning[/caption]&lt;/p&gt;
+&lt;p&gt;Hersey ne güzeldi 1990&amp;rsquo;da 1991&amp;rsquo;de. &lt;a href=&#34;https://darkestnotes.org/2009/09/26/eski-bilgisayarlar-amiga/&#34;&gt;Amiga&lt;/a&gt; bilgisayar vardı. Beyaz ekranda Workbench disketi tutan bir el. Disket sürücüden tuhaf sesler çıkardı yükleme esnasında. Mavi pencereli GUI&amp;rsquo;si vardı, kendine özel karakterleri, ikonları. Bazı programlar ve oyunlar sadece 1 MByte RAM&amp;rsquo;de çalışırdı. &lt;a href=&#34;https://darkestnotes.org/2015/07/12/dergilerdergicilik/&#34;&gt;Dergilerden&lt;/a&gt; takip ederdik yeni çıkan oyunları, programları. MAC Adventure okurduk, eski oyunları yeniden oynardık.&lt;/p&gt;
+&lt;p&gt;[caption id=&amp;ldquo;attachment_2750&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;1316&amp;rdquo;]&lt;img loading=&#34;lazy&#34; src=&#34;images/Amiga_500.png&#34; alt=&#34;Amiga_500&#34;  /&gt;
+ Amiga 500, not Plus model![/caption]&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://darkestnotes.org/2010/05/31/80lerde-muzik-dinlemek/&#34;&gt;Müzik&lt;/a&gt; dinlemek ayrı bir keyifti. Kasete çekilirdi albümler, önceleri LP&amp;rsquo;den kopyalanırdı, cızırtılı olurdu ama bangır bangır gelirdi ses. Sonra CD&amp;rsquo;ler çıktı, daha kaliteli dedik ama bir yavanlık vardı, dijitaldi çünkü.&lt;/p&gt;
+&lt;p&gt;Hersey daha güzeldi eskiden, oynadığımız oyunun suyunu çıkarırdık, en ince detayları bilir, disketin içindeki hangi dosyanın ne işe yaradıgını ezberlerdik. Yaptıgımız hersey ayrı bir keyif verirdi, öylesine degildi hiçbirsey.&lt;/p&gt;
+&lt;p&gt;[caption id=&amp;ldquo;attachment_2755&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;1024&amp;rdquo;]&lt;img loading=&#34;lazy&#34; src=&#34;images/Amiga_500_Plus.png&#34; alt=&#34;Amiga_500_Plus&#34;  /&gt;
+ Amiga 500 Plus Model[/caption]&lt;/p&gt;
+&lt;p&gt;Sonra Amiga 500+ çıktı. Aynı eski Amiga&amp;rsquo;ydı, mor fondaki hareketli Workbench disketi dısında. Bazı oyunları çalıstırmazdı, problem çıkarırdı, ama çok güzel aletti. Hep hayal etmisimdir, karlı bir yılbaşı günü, okulun olmadıgı bir hafta sabah erkenden kalkıp Amiga&amp;rsquo;mın basına oturup saatlerce oyun oynamayı. &lt;a href=&#34;https://darkestnotes.org/2006/12/03/f-29-retaliator/&#34;&gt;F-29 Retaliator&lt;/a&gt;, Pirates!, Guild of Thieves&amp;hellip;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -83,9 +182,13 @@ Hersey ne güzeldi 1990&amp;rsquo;da 1991&amp;rsquo;de. Amiga bilgisayar vardı.
       <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/windows-10/</guid>
-      <description>Microsoft&amp;rsquo;un işletim sistemlerinin telefon, tablet ve bilgisayarlarda tek bir sürüm şeklinde yapılamayacağını yavaş yavaş anlıyor olduğunu göstererek yazılım dünyasında yerini alan ücretsiz işletim sistemi. Aynı sıkıntıyı zamanında Apple&amp;rsquo;da yaşadı, bir taşla üç kuş vurabilir miyiz dediler ama olmayacağını gördüler.
-Elbette telefon, tablet ve bilgisayar işletim sistemlerinde kullanıcı deneyimini kolaylaştıracak benzerlikler olmalı. Birini kullanan diğerlerini de kolaylıkla kullanabilmeli, UX’in (kullanıcı deneyimi) bu şekilde geliştirilmesi gerekir.
-Windows 8.1 bunun tam tersi idi, tablet işletim sistemini bilgisayara uyarlamaya çalıştılar ve her şey karıştı.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://d.pr/i/10xr5&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/10xr5&amp;#43;&#34; alt=&#34;&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Microsoft&amp;rsquo;un işletim sistemlerinin telefon, tablet ve bilgisayarlarda tek bir sürüm şeklinde yapılamayacağını yavaş yavaş anlıyor olduğunu göstererek yazılım dünyasında yerini alan ücretsiz işletim sistemi. Aynı sıkıntıyı zamanında Apple&amp;rsquo;da yaşadı, bir taşla üç kuş vurabilir miyiz dediler ama olmayacağını gördüler.&lt;/p&gt;
+&lt;p&gt;Elbette telefon, tablet ve bilgisayar işletim sistemlerinde kullanıcı deneyimini kolaylaştıracak benzerlikler olmalı. Birini kullanan diğerlerini de kolaylıkla kullanabilmeli, UX’in (&lt;em&gt;kullanıcı deneyimi&lt;/em&gt;) bu şekilde geliştirilmesi gerekir.&lt;/p&gt;
+&lt;p&gt;Windows 8.1 bunun tam tersi idi, tablet işletim sistemini bilgisayara uyarlamaya çalıştılar ve her şey karıştı. Windows 10 bu kapsamda ileriye doğru atılan bir adım gibi. Hala karışık çok şey var ancak bir önceki sürüme göre daha derli toplu.&lt;/p&gt;
+&lt;p&gt;Bununla birlikte Windows 10 ile pekçok sorun yaşayan kullanıcılar da mevcut. MacBook Pro bilgisayarımda BootCamp partisyonunda kullandığım Windows 10 &lt;a href=&#34;http://www.apple.com&#34;&gt;Apple&lt;/a&gt; tarafından doğrudan driver desteği verilmemesine karşın gayet stabil çalışıyor, PC notebook kullanıcıları ise doğrudan desteklenen ürünlerinde akla hayale gelmez sorunlar ile karşılaşıyorlar.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -94,8 +197,21 @@ Windows 8.1 bunun tam tersi idi, tablet işletim sistemini bilgisayara uyarlamay
       <pubDate>Sun, 12 Jul 2015 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/dergiler-ve-dergicilik/</guid>
-      <description>Çocukluğumdan beri en sevdiğim meslek olmuştur dergi editörlüğü. Sevdiğim ve bilgi sahibi olduğum bir konuda, bildiklerimi paylaşmak, bilmediğim şeyleri öğrenmek ve insanların elinde sayfalarını çevirmekten zevk alacakları renkli ve kaliteli birşeyler oluşturmak hep hayalim olmuştur.
-İlk kez 1987&amp;rsquo;de istemiştim dergi editörü olmayı, Commodore dergisini elime aldığımda. Pahalıydı, kaliteliydi, renkliydi, kuşe kağıda basılıydı, üst düzeydi ve felsefiydi. Okuyup bitirdikten sonra yeni sayı çıkana kadar sürekli sayfalarını çevirir dururdum. Sadece bakmak bile yeterince keyif vericiydi.</description>
+      <description>&lt;p&gt;Çocukluğumdan beri en sevdiğim meslek olmuştur dergi editörlüğü. Sevdiğim ve bilgi sahibi olduğum bir konuda, bildiklerimi paylaşmak, bilmediğim şeyleri öğrenmek ve insanların elinde sayfalarını çevirmekten zevk alacakları renkli ve kaliteli birşeyler oluşturmak hep hayalim olmuştur.&lt;/p&gt;
+&lt;p&gt;İlk kez 1987&amp;rsquo;de istemiştim dergi editörü olmayı, Commodore dergisini elime aldığımda. Pahalıydı, kaliteliydi, renkliydi, kuşe kağıda basılıydı, üst düzeydi ve felsefiydi. Okuyup bitirdikten sonra yeni sayı çıkana kadar sürekli sayfalarını çevirir dururdum. Sadece bakmak bile yeterince keyif vericiydi. Kendi kendime gelecek sayıda neler olabilir acaba diye düşünür, hayali editoryal yazılar hazırlar, hatta oyun tanıtımları bile yapardım.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Commodore_Dergi_Logo.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Sonra 64&amp;rsquo;ler dergisi çıktı. Commodore Dergisine göre daha basitti, sadece oyunlar üzerine eğilmişti. Böyle bir dergide çalışmak ne kadar keyifli olur diye düşünmüştüm. O zamanlar hayatımın en büyük zevki bilgisayarlar ve oyun oynamak. En yeni oyunları oynayıp, onları tanıtan yazılar yazıyorsun ve üzerine para ödeniyor sana. İnsan daha ne isteyebilir?&lt;/p&gt;
+&lt;p&gt;Bilgisayar dergilerinin hep bir ayrı yeri olmuştur hayatımda. Mesele ACE (Advanced Computer Entertainment)‘i görünce, sayfa düzeniyle, kutucuklu yorumlarıyla kim hayran kalmamıştır. Editörlükden daha önemli olan şeyin, aslında okuyucuya hitap eden şeyin görsel yönetmenlik olduğunu farketmişimdir ACE&amp;rsquo;i gördükten sonra. Bizim dergilerde özenirdi onlara ama bir türlü becerememişlerdir, o ayrı. (64&amp;rsquo;ler bir ara baya ilerleme kaydetmişti, hakkını vermek lazım)&lt;/p&gt;
+&lt;p&gt;Daha sonra underground fanzin&amp;rsquo;ler çıktı. Siyah-beyaz ve fotokopi ile çoğaltılırlardı. Underground olmak, çok bilinmemek, para kazanmak için değil keyif alındığı için yapılan işlerin temel düsturu olmakla birlikte bir noktadan sonra çok iyi reklam aracı olmuştu. Örneğin Laneth dergisi. Tamamen underground bir alayışla oluşturulmasına karşın daha o kadar tutmuştuki daha 4. sayısında fotokopiden ofset baskıya geçmişti. Speed-Thrash&amp;rsquo;den daha hafif müzikler kesinlikle olmayacak dendiği halde kısa sürede rock dergisine dönüşüvermişti.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://d.pr/i/1arpC&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/1arpC&amp;#43;&#34; alt=&#34;&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Severdim Laneth&amp;rsquo;i, hele Murat Adanç&amp;rsquo;da yazmaya başlayınca. Bilgisayar dergiciliği sonrasında ufak tefek birşeyler yazdığım konular arasında pek bilinmeyen müzik gruplarını tanıtma amaçlı yazdığım yazılar olmuştur o dönemlerde. (tabi hiçbiri yayınlanmadı, o ayrı mesele)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://d.pr/i/cveE&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/cveE&amp;#43;&#34; alt=&#34;&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Şimdi neden oturdum da bunları yazma gereği hissettim diye sorabilir herkes. Socrates Dergisi yüzünden. Nisan ayında elime aldığım ilk sayısında, Commodore Dergisi&amp;rsquo;ni, 64&amp;rsquo;ler Dergisi&amp;rsquo;ni, Amiga Dünyası Dergisi&amp;rsquo;ni, Laneth Dergisi&amp;rsquo;ni, ACE&amp;rsquo;i, PC Format&amp;rsquo;ı ilk kez elime aldığımda hissettiğim şeyleri hissettiğim için yazdım. Yani dergiyi okuyup bitirdikten sonra görsel tasarımı sayesinde sadece sayfalarına göz gezdirmek için bile tekrar elime alabiliyorsam o dergi okunup atılmak için değil, kütüphanede biryerlerde saklanmak içindir. Takip ettiğim sayısız dergi olmuştur şimdiye kadar ama sadece yukarıda saydıklarımı saklamışım biryerlerde, diğerleri yok olup gitmiş. Socrates&amp;rsquo;de yıllar sonra ilk kez saklayacağım dergiler arasında yerini aldı.&lt;/p&gt;
+&lt;p&gt;Oynadığımız oyunlar dijital, ne kutusu ne basılı kullanım kılavuzu var artık, müzik albümü satın almıyoruz, dinlediğimiz şarkılar dijital, dinliyoruz ve unutuyoruz, kitaplar e-book oluyor yavaş yavaş…Saklayabileceğim birşeyler bulduğumda seviniyorum artık…&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -104,8 +220,9 @@ Windows 8.1 bunun tam tersi idi, tablet işletim sistemini bilgisayara uyarlamay
       <pubDate>Thu, 04 Dec 2014 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/usb-3.0-external-drive/</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;86&amp;rdquo;]
-Upgrading to USB 3.0 External Drive. – View on Path.</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;86&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;Upgrading to USB 3.0 External Drive. – View on &lt;a href=&#34;https://path.com/p/TZK2M&#34;&gt;Path&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -114,8 +231,9 @@ Upgrading to USB 3.0 External Drive. – View on Path.</description>
       <pubDate>Tue, 04 Nov 2014 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/super-hero-usb-flash-drives/</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;95&amp;rdquo;]
-SuperHero USB Flash Drive Collection</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;95&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;SuperHero USB Flash Drive Collection&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -124,7 +242,8 @@ SuperHero USB Flash Drive Collection</description>
       <pubDate>Mon, 16 Jun 2014 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/susan-kare-iconographer/</guid>
-      <description>https://vimeo.com/97583369</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://vimeo.com/97583369&#34;&gt;https://vimeo.com/97583369&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -133,8 +252,18 @@ SuperHero USB Flash Drive Collection</description>
       <pubDate>Thu, 19 Dec 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/windows-8.1/</guid>
-      <description>Yılbaşı tatiline girmemle birlikte boş zamanımı değerlendirme amacıyla bilgisayar oyunları oynayabileceğimi düşünerek yaz aylarında yenilediğim bilgisayarıma Windows yüklemeye karar verdim. OS X’e o kadar çok alıştımki Windows yüklemeyi hiç düşünmememe karşın bazı oyunları oynayabilmek için mecburen tatilim başlamadan hemen önce Windows 8.1 satın aldım. Tatilimin ilk saatleri, retina ekranlı MacBook Pro’ma Windows 8.1 kurmakla başlamış oldu.
-Karşılaşılan ilk güçlük MacBook Pro’da DVD sürücü olmamasından kaynaklandı. Eski MacBook’umun DVD sürücüsünden faydalanarak Windows 8.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/6nzX&amp;#43;&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Yılbaşı tatiline girmemle birlikte boş zamanımı değerlendirme amacıyla bilgisayar oyunları oynayabileceğimi düşünerek yaz aylarında yenilediğim bilgisayarıma Windows yüklemeye karar verdim. OS X’e o kadar çok alıştımki Windows yüklemeyi hiç düşünmememe karşın bazı oyunları oynayabilmek için mecburen tatilim başlamadan hemen önce Windows 8.1 satın aldım. Tatilimin ilk saatleri, retina ekranlı MacBook Pro’ma Windows 8.1 kurmakla başlamış oldu.&lt;/p&gt;
+&lt;p&gt;Karşılaşılan ilk güçlük MacBook Pro’da DVD sürücü olmamasından kaynaklandı. Eski MacBook’umun DVD sürücüsünden faydalanarak Windows 8.1 DVD’sinin imajını almayı başardım. Ancak imajın hem Mac OS X hem Windows ortamında sorunsuz çalışabilmesi için kara büyülü Terminal komutlarından faydalandım.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;hdiutil makehybrid -iso -joliet -o [filename].iso [filename].cdr&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;DVD imajının .iso formatına dönüştürülmesiyle işler kolaylaştı, Windows 8.1 yükleyeceğim bilgisayarımda BootCamp’i çalıştırarak Windows 8.1’e boot edebilen bir USB disk hazırladıktan sonra Windows 8.1’i MacBook’a çocukların bile yüklemesi işten bile değildi artık.&lt;/p&gt;
+&lt;p&gt;Yükleme işlemi tahminimden uzun sürdü. Windows kurulum sistemi görsel değişikliklerin altında Windows XP’den kalan SETUP dosyasını halen kullanıyor sanırım.&lt;/p&gt;
+&lt;p&gt;Yükleme sonrası Windows 8.1 kutucukları ile ilk kez kaşılaştım. Canlı olduğu söylenen kutuları canlandırmak ve kişisel kullanım tarzıma göre ayarlamak pek uzun sürmedi, hemen birkaç yeni uygulamayı da Windows Store’dan indirdim.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/AzjD&amp;#43;&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Masaüstüne geçtiğimde yeni Windows’un Windows 7’den fazla farkı olmadığını da gördüm. Tamam, Start (Başlat) menüsü yok (&lt;em&gt;gerçi ben yokluğunu hiç hissetmedim, ama bu menüyü kullanmaya alışanlar zorlanabilir&lt;/em&gt;) ama masaüstü bildiğimiz aynı masaüstü Windows da bildiğimiz Windows.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -143,8 +272,29 @@ Karşılaşılan ilk güçlük MacBook Pro’da DVD sürücü olmamasından kayn
       <pubDate>Sat, 03 Aug 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/macbook-pro-with-retina-display-early-2013/</guid>
-      <description>Yeni aldığım 15.4&amp;quot; Retina MacBook Pro’yu test etmekle meşgulum. Teknik özellikleri şu şekilde sıralayabilirim.
-2.4 GHz quad-core iNtel Core i7 CPU 8 GB 1600 MHz DDR3L Memory 256 GB SSD Flash Storage 15.4 inch 2880x1800 220 ppi (Samsung) 2.02 Kg. iNtel HD 4000 Graphics nVidia GeForce GT 650M with 1 GB of GDDR5 720p FaceTime HD Camera 7 hours Battery-Life Önceki MacBook’dan yenisine tüm programları ve ayarları aktarmak için Migration Assistant’ı kullandım.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/pZ3r&amp;#43;&#34; alt=&#34;&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/aSI5&amp;#43;&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Yeni aldığım 15.4&amp;quot; Retina MacBook Pro’yu test etmekle meşgulum. Teknik özellikleri şu şekilde sıralayabilirim.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2.4 GHz quad-core iNtel Core i7 CPU&lt;/li&gt;
+&lt;li&gt;8 GB 1600 MHz DDR3L Memory&lt;/li&gt;
+&lt;li&gt;256 GB SSD Flash Storage&lt;/li&gt;
+&lt;li&gt;15.4 inch 2880x1800 220 ppi (Samsung)&lt;/li&gt;
+&lt;li&gt;2.02 Kg.&lt;/li&gt;
+&lt;li&gt;iNtel HD 4000 Graphics&lt;/li&gt;
+&lt;li&gt;nVidia GeForce GT 650M with 1 GB of GDDR5&lt;/li&gt;
+&lt;li&gt;720p FaceTime HD Camera&lt;/li&gt;
+&lt;li&gt;7 hours Battery-Life&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Önceki MacBook’dan yenisine tüm programları ve ayarları aktarmak için Migration Assistant’ı kullandım. Yaklaşık 10 saat süren aktarım süreci sonrasında tüm programlarım ayarlarım ve dokümanlarım yeni bilgisayarımda karşıma çıkmış oldu.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/Tj5R&amp;#43;&#34; alt=&#34;&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/tNqf&amp;#43;&#34; alt=&#34;&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/ORNA&amp;#43;&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;İlk dikkat çeken özellik tabiki retina ekran. Yazılar ve grafikler o kadar net ve keskinki bakmaya doyulmuyor. Bununla birlikte Retina ekran için hazırlanmamış (güncellenmemiş) program ve internet siteleri doğal olarak çok güzel gözükmüyor.&lt;/p&gt;
+&lt;p&gt;Dikkatimi çeken diğer husus SSD diskin bir bilgisayarı bu kadar fazla hızlandırması oldu. Ön tarafta bulunan hoparlörlerin ses kalitesi de gerçekten çok iyi. Halen pil ömrünü test ediyorum, yaklaşık 2 saattir yoğun olarak kullandığım programlara rağmen (internet, Civilization V, iPhoto, Decibel) bilgisayarın pili hala % 58 dolu.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -153,7 +303,9 @@ Karşılaşılan ilk güçlük MacBook Pro’da DVD sürücü olmamasından kayn
       <pubDate>Sat, 18 May 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/a-sad-picture-of-dennis-m.-ritchie-1941-2011/</guid>
-      <description> </description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/sGO3&amp;#43;&#34; alt=&#34;image&#34;  /&gt;
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -162,8 +314,9 @@ Karşılaşılan ilk güçlük MacBook Pro’da DVD sürücü olmamasından kayn
       <pubDate>Sun, 04 Nov 2012 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/crappy-computers/</guid>
-      <description>Crappy Computers
-In reality, it’s exactly backwards: proficient users can deal with a crappy computer, but casual users need as good a computer as possible.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://ignorethecode.net/blog/2012/11/04/crappy_computers/&#34;&gt;Crappy Computers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In reality, it’s exactly backwards: proficient users can deal with a crappy computer, but casual users need as good a computer as possible.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -172,7 +325,10 @@ In reality, it’s exactly backwards: proficient users can deal with a crappy co
       <pubDate>Sun, 04 Nov 2012 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/scott-forstall/</guid>
-      <description>Starting in 2000 with Mac OS X, Apple’s desktop operating system has been Unix-based. Why is this significant? Many developers were already familiar with the Unix operating system. With a Unix base, coders could use standard Unix commands in the command line, there was greater code portability, and Mac OS X got all of the associated benefits of Unix. For example, Unix is architected in a modular fashion, which can be beneficial when it comes to system security.</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Starting in 2000 with Mac OS X, Apple’s desktop operating system has been Unix-based. Why is this significant? Many developers were already familiar with the Unix operating system. With a Unix base, coders could use standard Unix commands in the command line, there was greater code portability, and Mac OS X got all of the associated benefits of Unix. For example, Unix is architected in a modular fashion, which can be beneficial when it comes to system security.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Scott Forstall’s departure (Why Apple (and You) Might Miss Scott Forstall)&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -181,8 +337,11 @@ In reality, it’s exactly backwards: proficient users can deal with a crappy co
       <pubDate>Sun, 21 Oct 2012 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/gog-os-x/</guid>
-      <description>Eski DOS oyunlarını OS X&amp;rsquo;de oynamak DOSBox için yazılmış Boxer gibi arabirimler sayesinde çok zor olmuyordu. Bununla birlikte GOG.com‘dan satın aldığım oyunları install etmek için öncelikle Windows&amp;rsquo;a geçmem daha sonra dosyaları OS X&amp;rsquo;e aktarmam gerekirdi.
-GOG.com artık DOS oyunlarını tek bir tıklama ile çalıştırılabilecek paketler halinde OS X için de satmaya başladı. Çok fazla oyunu deneme imkanım olmadı ama Boxer&amp;rsquo;ın sağladığı stabil platform sayesinde eski DOS oyunlarını Windows&amp;rsquo;a dönmeden rahatlıkla OS X&amp;rsquo;de oynayabilmek artık mümkün.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_mc9bssHXgj1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Eski DOS oyunlarını OS X&amp;rsquo;de oynamak DOSBox için yazılmış &lt;a href=&#34;http://boxerapp.com&#34;&gt;Boxer&lt;/a&gt; gibi arabirimler sayesinde çok zor olmuyordu. Bununla birlikte &lt;a href=&#34;http://www.gog.com&#34;&gt;GOG.com&lt;/a&gt;‘dan satın aldığım oyunları install etmek için öncelikle Windows&amp;rsquo;a geçmem daha sonra dosyaları OS X&amp;rsquo;e aktarmam gerekirdi.&lt;/p&gt;
+&lt;p&gt;GOG.com artık DOS oyunlarını tek bir tıklama ile çalıştırılabilecek paketler halinde OS X için de satmaya başladı. Çok fazla oyunu deneme imkanım olmadı ama Boxer&amp;rsquo;ın sağladığı stabil platform sayesinde eski DOS oyunlarını Windows&amp;rsquo;a dönmeden rahatlıkla OS X&amp;rsquo;de oynayabilmek artık mümkün.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -191,8 +350,10 @@ GOG.com artık DOS oyunlarını tek bir tıklama ile çalıştırılabilecek pak
       <pubDate>Thu, 20 Sep 2012 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/computer-crimes/</guid>
-      <description>If you want to engage in computer crime, don’t waste your time developing ninja level hacking skills, because computers are not the weak point. People are.
-Computer Crime, Then and Now</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;If you want to engage in computer crime, don’t waste your time developing ninja level hacking skills, because computers are not the weak point. People are.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.codinghorror.com/blog/2012/09/computer-crime-then-and-now.html&#34;&gt;Computer Crime, Then and Now&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -201,7 +362,8 @@ Computer Crime, Then and Now</description>
       <pubDate>Mon, 02 Jul 2012 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/logitech-keyboard/</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;409&amp;rdquo;]</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;409&amp;rdquo;]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -210,8 +372,12 @@ Computer Crime, Then and Now</description>
       <pubDate>Thu, 06 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/steve-jobs/</guid>
-      <description>1986 yılında bir bilgisayar dergisini karıştırırken gördüğüm bu fotoğrafla tanıdım Steve Jobs&amp;rsquo;u. Bir garajda, ceplerinde hiç paraları olmadan, çeşitli bilgisayar parçalarını birleştirerek Steve Wozniak ile birlikte Apple&amp;rsquo;ı kurduklarını öğrenmek 10 yaşında bir çocuk için çok heyecan vericiydi.
-Evdeki Commodore 64, bu fotoğraf sonrasında sadece oyun oynadığım, Basic ile ufak tefek programlar yazdığım bir bilgisayar olmaktan çıkmıştı. Onun nasıl çalıştığını anlamama, bozup, tamir etmeme, soketli chipleri değiştirerek yeni şeyler denememe bu fotoğraf sebep olmuştu.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_lsnut3G1La1qztw2k.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;1986 yılında bir bilgisayar dergisini karıştırırken gördüğüm bu fotoğrafla tanıdım Steve Jobs&amp;rsquo;u. Bir garajda, ceplerinde hiç paraları olmadan, çeşitli bilgisayar parçalarını birleştirerek Steve Wozniak ile birlikte Apple&amp;rsquo;ı kurduklarını öğrenmek 10 yaşında bir çocuk için çok heyecan vericiydi.&lt;/p&gt;
+&lt;p&gt;Evdeki Commodore 64, bu fotoğraf sonrasında sadece oyun oynadığım, Basic ile ufak tefek programlar yazdığım bir bilgisayar olmaktan çıkmıştı. Onun nasıl çalıştığını anlamama, bozup, tamir etmeme, soketli chipleri değiştirerek yeni şeyler denememe bu fotoğraf sebep olmuştu. Doğrudan CPU&amp;rsquo;ya ulaşabilmek için Assembly, sistemi programlayabilmek için Pascal, kullanıcı arabirimli düzgün programlar yazabilmek için  C, Turbo C ve C++ öğrenmemi, iyi bilgisayar kullanabilmenin yolunun işletim sistemlerinin en gizli özelliklerini bilmekten geçtiğini bu fotoğraf sayesinde öğrendim.&lt;/p&gt;
+&lt;p&gt;Teşekkürler, Steve.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -220,7 +386,10 @@ Evdeki Commodore 64, bu fotoğraf sonrasında sadece oyun oynadığım, Basic il
       <pubDate>Thu, 15 Sep 2011 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/windows-8-bsod/</guid>
-      <description>Windows 8 önceki sürümlerine göre en önemli gelişmeyi BSOD ekranında gerçekleştirmiş gibi görünüyor. Daha sevimli ve kullanıcı dostu (!) bir hata ekranı. Windows 8&amp;rsquo;de geliştirilen birşeyler olduğunu görmek güzel…</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_lrkohthP421qztw2k.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Windows 8 önceki sürümlerine göre en önemli gelişmeyi BSOD ekranında gerçekleştirmiş gibi görünüyor. Daha sevimli ve kullanıcı dostu (!) bir hata ekranı. Windows 8&amp;rsquo;de geliştirilen birşeyler olduğunu görmek güzel…&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -229,7 +398,10 @@ Evdeki Commodore 64, bu fotoğraf sonrasında sadece oyun oynadığım, Basic il
       <pubDate>Thu, 11 Aug 2011 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/notebook-backpack/</guid>
-      <description>Notebook Backpack by Omer Balamir</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_lps1197Ydv1qztaweo1_250.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Notebook Backpack by Omer Balamir&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -238,8 +410,9 @@ Evdeki Commodore 64, bu fotoğraf sonrasında sadece oyun oynadığım, Basic il
       <pubDate>Sun, 31 Jul 2011 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/intel-integrated-graphics-finally-good-enough-for-the-macbook-air/</guid>
-      <description>Intel integrated graphics: finally good enough for the MacBook Air?
-(via Instapaper)</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://arstechnica.com/apple/news/2011/07/intel-integrated-graphics-not-hampering-sandy-bridge-macs.ars&#34;&gt;Intel integrated graphics: finally good enough for the MacBook Air?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;(via &lt;a href=&#34;http://www.instapaper.com/&#34;&gt;Instapaper&lt;/a&gt;)&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -248,8 +421,9 @@ Evdeki Commodore 64, bu fotoğraf sonrasında sadece oyun oynadığım, Basic il
       <pubDate>Mon, 23 May 2011 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/the-infinite-version/</guid>
-      <description>The Infinite Version
-(via Instapaper)</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.codinghorror.com/blog/2011/05/the-infinite-version.html&#34;&gt;The Infinite Version&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;(via &lt;a href=&#34;http://www.instapaper.com/&#34;&gt;Instapaper&lt;/a&gt;)&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -258,8 +432,9 @@ Evdeki Commodore 64, bu fotoğraf sonrasında sadece oyun oynadığım, Basic il
       <pubDate>Sat, 21 May 2011 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/wakoopa-10.000-points/</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;493&amp;rdquo;]
-Breaking the 10.000 points level in Wakoopa!</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;493&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;Breaking the 10.000 points level in Wakoopa!&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -268,8 +443,10 @@ Breaking the 10.000 points level in Wakoopa!</description>
       <pubDate>Sat, 12 Feb 2011 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/programming/</guid>
-      <description>If BASIC programming was like putting together an Airfix aeroplane kit with ready-made plastic parts, assembly-code programming was more like building a model suspension bridge from matchsticks.
-www.guardian.co.uk</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;If BASIC programming was like putting together an Airfix aeroplane kit with ready-made plastic parts, assembly-code programming was more like building a model suspension bridge from matchsticks.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.guardian.co.uk&#34;&gt;www.guardian.co.uk&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -278,9 +455,10 @@ www.guardian.co.uk</description>
       <pubDate>Wed, 15 Dec 2010 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/susan-kare-art/</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;519&amp;rdquo;]
-The bomb was designed to represent a system failure
-BOMB | Susan Kare Prints</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;519&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;The bomb was designed to represent a system failure&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.kareprints.com/?p=20&#34;&gt;BOMB | Susan Kare Prints&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -289,7 +467,8 @@ BOMB | Susan Kare Prints</description>
       <pubDate>Tue, 14 Dec 2010 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/linus-torvalds/</guid>
-      <description>Talk is cheap. Show me the code.</description>
+      <description>&lt;p&gt;Talk is cheap. Show me the code.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -298,11 +477,13 @@ BOMB | Susan Kare Prints</description>
       <pubDate>Wed, 08 Dec 2010 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/apple-2000-2010/</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;523&amp;rdquo;]
-minimalmac:
-ajdesign:
-There is great truth in beauty.
-(via Ian Hines)</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;523&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://minimalmac.com/post/2145128241/10years&#34;&gt;minimalmac&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://and.rw/post/1215390063/10years&#34;&gt;ajdesign&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;There is great truth in beauty.&lt;/p&gt;
+&lt;p&gt;(via &lt;a href=&#34;http://log.ianhines.com/2010/12/10-years-later/&#34;&gt;Ian Hines&lt;/a&gt;)&lt;/p&gt;&lt;/blockquote&gt;
+</description>
     </item>
     
     <item>
@@ -311,8 +492,9 @@ There is great truth in beauty.
       <pubDate>Fri, 12 Nov 2010 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/web-designers-vs-developers/</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;534&amp;rdquo;]
-via www.landingpages.co.il</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;534&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;via &lt;a href=&#34;http://www.landingpages.co.il/wix/web-designers-vs-developers.png&#34;&gt;www.landingpages.co.il&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -321,7 +503,10 @@ via www.landingpages.co.il</description>
       <pubDate>Thu, 14 Oct 2010 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/bjarne-stroustrup/</guid>
-      <description>Know your fundamentals (algorithms, data structures, machine architecture, systems) and know several programming languages to the point where you can use them idiomatically. Know some non-computer field of study well — math, biology, history, optics, whatever. Learn to communicate effectively in speech and in writing. Spend an unreasonable amount of time on some difficult topic to really master it. Try to do something that might make a difference in the world.</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Know your fundamentals (algorithms, data structures, machine architecture, systems) and know several programming languages to the point where you can use them idiomatically. Know some non-computer field of study well — math, biology, history, optics, whatever. Learn to communicate effectively in speech and in writing. Spend an unreasonable amount of time on some difficult topic to really master it. Try to do something that might make a difference in the world.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Bjarne Stroustrup, Creator &amp;amp; Developer of C++&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -330,7 +515,10 @@ via www.landingpages.co.il</description>
       <pubDate>Tue, 07 Apr 2009 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/c64-laptop/</guid>
-      <description>Commodore 64 laptop designer looking for work. - http://gadgets.boingboing.net/2009/04/06/commodore-64-laptop.html</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/c64.jpg&#34; alt=&#34;c64&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Commodore 64 laptop designer looking for work. - &lt;a href=&#34;http://gadgets.boingboing.net/2009/04/06/commodore-64-laptop.html&#34;&gt;http://gadgets.boingboing.net/2009/04/06/commodore-64-laptop.html&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -339,7 +527,9 @@ via www.landingpages.co.il</description>
       <pubDate>Mon, 16 Feb 2009 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/the-lego-mac-computer/</guid>
-      <description> </description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.omrb.org/wp-content/uploads/2009/02/Lego_Mac.jpeg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Lego_Mac-1024x683.jpeg&#34; alt=&#34;Lego_Mac&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -348,7 +538,8 @@ via www.landingpages.co.il</description>
       <pubDate>Sun, 28 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/wakoopa/</guid>
-      <description>Wakoopa: Wakoopa bilgisayarınızda kullandığınız programların takibini yaparak, web ortamında istatistiğini tutan.. http://tinyurl.com/84d7u2</description>
+      <description>&lt;p&gt;Wakoopa: Wakoopa bilgisayarınızda kullandığınız programların takibini yaparak, web ortamında istatistiğini tutan.. &lt;a href=&#34;http://tinyurl.com/84d7u2&#34;&gt;http://tinyurl.com/84d7u2&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -357,8 +548,12 @@ via www.landingpages.co.il</description>
       <pubDate>Fri, 04 May 2007 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/windows-vista-capable/</guid>
-      <description>HP Compaq NX6110 Notebook bilgisayarımı bundan tam 2 yıl önce bugün almıştım. Aldığım zaman giriş seviyesi en ucuz notebook bilgisayarlardan biriydi. Sanırım 999 $+KDV gibi bir fiyata almıştım. Zaman içinde 256 MByte bellek ekleyerek hafızasını 512 MByte&amp;rsquo;a çıkardım. Celeron 1.4 Ghz işlemcili, i915 Chipsetli basit bir notebook anlayacağınız.
-Ancak bu notebook bilgisayara aslında Windows Vista Capable etiketi yapıştırılabilir. i915 chipsetine sahip bilgisayarlar halen satılıyor ve Windows Vista Capable etiketi taşıyorlar.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mhlreq1AkM1qz4rgp.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;HP Compaq NX6110 Notebook bilgisayarımı bundan tam 2 yıl önce bugün almıştım. Aldığım zaman giriş seviyesi en ucuz notebook bilgisayarlardan biriydi. Sanırım 999 $+KDV gibi bir fiyata almıştım. Zaman içinde 256 MByte bellek ekleyerek hafızasını 512 MByte&amp;rsquo;a çıkardım. Celeron 1.4 Ghz işlemcili, i915 Chipsetli basit bir notebook anlayacağınız.&lt;/p&gt;
+&lt;p&gt;Ancak bu notebook bilgisayara aslında Windows Vista Capable etiketi yapıştırılabilir. i915 chipsetine sahip bilgisayarlar halen satılıyor ve Windows Vista Capable etiketi taşıyorlar. Windows Vista&amp;rsquo;yı en basit haliyle çalıştırabilir anlamına gelen bu etikete göre en azından 800 Mhz güce sahip bir işlemci + 512 MByte RAM ve DirectX 9 uyumlu bir grafik kartı ile Aero gibi özellikleri kullanmadan en basit haliyle Windows Vista&amp;rsquo;yı (Windows Vista Basic) çalıştırabilirsiniz.&lt;/p&gt;
+&lt;p&gt;Bu etikete aldanıp son bir yıl içinde notebook alanlar büyük hayal kırıklığı yaşıyorlar. Çünkü i915 chipseti Windows Vista&amp;rsquo;nın Aero grafik özelliklerini destekleyecek güce sahip değil. Aslında intel gerekli driverları çıkarsa bu özellik en temel anlamda desteklenebilir, ancak intel i915 için WDDM driverları çıkarmayacağını açıkladı…&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -367,8 +562,22 @@ Ancak bu notebook bilgisayara aslında Windows Vista Capable etiketi yapıştır
       <pubDate>Sun, 29 Apr 2007 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/windows-vista/</guid>
-      <description>Windows Vista™ yenilik olarak neler getiriyor ? Bunları madde madde sıralamak mümkün, ancak göze çarpan ilk değişiklik görsellikte. Masaüstü ikonları, pencerelerin görünümü vb…
-Bilgisayarınıza yükleyip kullanmaya başladığınızda bu yeni görünümden etkilenmemek mümkün değil. Bilgisayarda yapacak işiniz olmasa bile Windows Vista™ ile uğraşmak, yeni neler var acaba diyerek saatler boyunca bilgisayarınızın başından kalkamıyorsunuz… Ancak belli bir süre Windows Vista&amp;rsquo;yı kullandıktan sonra gözünüz bu yeniliklere alışıyor, bu yeni görünümün aslında sistem kaynaklarınızın ne kadar büyük bir kısmını tükettiğini fark ediyorsunuz.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mhlrgvZ9bR1qz4rgp.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Windows Vista™ yenilik olarak neler getiriyor ? Bunları madde madde sıralamak mümkün, ancak göze çarpan ilk değişiklik görsellikte. Masaüstü ikonları, pencerelerin görünümü vb…&lt;/p&gt;
+&lt;p&gt;Bilgisayarınıza yükleyip kullanmaya başladığınızda bu yeni görünümden etkilenmemek mümkün değil. Bilgisayarda yapacak işiniz olmasa bile Windows Vista™ ile uğraşmak, yeni neler var acaba diyerek saatler boyunca bilgisayarınızın başından kalkamıyorsunuz… Ancak belli bir süre Windows Vista&amp;rsquo;yı kullandıktan sonra gözünüz bu yeniliklere alışıyor, bu yeni görünümün aslında sistem kaynaklarınızın ne kadar büyük bir kısmını tükettiğini fark ediyorsunuz. Performans gerektiren işlemlerde Windows Vista&amp;rsquo;nın nasıl şiştiğini (!) bizzat farkediyorsunuz.&lt;/p&gt;
+&lt;p&gt;Windows Vista&amp;rsquo;nın getirdiği yenilikler şöyle özetlenebilir.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Aero, saydam olabilen pencereler, pencereler arasında 3D geçiş…&lt;/li&gt;
+&lt;li&gt;Dialog kutuları, dosyaları etiketlemeyi kolaylaştıran ek özelliklerin yanında, standart ikonlar yerine dosyaların önizlemelerini görebilmek mümkün.&lt;/li&gt;
+&lt;li&gt;Sistem tepsisindeki bildirimler artık 32x32 boyutunda ikonlarla birlikte, eğer kullanıcı tam ekran bir programla çalışmıyor, inaktif değilse gözüküyor ve 9 saniye ekranda kalıyor.&lt;/li&gt;
+&lt;li&gt;Search kutuları, explorer içine entegre edilmiş, Windows Vista&amp;rsquo;nın endeksleme sistemi ile daha verimli aramalar yapılabiliyor.&lt;/li&gt;
+&lt;li&gt;Görev Dialog kutuları, çalıştırılacak programlar ile ilgili bilgi veren kutular. (User Account Control&amp;rsquo;ün bir parçası)&lt;/li&gt;
+&lt;li&gt;Kontrol Panel, işletim sisteminin özelliklerine ulaşabilmek için merkezi bir yer.&lt;/li&gt;
+&lt;li&gt;İkonlar maksimum boy olarak 256x256 pixele ulaşmış durumda, özellikle büyük ekranlar için önemli bir özellik.&lt;/li&gt;
+&lt;li&gt;System font Segoe olarak değişmiş, ClearType kullanımına uygun bir font kullanılmış. Default boy olarak 9 kullanılmış.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -377,9 +586,13 @@ Bilgisayarınıza yükleyip kullanmaya başladığınızda bu yeni görünümden
       <pubDate>Wed, 15 Nov 2006 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/beos-r5/</guid>
-      <description>BeOS, BeBox adını taşıyan bilgisayarlar için üretilmişti. Görsel olarak ünik ve dikkat çekici olan BeOS&amp;rsquo;un 90&amp;rsquo;ların ikinci yarısında Apple MacOS&amp;rsquo;un yerini alacağı düşünülmüştü. Hesaplar tutmadı, BeOS yalnız ve terkedilmiş olarak bir kenara bırakıldı.
-Günümüzde BeOS&amp;rsquo;u yeniden canlandıran YellowTab isimli firma, işletim sistemini günümüz donanım ve yazılım kriterlerine uygun hale getirerek yeniden piyasaya sundu. 80 ile 120 $ arası fiyatlarda satılan bu yeni BeOS, Zeta ismiyle öncekinden ayrılıyor.
-BeOS ile ilgili detaylı bilgi edinmek için ;</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mhlscl8w3K1qz4rgp.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;BeOS, BeBox adını taşıyan bilgisayarlar için üretilmişti. Görsel olarak ünik ve dikkat çekici olan BeOS&amp;rsquo;un 90&amp;rsquo;ların ikinci yarısında Apple MacOS&amp;rsquo;un yerini alacağı düşünülmüştü. Hesaplar tutmadı, BeOS yalnız ve terkedilmiş olarak bir kenara bırakıldı.&lt;/p&gt;
+&lt;p&gt;Günümüzde BeOS&amp;rsquo;u yeniden canlandıran YellowTab isimli firma, işletim sistemini günümüz donanım ve yazılım kriterlerine uygun hale getirerek yeniden piyasaya sundu. 80 ile 120 $ arası fiyatlarda satılan bu yeni BeOS, Zeta ismiyle öncekinden ayrılıyor.&lt;/p&gt;
+&lt;p&gt;BeOS ile ilgili detaylı bilgi edinmek için ;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/BeOS_R5&#34;&gt;http://en.wikipedia.org/wiki/BeOS_R5&lt;/a&gt; &lt;a href=&#34;http://www.yellowtab.com/&#34;&gt;http://www.yellowtab.com/&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -388,8 +601,11 @@ BeOS ile ilgili detaylı bilgi edinmek için ;</description>
       <pubDate>Fri, 20 Oct 2006 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/windows-vista/</guid>
-      <description>Şu an laptopumda Windows Vista RC1 Build 5600 kullanıyorum. Genel olarak stabil çalışıyor, herhangi bir problemle karşılaşmama karşın performans oldukça düşük. Yeni özelliklerden bazıları çok güzel. Mesela Sidebar ve gadget sistemi güzel… (Bunlar Yahoo! Widgets olarak vardı önceden) İşletim sistemine entegre edilmiş olması hoş.
-Internet Explorer 7 ve Media Player 10 ise tam bir felaket bence, sonuçta beta sürüm elbette performans problemleri olacaktır ama sistemin kaynaklarını resmen tüketiyorlar…</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Desktop.jpg&#34; alt=&#34;Desktop&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Şu an laptopumda Windows Vista RC1 Build 5600 kullanıyorum. Genel olarak stabil çalışıyor, herhangi bir problemle karşılaşmama karşın performans oldukça düşük. Yeni özelliklerden bazıları çok güzel. Mesela Sidebar ve gadget sistemi güzel… (Bunlar Yahoo! Widgets olarak vardı önceden) İşletim sistemine entegre edilmiş olması hoş.&lt;/p&gt;
+&lt;p&gt;Internet Explorer 7 ve Media Player 10 ise tam bir felaket bence, sonuçta beta sürüm elbette performans problemleri olacaktır ama sistemin kaynaklarını resmen tüketiyorlar…&lt;/p&gt;
+</description>
     </item>
     
   </channel>

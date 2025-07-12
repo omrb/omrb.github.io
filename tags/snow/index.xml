@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>snow on Darkest Notes</title>
+    <title>Snow on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/snow/</link>
-    <description>Recent content in snow on Darkest Notes</description>
+    <description>Recent content in Snow on Darkest Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 19 Feb 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/snow/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,8 @@
       <pubDate>Thu, 19 Feb 2015 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/winter-in-ankara-kvmgm/</guid>
-      <description>[gallery type=&amp;ldquo;slideshow&amp;rdquo; link=&amp;ldquo;none&amp;rdquo; size=&amp;ldquo;full&amp;rdquo; ids=&amp;ldquo;59,61,60,58,62&amp;rdquo;]</description>
+      <description>&lt;p&gt;[gallery type=&amp;ldquo;slideshow&amp;rdquo; link=&amp;ldquo;none&amp;rdquo; size=&amp;ldquo;full&amp;rdquo; ids=&amp;ldquo;59,61,60,58,62&amp;rdquo;]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -22,7 +23,8 @@
       <pubDate>Tue, 06 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/snowman/</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;78&amp;rdquo;]</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;78&amp;rdquo;]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -31,7 +33,9 @@
       <pubDate>Mon, 16 Mar 2009 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/snowing-and-pictures/</guid>
-      <description>Today i got some pictures while snowing. http://twitpic.com/25sjw </description>
+      <description>&lt;p&gt;Today i got some pictures while snowing. &lt;a href=&#34;http://twitpic.com/25sjw&#34;&gt;http://twitpic.com/25sjw&lt;/a&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/3629516.jpg&#34; alt=&#34;Snowing&#34;  /&gt;
+&lt;/p&gt;
+</description>
     </item>
     
   </channel>

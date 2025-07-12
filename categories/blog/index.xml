@@ -1,21 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>blog on Darkest Notes</title>
+    <title>Blog on Darkest Notes</title>
     <link>https://darkestnotes.org/categories/blog/</link>
-    <description>Recent content in blog on Darkest Notes</description>
+    <description>Recent content in Blog on Darkest Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 03 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Long Time No See</title>
+      <link>https://darkestnotes.org/posts/long-time-no-see/</link>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/long-time-no-see/</guid>
+      <description>&lt;p&gt;Uzun zaman oldu bu eski blog&amp;rsquo;uma birşeyler yazmayalı. Eskisi kadar yazmaya fırsat bulamıyor olmanın yanında aslında yazacak çok fazla birşeyler de olmuyor hayatımda. Yaş ilerledikçe hayat hem rutinleşiyor, hem eskiden ilgilenilen pek çok şeye ilgi azalıyor.&lt;/p&gt;
+&lt;p&gt;Yazın en sıcak günlerini yaşıyoruz bu ara. Biraz bilgisayar oyunları, biraz müzik, biraz internet derken saatler, günler, haftalar akıp gidiyor. Yaklaşık 1.5 yıl sonra hem blog&amp;rsquo;a birşeyler yazmak hem de Hugo ile yeniden yükleyebilmek biraz uğraştırıcı olacak gibi.&lt;/p&gt;
+&lt;p&gt;Yakın zamanda daha sık blog post&amp;rsquo;ları ekleyebilmek dileğiyle&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Wordpress&#39;den Hugo&#39;ya Geçiş</title>
       <link>https://darkestnotes.org/posts/wordpressden-hugoya-ge%C3%A7i%C5%9F/</link>
       <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/wordpressden-hugoya-ge%C3%A7i%C5%9F/</guid>
-      <description>2006 yılından beri çeşitli sitelerde yer alan blog&amp;rsquo;umu hosting firmamın PHP 8&amp;rsquo;i zorunlu tutması ve Wordpress tema ve eklentilerinin PHP 8 ile sorunlar çıkarması sebebiyle Hugo&amp;rsquo;ya geçirmeye karar verdim.
-Wordpress&amp;lsquo;i 2015 yılından beri kullanıyordum ve herhangi bir sorunum yoktu. Bununla birlikte tema ve eklentilerin her güncelleme sonrası sorun çıkarabilecek olma ihtimali bie keyif kaçırıcı bir etkendi blog&amp;rsquo;um için.
-Hugo oldukça basit bir sisteme sahip. Text dosyalarını derleyerek statik, HTML tabanlı basit bir internet sitesi yaratıyor.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/hugo-logo.png#center&#34; alt=&#34;Hugo&#34;  /&gt;
+ 2006 yılından beri çeşitli sitelerde yer alan blog&amp;rsquo;umu hosting firmamın PHP 8&amp;rsquo;i zorunlu tutması ve Wordpress tema ve eklentilerinin PHP 8 ile sorunlar çıkarması sebebiyle Hugo&amp;rsquo;ya geçirmeye karar verdim.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://darkestnotes.org/posts/hello-world/&#34;&gt;Wordpress&lt;/a&gt;&amp;lsquo;i 2015 yılından beri kullanıyordum ve herhangi bir sorunum yoktu. Bununla birlikte tema ve eklentilerin her güncelleme sonrası sorun çıkarabilecek olma ihtimali bie keyif kaçırıcı bir etkendi blog&amp;rsquo;um için.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; oldukça basit bir sisteme sahip. Text dosyalarını derleyerek statik, HTML tabanlı basit bir internet sitesi yaratıyor. Üstelik oluşturulan siteyi en basit hosting sisteminde bile host edebilmek mümkün çünkü geri planda çalışması gereken database ihtiyacı yok.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Go&lt;/strong&gt; programlama dili ile yazılan Hugo çok hızlı çalışıyor. C tabanlı bir dil olan Go, Google tarafından geliştiriliyor ve son yılların gözde programlama dillerinden. Python ile yazılmış çoğu uygulamanın Go&amp;rsquo;ya yöneldiği biliniyor.&lt;/p&gt;
+&lt;p&gt;Çok sayıda girdi bulunan blog&amp;rsquo;umun Hugo ile derlenmesi yaklaşık 10 saniye sürdü. Pratik ve hızlı olmasının yanında her yeni girdi eklendiğinde sitenin yeniden derlenmesi gerekiyor. Sık güncelleme yapılan siteler için çok uygun değil haliyle.&lt;/p&gt;
+&lt;p&gt;Bununla birlikte tüm blog&amp;rsquo;un Wordpress&amp;rsquo;den Hugo&amp;rsquo;ya aktarılması sorunsuz biçimde gerçekleşmedi maalesef. Çoğu resim dosyası yerli yerinde durmasına karşın bağlantılar bozulduğundan şu an için görüntülenemiyor. &lt;em&gt;Bu hataları düzeltir miyim? Düzeltmeye vaktim olur mu bilmiyorum.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;2006 yılından beri iyi kötü birşeyler karaladığım için Darkest Notes&amp;rsquo;un bir şekilde internet üzerinden ulaşılabilir olması için elimden geldiğince gayret gösteriyorum ama ileride ne olur bilemem.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -24,7 +42,9 @@ Hugo oldukça basit bir sisteme sahip. Text dosyalarını derleyerek statik, HTM
       <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/hep-yan%C4%B1nday%C4%B1m/</guid>
-      <description>[caption id=&amp;ldquo;attachment_3570&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1298&amp;rdquo;] Hayatıma kattığın herşey için sana teşekkür ederim. Seni hiç unutmayacağım![/caption]</description>
+      <description>&lt;p&gt;[caption id=&amp;ldquo;attachment_3570&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1298&amp;rdquo;]&lt;img loading=&#34;lazy&#34; src=&#34;images/Bambi.png&#34; alt=&#34;&#34;  /&gt;
+ Hayatıma kattığın herşey için sana teşekkür ederim. Seni hiç unutmayacağım![/caption]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -33,8 +53,12 @@ Hugo oldukça basit bir sisteme sahip. Text dosyalarını derleyerek statik, HTM
       <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/wordpress-gutenberg-editor/</guid>
-      <description>Bilgisayar dünyasında birşeyleri kullanmaya alışmayagör, hemen yeni bir sürümü hazırlanır, türlü etiketlerle &amp;ldquo;şöyle güzel oldu&amp;rdquo;, &amp;ldquo;böyle iyi yaptık&amp;rdquo; diye anlı şanlı editörler tarafından öve öve cilalanıp, bir anda kullanımımıza sunulur. Bunca zamandır alışkanlık haline getirilen pratik özellikler, kısayollar, artık tarih olmuştur. Herşeye yeniden başlamak, yeniden öğrenmek gerekir.
-Wordpress internal editor&amp;rsquo;ünü bundan sonraki sürümünde Gutenberg ile değiştirmeyi planlıyormuş. Biraz deneyeyim dedim ancak fazlasıyla karışık. Genelde buraya bir şeyler yazacağım zaman zaten Wordpress&amp;rsquo;in kendi editör&amp;rsquo;ünü kullanmıyordum ancak kullandığım diğer editörlerden metni aktarırken yaşayacağım uyum sorunları ne olacak?</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/books.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Bilgisayar dünyasında birşeyleri kullanmaya alışmayagör, hemen yeni bir sürümü hazırlanır, türlü etiketlerle &amp;ldquo;&lt;em&gt;şöyle güzel oldu&lt;/em&gt;&amp;rdquo;, &amp;ldquo;&lt;em&gt;böyle iyi yaptık&lt;/em&gt;&amp;rdquo; diye anlı şanlı editörler tarafından öve öve cilalanıp, bir anda kullanımımıza sunulur. Bunca zamandır alışkanlık haline getirilen pratik özellikler, kısayollar, artık tarih olmuştur. Herşeye yeniden başlamak, yeniden öğrenmek gerekir.&lt;/p&gt;
+&lt;p&gt;Wordpress internal editor&amp;rsquo;ünü bundan sonraki sürümünde Gutenberg ile değiştirmeyi planlıyormuş. Biraz deneyeyim dedim ancak fazlasıyla karışık. Genelde buraya bir şeyler yazacağım zaman zaten Wordpress&amp;rsquo;in kendi editör&amp;rsquo;ünü kullanmıyordum ancak kullandığım diğer editörlerden metni aktarırken yaşayacağım uyum sorunları ne olacak?&lt;/p&gt;
+&lt;p&gt;Minimalizm dedik, herşey basitleşsin, en yalın haliyle keyif alalım herşeyden dedik, geldiğimiz noktaya bak!&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -43,7 +67,10 @@ Wordpress internal editor&amp;rsquo;ünü bundan sonraki sürümünde Gutenberg 
       <pubDate>Sun, 27 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/yaz-saati/</guid>
-      <description>Bugün 4,5 ay gibi kısa bir süre süren normal saat uygulaması sonrası yaz saatine geçilen gün oldu. Kış’ı, karanlığı ve soğuk havayı seven benim gibi biri için zor bir durum maalesef. Yılın neredeyse 8 ayı yaz saati uygulaması ile geçiyor. Kabul edilemez bir durum.😬</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Dark_Skies-Daylight_Saving_Time.png&#34; alt=&#34;Dark_Skies-Daylight_Saving_Time&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Bugün 4,5 ay gibi kısa bir süre süren normal saat uygulaması sonrası yaz saatine geçilen gün oldu. Kış’ı, karanlığı ve soğuk havayı seven benim gibi biri için zor bir durum maalesef. Yılın neredeyse 8 ayı yaz saati uygulaması ile geçiyor. Kabul edilemez bir durum.😬&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -52,8 +79,18 @@ Wordpress internal editor&amp;rsquo;ünü bundan sonraki sürümünde Gutenberg 
       <pubDate>Mon, 07 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/wordpress-vs.-tumblr./</guid>
-      <description>Yaklaşık iki ay önce blog’umu tumblr.’dan Wordpress’e taşıdığımdan bahsetmiştim. Her iki servis kullanıldığında ortaya çıkan siteler, üç aşağı beş yukarı birbirine benzese de genel olarak iki içerik yönetim sisteminin (Content Management System) avantaj ve dezavantajları ile birlikte bazı farkları da var. (Bu yazıda Wordpress&amp;rsquo;in kendi host&amp;rsquo;u üzerinden çalışan şekli Wordpress.org ele alınmış olup, host&amp;rsquo;a ihtiyaç duymayan ancak daha az opsiyon içeren Wordpress.com karşılaştırma dışı tutulmuştur.☺️)
-Temelde iki platformu birbirinden ayıran en temel özellik, birinin özel bir şirketin ürünü, diğerinin ise açık kaynak kodlu yazılım olması (yani sahibi yok).</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/WP_vs_Tumblr.jpg&#34; alt=&#34;WP_vs_Tumblr&#34;  /&gt;
+Yaklaşık iki ay önce blog’umu tumblr.’dan Wordpress’e taşıdığımdan &lt;a href=&#34;https://darkestnotes.org/2015/12/06/hello-world/&#34;&gt;bahsetmiştim&lt;/a&gt;. Her iki servis kullanıldığında ortaya çıkan siteler, üç aşağı beş yukarı birbirine benzese de genel olarak iki içerik yönetim sisteminin (&lt;strong&gt;C&lt;/strong&gt;ontent &lt;strong&gt;M&lt;/strong&gt;anagement &lt;strong&gt;S&lt;/strong&gt;ystem) avantaj ve dezavantajları ile birlikte bazı farkları da var. (&lt;em&gt;Bu yazıda Wordpress&amp;rsquo;in kendi host&amp;rsquo;u üzerinden çalışan şekli &lt;a href=&#34;http://wordpress.org&#34;&gt;Wordpress.org&lt;/a&gt; ele alınmış olup, host&amp;rsquo;a ihtiyaç duymayan ancak daha az opsiyon içeren &lt;a href=&#34;http://wordpress.com&#34;&gt;Wordpress.com&lt;/a&gt; karşılaştırma dışı tutulmuştur.☺️&lt;/em&gt;)&lt;/p&gt;
+&lt;p&gt;Temelde iki platformu birbirinden ayıran en temel özellik, birinin özel bir şirketin ürünü, diğerinin ise açık kaynak kodlu yazılım olması (yani sahibi yok). &lt;a href=&#34;http://www.tumblr.com&#34;&gt;Tumblr.&lt;/a&gt; birgün “&lt;em&gt;biz kapatıyoruz arkadaş!&lt;/em&gt;” dediğinde (elbette içeriğin kopyası sunulacaktır bir şekilde) yapılabilecek çok fazla bir şey yok. Wordpress iyi kötü açık kaynak koduyla ve içeriğinizin kendi hostunuzda olması sebebiyle kalıcı şekilde sürdürebilir kendisini.&lt;/p&gt;
+&lt;p&gt;Wordpress’in geri planı MySQL veritabanı ve PHP’den oluşuyor. Tumblr. kendine özgü olarak &lt;a href=&#34;http://handlebarsjs.com&#34;&gt;Handlebars.js&lt;/a&gt; ve Ruby kütüphanesi olan &lt;a href=&#34;http://liquidmarkup.org&#34;&gt;Liquid&lt;/a&gt; karışımı bir kod üzerine kurulmuş durumda. Wordpress kurulduğu host üzerinden çalışırken, tumblr. kendi sitesi üzerinden çalışıyor.&lt;/p&gt;
+&lt;p&gt;Öncelikle Wordpress kullanıcıya biraz daha özgürlük vaad ediyor. Siteyi tasarlarken kullanılan temalar isteğe göre oldukça fazla opsiyon ve ince ayarlar sunabiliyor. Bununla birlikte Plug-In’ler ile çok değişik aracı siteye kolayca yerleştirebilmek mümkün.&lt;/p&gt;
+&lt;p&gt;Tumblr.’da da çok sayıda tema ve widget mevcut ama temalar ile widget’lar birbirine bağımlı olarak geliyor. Yani temalar belli widget’lar ile geliyor, kullandığınız temanın içinde yer alan widget’lar ile sınırlandırılmış durumdasınız. Wordpress’deki bir plug-in’in hemen hemen tüm temalarla uyumlu olması gibi bir durum söz konusu değil.&lt;/p&gt;
+&lt;p&gt;Görünümdeki bu özgürlüğün yanında alt yapıda da fazlasıyla bir genişlik ve rahatlık söz konusu. Öncelikle siteyi kendi host’unuzda barındıryor olmak, istediğiniz zaman başka bir hosta geçip sitenizi taşıma imkanı da sağlıyor. Tumblr’a erişim ülkemizden engellendiğinde içeriğinize ulaşılabilmesi (VPN ve DNS) kullanılmadan mümkün değil. Wordpress’de database hariç tüm dosyalara erişiyor olmak, yedek almak basit bir işlem ve endişeli kullanıcılar için oldukça uygun bir özellik.&lt;/p&gt;
+&lt;p&gt;Wordpress’de bir diğer özelliği kategoriler oluşturuyor. İçerik, ana hatları ile belirlenen kategoriler yani ana başlıklar altında toplanabiliyor. Daha sonra bu ana başlıklarda yer alan içeriği tag’ler ile daha alt ve detaylı başlıklara ayırabilme imkanı mevcut. Tek bir konu üzerine yoğunlaşmayan ve genel anlamda pek çok konuda içeriğe sahip bloglar için çok faydalı bir özellik. Tumblr.’da ise sadece tag’ler ile sınırlandırılmış durumdasınız.&lt;/p&gt;
+&lt;p&gt;Tumblr. nedense bana hep hızlı paylaşım için uygun bir sistem gibi gelmiştir. Fotoğrafı çekip, müziği yükleyip anında paylaşmak için uygun bir ortam gibi gözüküyor. Wordpress ise biraz daha ciddi, ağırbaşlı içerik üretmek isteyenler için daha uygun gibi.&lt;/p&gt;
+&lt;p&gt;Tumblr. ücretsiz bir servis olması sayesinde popüler bir kullanıcı kitlesine sahip. Wordpress kendi host&amp;rsquo;u üzerinden çalışacağı için biraz masraflı, kurulum aşamasıyla birlikte daha deneyimli kullanıcılar için.&lt;/p&gt;
+&lt;p&gt;Elbette seçilen temaya ve blog yazarının özelliklerine göre her iki içerik yönetim sisteminde de benzer sonuçlar alınabilecek olsa da doğrudan kullanıcıyı ilgilendirecek en önemli farklar bu şekilde sıralanıyor.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -62,7 +99,9 @@ Temelde iki platformu birbirinden ayıran en temel özellik, birinin özel bir �
       <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/happy-new-darkest-year-everyone/</guid>
-      <description> </description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Christmas_Gift.png&#34; alt=&#34;Christmas_Gift&#34;  /&gt;
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -71,9 +110,18 @@ Temelde iki platformu birbirinden ayıran en temel özellik, birinin özel bir �
       <pubDate>Mon, 28 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/eskiden-hersey-ne-g%C3%BCzeldi/</guid>
-      <description>1987 yılbasında, soguk bir kıs günü eve giren Commodore 64 ile basladı hersey. Görüntü kablosu kocaman tüplü televizyona baglanır, oyunlar kasetten yüklenirdi. Degisik oyunları oynanırdı ailecek. (Çünkü tek televizyon olurdu evlerde) Hafta ici açılmazdı, çünkü okul vardı, hafta sonu iple çekilir, cuma gecesi bütün hafta hayali kurulan oyunlar heyecanla oynanırdı.
-[caption id=&amp;ldquo;attachment_2748&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;1184&amp;rdquo;] Saturday Morning[/caption]
-Hersey ne güzeldi 1990&amp;rsquo;da 1991&amp;rsquo;de. Amiga bilgisayar vardı. Beyaz ekranda Workbench disketi tutan bir el.</description>
+      <description>&lt;p&gt;1987 yılbasında, soguk bir kıs günü eve giren Commodore 64 ile basladı hersey. Görüntü kablosu kocaman tüplü televizyona baglanır, oyunlar kasetten yüklenirdi. Degisik oyunları oynanırdı ailecek. (Çünkü tek televizyon olurdu evlerde) Hafta ici açılmazdı, çünkü okul vardı, hafta sonu iple çekilir, cuma gecesi bütün hafta hayali kurulan oyunlar heyecanla oynanırdı.&lt;/p&gt;
+&lt;p&gt;[caption id=&amp;ldquo;attachment_2748&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;1184&amp;rdquo;]&lt;img loading=&#34;lazy&#34; src=&#34;images/Steven_Vitale-Saturday_Morning.png&#34; alt=&#34;Steven_Vitale-Saturday_Morning&#34;  /&gt;
+ Saturday Morning[/caption]&lt;/p&gt;
+&lt;p&gt;Hersey ne güzeldi 1990&amp;rsquo;da 1991&amp;rsquo;de. &lt;a href=&#34;https://darkestnotes.org/2009/09/26/eski-bilgisayarlar-amiga/&#34;&gt;Amiga&lt;/a&gt; bilgisayar vardı. Beyaz ekranda Workbench disketi tutan bir el. Disket sürücüden tuhaf sesler çıkardı yükleme esnasında. Mavi pencereli GUI&amp;rsquo;si vardı, kendine özel karakterleri, ikonları. Bazı programlar ve oyunlar sadece 1 MByte RAM&amp;rsquo;de çalışırdı. &lt;a href=&#34;https://darkestnotes.org/2015/07/12/dergilerdergicilik/&#34;&gt;Dergilerden&lt;/a&gt; takip ederdik yeni çıkan oyunları, programları. MAC Adventure okurduk, eski oyunları yeniden oynardık.&lt;/p&gt;
+&lt;p&gt;[caption id=&amp;ldquo;attachment_2750&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;1316&amp;rdquo;]&lt;img loading=&#34;lazy&#34; src=&#34;images/Amiga_500.png&#34; alt=&#34;Amiga_500&#34;  /&gt;
+ Amiga 500, not Plus model![/caption]&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://darkestnotes.org/2010/05/31/80lerde-muzik-dinlemek/&#34;&gt;Müzik&lt;/a&gt; dinlemek ayrı bir keyifti. Kasete çekilirdi albümler, önceleri LP&amp;rsquo;den kopyalanırdı, cızırtılı olurdu ama bangır bangır gelirdi ses. Sonra CD&amp;rsquo;ler çıktı, daha kaliteli dedik ama bir yavanlık vardı, dijitaldi çünkü.&lt;/p&gt;
+&lt;p&gt;Hersey daha güzeldi eskiden, oynadığımız oyunun suyunu çıkarırdık, en ince detayları bilir, disketin içindeki hangi dosyanın ne işe yaradıgını ezberlerdik. Yaptıgımız hersey ayrı bir keyif verirdi, öylesine degildi hiçbirsey.&lt;/p&gt;
+&lt;p&gt;[caption id=&amp;ldquo;attachment_2755&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;1024&amp;rdquo;]&lt;img loading=&#34;lazy&#34; src=&#34;images/Amiga_500_Plus.png&#34; alt=&#34;Amiga_500_Plus&#34;  /&gt;
+ Amiga 500 Plus Model[/caption]&lt;/p&gt;
+&lt;p&gt;Sonra Amiga 500+ çıktı. Aynı eski Amiga&amp;rsquo;ydı, mor fondaki hareketli Workbench disketi dısında. Bazı oyunları çalıstırmazdı, problem çıkarırdı, ama çok güzel aletti. Hep hayal etmisimdir, karlı bir yılbaşı günü, okulun olmadıgı bir hafta sabah erkenden kalkıp Amiga&amp;rsquo;mın basına oturup saatlerce oyun oynamayı. &lt;a href=&#34;https://darkestnotes.org/2006/12/03/f-29-retaliator/&#34;&gt;F-29 Retaliator&lt;/a&gt;, Pirates!, Guild of Thieves&amp;hellip;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -82,8 +130,14 @@ Hersey ne güzeldi 1990&amp;rsquo;da 1991&amp;rsquo;de. Amiga bilgisayar vardı.
       <pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/blog-tarih%C3%A7esi/</guid>
-      <description>tumblr.’ın belirli sunucularına erişimin yasaklanması sebebiyle kısmen tuhaflaşan 10 yıllık blog’umu WordPress.org’ye taşımaya karar verdim.
-Ücretsiz blog (veya içerik diyelim) servislerinin en önemli sorunu tüm içeriğin onların sunucusunda kalması ve sorunlar oluştuğunda ulaşılamaz hale gelmesi. İlk blogumu Blogger ile oluşturmuştum. Yaklaşık 2006–2008 arası kullandım. Daha sonra blogger’a erişim yasaklandığında 26 Ekim 2008’de LiveJournal’a (2008–2009) geçtim. Bir ara WordPress&amp;lsquo;i de denedim. Daha organize ve hızlı paylaşım özellikleri bulunması sebebiyle 2009’da ise tumblr.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://bromr.tumblr.com&#34;&gt;tumblr.&lt;/a&gt;’ın belirli sunucularına erişimin yasaklanması sebebiyle kısmen tuhaflaşan 10 yıllık blog’umu &lt;a href=&#34;http://wordpress.org&#34;&gt;WordPress.org&lt;/a&gt;’ye taşımaya karar verdim.&lt;/p&gt;
+&lt;p&gt;Ücretsiz blog (veya içerik diyelim) servislerinin en önemli sorunu tüm içeriğin onların sunucusunda kalması ve sorunlar oluştuğunda ulaşılamaz hale gelmesi. İlk blogumu &lt;a href=&#34;http://omerbalamir.blogspot.com.tr&#34;&gt;Blogger&lt;/a&gt; ile oluşturmuştum. Yaklaşık 2006–2008 arası kullandım. Daha sonra blogger’a erişim yasaklandığında 26 Ekim 2008’de &lt;a href=&#34;http://omerbalamir.livejournal.com&#34;&gt;LiveJournal&lt;/a&gt;’a (2008–2009) geçtim. Bir ara &lt;a href=&#34;https://omerbalamir.wordpress.com&#34;&gt;WordPress&lt;/a&gt;&amp;lsquo;i de denedim. Daha organize ve hızlı paylaşım özellikleri bulunması sebebiyle 2009’da ise tumblr. kullanmaya başladım.&lt;/p&gt;
+&lt;p&gt;[gallery type=&amp;ldquo;slideshow&amp;rdquo; ids=&amp;ldquo;2690,2688,2687,2686,2685,2684,2689&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;Hepsi ücretsiz olan bu servislerde yer alan içeriğimi tumblr.’da birleştirmeye çalıştım. Ancak iyi kötü içeriğin büyük kısmı tumblr. sunucularında kaldı. Tasarım ve görünüm olarak 2 Şubat 2013&amp;rsquo;de şeklini alan blog o zamandan bu zamana pek büyük değişim geçirmedi. Ta ki 06 Aralık 2015&amp;rsquo;de kendi alanıma taşımaya karar verinceye kadar.&lt;/p&gt;
+&lt;p&gt;Geçen yıl heveslenerek bir hosting satın aldım, kısmen taşıma işlemini gerçekleştirmiş, ancak gerekli düzenlemeleri yapmaya üşendiğimden kullanmamıştım, tumblr. ile yola devam etmiştim. Bu yıl kararlı bir şekilde Wordpress ile birlikte tüm içeriği bir &lt;em&gt;plug-in&lt;/em&gt; sayesinde kendi alanıma taşıdım, şimdi site tamamıyla elimin altında. Yedeğini alıp başka bir yere taşımak kolay, yaklaşık son bir haftadır bu işle uğraşıyorum.&lt;/p&gt;
+&lt;p&gt;Öncelikle sadece blogu taşıyıp bırakmadım. Tüm entry’ler tek tek incelendi, gözden geçirildi. Yıllar önce (ağırlıklı olarak 2009 yılı) twitter iletilerimin bloguma import edilmesi sebebiyle çok sayıda durum güncellemesi, wordpress’in &lt;em&gt;post-type&lt;/em&gt;’larına uygun hale getirildi, çoğu ölü link düzeltilmeye çalışıldı. Kaybolan içerik tamamlanmaya çalışıldı. Yaklaşık &lt;strong&gt;900&lt;/strong&gt; entry’den oluşan blog hayatım, gereksiz ve ne olduğu anlaşılamayan entry’lerin silinmesi ile &lt;strong&gt;818&lt;/strong&gt; civarında enty’ye daraltıldı.&lt;/p&gt;
+&lt;p&gt;Kendi kendime oturup baştan sona baktığımda 2006 yılından itibaren güzel bir arşiv oluşmuş aslında. Nelerle uğraşmışım, ilgilenmişim, sayısız internet sitesi, uygulama kullanılmış, çoğu tarihin tozlu çöplüğünde kaybolup gitmiş artık. Paylaştığım linklerin hemen hepsi ölmüş, arada çok eskilerden kalan ve halan yaşayan linklerin olması şaşırttı tabi beni. Bundan sonra dışarıya link verirken (yada içerik paylaşırken) daha seçici olmam gerektiğini düşünüyorum. En azından içeriğin bir bölümü kopya edilerek kendi sunucumda barındırılabilir, neyin ne olduğu yıllar sonra bakıldığında bile anlaşılabilir böylece.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -92,10 +146,14 @@ Hersey ne güzeldi 1990&amp;rsquo;da 1991&amp;rsquo;de. Amiga bilgisayar vardı.
       <pubDate>Sun, 06 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/hello-world/</guid>
-      <description>Hello World!
-Welcome to WordPress. This is your first post. Edit or delete it, then start writing!
-Yıllardır tumblr.&amp;lsquo;da bulunan blog&amp;rsquo;umu, tumblr&amp;rsquo;ın Türkiye&amp;rsquo;de kısmen yasaklanması (yada belli adreslerinin yasaklanması nedeniyle içeriğimin kısmen ulaşılamaz olması) dolayısıyla Wordpress&amp;rsquo;e taşımaya karar verdim. Geçen yıl içinde de bu tarz bir çalışmam olmuştu ancak tumblr ile devam etmeye karar vermiştim.
-Ne diyelim, hayırlı olsun!&amp;hellip;</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/DN_on_WP-1.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Hello World!&lt;/p&gt;
+&lt;p&gt;Welcome to WordPress. This is your first post. Edit or delete it, then start writing!&lt;/p&gt;
+&lt;p&gt;Yıllardır &lt;a href=&#34;http://bromr.tumblr.com&#34;&gt;tumblr.&lt;/a&gt;&amp;lsquo;da bulunan blog&amp;rsquo;umu, tumblr&amp;rsquo;ın Türkiye&amp;rsquo;de kısmen yasaklanması (yada belli adreslerinin yasaklanması nedeniyle içeriğimin kısmen ulaşılamaz olması) dolayısıyla &lt;a href=&#34;http://wordpress.org&#34;&gt;Wordpress&lt;/a&gt;&amp;rsquo;e taşımaya karar verdim. Geçen yıl içinde de bu tarz bir çalışmam olmuştu ancak tumblr ile devam etmeye karar vermiştim.&lt;/p&gt;
+&lt;p&gt;Ne diyelim, hayırlı olsun!&amp;hellip;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -104,7 +162,8 @@ Ne diyelim, hayırlı olsun!&amp;hellip;</description>
       <pubDate>Tue, 16 Dec 2014 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/darkest-notes-birthday/</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;83&amp;rdquo;]</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;83&amp;rdquo;]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -113,8 +172,9 @@ Ne diyelim, hayırlı olsun!&amp;hellip;</description>
       <pubDate>Mon, 16 Dec 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/blogs-birthday/</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;164&amp;rdquo;]
-Darkest Notes turned 5 (my blogs 7) today!</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;164&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;Darkest Notes turned 5 (my blogs 7) today!&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -123,7 +183,8 @@ Darkest Notes turned 5 (my blogs 7) today!</description>
       <pubDate>Thu, 14 Nov 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/tumblr./</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;174&amp;rdquo;]</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;174&amp;rdquo;]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -132,9 +193,25 @@ Darkest Notes turned 5 (my blogs 7) today!</description>
       <pubDate>Tue, 05 Feb 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/internet-html-blog/</guid>
-      <description>Internet’in hayatımıza girmesi ile birlikte, iyi kötü internet kullanan herkesin denemek istediği ilk şey kendi web sitesini hazırlamak olmuştur.
-Bedava alan sağlayan ilk servisler[1] hazırda bulunan şablonları ile kullanıcıların web sitesi oluşturmasını kolaylaştırmıştır. Kişisel web sitesi oluşturmak isteyen herkes birazcık HTML öğrenmiş, siteler hazırlamış, renkli animasyonlu .GIF dosyaları ile ekranı ve arkaplanı doldurmuş, para kazanabilme umudu ile reklam bannerları ve dijital ziyaretçi sayısını gösteren sayaçlar eklemiştir.
-Herhangi bir içerik bulundurmayan, sadece web sayfası nasıl oluşturulur mantığı ile hazırlanan bu sayfalar kısa sürede unutulmuş ve ortadan kalkmıştır bununla birlikte blog denilen çoğu zaman “internet günlüğü” olarak yanlış bir anlam yüklenen oluşum ortaya çıkmıştır.</description>
+      <description>&lt;p&gt;Internet’in hayatımıza girmesi ile birlikte, iyi kötü internet kullanan herkesin denemek istediği ilk şey kendi web sitesini hazırlamak olmuştur.&lt;/p&gt;
+&lt;p&gt;Bedava alan sağlayan ilk servisler&lt;a href=&#34;1&#34; title=&#34;see footnote&#34;&gt;[1]&lt;/a&gt; hazırda bulunan şablonları ile kullanıcıların web sitesi oluşturmasını kolaylaştırmıştır. Kişisel web sitesi oluşturmak isteyen herkes birazcık HTML öğrenmiş, siteler hazırlamış, renkli animasyonlu .GIF dosyaları ile ekranı ve arkaplanı doldurmuş, para kazanabilme umudu ile reklam bannerları ve dijital ziyaretçi sayısını gösteren sayaçlar eklemiştir.&lt;/p&gt;
+&lt;p&gt;Herhangi bir içerik bulundurmayan, sadece web sayfası nasıl oluşturulur mantığı ile hazırlanan bu sayfalar kısa sürede unutulmuş ve ortadan kalkmıştır bununla birlikte blog denilen çoğu zaman “&lt;em&gt;internet günlüğü&lt;/em&gt;” olarak yanlış bir anlam yüklenen oluşum ortaya çıkmıştır.&lt;/p&gt;
+&lt;p&gt;Ben blog yazmaya 2006 yılı ortalarında Google’ın &lt;a href=&#34;http://omerbalamir.blogspot.com&#34;&gt;Blogger&lt;/a&gt; servisi ile başlamıştım. Daha sonra 2008 yılında Türkiye’den blogger’a erişim yasaklandığında hem &lt;a href=&#34;http://omerb.posterous.com&#34;&gt;Posterous&lt;/a&gt;, hem &lt;a href=&#34;http://omerbalamir.livejournal.com&#34;&gt;Livejournal&lt;/a&gt;, hemde &lt;a href=&#34;http://omerbalamir.wordpress.com&#34;&gt;Wordpress’de&lt;/a&gt; birkaç denemem oldu, hepsinin kendine göre iyi ve kötü özellikleri vardı.&lt;/p&gt;
+&lt;p&gt;2 Aralık 2008’de Wordpress’de blog servisleri ile ilgili şöyle yazmışım;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Bir Blog servisinden neler ister blog yazarı ? Gerçekten bilemiyorum. Her servis kendine ait iyi özellikler sunuyor, birinde hoşuma giden, diğerinde olmuyor. Blogger, LiveJournal, ve WordPress… İçlerinde komple hizmet veren Blogger&lt;a href=&#34;2&#34; title=&#34;see footnote&#34;&gt;[2]&lt;/a&gt; gibi. Belki ilk göz ağrım, ondandır. Ama hemen hemen tüm istediklerimi yapabildim onunla.&lt;/p&gt;
+&lt;p&gt;LiveJournal’a widget eklenmiyor. WordPress’in de widget özelliği kısıtlı gibi. Bunlara karşılık ikisi de çok fazla sayıda tema içeriyor, seçilebilecek dizayn sayısı Blogger’a göre çok daha fazla.&lt;/p&gt;
+&lt;p&gt;Peki amaç ne ? Daha güzel gözüken bir blog mu yoksa içerik mi ? Her ikisi de önemli tabi, ama ben genelde dizayn kısmında takılıp kalıyorum. Şurası şöyle gözükse daha iyi olur, yada bu resim niye ortalanmadı gibi ufak tefek şeylere takılıp kalıyorum, içerik zenginleşemiyor.&lt;/p&gt;
+&lt;p&gt;Mesela bu yazı, WordPress’de yazdığım ilk yazı, ve nasıl görüneceğini merak ediyorum.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Zamanla blog yazılarımda aslında internet kaynaklı belli türde paylaşımlar yaptığım ve bunlara kişisel bazı yorumlar eklediğimi gördüm. Tumblr. blog servisi de bu düşünceyle hazırlanmıştı.&lt;/p&gt;
+&lt;p&gt;7 ayrı kategoride hızlı bir şekilde paylaşım yapmak ve bunlarla ilgili kişisel görüşlerin yazılabildiği bu platform, benzerleri arasında hızlı yükseldi ve bende 2008 yılı sonunda tumblr. kullanmaya başladım.&lt;/p&gt;
+&lt;p&gt;Geçen hafta içinde tüm blog servislerinde oluşturduğum girdileri tumblr.’da bir araya toplamayı başardım. Pek çok ayrı blog servisinde, ayrı görsel özelliklerde hazırlansa da üretilen içerik kalıcı ve geçmişi özetler nitelikte oluyor. Blog servisleri kapansa da, görsel öğeler değişse de aslolan şey içerik.&lt;/p&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li&gt;Geocities, bedava alan sağlayan en uzun ömürlü servislerden birisidir.  &lt;a href=&#34;1&#34; title=&#34;return to article&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Blogger, kullandığım ilk blog servisidir (2006–2008)  &lt;a href=&#34;2&#34; title=&#34;return to article&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -143,8 +220,9 @@ Herhangi bir içerik bulundurmayan, sadece web sayfası nasıl oluşturulur mant
       <pubDate>Fri, 25 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/yeni-blog-tasar%C4%B1m%C4%B1/</guid>
-      <description>Uzun süredir kullanmakta olduğum blog temasında bu sabah bir değişiklik yaptım ve daha minimal bir tasarıma yöneldim. Sade görünümlü bu tema ile metinden çok fotoğrafların ön planda görülmesi sağlanıyor. Şimdilik Google Chrome tarayıcısında olması gerektiği gibi görülen temanın diğer web tarayıcılarında nasıl göründüğünü henüz test etmedim.
-Zaman zaman blog görünümünde yapılan değişiklikler, sanki yeni bir blog oluşturulmuş gibi tazeliyor kişiyi.</description>
+      <description>&lt;p&gt;Uzun süredir kullanmakta olduğum blog temasında bu sabah bir değişiklik yaptım ve daha minimal bir tasarıma yöneldim. Sade görünümlü bu tema ile metinden çok fotoğrafların ön planda görülmesi sağlanıyor. Şimdilik &lt;a href=&#34;http://www.google.com/chrome&#34;&gt;Google Chrome&lt;/a&gt; tarayıcısında olması gerektiği gibi görülen temanın diğer web tarayıcılarında nasıl göründüğünü henüz test etmedim.&lt;/p&gt;
+&lt;p&gt;Zaman zaman blog görünümünde yapılan değişiklikler, sanki yeni bir blog oluşturulmuş gibi tazeliyor kişiyi.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -153,7 +231,8 @@ Zaman zaman blog görünümünde yapılan değişiklikler, sanki yeni bir blog o
       <pubDate>Tue, 30 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/domain-forwarding/</guid>
-      <description>Domain forwarding not as this hard for 4 years ago? Internet going to nowhere ?!?</description>
+      <description>&lt;p&gt;Domain forwarding not as this hard for 4 years ago? Internet going to nowhere ?!?&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -162,8 +241,9 @@ Zaman zaman blog görünümünde yapılan değişiklikler, sanki yeni bir blog o
       <pubDate>Tue, 02 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/bloglar-ve-blog-servisleri/</guid>
-      <description>Yaklaşık 2 yıldır blog yazarıyım (!)-(Blog yazarı ne demekse artık) İlk blog&amp;rsquo;um Google&amp;rsquo;ın Blogger&amp;lsquo;ı oldu. Pek sık güncelleyemesem de ihtiyaçlarıma cevap veren yeterli bir sistemi ve yapısı vardı. Daha sonra LiveJournal&amp;lsquo;ı denedim. Normal blog yazılarından çok sosyal-iletişim yapısı ile dikkat çekiyordu. Bir diğer denemem Wordpress ile oldu. Wordpress&amp;lsquo;de temiz, yalın yapısı ile dikkat çekmesinin yanında, LiveJournal gibi widgetların yetersizliği, çoğu 3. parti widgetı reddetmesi nedeniyle pek gözüm tutmadı.
-Döndük dolaşdık, yine Blogger&amp;rsquo;da karar kıldık gibi oldu.</description>
+      <description>&lt;p&gt;Yaklaşık 2 yıldır blog yazarıyım (!)-(Blog yazarı ne demekse artık) İlk blog&amp;rsquo;um Google&amp;rsquo;ın &lt;a href=&#34;http://www.blogger.com/&#34;&gt;Blogger&lt;/a&gt;&amp;lsquo;ı oldu. Pek sık güncelleyemesem de ihtiyaçlarıma cevap veren yeterli bir sistemi ve yapısı vardı. Daha sonra &lt;a href=&#34;http://www.livejournal.com/&#34;&gt;LiveJournal&lt;/a&gt;&amp;lsquo;ı denedim. Normal blog yazılarından çok sosyal-iletişim yapısı ile dikkat çekiyordu. Bir diğer denemem Wordpress ile oldu. &lt;a href=&#34;http://www.wordpress.com/&#34;&gt;Wordpress&lt;/a&gt;&amp;lsquo;de temiz, yalın yapısı ile dikkat çekmesinin yanında, LiveJournal gibi widgetların yetersizliği, çoğu 3. parti widgetı reddetmesi nedeniyle pek gözüm tutmadı.&lt;/p&gt;
+&lt;p&gt;Döndük dolaşdık, yine Blogger&amp;rsquo;da karar kıldık gibi oldu.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -172,7 +252,8 @@ Döndük dolaşdık, yine Blogger&amp;rsquo;da karar kıldık gibi oldu.</descri
       <pubDate>Wed, 18 Oct 2006 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/merhaba/</guid>
-      <description>Genelde karamsar ve sakin bir yapıya sahibim. Felsefi ve kültürel konulara ilgim büyüktür. Yüzeysel hiç bir şey beni tatmin etmez, herşeyin ardındaki nedeni aramaya çalışırım. Mesafeli tavrım beni yeni tanıyan insanların benden çekinmelerine sebep olur. Bazen yaşam benim için bir düş kırıklığına dönüşür ve ümitsizliğe düşerim, ancak felsefi bakış açım, sorunların nereden kaynaklandığını ve onların çözüm yolları bulabilmemi sağlar. Çevremdekiler yalnız yaşamayı başarabilecek nadir kişilerden olduğumu söyler.</description>
+      <description>&lt;p&gt;&lt;em&gt;Genelde karamsar ve sakin bir yapıya sahibim. Felsefi ve kültürel konulara ilgim büyüktür. Yüzeysel hiç bir şey beni tatmin etmez, herşeyin ardındaki nedeni aramaya çalışırım. Mesafeli tavrım beni yeni tanıyan insanların benden çekinmelerine sebep olur. Bazen yaşam benim için bir düş kırıklığına dönüşür ve ümitsizliğe düşerim, ancak felsefi bakış açım, sorunların nereden kaynaklandığını ve onların çözüm yolları bulabilmemi sağlar. Çevremdekiler yalnız yaşamayı başarabilecek nadir kişilerden olduğumu söyler.&lt;/em&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

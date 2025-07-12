@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>lion on Darkest Notes</title>
+    <title>Lion on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/lion/</link>
-    <description>Recent content in lion on Darkest Notes</description>
+    <description>Recent content in Lion on Darkest Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 20 Jul 2011 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/lion/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,10 @@
       <pubDate>Wed, 20 Jul 2011 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/macos-x-lion/</guid>
-      <description>MacOS X Lion bugün Mac kullanıcılarının deneyimine sunuldu. MacOS X Lion&amp;rsquo;ın detaylı bir incelemesi Ars Technica&amp;rsquo;da yayınlandı.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_loncitA2o31qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;MacOS X Lion bugün Mac kullanıcılarının deneyimine sunuldu. MacOS X Lion&amp;rsquo;ın detaylı bir &lt;a href=&#34;http://arstechnica.com/apple/reviews/2011/07/mac-os-x-10-7.ars&#34; title=&#34;MacOS X Lion Review&#34;&gt;incelemesi&lt;/a&gt; Ars Technica&amp;rsquo;da yayınlandı.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

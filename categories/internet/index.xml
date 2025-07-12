@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>internet on Darkest Notes</title>
+    <title>Internet on Darkest Notes</title>
     <link>https://darkestnotes.org/categories/internet/</link>
-    <description>Recent content in internet on Darkest Notes</description>
+    <description>Recent content in Internet on Darkest Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/categories/internet/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,12 @@
       <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/tweekly.fm-sona-geldi/</guid>
-      <description>Severek kullandığım bir internet servisi daha Twitter’ın API ulaşımını sonlandırması nedeniyle yolun sonuna geldi. Tweekly.fm basit bir uygulamaydı. Last.fm’e skroplanan şarkılardan haftalık olarak en çok dinlenen müzisyenleri filtreler ve bir tweet atardı -bu hafta en çok dinlediklerin- diye.
-Bir start-up olarak açılan servise 13 Şubat 2015 tarihinde açılır açılmaz hemen üye olmuş ve desteklemiştim. Twitter’ı uzun yıllardır pek aktif kullanmasam da her hafta Tweekly.fm benim için çalışır ve timeline’ıma bir tweet atardı.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tweekly.png#center&#34; alt=&#34;Tweekly&#34;  /&gt;
+
+Severek kullandığım bir internet servisi daha Twitter’ın API ulaşımını sonlandırması nedeniyle yolun sonuna geldi. Tweekly.fm basit bir uygulamaydı. Last.fm’e skroplanan şarkılardan haftalık olarak en çok dinlenen müzisyenleri filtreler ve bir tweet atardı -bu hafta en çok dinlediklerin- diye.&lt;/p&gt;
+&lt;p&gt;Bir start-up olarak açılan servise 13 Şubat 2015 tarihinde açılır açılmaz hemen üye olmuş ve desteklemiştim.
+Twitter’ı uzun yıllardır pek aktif kullanmasam da her hafta Tweekly.fm benim için çalışır ve timeline’ıma bir tweet atardı.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -23,9 +27,15 @@ Bir start-up olarak açılan servise 13 Şubat 2015 tarihinde açılır açılma
       <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/wordpressden-hugoya-ge%C3%A7i%C5%9F/</guid>
-      <description>2006 yılından beri çeşitli sitelerde yer alan blog&amp;rsquo;umu hosting firmamın PHP 8&amp;rsquo;i zorunlu tutması ve Wordpress tema ve eklentilerinin PHP 8 ile sorunlar çıkarması sebebiyle Hugo&amp;rsquo;ya geçirmeye karar verdim.
-Wordpress&amp;lsquo;i 2015 yılından beri kullanıyordum ve herhangi bir sorunum yoktu. Bununla birlikte tema ve eklentilerin her güncelleme sonrası sorun çıkarabilecek olma ihtimali bie keyif kaçırıcı bir etkendi blog&amp;rsquo;um için.
-Hugo oldukça basit bir sisteme sahip. Text dosyalarını derleyerek statik, HTML tabanlı basit bir internet sitesi yaratıyor.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/hugo-logo.png#center&#34; alt=&#34;Hugo&#34;  /&gt;
+ 2006 yılından beri çeşitli sitelerde yer alan blog&amp;rsquo;umu hosting firmamın PHP 8&amp;rsquo;i zorunlu tutması ve Wordpress tema ve eklentilerinin PHP 8 ile sorunlar çıkarması sebebiyle Hugo&amp;rsquo;ya geçirmeye karar verdim.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://darkestnotes.org/posts/hello-world/&#34;&gt;Wordpress&lt;/a&gt;&amp;lsquo;i 2015 yılından beri kullanıyordum ve herhangi bir sorunum yoktu. Bununla birlikte tema ve eklentilerin her güncelleme sonrası sorun çıkarabilecek olma ihtimali bie keyif kaçırıcı bir etkendi blog&amp;rsquo;um için.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; oldukça basit bir sisteme sahip. Text dosyalarını derleyerek statik, HTML tabanlı basit bir internet sitesi yaratıyor. Üstelik oluşturulan siteyi en basit hosting sisteminde bile host edebilmek mümkün çünkü geri planda çalışması gereken database ihtiyacı yok.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Go&lt;/strong&gt; programlama dili ile yazılan Hugo çok hızlı çalışıyor. C tabanlı bir dil olan Go, Google tarafından geliştiriliyor ve son yılların gözde programlama dillerinden. Python ile yazılmış çoğu uygulamanın Go&amp;rsquo;ya yöneldiği biliniyor.&lt;/p&gt;
+&lt;p&gt;Çok sayıda girdi bulunan blog&amp;rsquo;umun Hugo ile derlenmesi yaklaşık 10 saniye sürdü. Pratik ve hızlı olmasının yanında her yeni girdi eklendiğinde sitenin yeniden derlenmesi gerekiyor. Sık güncelleme yapılan siteler için çok uygun değil haliyle.&lt;/p&gt;
+&lt;p&gt;Bununla birlikte tüm blog&amp;rsquo;un Wordpress&amp;rsquo;den Hugo&amp;rsquo;ya aktarılması sorunsuz biçimde gerçekleşmedi maalesef. Çoğu resim dosyası yerli yerinde durmasına karşın bağlantılar bozulduğundan şu an için görüntülenemiyor. &lt;em&gt;Bu hataları düzeltir miyim? Düzeltmeye vaktim olur mu bilmiyorum.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;2006 yılından beri iyi kötü birşeyler karaladığım için Darkest Notes&amp;rsquo;un bir şekilde internet üzerinden ulaşılabilir olması için elimden geldiğince gayret gösteriyorum ama ileride ne olur bilemem.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -34,9 +44,13 @@ Hugo oldukça basit bir sisteme sahip. Text dosyalarını derleyerek statik, HTM
       <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/tweetbota-veda/</guid>
-      <description>Twitter&amp;rsquo;a 2008 yılında kaydolmuştum. O yıllarda sosyal medya daha yeni oluşmaya başlıyordu ve Twitter&amp;rsquo;daki tek amaç o an ne yaptığını bildirmekten ibaretti.
-Yıllar geçtikçe işler değişti, Twitter büyüdü, artık takip edilmeyen hesapları bile size zorla göstermeye, aralara reklamlar almaya başladı. İşte o zamanlar Twitter&amp;rsquo;a sadece kendi timeline&amp;rsquo;ınıza ulaşmayı sağlayan programlar yaygınlaşmaya başladı. Echofon, Twitterrific, Tweetie&amp;hellip;ve TweetBot!
-Sadece takip ettiklerimi göstermesi ve reklamları timeline&amp;rsquo;ımın dışında tutması ile TweetBot 2011 yılından beri hem telefonumda hem de bilgisayarımda kullandığım bir program olmuştu.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/TweetBot.Ends_.jpeg&#34; alt=&#34;TweetBot.Ends&#34;  /&gt;
+ Twitter&amp;rsquo;a 2008 yılında kaydolmuştum. O yıllarda sosyal medya daha yeni oluşmaya başlıyordu ve Twitter&amp;rsquo;daki tek amaç &lt;strong&gt;&lt;em&gt;o an ne yaptığını&lt;/em&gt;&lt;/strong&gt; bildirmekten ibaretti.&lt;/p&gt;
+&lt;p&gt;Yıllar geçtikçe işler değişti, Twitter büyüdü, artık takip edilmeyen hesapları bile size zorla göstermeye, aralara reklamlar almaya başladı. İşte o zamanlar Twitter&amp;rsquo;a sadece kendi timeline&amp;rsquo;ınıza ulaşmayı sağlayan programlar yaygınlaşmaya başladı. &lt;em&gt;Echofon&lt;/em&gt;, &lt;em&gt;Twitterrific&lt;/em&gt;, &lt;em&gt;Tweetie&lt;/em&gt;&amp;hellip;ve &lt;em&gt;&lt;strong&gt;TweetBot&lt;/strong&gt;&lt;/em&gt;!&lt;/p&gt;
+&lt;p&gt;Sadece takip ettiklerimi göstermesi ve reklamları timeline&amp;rsquo;ımın dışında tutması ile TweetBot 2011 yılından beri hem telefonumda hem de bilgisayarımda kullandığım bir program olmuştu.&lt;/p&gt;
+&lt;p&gt;Elon Musk sonrası Twitter&amp;rsquo;ın fazlasıyla değişeceğini tahmin ediyordum, twitter dışından başka programların API&amp;rsquo;ye ulaşımına elbette yasak getirecekti yeni Twitter yönetimi, hiç şaşırmadım.&lt;/p&gt;
+&lt;p&gt;Geçtiğimiz haftalarda TweetBot ve diğerlerinin API&amp;rsquo;ye ulaşması engellenince &lt;a href=&#34;https://mastodon.world/@omerb&#34;&gt;Mastodon&lt;/a&gt;&amp;lsquo;a doğru yol almak gerekli oldu. TweetBot geliştiricileri de zaten bu durumu önceden fark etmişler ve Mastodon için Ivory isimli programı hazırlamaya başlamışlardı.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -45,8 +59,18 @@ Sadece takip ettiklerimi göstermesi ve reklamları timeline&amp;rsquo;ımın d�
       <pubDate>Mon, 07 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/wordpress-vs.-tumblr./</guid>
-      <description>Yaklaşık iki ay önce blog’umu tumblr.’dan Wordpress’e taşıdığımdan bahsetmiştim. Her iki servis kullanıldığında ortaya çıkan siteler, üç aşağı beş yukarı birbirine benzese de genel olarak iki içerik yönetim sisteminin (Content Management System) avantaj ve dezavantajları ile birlikte bazı farkları da var. (Bu yazıda Wordpress&amp;rsquo;in kendi host&amp;rsquo;u üzerinden çalışan şekli Wordpress.org ele alınmış olup, host&amp;rsquo;a ihtiyaç duymayan ancak daha az opsiyon içeren Wordpress.com karşılaştırma dışı tutulmuştur.☺️)
-Temelde iki platformu birbirinden ayıran en temel özellik, birinin özel bir şirketin ürünü, diğerinin ise açık kaynak kodlu yazılım olması (yani sahibi yok).</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/WP_vs_Tumblr.jpg&#34; alt=&#34;WP_vs_Tumblr&#34;  /&gt;
+Yaklaşık iki ay önce blog’umu tumblr.’dan Wordpress’e taşıdığımdan &lt;a href=&#34;https://darkestnotes.org/2015/12/06/hello-world/&#34;&gt;bahsetmiştim&lt;/a&gt;. Her iki servis kullanıldığında ortaya çıkan siteler, üç aşağı beş yukarı birbirine benzese de genel olarak iki içerik yönetim sisteminin (&lt;strong&gt;C&lt;/strong&gt;ontent &lt;strong&gt;M&lt;/strong&gt;anagement &lt;strong&gt;S&lt;/strong&gt;ystem) avantaj ve dezavantajları ile birlikte bazı farkları da var. (&lt;em&gt;Bu yazıda Wordpress&amp;rsquo;in kendi host&amp;rsquo;u üzerinden çalışan şekli &lt;a href=&#34;http://wordpress.org&#34;&gt;Wordpress.org&lt;/a&gt; ele alınmış olup, host&amp;rsquo;a ihtiyaç duymayan ancak daha az opsiyon içeren &lt;a href=&#34;http://wordpress.com&#34;&gt;Wordpress.com&lt;/a&gt; karşılaştırma dışı tutulmuştur.☺️&lt;/em&gt;)&lt;/p&gt;
+&lt;p&gt;Temelde iki platformu birbirinden ayıran en temel özellik, birinin özel bir şirketin ürünü, diğerinin ise açık kaynak kodlu yazılım olması (yani sahibi yok). &lt;a href=&#34;http://www.tumblr.com&#34;&gt;Tumblr.&lt;/a&gt; birgün “&lt;em&gt;biz kapatıyoruz arkadaş!&lt;/em&gt;” dediğinde (elbette içeriğin kopyası sunulacaktır bir şekilde) yapılabilecek çok fazla bir şey yok. Wordpress iyi kötü açık kaynak koduyla ve içeriğinizin kendi hostunuzda olması sebebiyle kalıcı şekilde sürdürebilir kendisini.&lt;/p&gt;
+&lt;p&gt;Wordpress’in geri planı MySQL veritabanı ve PHP’den oluşuyor. Tumblr. kendine özgü olarak &lt;a href=&#34;http://handlebarsjs.com&#34;&gt;Handlebars.js&lt;/a&gt; ve Ruby kütüphanesi olan &lt;a href=&#34;http://liquidmarkup.org&#34;&gt;Liquid&lt;/a&gt; karışımı bir kod üzerine kurulmuş durumda. Wordpress kurulduğu host üzerinden çalışırken, tumblr. kendi sitesi üzerinden çalışıyor.&lt;/p&gt;
+&lt;p&gt;Öncelikle Wordpress kullanıcıya biraz daha özgürlük vaad ediyor. Siteyi tasarlarken kullanılan temalar isteğe göre oldukça fazla opsiyon ve ince ayarlar sunabiliyor. Bununla birlikte Plug-In’ler ile çok değişik aracı siteye kolayca yerleştirebilmek mümkün.&lt;/p&gt;
+&lt;p&gt;Tumblr.’da da çok sayıda tema ve widget mevcut ama temalar ile widget’lar birbirine bağımlı olarak geliyor. Yani temalar belli widget’lar ile geliyor, kullandığınız temanın içinde yer alan widget’lar ile sınırlandırılmış durumdasınız. Wordpress’deki bir plug-in’in hemen hemen tüm temalarla uyumlu olması gibi bir durum söz konusu değil.&lt;/p&gt;
+&lt;p&gt;Görünümdeki bu özgürlüğün yanında alt yapıda da fazlasıyla bir genişlik ve rahatlık söz konusu. Öncelikle siteyi kendi host’unuzda barındıryor olmak, istediğiniz zaman başka bir hosta geçip sitenizi taşıma imkanı da sağlıyor. Tumblr’a erişim ülkemizden engellendiğinde içeriğinize ulaşılabilmesi (VPN ve DNS) kullanılmadan mümkün değil. Wordpress’de database hariç tüm dosyalara erişiyor olmak, yedek almak basit bir işlem ve endişeli kullanıcılar için oldukça uygun bir özellik.&lt;/p&gt;
+&lt;p&gt;Wordpress’de bir diğer özelliği kategoriler oluşturuyor. İçerik, ana hatları ile belirlenen kategoriler yani ana başlıklar altında toplanabiliyor. Daha sonra bu ana başlıklarda yer alan içeriği tag’ler ile daha alt ve detaylı başlıklara ayırabilme imkanı mevcut. Tek bir konu üzerine yoğunlaşmayan ve genel anlamda pek çok konuda içeriğe sahip bloglar için çok faydalı bir özellik. Tumblr.’da ise sadece tag’ler ile sınırlandırılmış durumdasınız.&lt;/p&gt;
+&lt;p&gt;Tumblr. nedense bana hep hızlı paylaşım için uygun bir sistem gibi gelmiştir. Fotoğrafı çekip, müziği yükleyip anında paylaşmak için uygun bir ortam gibi gözüküyor. Wordpress ise biraz daha ciddi, ağırbaşlı içerik üretmek isteyenler için daha uygun gibi.&lt;/p&gt;
+&lt;p&gt;Tumblr. ücretsiz bir servis olması sayesinde popüler bir kullanıcı kitlesine sahip. Wordpress kendi host&amp;rsquo;u üzerinden çalışacağı için biraz masraflı, kurulum aşamasıyla birlikte daha deneyimli kullanıcılar için.&lt;/p&gt;
+&lt;p&gt;Elbette seçilen temaya ve blog yazarının özelliklerine göre her iki içerik yönetim sisteminde de benzer sonuçlar alınabilecek olsa da doğrudan kullanıcıyı ilgilendirecek en önemli farklar bu şekilde sıralanıyor.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -55,9 +79,15 @@ Temelde iki platformu birbirinden ayıran en temel özellik, birinin özel bir �
       <pubDate>Thu, 17 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/mr.-robot/</guid>
-      <description>Geçen hafta izlemeye başladığım ve her akşam düzenli olarak bir bölümünü seyrettiğim Mr. Robot bu akşam izlediğim 10. bölümüyle sona erdi.
-Güzel dizi olmuş, beğenerek, tüm bölümleri uyuklamadan(!) izlediğim yegâne dizilerden biri oldu. Hatta True Detective’den bu yana beni en çok etkileyen dizi oldu diyebilirim. (Gerçi çok fazla birşey izlediğimde yok ya! 😐)
-Adamlar oturuyor kendi yarattıkları düzeni yine kendileri bir güzel eleştiriyor, yerden yere vuruyor, dalga geçiyor, biz de oturup ağzımız bir karış açık, hayran hayran seyredip sonra hiçbirşey olmamış gibi tekrar sakin, uyuz, rutin kendi yaşantımıza dönüveriyoruz.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.omrb.org/wp-content/uploads/2015/12/mrrobot-key-art.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/mrrobot-key-art-232x300.jpg&#34; alt=&#34;Mr. Robot&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Geçen hafta izlemeye başladığım ve her akşam düzenli olarak bir bölümünü seyrettiğim Mr. Robot bu akşam izlediğim 10. bölümüyle sona erdi.&lt;/p&gt;
+&lt;p&gt;Güzel dizi olmuş, beğenerek, tüm bölümleri uyuklamadan(!) izlediğim yegâne dizilerden biri oldu. Hatta &lt;a href=&#34;http://www.omrb.org/2014/08/31/true-detective-2/&#34;&gt;True Detective&lt;/a&gt;’den bu yana beni en çok etkileyen dizi oldu diyebilirim. (Gerçi çok fazla birşey izlediğimde yok ya! 😐)&lt;/p&gt;
+&lt;p&gt;Adamlar oturuyor kendi yarattıkları düzeni yine kendileri bir güzel eleştiriyor, yerden yere vuruyor, dalga geçiyor, biz de oturup ağzımız bir karış açık, hayran hayran seyredip sonra hiçbirşey olmamış gibi tekrar sakin, uyuz, rutin kendi yaşantımıza dönüveriyoruz.&lt;/p&gt;
+&lt;p&gt;Bir yerlerde bir hata yapıyoruz ama henüz anlayabilmiş değilim.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.omrb.org/wp-content/uploads/2015/12/Computer_Repair_with_a_Smile.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Computer_Repair_with_a_Smile.jpg&#34; alt=&#34;Computer_Repair_with_a_Smile&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -66,7 +96,8 @@ Adamlar oturuyor kendi yarattıkları düzeni yine kendileri bir güzel eleştir
       <pubDate>Tue, 16 Dec 2014 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/darkest-notes-birthday/</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;83&amp;rdquo;]</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;83&amp;rdquo;]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -75,7 +106,8 @@ Adamlar oturuyor kendi yarattıkları düzeni yine kendileri bir güzel eleştir
       <pubDate>Thu, 31 Jul 2014 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/facebook-r.i.p./</guid>
-      <description>[gallery type=&amp;ldquo;thumbnails&amp;rdquo; size=&amp;ldquo;full&amp;rdquo; link=&amp;ldquo;file&amp;rdquo; columns=&amp;ldquo;1&amp;rdquo; ids=&amp;ldquo;113&amp;rdquo;]</description>
+      <description>&lt;p&gt;[gallery type=&amp;ldquo;thumbnails&amp;rdquo; size=&amp;ldquo;full&amp;rdquo; link=&amp;ldquo;file&amp;rdquo; columns=&amp;ldquo;1&amp;rdquo; ids=&amp;ldquo;113&amp;rdquo;]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -84,9 +116,14 @@ Adamlar oturuyor kendi yarattıkları düzeni yine kendileri bir güzel eleştir
       <pubDate>Tue, 24 Jun 2014 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/readmill/</guid>
-      <description>Severek kullandığım bir servis de yolun sonuna geldi. Readmill. 2011 yılı sonunda kullanmaya başladım. Hatta iPad almama sebep olan en önemli uygulamadır. 1 Temmuz’da internetin arşivinde yok olup gidecek.
-Kapanacak uygulamaların export seçeneğini kullanmak hep hüzünlendirir beni. Yıllarca kullanıp oluşturduğun arşiv bir adet uyduruk veritabanı dosyasının içine konur, harici diskin derinliklerindeki bir klasör içinde kimbilir belki ben öldükten sonra bile kimsenin görmeyeceği bir yerlere gömülür.
-Readmill okuma günlüğümü bir kitap haline dönüştürerek export etmeme imkan verdi.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/aMLH&amp;#43;&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Severek kullandığım bir servis de yolun sonuna geldi. Readmill. 2011 yılı sonunda kullanmaya başladım. Hatta iPad almama sebep olan en önemli uygulamadır. 1 Temmuz’da internetin arşivinde yok olup gidecek.&lt;/p&gt;
+&lt;p&gt;Kapanacak uygulamaların export seçeneğini kullanmak hep hüzünlendirir beni. Yıllarca kullanıp oluşturduğun arşiv bir adet uyduruk veritabanı dosyasının içine konur, harici diskin derinliklerindeki bir klasör içinde kimbilir belki ben öldükten sonra bile kimsenin görmeyeceği bir yerlere gömülür.&lt;/p&gt;
+&lt;p&gt;Readmill &lt;a href=&#34;http://d.pr/f/rXHo&#34;&gt;okuma günlüğümü&lt;/a&gt; bir kitap haline dönüştürerek export etmeme imkan verdi. Orada bir yerlerde kaybolacağına, aradığımda bulabileceğim bir yerlerde dursun istedim.&lt;/p&gt;
+&lt;p&gt;Bazen herşey önemsizleşir. Hiçbirşey eskiden verdiği tadı vermez. Geçmişe baktığında hüzünlendiğin günlerin sayısı, umutla bakacağın gelecekteki günlerin sayısını geçtikçe sona yaklaştığın gerçeğini yüzüne çarpar. Günler öylesine yaşanır geçer…&lt;/p&gt;
+&lt;p&gt;via &lt;a href=&#34;https://dayone.me/hDTzra&#34;&gt;https://dayone.me/hDTzra&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -95,8 +132,10 @@ Readmill okuma günlüğümü bir kitap haline dönüştürerek export etmeme im
       <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/facebook/</guid>
-      <description>Facebook&amp;rsquo;un gizlilik ayarları son derece karışık ve bir paylaşımda bulunduğunda kimin neyi görebildiğini hemen hemen hiç kimse tam olarak bilemiyor.
-Facebook yaşlanıyor | DW.DE | 18.11.2013</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Facebook&amp;rsquo;un gizlilik ayarları son derece karışık ve bir paylaşımda bulunduğunda kimin neyi görebildiğini hemen hemen hiç kimse tam olarak bilemiyor.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dw.de/facebook-ya%C5%9Flan%C4%B1yor/a-17238126&#34;&gt;Facebook yaşlanıyor | DW.DE | 18.11.2013&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -105,7 +144,8 @@ Facebook yaşlanıyor | DW.DE | 18.11.2013</description>
       <pubDate>Thu, 14 Nov 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/tumblr./</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;174&amp;rdquo;]</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;174&amp;rdquo;]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -114,8 +154,9 @@ Facebook yaşlanıyor | DW.DE | 18.11.2013</description>
       <pubDate>Wed, 24 Jul 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/beer-labels-in-motion/</guid>
-      <description>Beer Labels in Motion
-Animasyonlu bira etiketleri</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://beerlabelsinmotion.tumblr.com/&#34;&gt;Beer Labels in Motion&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Animasyonlu bira etiketleri&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -124,7 +165,8 @@ Animasyonlu bira etiketleri</description>
       <pubDate>Wed, 24 Jul 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/living-the-quiet-life/</guid>
-      <description>Living the Quiet Life : zenhabits</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://zenhabits.net/quiet/?utm_content=bufferd2cd6&amp;amp;utm_source=buffer&amp;amp;utm_medium=twitter&amp;amp;utm_campaign=Buffer&#34;&gt;Living the Quiet Life : zenhabits&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -133,9 +175,12 @@ Animasyonlu bira etiketleri</description>
       <pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/elveda-google-reader/</guid>
-      <description>2006 yılından beri her sabah e-postalarımı kontrol ettikten sonra açtığım ve düzenli olarak kullandığım web-uygulaması Google Reader’ı bu sabah son kez (serverlarının fişi çekilirken, yarım yamalak) kullandım.
-Alternatifleri pek inceleme fırsatım olmadıysa da Google Reader’ın yerini tutabilmeleri için çok uzun zaman geçmesi gerekecek gibi.
-Seni özleyeceğim Google Reader! Elveda!</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mpbqr4r7RE1qz4rgp.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;2006 yılından beri her sabah e-postalarımı kontrol ettikten sonra açtığım ve düzenli olarak kullandığım web-uygulaması Google Reader’ı bu sabah son kez (serverlarının fişi çekilirken, yarım yamalak) kullandım.&lt;/p&gt;
+&lt;p&gt;Alternatifleri pek inceleme fırsatım olmadıysa da Google Reader’ın yerini tutabilmeleri için çok uzun zaman geçmesi gerekecek gibi.&lt;/p&gt;
+&lt;p&gt;Seni özleyeceğim Google Reader! Elveda!&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -144,7 +189,10 @@ Seni özleyeceğim Google Reader! Elveda!</description>
       <pubDate>Wed, 08 May 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/swimming-beneath-the-brinicles-in-antarctica/</guid>
-      <description>Swimming Beneath the Brinicles, in Antarctica</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.omrb.org/wp-content/uploads/2013/05/rorycicle_sm-660x495.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/rorycicle_sm-660x495.jpg&#34; alt=&#34;rorycicle_sm-660x495&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.wired.com/wiredscience/2013/05/swimming-beneath-the-brinicles-in-antarctica/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+wired%2Findex+%28Wired%3A+Top+Stories%29&amp;amp;pid=6840&amp;amp;viewall=true&#34;&gt;Swimming Beneath the Brinicles, in Antarctica&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -153,9 +201,12 @@ Seni özleyeceğim Google Reader! Elveda!</description>
       <pubDate>Sat, 23 Feb 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/thinglist/</guid>
-      <description>Bir daha hiçbirşeyi unutmayın!
-Bazen unutmak istemediğim şeyleri hızlı bir şekilde not almam gerekir, ama alınan bu notlar zamanla karmaşık hale gelir, aranılan bulunamaz ve notlar kaybolur gider.
-Thinglist işte böyle karmaşık notları belirli kategorilere ayırmak için minimal bir tasarımla hazırlanmış bir iOS uygulaması. Ana ekranında 9 kategori (Film, Kitap, Müzik, Yemek, Kişi, Ürün, Yer, Bar ve Fikir) yer alıyor. Seçimimi yapıp notumu kaydediyorum, işte bu kadar! İşlevsel, başarıyla tasarlanan ve uygulanan minimalist uygulamaları seviyorum.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/WAc7&amp;#43;&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Bir daha hiçbirşeyi unutmayın&lt;/em&gt;!&lt;/p&gt;
+&lt;p&gt;Bazen unutmak istemediğim şeyleri hızlı bir şekilde not almam gerekir, ama alınan bu notlar zamanla karmaşık hale gelir, aranılan bulunamaz ve notlar kaybolur gider.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://getthinglist.com&#34;&gt;Thinglist&lt;/a&gt; işte böyle karmaşık notları belirli kategorilere ayırmak için minimal bir tasarımla hazırlanmış bir &lt;a href=&#34;http://appstore.com/thinglist&#34;&gt;iOS&lt;/a&gt; uygulaması. Ana ekranında 9 kategori (Film, Kitap, Müzik, Yemek, Kişi, Ürün, Yer, Bar ve Fikir) yer alıyor. Seçimimi yapıp notumu kaydediyorum, işte bu kadar! İşlevsel, başarıyla tasarlanan ve uygulanan minimalist uygulamaları seviyorum.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -164,9 +215,25 @@ Thinglist işte böyle karmaşık notları belirli kategorilere ayırmak için m
       <pubDate>Tue, 05 Feb 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/internet-html-blog/</guid>
-      <description>Internet’in hayatımıza girmesi ile birlikte, iyi kötü internet kullanan herkesin denemek istediği ilk şey kendi web sitesini hazırlamak olmuştur.
-Bedava alan sağlayan ilk servisler[1] hazırda bulunan şablonları ile kullanıcıların web sitesi oluşturmasını kolaylaştırmıştır. Kişisel web sitesi oluşturmak isteyen herkes birazcık HTML öğrenmiş, siteler hazırlamış, renkli animasyonlu .GIF dosyaları ile ekranı ve arkaplanı doldurmuş, para kazanabilme umudu ile reklam bannerları ve dijital ziyaretçi sayısını gösteren sayaçlar eklemiştir.
-Herhangi bir içerik bulundurmayan, sadece web sayfası nasıl oluşturulur mantığı ile hazırlanan bu sayfalar kısa sürede unutulmuş ve ortadan kalkmıştır bununla birlikte blog denilen çoğu zaman “internet günlüğü” olarak yanlış bir anlam yüklenen oluşum ortaya çıkmıştır.</description>
+      <description>&lt;p&gt;Internet’in hayatımıza girmesi ile birlikte, iyi kötü internet kullanan herkesin denemek istediği ilk şey kendi web sitesini hazırlamak olmuştur.&lt;/p&gt;
+&lt;p&gt;Bedava alan sağlayan ilk servisler&lt;a href=&#34;1&#34; title=&#34;see footnote&#34;&gt;[1]&lt;/a&gt; hazırda bulunan şablonları ile kullanıcıların web sitesi oluşturmasını kolaylaştırmıştır. Kişisel web sitesi oluşturmak isteyen herkes birazcık HTML öğrenmiş, siteler hazırlamış, renkli animasyonlu .GIF dosyaları ile ekranı ve arkaplanı doldurmuş, para kazanabilme umudu ile reklam bannerları ve dijital ziyaretçi sayısını gösteren sayaçlar eklemiştir.&lt;/p&gt;
+&lt;p&gt;Herhangi bir içerik bulundurmayan, sadece web sayfası nasıl oluşturulur mantığı ile hazırlanan bu sayfalar kısa sürede unutulmuş ve ortadan kalkmıştır bununla birlikte blog denilen çoğu zaman “&lt;em&gt;internet günlüğü&lt;/em&gt;” olarak yanlış bir anlam yüklenen oluşum ortaya çıkmıştır.&lt;/p&gt;
+&lt;p&gt;Ben blog yazmaya 2006 yılı ortalarında Google’ın &lt;a href=&#34;http://omerbalamir.blogspot.com&#34;&gt;Blogger&lt;/a&gt; servisi ile başlamıştım. Daha sonra 2008 yılında Türkiye’den blogger’a erişim yasaklandığında hem &lt;a href=&#34;http://omerb.posterous.com&#34;&gt;Posterous&lt;/a&gt;, hem &lt;a href=&#34;http://omerbalamir.livejournal.com&#34;&gt;Livejournal&lt;/a&gt;, hemde &lt;a href=&#34;http://omerbalamir.wordpress.com&#34;&gt;Wordpress’de&lt;/a&gt; birkaç denemem oldu, hepsinin kendine göre iyi ve kötü özellikleri vardı.&lt;/p&gt;
+&lt;p&gt;2 Aralık 2008’de Wordpress’de blog servisleri ile ilgili şöyle yazmışım;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Bir Blog servisinden neler ister blog yazarı ? Gerçekten bilemiyorum. Her servis kendine ait iyi özellikler sunuyor, birinde hoşuma giden, diğerinde olmuyor. Blogger, LiveJournal, ve WordPress… İçlerinde komple hizmet veren Blogger&lt;a href=&#34;2&#34; title=&#34;see footnote&#34;&gt;[2]&lt;/a&gt; gibi. Belki ilk göz ağrım, ondandır. Ama hemen hemen tüm istediklerimi yapabildim onunla.&lt;/p&gt;
+&lt;p&gt;LiveJournal’a widget eklenmiyor. WordPress’in de widget özelliği kısıtlı gibi. Bunlara karşılık ikisi de çok fazla sayıda tema içeriyor, seçilebilecek dizayn sayısı Blogger’a göre çok daha fazla.&lt;/p&gt;
+&lt;p&gt;Peki amaç ne ? Daha güzel gözüken bir blog mu yoksa içerik mi ? Her ikisi de önemli tabi, ama ben genelde dizayn kısmında takılıp kalıyorum. Şurası şöyle gözükse daha iyi olur, yada bu resim niye ortalanmadı gibi ufak tefek şeylere takılıp kalıyorum, içerik zenginleşemiyor.&lt;/p&gt;
+&lt;p&gt;Mesela bu yazı, WordPress’de yazdığım ilk yazı, ve nasıl görüneceğini merak ediyorum.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Zamanla blog yazılarımda aslında internet kaynaklı belli türde paylaşımlar yaptığım ve bunlara kişisel bazı yorumlar eklediğimi gördüm. Tumblr. blog servisi de bu düşünceyle hazırlanmıştı.&lt;/p&gt;
+&lt;p&gt;7 ayrı kategoride hızlı bir şekilde paylaşım yapmak ve bunlarla ilgili kişisel görüşlerin yazılabildiği bu platform, benzerleri arasında hızlı yükseldi ve bende 2008 yılı sonunda tumblr. kullanmaya başladım.&lt;/p&gt;
+&lt;p&gt;Geçen hafta içinde tüm blog servislerinde oluşturduğum girdileri tumblr.’da bir araya toplamayı başardım. Pek çok ayrı blog servisinde, ayrı görsel özelliklerde hazırlansa da üretilen içerik kalıcı ve geçmişi özetler nitelikte oluyor. Blog servisleri kapansa da, görsel öğeler değişse de aslolan şey içerik.&lt;/p&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li&gt;Geocities, bedava alan sağlayan en uzun ömürlü servislerden birisidir.  &lt;a href=&#34;1&#34; title=&#34;return to article&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Blogger, kullandığım ilk blog servisidir (2006–2008)  &lt;a href=&#34;2&#34; title=&#34;return to article&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -175,8 +242,9 @@ Herhangi bir içerik bulundurmayan, sadece web sayfası nasıl oluşturulur mant
       <pubDate>Thu, 31 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/tweet-ping-twitter-activity-in-realtime/</guid>
-      <description>Tweet ping
-Check out the Twitter activity in realtime!</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://tweetping.net/&#34;&gt;Tweet ping&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Check out the Twitter activity in realtime!&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -185,7 +253,10 @@ Check out the Twitter activity in realtime!</description>
       <pubDate>Sun, 13 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/app.net/</guid>
-      <description>Twitter&amp;rsquo;ın bir ileri aşaması App.net olmalı. Reklam olmadan, yarattığımız içeriğin tümüyle kontrolümüz altında olması sosyal network&amp;rsquo;ün en önemli özelliklerinden biri.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mgkq3tzndm1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Twitter&amp;rsquo;ın bir ileri aşaması App.net olmalı. Reklam olmadan, yarattığımız içeriğin tümüyle kontrolümüz altında olması sosyal network&amp;rsquo;ün en önemli özelliklerinden biri.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -194,10 +265,12 @@ Check out the Twitter activity in realtime!</description>
       <pubDate>Tue, 25 Dec 2012 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/getglue/</guid>
-      <description>[gallery]
-I just unlocked the The Hobbit: An Unexpected Journey Box Office sticker on GetGlue
-22368 others have also unlocked the The Hobbit: An Unexpected Journey Box Office sticker on GetGlue.com
-YOU SHALL NOT PASS…until you see The Hobbit: An Unexpected Journey. Now playing in theaters everywhere. Share this one proudly. It’s from our friends at Warner Bros..</description>
+      <description>&lt;p&gt;[gallery]&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://getglue.com/stickers/warner_bros/the_hobbit_an_unexpected_journey_box_office?s=tus&amp;amp;ref=obalamir&#34;&gt;I just unlocked the The Hobbit: An Unexpected Journey Box Office sticker on GetGlue&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;22368 others have also unlocked the The Hobbit: An Unexpected Journey Box Office sticker on GetGlue.com&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;YOU SHALL NOT PASS…until you see The Hobbit: An Unexpected Journey. Now playing in theaters everywhere. Share this one proudly. It’s from our friends at Warner Bros..&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -206,9 +279,11 @@ YOU SHALL NOT PASS…until you see The Hobbit: An Unexpected Journey. Now playin
       <pubDate>Thu, 08 Dec 2011 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/joy-of-tech/</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;449&amp;rdquo;]
-minimalmac:
-Love Joy of Tech.</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;449&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://minimalmac.com/post/13883822722/love-joy-of-tech&#34;&gt;minimalmac&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Love &lt;a href=&#34;http://www.geekculture.com/joyoftech/&#34;&gt;Joy of Tech&lt;/a&gt;.&lt;/p&gt;&lt;/blockquote&gt;
+</description>
     </item>
     
     <item>
@@ -217,9 +292,13 @@ Love Joy of Tech.</description>
       <pubDate>Tue, 07 Dec 2010 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/web-servisleri-ve-sorunlar/</guid>
-      <description>Geçtiğimiz haftasonu Tumblr. microblogging server&amp;rsquo;larında bakım yapıldığı sırada meydana gelen arıza sonucunda yaklaşık 24 saat süreyle Tumblr. servislerine erişim mümkün olmadı.
-Tumblr. blogging servislerini kullanan biri olarak hafta sonu blog&amp;rsquo;una ulaşamayan çok sayıda kişi gibi ben de bu durumdan rahatsız oldum. Pek çok kullanıcı tumblr. servisinden ayrılacağını beyan etmiş durumda. Haksız olduklarını düşünmüyorum ama kafama takılan birkaç soru da yok değil.
-Tumblr. ücretsiz hizmet veren bir servis. Blogunuzu ücretsiz olarak sunucularında barındırıyor.</description>
+      <description>&lt;p&gt;Geçtiğimiz haftasonu Tumblr. microblogging server&amp;rsquo;larında bakım yapıldığı sırada meydana gelen arıza sonucunda yaklaşık 24 saat süreyle Tumblr. servislerine erişim mümkün olmadı.&lt;/p&gt;
+&lt;p&gt;Tumblr. blogging servislerini kullanan biri olarak hafta sonu blog&amp;rsquo;una ulaşamayan çok sayıda kişi gibi ben de bu durumdan rahatsız oldum. Pek çok kullanıcı tumblr. servisinden ayrılacağını beyan etmiş durumda. Haksız olduklarını düşünmüyorum ama kafama takılan birkaç soru da yok değil.&lt;/p&gt;
+&lt;p&gt;Tumblr. ücretsiz hizmet veren bir servis. Blogunuzu ücretsiz olarak sunucularında barındırıyor. Hatta pek çok servise kıyasla bu hizmeti oldukça iyi kalitede sunuyor. Ben bu servisi kullanırken, bana tanınan hizmetin sınırlarını sonuna kadar kullanan bir kullanıcı değilim. 2-3 haftada bir ufak tefek şeyler paylaşıyorum tumblr.‘da. Bununla birlikte gördüğüm kimi kullanıcılar bir gün içinde yüzlerce resim, video, müzik dosyasını tumblr. üzerinden  paylaşıyorlar. Paylaşılan bu içeriğin tamamı tumblr. servislerinde depolanmıyor olsa da akış tumblr. üzerinden gerçekleşiyor. Açıkçası akış böyle devam ettiği müddetçe tumblr. sistemin ne zaman hata vereceğini merakla bekliyordum.&lt;/p&gt;
+&lt;p&gt;Aynı durum Cloud vb. veri depolama servisleri içinde geçerli. Çoğu uzman cloud&amp;rsquo;un geleceğe yönelik en önemli teknoloji olduğu hususunda birleşmesine karşın benim bu konuda derin kaygılarım var.&lt;/p&gt;
+&lt;p&gt;Öncelikle bu tür sistemler kullanıcıya bedava hizmet sunmasına karşın, dosya depoladıkları serverlar, teknik personel, bakım-onarım vb. olmak üzere yüksek maliyetler gerektiren giderleri var. Daha fazla depolama alanını parayla satarak ve elde edecekleri reklam gelirleri ile  giderlerini karşılamalarını mümkün görmüyorum.&lt;/p&gt;
+&lt;p&gt;Benzeri hizmet veren tüm uygulamalar eninde-sonunda tumblr.&amp;lsquo;ın yaşadığı gibi hizmet kesintileri (shortage)&amp;rsquo;ler yaşayacaktır. Hatta pek çoğunun bu hizmet kesintilerinden sağlıklı biçimde dönmeyi başaramayacaktır.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -228,8 +307,9 @@ Tumblr. ücretsiz hizmet veren bir servis. Blogunuzu ücretsiz olarak sunucular�
       <pubDate>Thu, 05 Aug 2010 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/vintage-ads-for-facebook-youtube-skype/</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;579&amp;rdquo;]
-Very cool vintage ads for Facebook, Youtube and Skype</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;579&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://thenextweb.com/shareables/2010/08/05/check-out-these-cool-vintage-ads-for-facebook-youtube-and-skype/&#34;&gt;Very cool vintage ads for Facebook, Youtube and Skype&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -238,8 +318,9 @@ Very cool vintage ads for Facebook, Youtube and Skype</description>
       <pubDate>Tue, 20 Jul 2010 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/wolfram-alpha/</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;584&amp;rdquo;]
-I Can Finally Sleep Easy</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;584&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://topcultured.com/i-can-finally-sleep-easy/&#34;&gt;I Can Finally Sleep Easy&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -248,8 +329,26 @@ I Can Finally Sleep Easy</description>
       <pubDate>Sat, 05 Dec 2009 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/a-week-with-google-chrome/</guid>
-      <description>nikf:
-In the five years that I’ve used a Mac, I’ve had two browsers of choice: Camino, and then with Safari 3’s arrival Safari. I know that folks swear by Firefox, but I don’t - and typically find myself swearing at Firefox. Whilst the Mozilla folks have done a fine job of making it look like a Mac app, it never seems for feel and behave like a Mac application. Part of my Safari preference is that I also have a teeny bit of a crush for WebKit, the engine that powers Safari with its CSS animations and long-supported (much clichéd) rounded corners.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://nikf.org/post/270793613/a-week-with-google-chrome&#34;&gt;nikf&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In the five years that I’ve used a Mac, I’ve had two browsers of choice: Camino, and then with Safari 3’s arrival Safari. I know that folks swear by Firefox, but I don’t - and typically find myself swearing &lt;em&gt;at&lt;/em&gt; Firefox. Whilst the Mozilla folks have done a fine job of making it look like a Mac app, it never seems for feel and behave like a Mac application. Part of my Safari preference is that I also have a teeny bit of a crush for WebKit, the engine that powers Safari with its CSS animations and long-supported (much clichéd) rounded corners.&lt;/p&gt;
+&lt;p&gt;In a quick trawl through my Applications folder last weekend, I happened to come across a rather old Chrome OS X Developer Preview that I’d downloaded and promptly forgotten about. Purely out of curiosity I ran it, made sure it was up to date, and started using it.&lt;/p&gt;
+&lt;p&gt;I haven’t stopped since.&lt;/p&gt;
+&lt;h4 id=&#34;some-observations&#34;&gt;Some Observations&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;It’s fast. Lightning fast&lt;/strong&gt; - I thought Safari was snappy (and compared to Firefox and Camino, it is) but Chrome is screaming in comparison.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Top tabs&lt;/strong&gt; - I was probably in the minority to mourn their demise in the final Safari 4 release, but it’s great to have them back. The behaviour of Chrome’s “Open in New Tab” option is also fantastic: when opening links in a new tab, the tab opens alongside the existing tab you’re working in. Safari adds tabs after the right-most tab, whereas Chrome’s option groups the links together, easily allowing you to return to your original tab.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;It’s super-stable&lt;/strong&gt; - it’s not crashed or hung on me in a week - and it’s still not entered Beta. Take that, Safari.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The combined search / address field&lt;/strong&gt; - I find myself still hitting Tab, expecting it to focus a search box, but another few days use should cure that.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;It’s WebKit&lt;/strong&gt; - enough said.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;the-bit-where-i-whinge-about-some-minor-issue&#34;&gt;The bit where I whinge about some minor issue&lt;/h4&gt;
+&lt;p&gt;Whilst Chrome looks and feels like a Mac application, there’s one striking annoyance that irritates me: the behaviour when you click on a Folder in the Bookmark bar. In any other browser, it behaves as an OS X menu should. That is, no matter where you click the item, the menu should appear in a fixed location, below the menu item in question. OS X’s default contextual menus appear directly below and to the right of the area you click.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_ku7964PMBj1qz4ska.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;As it stands right now - and shown in the above comparison - Chrome’s bookmark folders behave like a contextual menu (despite &lt;strong&gt;also&lt;/strong&gt; having their own contextual menus), and it’s driving me a little crazy. Yes, Chrome remains in Pre-Beta - and these things can change - but it’s details like this that make or break whether an application feels like a Mac application. Never mind if an app’s got aqua buttons, a sexy HUD or any other aesthetic beauty. It’s all about how an application behaves.&lt;/p&gt;
+&lt;p&gt;If you’re wanting to give Chrome a go, it’s available from the &lt;a href=&#34;http://www.google.com/chrome/intl/en/eula_dev.html?dl=mac&#34;&gt;Chrome Developer Channel&lt;/a&gt;. It’s still pre-beta, however in my experience it seems to be more relating to its feature-incomplete state than anything else. I’ve been using the Chrome Preview non-stop for the past week, and you’ll have to pry it out of my cold, dead hands.&lt;/p&gt;&lt;/blockquote&gt;
+</description>
     </item>
     
     <item>
@@ -258,9 +357,15 @@ In the five years that I’ve used a Mac, I’ve had two browsers of choice: Cam
       <pubDate>Tue, 10 Nov 2009 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/google-wave/</guid>
-      <description>Sonunda Google Wave&amp;rsquo;i test edebilme imkanım oldu.
-Bence davetiye ile katılım olması pek çok kişide büyük beklentiler oluşmasına sebep oldu. Çoğu kişi Wave&amp;rsquo;i FaceBook tarzı bir sosyal ağ olarak tahmin ediyordu. Ben Facebook, FriendFeed&amp;rsquo;i satın aldıktan sonra, GoogleWave&amp;rsquo;in FriendFeed ile benzer bir yapıda olacağını düşünenlerdendim. Genel olarak tüm social-network sitelerini bir çatı altında (GoogleWave) toplanacağını düşünmüştüm. Yanılmışım.
-Bu haliyle bile aslında GoogleWave&amp;rsquo;i bir yenilik, ileriye doğru atılmış bir adım olarak görmek mümkün.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mhlqkcqpNj1qz4rgp.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Sonunda Google Wave&amp;rsquo;i test edebilme imkanım oldu.&lt;/p&gt;
+&lt;p&gt;Bence davetiye ile katılım olması pek çok kişide büyük beklentiler oluşmasına sebep oldu. Çoğu kişi Wave&amp;rsquo;i FaceBook tarzı bir sosyal ağ olarak tahmin ediyordu. Ben Facebook, FriendFeed&amp;rsquo;i satın aldıktan sonra, GoogleWave&amp;rsquo;in FriendFeed ile benzer bir yapıda olacağını düşünenlerdendim. Genel olarak tüm social-network sitelerini bir çatı altında (GoogleWave) toplanacağını düşünmüştüm. Yanılmışım.&lt;/p&gt;
+&lt;p&gt;Bu haliyle bile aslında GoogleWave&amp;rsquo;i bir yenilik, ileriye doğru atılmış bir adım olarak görmek mümkün. E-Posta+Anında Mesajlaşma+Forum. Internet dünyasının gelişimine baktığımızda bu 3 öğenin ilk çıktığından bu yana pek fazla değişmediğini görüyoruz. GoogleWave kullandıkça farkettimki bir hafta öncesine kadar severek kullandığım bu 3 unsur fazlasıyla eskimiş ve köhnemiş.:)&lt;/p&gt;
+&lt;p&gt;Tamam GoogleWave şimdilik çok yavaş, bazı sorunlarıda var ama henüz Beta aşamasında bile değil.&lt;/p&gt;
+&lt;p&gt;Bunlarla birlikte GoogleWave internetin gelişimini kökünden değiştirecek çok büyük bir fikirde değil tabi, sadece ileriye atılmış bir adım.&lt;/p&gt;
+&lt;p&gt;( Bu yazının &lt;a href=&#34;http://googlewave.com/w2BWLGM1GHYC&#34;&gt;Google Wave&lt;/a&gt; bağlantısı)&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -269,7 +374,10 @@ Bu haliyle bile aslında GoogleWave&amp;rsquo;i bir yenilik, ileriye doğru atı
       <pubDate>Tue, 29 Sep 2009 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/new-media-workout-plan/</guid>
-      <description>Superb workout plan-http://tinyurl.com/ydt7h9k</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.omrb.org/wp-content/uploads/2009/09/New-Media-Workout.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/New-Media-Workout-984x1024.png&#34; alt=&#34;New Media Workout&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Superb workout plan-&lt;a href=&#34;http://tinyurl.com/ydt7h9k&#34;&gt;http://tinyurl.com/ydt7h9k&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -278,7 +386,8 @@ Bu haliyle bile aslında GoogleWave&amp;rsquo;i bir yenilik, ileriye doğru atı
       <pubDate>Tue, 30 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/domain-forwarding/</guid>
-      <description>Domain forwarding not as this hard for 4 years ago? Internet going to nowhere ?!?</description>
+      <description>&lt;p&gt;Domain forwarding not as this hard for 4 years ago? Internet going to nowhere ?!?&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -287,7 +396,8 @@ Bu haliyle bile aslında GoogleWave&amp;rsquo;i bir yenilik, ileriye doğru atı
       <pubDate>Sat, 20 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/getsatisfaction/</guid>
-      <description>Wherever i look i see GetSatisfacton</description>
+      <description>&lt;p&gt;Wherever i look i see GetSatisfacton&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -296,7 +406,8 @@ Bu haliyle bile aslında GoogleWave&amp;rsquo;i bir yenilik, ileriye doğru atı
       <pubDate>Sat, 20 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/safari-browser-in-vista/</guid>
-      <description>Testing Apple’s Safari web browser in Vista.</description>
+      <description>&lt;p&gt;Testing Apple’s Safari web browser in Vista.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -305,7 +416,8 @@ Bu haliyle bile aslında GoogleWave&amp;rsquo;i bir yenilik, ileriye doğru atı
       <pubDate>Tue, 16 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/jaiku/</guid>
-      <description>Hooray, Jaiku’s feed-fetcher working again…</description>
+      <description>&lt;p&gt;Hooray, Jaiku’s feed-fetcher working again…&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -314,7 +426,8 @@ Bu haliyle bile aslında GoogleWave&amp;rsquo;i bir yenilik, ileriye doğru atı
       <pubDate>Tue, 16 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/re-download/</guid>
-      <description>Re-downloading some of my iTunes purchases.</description>
+      <description>&lt;p&gt;Re-downloading some of my iTunes purchases.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -323,8 +436,9 @@ Bu haliyle bile aslında GoogleWave&amp;rsquo;i bir yenilik, ileriye doğru atı
       <pubDate>Tue, 02 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/bloglar-ve-blog-servisleri/</guid>
-      <description>Yaklaşık 2 yıldır blog yazarıyım (!)-(Blog yazarı ne demekse artık) İlk blog&amp;rsquo;um Google&amp;rsquo;ın Blogger&amp;lsquo;ı oldu. Pek sık güncelleyemesem de ihtiyaçlarıma cevap veren yeterli bir sistemi ve yapısı vardı. Daha sonra LiveJournal&amp;lsquo;ı denedim. Normal blog yazılarından çok sosyal-iletişim yapısı ile dikkat çekiyordu. Bir diğer denemem Wordpress ile oldu. Wordpress&amp;lsquo;de temiz, yalın yapısı ile dikkat çekmesinin yanında, LiveJournal gibi widgetların yetersizliği, çoğu 3. parti widgetı reddetmesi nedeniyle pek gözüm tutmadı.
-Döndük dolaşdık, yine Blogger&amp;rsquo;da karar kıldık gibi oldu.</description>
+      <description>&lt;p&gt;Yaklaşık 2 yıldır blog yazarıyım (!)-(Blog yazarı ne demekse artık) İlk blog&amp;rsquo;um Google&amp;rsquo;ın &lt;a href=&#34;http://www.blogger.com/&#34;&gt;Blogger&lt;/a&gt;&amp;lsquo;ı oldu. Pek sık güncelleyemesem de ihtiyaçlarıma cevap veren yeterli bir sistemi ve yapısı vardı. Daha sonra &lt;a href=&#34;http://www.livejournal.com/&#34;&gt;LiveJournal&lt;/a&gt;&amp;lsquo;ı denedim. Normal blog yazılarından çok sosyal-iletişim yapısı ile dikkat çekiyordu. Bir diğer denemem Wordpress ile oldu. &lt;a href=&#34;http://www.wordpress.com/&#34;&gt;Wordpress&lt;/a&gt;&amp;lsquo;de temiz, yalın yapısı ile dikkat çekmesinin yanında, LiveJournal gibi widgetların yetersizliği, çoğu 3. parti widgetı reddetmesi nedeniyle pek gözüm tutmadı.&lt;/p&gt;
+&lt;p&gt;Döndük dolaşdık, yine Blogger&amp;rsquo;da karar kıldık gibi oldu.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

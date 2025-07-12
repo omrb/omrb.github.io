@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>polar on Darkest Notes</title>
+    <title>Polar on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/polar/</link>
-    <description>Recent content in polar on Darkest Notes</description>
+    <description>Recent content in Polar on Darkest Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 23 Jan 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/polar/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,9 @@
       <pubDate>Fri, 23 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/flipped-over-iceberg/</guid>
-      <description>[gallery type=&amp;ldquo;slideshow&amp;rdquo; link=&amp;ldquo;file&amp;rdquo; size=&amp;ldquo;full&amp;rdquo; ids=&amp;ldquo;69,68&amp;rdquo;]
-Photos by Alex Cornell</description>
+      <description>&lt;p&gt;[gallery type=&amp;ldquo;slideshow&amp;rdquo; link=&amp;ldquo;file&amp;rdquo; size=&amp;ldquo;full&amp;rdquo; ids=&amp;ldquo;69,68&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;Photos by Alex Cornell&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -23,7 +24,10 @@ Photos by Alex Cornell</description>
       <pubDate>Wed, 08 May 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/swimming-beneath-the-brinicles-in-antarctica/</guid>
-      <description>Swimming Beneath the Brinicles, in Antarctica</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.omrb.org/wp-content/uploads/2013/05/rorycicle_sm-660x495.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/rorycicle_sm-660x495.jpg&#34; alt=&#34;rorycicle_sm-660x495&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.wired.com/wiredscience/2013/05/swimming-beneath-the-brinicles-in-antarctica/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+wired%2Findex+%28Wired%3A+Top+Stories%29&amp;amp;pid=6840&amp;amp;viewall=true&#34;&gt;Swimming Beneath the Brinicles, in Antarctica&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -32,8 +36,9 @@ Photos by Alex Cornell</description>
       <pubDate>Sat, 20 Feb 2010 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/polar-bear-wallpaper/</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;694&amp;rdquo;]
-via ngm.nationalgeographic.com</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;694&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;via &lt;a href=&#34;http://ngm.nationalgeographic.com/wallpaper/img/2009/04/apr09wallpaper-1_1280.jpg&#34;&gt;ngm.nationalgeographic.com&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -42,8 +47,11 @@ via ngm.nationalgeographic.com</description>
       <pubDate>Sat, 14 Mar 2009 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/snow-polar-bear/</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;1111&amp;rdquo;]
-Posted using Mobypicture.com </description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;1111&amp;rdquo;]&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Posted using &lt;a href=&#34;http://mobypicture.com/?wnvamf&#34;&gt;Mobypicture.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>

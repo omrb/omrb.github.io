@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>software on Darkest Notes</title>
+    <title>Software on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/software/</link>
-    <description>Recent content in software on Darkest Notes</description>
+    <description>Recent content in Software on Darkest Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 20 Feb 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/software/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,13 @@
       <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/boxer-ve-dot-matrix-printer-em%C3%BClasyonu/</guid>
-      <description>Hafta sonu uzun zamandır beklediğim ancak programcısının artık herhangi bir geliştirme yapacağını düşünmediğim bir uygulama ile uğraşmakla geçti. Boxer. Büyük oranda gelişimini tamamlamış bir uygulama aslında, DOSBox için yazılmış bir kullanıcı arayüzü. Ancak MacOs’un kullanıcı dostu arabirimine yönelik o kadar ince detaylar düşünülerek geliştirilmiş ki bir daha Windows ile DOSBox kullanamaz oldum.
-Oyun ve programların dökümanları ve kutu resimleri ile bir paket haline getirilebilmesi, DOSBox’dan farklı daha gelişmiş Roland MT-32 emülasyonu, Roland MT-32’nin LCD ekranında kimi programlar tarafından yazılan mesajları benzer bir biçimde ekranda gösterme gibi eski bilgisayarcılara yönelik baştan çıkarıcı detaylar.</description>
+      <description>&lt;p&gt;Hafta sonu uzun zamandır beklediğim ancak programcısının artık herhangi bir geliştirme yapacağını düşünmediğim bir uygulama ile uğraşmakla geçti. &lt;a href=&#34;http://boxerapp.com&#34;&gt;Boxer&lt;/a&gt;. Büyük oranda gelişimini tamamlamış bir uygulama aslında, DOSBox için yazılmış bir kullanıcı arayüzü. Ancak MacOs’un kullanıcı dostu arabirimine yönelik o kadar ince detaylar düşünülerek geliştirilmiş ki bir daha Windows ile DOSBox kullanamaz oldum.&lt;/p&gt;
+&lt;p&gt;Oyun ve programların dökümanları ve kutu resimleri ile bir paket haline getirilebilmesi, DOSBox’dan farklı daha gelişmiş Roland MT-32 &lt;a href=&#34;https://sourceforge.net/projects/munt/&#34;&gt;emülasyonu&lt;/a&gt;, Roland MT-32’nin LCD ekranında kimi programlar tarafından yazılan mesajları benzer bir biçimde ekranda gösterme gibi eski bilgisayarcılara yönelik baştan çıkarıcı detaylar.&lt;/p&gt;
+&lt;p&gt;Geçen yıllarda bu özelliklere bir de dot-matrix yazıcı emülasyonunun ekleneceğinden &lt;a href=&#34;http://blog.boxerapp.com/page/3&#34;&gt;bahsedildi&lt;/a&gt;, ancak bu sürüm hiçbir zaman “public” olmadı.&lt;/p&gt;
+&lt;p&gt;Hazır yapacak çok birşey yokken oturdum kaynak kodunu GitHub’dan indirdim ve XCode ile derledim bu alpha sürümünü Boxerapp’in. Bir kez daha vuruldum programa. Alınan çıktı MacOs’un yazıcı arabirimine gönderiliyor ve istenirse PDF olarak kaydedilebiliyor. Normal text dosyalarının yazdırılması çok birşey ifade etmiyor belki ama grafik dosyalarını yazdırınca 1990’lı yılların başına bir yolculuk yapıyor insan.&lt;/p&gt;
+&lt;p&gt;İşte burada birkaç retro resim dosyasından emülasyon yolu ile alınan çıktı örneği var.&lt;/p&gt;
+&lt;p&gt;[gallery type=&amp;ldquo;slideshow&amp;rdquo; ids=&amp;ldquo;2999,3000,3004,3001,3002,3009,3003,3005,3008,3006,3007&amp;rdquo;]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -23,8 +28,36 @@ Oyun ve programların dökümanları ve kutu resimleri ile bir paket haline geti
       <pubDate>Sat, 06 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/day-one-2/</guid>
-      <description>Çocukluğumdan beri günlük tutarım. 1984 yılında yazmaya başladığım, üzerinde Snoopy resmi olan bir defterim olduğunu hatırlıyorum. Hergün yazmamakla ve bazen çok uzun süreler yazmaya ara veriyor olmamla birlikte her yıl sonunda, hangi ay ne yaptığımı, neler düşündüğümü özetlediğim uzun &amp;ldquo;yıllık gözden geçirme yazıları&amp;rdquo; yazmaya çalışırdım. O defter bitene kadar, (1992 başları) yazdığımı hatırlıyorum.
-Mobil cihazların gelişimi ile günlük tutma fikri yeniden canlandı bende. Sosyal medyaya yaptığım katkıları(!) otomatik olarak toplayan ve bir sosyal medya günlüğü şeklinde çalışan Momento kullandığım ilk uygulama olmuştu.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/DayOne-Header.png&#34; alt=&#34;DayOne-Header&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Çocukluğumdan beri günlük tutarım. 1984 yılında yazmaya başladığım, üzerinde Snoopy resmi olan bir defterim olduğunu hatırlıyorum. Hergün yazmamakla ve bazen çok uzun süreler yazmaya ara veriyor olmamla birlikte her yıl sonunda, hangi ay ne yaptığımı, neler düşündüğümü özetlediğim uzun &amp;ldquo;&lt;em&gt;yıllık gözden geçirme yazıları&lt;/em&gt;&amp;rdquo; yazmaya çalışırdım. O defter bitene kadar, (1992 başları) yazdığımı hatırlıyorum.&lt;/p&gt;
+&lt;p&gt;Mobil cihazların gelişimi ile günlük tutma fikri yeniden canlandı bende. Sosyal medyaya yaptığım katkıları(!) otomatik olarak toplayan ve bir sosyal medya günlüğü şeklinde çalışan &lt;a href=&#34;http://momentoapp.com&#34;&gt;Momento&lt;/a&gt; kullandığım ilk uygulama olmuştu. Sosyal medyadan toplanan entry&amp;rsquo;lerin yanında yaşadığım ve üzerinde düşündüğüm önemli olayları da ufak notlar halinde kaydediyordum. Bir ara Momento’nun gelişimi durunca ve iPad sürümü geliştirilmeyince 2012 yılı başında &lt;a href=&#34;http://dayoneapp.com&#34;&gt;Day One’a&lt;/a&gt; geçtim.&lt;/p&gt;
+&lt;p&gt;İlk sürümü 9 Mart 2011’de piyasaya çıkan Day One&amp;rsquo;ı iPad aldığım zaman 2012 yılı Mart ayında kullanmaya başlamışım.&lt;a href=&#34;#fn-1&#34; title=&#34;see footnote&#34;&gt;[1]&lt;/a&gt; Çok fazla seçeneği olmadığından o sıralar pek beğenmemiş ve Momento ile devam etmeye karar vermiştim. Bununla birlikte Momento olduğu yerde saymaya başladı ve Day One hızla geliştirildi. Özellikle Mayıs 2012’de sık seyahat ettiğim bir dönemde, gittiğim yerlerde kısa notlar almak ve düşündüklerimi not etmek amacıyla Day One kullandım. O zamanlar Day One’da resim ekleme seçeneği bile bulunnmuyordu.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Day_One-2-New-Features.jpg&#34; alt=&#34;Day_One-2 New Features&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Day One 2 baştan sona Sketch, Pixate, Github, HuBoard, Zeplin, Slack, and Xcode faydalanılarak yeniden tasarlanmış ve programlanmış bir &lt;a href=&#34;http://dayoneapp.com/2016/01/introducing-day-one-2/&#34;&gt;uygulama&lt;/a&gt;. Uygulamanın belli başlı yeni özellikleri şöyle;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Entry konularına göre kategorilere ayırma. Çoklu günlük olarak adlandırılmış bu özellik. Zaten tag’ler ile bu yapılabiliyordu, renklerle ve seçim kutuları ile daha kolay değişiklik imkanı sağlanmış.&lt;/li&gt;
+&lt;li&gt;Entrylere birden fazla fotoğraf ekleme. Kullanışlı bir özellik, Markdown ve Droplr aracılığı ile birden fazla fotoğraf eklemek eskiden de mümkündü, şimdi uygulamanın içine entegre edilen bir özellik olmuş.&lt;/li&gt;
+&lt;li&gt;Yeri, hava durumunu ve bazı diğer özelliklerin (Yürüyüş mesafesi vb.) otomatik eklenmesi ve Multi Markdown desteği. Zaten bu özellikler Day One Classic’de de bulunuyordu. Pek yeni bir özellik gibi durmuyor. iTunes’da dinlediğiniz müziğin aktarılması ise yeni bir özellik.&lt;/li&gt;
+&lt;li&gt;Day One Sync 2.0. Uygulama ile gelen en yeni ve önemli özellik. DropBox ve iCloud sync seçenekleri kaldırılmış durumda, sadece Day One’ın kendi cloud sistemi kullanılarak senkronizasyon sağlanbiliyor. Şifreleme sistemine sahip ve Dropbox ile iCloud’a göre sadece uygulama için geliştirilmiş olması ön planan çıkan &lt;a href=&#34;http://dayoneapp.com/sync/&#34;&gt;servisin&lt;/a&gt;, uygulamanın piyasaya çıktığı 4 Şubat günü yaşanan yoğunluk dolayısıyla bir süreliğine kullanılamaz hale geldiğini belirtmekte fayda var.&lt;/li&gt;
+&lt;li&gt;Day One 2 ile eski (şimdi Classic olarak adlandırılan) sürümde kullanılan entrylerin saklanma şekli XML’den SQL veritabanına çevrilmiş durumda. Bu, bir günlük programı için eskiye oranla biraz daha profesyonel ve derli toplu bir yaklaşım bana göre. Veritabanı düzenli olarak yedeklendiğinde veri kayıpları ve dosya karmaşasının eskiye nazaran daha az gerçekleşeceğini düşünüyorum.&lt;/li&gt;
+&lt;li&gt;Girdilerin toplu olarak silinmesi, taşınması, tag’lenmesi gibi seçenekler eklenmiş.&lt;/li&gt;
+&lt;li&gt;Fotoğraf görünümü OS X sürümü için getirilmiş.&lt;/li&gt;
+&lt;li&gt;Harita görünümü iOS sürümü için düzenlenmiş.&lt;/li&gt;
+&lt;li&gt;Hatırlatıcılar sayıca artırılabilecek şekilde ve metinleri değiştirlebilecek şekilde düzenlenebiliyor.&lt;/li&gt;
+&lt;li&gt;Zamandilimi desteği eklenmiş.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Day One 2’nin iOS cihazlar ile Mac versionu arasında, diğer tüm uygulamalarda rastlanabileceği gibi senkronizasyon sorunları yaşanabilir. Day One ilk zamanlarından beri bu işi gerçekten çok iyi kotarmıştı. Sadece geçtiğimiz aylarda yaptıkları bir güncelleme sonrasında bazı entry’lerin fazladan kopyaları oluşmuştu. Bu durum yeni versiona geçtiğinizde biraz başınızı ağrıtabiliyor. Tag’ler ile Journal isimleri arasında bazı karışıklıklar yaşadım, birde üzerine sync server’ları çökünce bir miktar vaktimi bu durumu düzeltmek için harcadım. Şimdilik herşey yolunda ama bu senkronizasyon işinde dikkatli ve tedbirli olmak, sık yedek almak gerekiyor.&lt;/p&gt;
+&lt;p&gt;iOS’da Notification Center’da kullandığım Day One widget’ını gerçekten seviyordum. Geçen yıldan veya rastgele seçtiği zamandan bir fotoğraf ile entry’lerin sayısını yada kelime sayısını gösteren grafik belki çok işlevsel değil ama keyifliydi. Day One 2’de bu widget maalesef yer almıyor. Yer bildirimi yapıp entry girebileceğiniz bir araç konulmuş onun yerine.🙁&lt;/p&gt;
+&lt;p&gt;Bir uygulamanın yeni sürümünde yaşanabilecek ufak tefek sorunlar mevcut Day One’da. Mac versionu bazen çökebiliyor, iOS’da ise Motion Activity ve adım sayaçları çalışmıyor. (Belki de ben çalıştıramadım!)&lt;/p&gt;
+&lt;p&gt;Önceki versionu en sık kullandığım programlardan biri olan Day One 2 önümüzdeki aylarda gelecek güncellemeler ile yine sık kullanacağım programlardan biri olmaya aday.&lt;/p&gt;
+&lt;p&gt;Day One 2, Mac için 39.99 US$, iOS için 9.99 US$ fiyat etiketi ile satılacak, bununla birlikte içinde bulunduğumuz hafta %50 indirim imkanı bulunuyor.&lt;/p&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li&gt;Bu bilgiyi Day One girdilerime bakarak teyit etmiş bulunmaktayım.  &lt;a href=&#34;#fnref-1&#34; title=&#34;return to article&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>

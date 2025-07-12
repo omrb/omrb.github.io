@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>apps on Darkest Notes</title>
+    <title>Apps on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/apps/</link>
-    <description>Recent content in apps on Darkest Notes</description>
+    <description>Recent content in Apps on Darkest Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 14 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/apps/index.xml" rel="self" type="application/rss+xml" />
@@ -13,9 +13,16 @@
       <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/assembly64/</guid>
-      <description>Ne zaman kendim yapmayı hayal ettiğim bir programı görsem hem şaşkınlığa uğrarım, hem de programcısına saygı duyarım. Assembly64’de bu tür programlardan biri.
-Commodore 64 Scene Database (CsDB)’nin bir kopyasını bilgisayarda tutma imkanı vermesinin yanında ara ara güncellemesi scene dünyasından uzak kalınan zamanlarında telafisini sağlıyor. Java ile yazılan programın arama fonksiyonunun tam anlamıyla çalışabilmesi için 5€ bağış yapmak gerekiyor.
-Kullanmaya başladığım zamandan beri neredeyse aradığım her demo’yu internetten indirme mecburiyeti kalmadan ulaşabildim.</description>
+      <description>&lt;p&gt;Ne zaman kendim yapmayı hayal ettiğim bir programı görsem hem şaşkınlığa uğrarım, hem de programcısına saygı duyarım. Assembly64’de bu tür programlardan biri.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Assembly64.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Commodore 64 Scene Database (&lt;a href=&#34;https://csdb.dk/&#34;&gt;CsDB&lt;/a&gt;)’nin bir kopyasını bilgisayarda tutma imkanı vermesinin yanında ara ara güncellemesi scene dünyasından uzak kalınan zamanlarında telafisini sağlıyor. Java ile yazılan programın arama fonksiyonunun tam anlamıyla çalışabilmesi için 5€ bağış yapmak gerekiyor.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Assembly64-Installed-Hero.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Kullanmaya başladığım zamandan beri neredeyse aradığım her demo’yu internetten indirme mecburiyeti kalmadan ulaşabildim. Bunun yanında HVSC’nin bir kopyası da bilgisayara yükleniyor, kimi demoların SID dosyaları da aynı klasör altından erişilebilir oluyor. Programın sabit sürücüde açacağı delik ise yaklaşık 28 GByte!&lt;/p&gt;
+&lt;p&gt;Yavaş yavaş, tek developer ile geliştirlen bir program olması nedeniyle kullanımı zaman zaman pek kolay değil, bug’lar mevcut ve kimi zaman kolaylıkla yapılabilecek işlemler için biraz dolambaçlı yollardan geçmek gerekiyor.&lt;/p&gt;
+&lt;p&gt;Kullanımı biraz karmaşık olsa da Commodore 64 scene dünyasında gezinmeyi zevkli hale getiren bir uygulama.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -24,8 +31,15 @@ Kullanmaya başladığım zamandan beri neredeyse aradığım her demo’yu inte
       <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/ibmulator/</guid>
-      <description>Soğuk kış günlerinde evde otururken nedense aklıma 1991 yılı sonu 1992 yılı başlarındaki soğuk bir kış gününde babamla IBM PS/1 bakmaya gittiğimiz gün geldi. Commodore 64 sonrası geleceğe dönük bir bilgisayar alma düşüncesi ile Amiga mı yoksa PC uyumlu bilgisayar mı alalım diye düşünürken TV&amp;rsquo;de reklamlarını gördüğümüz IBM PS/1 modeli neyin nesiymiş bakmaya gitmiştik soğuk bir Cumartesi akşam üzeri.
-Mağaza sahibi bizimle fazlasıyla ilgilenmiş, oğlu hemen teşhirdeki ürünü kullanıma hazır hale getirmişti.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/IBMulator-PS1_Realistic_View.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Soğuk kış günlerinde evde otururken nedense aklıma 1991 yılı sonu 1992 yılı başlarındaki soğuk bir kış gününde babamla IBM PS/1 bakmaya gittiğimiz gün geldi. Commodore 64 sonrası geleceğe dönük bir bilgisayar alma düşüncesi ile Amiga mı yoksa PC uyumlu bilgisayar mı alalım diye düşünürken TV&amp;rsquo;de reklamlarını gördüğümüz IBM PS/1 modeli neyin nesiymiş bakmaya gitmiştik soğuk bir Cumartesi akşam üzeri.&lt;/p&gt;
+&lt;p&gt;Mağaza sahibi bizimle fazlasıyla ilgilenmiş, oğlu hemen teşhirdeki ürünü kullanıma hazır hale getirmişti. Bilgisayar boot ederken hoparlöründen gelen &amp;ldquo;&lt;em&gt;beep-blüp&lt;/em&gt;&amp;rdquo; sesleri ve sonrasında 640x480x16 renkli ekranına gelen 4-Quadrant ile bizi orada büyülemişti bilgisayar. 640x480 çözünürlüklü renkli grafikler o zamanlar için günümüzün 4k teknolojisi gibi birşeydi. Yalnız anlaşılan şuydu ki IBM elinde kalan eski model PS/1&amp;rsquo;leri yeni modelleri çıkarmadan önce Türkiye&amp;rsquo;de satabilme çabasında idi. 1990 yılında üretilen ve 1991 yılının hemen başında Amerika ve Avrupa&amp;rsquo;da satılan bu ilk PS/1 modelleri &amp;ldquo;&lt;strong&gt;&lt;em&gt;5 Dakika ve İşin İçindesiniz&lt;/em&gt;&lt;/strong&gt;&amp;rdquo; gibi bir sloganla PC kullanmaya çekinen kitleleri PC dünyasına çekebilmek için üretilmişti. Zaten bu 4 quadrant hikayesi de Macintosh&amp;rsquo;un grafik kullanıcı arabiriminin benzerini PC dünyasına taşıma çabasıydı. Neyse sonuçta bu bilgisayarlar fazlasıyla eski bir teknolojiye sahipti. Türkiye&amp;rsquo;ye gelen 4 model 80286-10 MhZ işlemcili, renkli-renksiz ekranlı ve 30 MByte HDD&amp;rsquo;li, HDD&amp;rsquo;siz modellerden oluşuyordu. Sonuçta Türkiye&amp;rsquo;de bu cihazlardan kaç adet satıldı ne oldu bilemiyorum ama sonraki model PS/1&amp;rsquo;lerin hiçbiri Türkiye&amp;rsquo;ye gelmedi onu biliyorum. Dükkanda teşhirde incelediğim model HDD&amp;rsquo;si olmayan bir modeldi, HDD&amp;rsquo;li olsa belki o gün orada satın alınırdı ama almadık.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/PS1-4Quadrant.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;4 quadrant ekranı ve o arabirimin nasıl çalıştığını hep merak edip durdum sonrasında. Internet zamanında bile bu bilgisayar ile ilgili bilgi bulmak oldukça zor olmuştu. Macintosh&amp;rsquo;u andıran kasası ve orijinal mikrokodu ile tam bir koleksiyon ürünü olmuştu kendisi.&lt;/p&gt;
+&lt;p&gt;Yıllar sonra Marco Bortolin ismindeki IBM PS/1 meraklısı bir arkadaş, oturdu üşenmedi ve bir &lt;a href=&#34;https://barotto.github.io/IBMulator/&#34;&gt;IBM PS/1 emülatörü&lt;/a&gt; yazdı. Birkaç yıldır biraz geliştirilmesini bekledim ve geçtiğimiz haftalar içinde detaylıca inceledim. 4 Quadrant arabirimini ve bilgisayar ile yüklü gelen programları detaylıca inceleyip kurcaladım biraz. IBMulator&amp;rsquo;da IBM PS/1 için üretilen Audio/Joystick ses kartının emülasyonu bile var. Çok az Sierra oyununun desteklediği bu kartın nasıl ses verdiğini de görebilmiş olmak 30 yıl öncesinin anılarını tekrar canlandırdı.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -34,8 +48,11 @@ Mağaza sahibi bizimle fazlasıyla ilgilenmiş, oğlu hemen teşhirdeki ürünü
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/tweetbot-6/</guid>
-      <description>Tapbots’un iPhone için Twitter client’i Tweetbot’da abonelik sistemini zorunlu tutan uygulamalar kervanına katılmış sonunda.
-Her yıl yenilemem gereken aboneliklerin listesine Tweetbot’u da eklemek gerekiyor artık…</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tapbots_2021-Jan-27.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Tapbots’un iPhone için Twitter client’i Tweetbot’da abonelik sistemini zorunlu tutan uygulamalar kervanına katılmış sonunda.&lt;/p&gt;
+&lt;p&gt;Her yıl yenilemem gereken aboneliklerin listesine Tweetbot’u da eklemek gerekiyor artık…&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -44,9 +61,12 @@ Her yıl yenilemem gereken aboneliklerin listesine Tweetbot’u da eklemek gerek
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/instagram%C4%B1n-10.-y%C4%B1l%C4%B1/</guid>
-      <description>Instagram ortaya çıkalı 10 yıl olmuş, yeni güncelledikleri uygulamanın içine bir easter egg yerleştirmişler ve 1 ay boyunca uygulamanın eski ikonlarını seçebilme imkanı oluşmuş.
-Hangi ikonun, hangi sürüm ile hangi tarihte değiştiğini de eklemişler ki -benim gibi kronolojiye meraklı biri için yapmışlar sanki bunu- çok hoşuma gitti.
-İlk orijinal ikonu gerçekten hatırlamıyorum ama Instagram programını ne zaman yüklemişim diye yaptığım ilk paylaşıma hızla ilerleyince gördüğüm 6 Ekim 2010 tarihi şaşırttı beni.</description>
+      <description>&lt;p&gt;Instagram ortaya çıkalı 10 yıl olmuş, yeni güncelledikleri uygulamanın içine bir &lt;em&gt;easter egg&lt;/em&gt; yerleştirmişler ve 1 ay boyunca uygulamanın eski ikonlarını seçebilme imkanı oluşmuş.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Instagram_10th-Year.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Hangi ikonun, hangi sürüm ile hangi tarihte değiştiğini de eklemişler ki -&lt;em&gt;&lt;strong&gt;benim gibi kronolojiye meraklı biri için yapmışlar sanki bunu&lt;/strong&gt;&lt;/em&gt;- çok hoşuma gitti.&lt;/p&gt;
+&lt;p&gt;İlk orijinal ikonu gerçekten hatırlamıyorum ama Instagram programını ne zaman yüklemişim diye yaptığım ilk paylaşıma hızla ilerleyince gördüğüm 6 Ekim 2010 tarihi şaşırttı beni.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -55,8 +75,9 @@ Hangi ikonun, hangi sürüm ile hangi tarihte değiştiğini de eklemişler ki -
       <pubDate>Wed, 05 Jun 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/sendtodropbox/</guid>
-      <description>DropBox’ın ortaya çıkış sebebi insanların dosyaları paylaşabilmek için birbirlerine e-posta atmalarından kurtulması amaçlanmıştı. Bazen işyerinde oluşturulan dosyalarda akşam evde çalışabilme amacıyla kendime bile mail attığım olmuştur.
-Bununla birlikte işyerinde DropBox’a erişebilme imkanı olmaması nedeniyle bazı dosyaları e-posta yoluyla DropBox hesabıma göndermenin yollarını ararken sendtodropbox servisini buldum. DropBox’ın oluşum felsefesine ters düşse de servisin çok işime yaradığını ifade etmeliyim. Üstelik ücretsiz bir servis.</description>
+      <description>&lt;p&gt;DropBox’ın ortaya çıkış sebebi insanların dosyaları paylaşabilmek için birbirlerine e-posta atmalarından kurtulması amaçlanmıştı. Bazen işyerinde oluşturulan dosyalarda akşam evde çalışabilme amacıyla kendime bile mail attığım olmuştur.&lt;/p&gt;
+&lt;p&gt;Bununla birlikte işyerinde DropBox’a erişebilme imkanı olmaması nedeniyle bazı dosyaları e-posta yoluyla DropBox hesabıma göndermenin yollarını ararken &lt;a href=&#34;https://sendtodropbox.com/&#34;&gt;sendtodropbox&lt;/a&gt; servisini buldum. DropBox’ın oluşum felsefesine ters düşse de servisin çok işime yaradığını ifade etmeliyim. Üstelik ücretsiz bir servis.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

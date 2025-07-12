@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>toy on Darkest Notes</title>
+    <title>Toy on Darkest Notes</title>
     <link>https://darkestnotes.org/categories/toy/</link>
-    <description>Recent content in toy on Darkest Notes</description>
+    <description>Recent content in Toy on Darkest Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 15 Jun 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/categories/toy/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,8 @@
       <pubDate>Sun, 15 Jun 2014 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/lego-battle-droid/</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;129&amp;rdquo;]</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;129&amp;rdquo;]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -22,7 +23,10 @@
       <pubDate>Thu, 05 Dec 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/r2-d2/</guid>
-      <description>R2-D2</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/R2-D2-Toy.jpg&#34; alt=&#34;R2-D2&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;R2-D2&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -31,8 +35,9 @@
       <pubDate>Thu, 14 Nov 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/kinder-surprise-smurfs/</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;177&amp;rdquo;]
-Kinder Surprise Smurfs Collection</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;177&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;Kinder Surprise Smurfs Collection&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -41,7 +46,8 @@ Kinder Surprise Smurfs Collection</description>
       <pubDate>Sun, 09 Dec 2012 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/king-tut-arises/</guid>
-      <description>[gallery type=&amp;ldquo;rectangular&amp;rdquo; ids=&amp;ldquo;354,355,356,357,358&amp;rdquo;]</description>
+      <description>&lt;p&gt;[gallery type=&amp;ldquo;rectangular&amp;rdquo; ids=&amp;ldquo;354,355,356,357,358&amp;rdquo;]&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -50,7 +56,10 @@ Kinder Surprise Smurfs Collection</description>
       <pubDate>Tue, 03 Mar 2009 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/what-could-go-wrong-with-a-diy-nuclear-sub-kit/</guid>
-      <description>Did anyone here actually have a successful mission in one of these?</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Nuclear_Submarine.jpg&#34; alt=&#34;Nuclear_Submarine&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Did anyone here actually have a successful mission in one of these?&lt;/p&gt;
+</description>
     </item>
     
   </channel>

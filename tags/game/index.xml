@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>game on Darkest Notes</title>
+    <title>Game on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/game/</link>
-    <description>Recent content in game on Darkest Notes</description>
+    <description>Recent content in Game on Darkest Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 04 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/game/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,9 @@
       <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/elder-scrolls-online-5.-y%C4%B1ld%C3%B6n%C3%BCm%C3%BC-kutlamalar%C4%B1/</guid>
-      <description>04 Nisan 2014 tarihinde çıkan Elder Scrolls Online bugün 5. yaşını kutluyor. 4 Nisan’da başlayacak kutlamaların 9 Mayıs’a kadar yaklaşık 5 hafta süreceği duyuruldu. Önce 1 Nisan şakası sandım ama değilmiş, durum ciddi.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/ESO-5th-Anniversary-1.jpg&#34; alt=&#34;&#34;  /&gt;
+ 04 Nisan 2014 tarihinde çıkan Elder Scrolls Online bugün 5. yaşını kutluyor. 4 Nisan’da başlayacak kutlamaların 9 Mayıs’a kadar yaklaşık 5 hafta süreceği duyuruldu. Önce 1 Nisan şakası sandım ama değilmiş, durum ciddi.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -22,7 +24,21 @@
       <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/civilization/</guid>
-      <description>1992 yılı, Temmuz ayı. Okul kapanmış (-kredili sistem olduğu için normal öğrencilere göre 3 hafta daha fazla gitmiştik okula-😡) Avrupa Futbol Şampiyonası sona ermiş, uzun bir yaz tatili beni bekliyor. Odamın baş köşesine kurulmuş yepyeni, gıcır gıcır bir 80386DX-40 işlemcili, 4 MByte RAM’li Sound Blaster Pro ses kartlı SVGA ekranlı bir PC. Biraz DOS ve Windows denemeleri, mouse ile çizim yapma denemeleri, debug ile yazılan ufak tefek Assembly kodları derken bilgisayarın asıl alınış amacına gelmişti sıra.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Civ-VI.8c3ad02e0f1d45a0b657c8f29d811e7a.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;1992 yılı, Temmuz ayı. Okul kapanmış (-kredili sistem olduğu için normal öğrencilere göre 3 hafta daha fazla gitmiştik okula-😡) Avrupa Futbol Şampiyonası sona ermiş, uzun bir yaz tatili beni bekliyor. Odamın baş köşesine kurulmuş yepyeni, gıcır gıcır bir 80386DX-40 işlemcili, 4 MByte RAM’li Sound Blaster Pro ses kartlı SVGA ekranlı bir PC. Biraz DOS ve Windows denemeleri, mouse ile çizim yapma denemeleri, debug ile yazılan ufak tefek Assembly kodları derken bilgisayarın asıl alınış amacına gelmişti sıra. Oyunlar!!!&lt;/p&gt;
+&lt;p&gt;Sağdan soldan alınıp oynanan birkaç uyduruk oyundan sonra heyecanla bilgisayara yüklediğim ilk oyun olmuştur Civilization. Gerçekten Sid Meier’a ait olan tek Civilization. Commodore 64’de yazdığı Pirates! sonrasında beni etkileyen ve en uzun zaman ayırdığım oyunu bu olmuştur Sid Meier’in.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/civ1_logo.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;O yaz, yeni alınan bilgisayarın heyecanıyla pek çok oyun ve programı heyecanla yüklemeye devam etsem de, Civilization’ın yeri hep aynı kalmıştır Hard Disk’imde. Oyundan sıkıldığım zaman bile yanıma sözlüğümü alır Civilopedia okurdum. Tarihe, felsefeye ve arkeolojiye yönelişimin sebebidir Civilization’ın Civilopedia’sı ayrıca kendi kendime ingilizcemi geliştirmemi sağlamıştır.&lt;/p&gt;
+&lt;p&gt;Civilization zor bir oyundu, en azından sulandırılmamış gerçek bir strateji oyunuydu. AI’da birkaç hata vardı, zor level’larda AI’ın hile yapması söz konusuydu, RNG bazen saç baş yoldururdu, güncellemeleri çıksa da giderilemeyen bug’lar her daim mevcuttu. Bütün bunlara rağmen oyundan hiç sıkılmadım. Basit ve sade grafikleri, insanın kafasını karıştırmayacak sayıda unit olması, oyunun atmosferi, dünya harikalarını erkenden bitirmenin heyecanı, yapabilecek ve deneyebilecek hep farklı şeyler bulunması, bazen tüm dünyayı fethetmek, bazen kültürel olarak ilerlemek amacıyla oynamak gibi sayısız kombinasyon mümkündü. Demographics ekranındaki istatistikleri geliştirmek için bile oynardım bazen, okur-yazarlığı %100 yapmak, tebamın yaşam süresini artırmak, dünya haritasında tüm Sibirya’ya yayılan bir imparatorluk oluştururdum.&lt;/p&gt;
+&lt;p&gt;Civilization II MultiMedia dünyasının kurbanı olmuştur. Saçma sapan videoları araya sıkıştıralım derken oyun oynanabilirliğinden çok şey kaybetmişti. Civilization III yeni oyun sistemine adapte edilmeye çalışılan dönem olmuştur. Yeni nesil oyun dünyasında Civilization IV ise favorimdir. Belki 1. oyun sonrasında en fazla vakit ayırabildiğim Civilization oyunu olmuştur. Civilization V’i hevesle alsam da oynamak için yeterli vaktim olmamıştı. Oyunu öğrenebilmek için uzunca bir zaman ayırmanın yanında cidden güçlü bir hafızaya sahip olmak gerektiğini anlamıştım oynarken. Ne ne işe yarar sürekli Civilopedia’ya bakarak oyun oynanmıyordu. Bununla birlikte her gelen güncelleme ile sürekli değişen özellikler iyice kafa karıştırıyordu. Belki ilk oyunu bu kadar seviyor olmamın sebebi bu, sürekli güncelleme ve DLC ile oyunun özünün çok değişmiyor oluşu.&lt;/p&gt;
+&lt;p&gt;Geçen haftalarda Civilization VI çıktığı vakit düşündüm bunları. Artık oyunu oynayabilecek, öğrenebilecek ve başarıya ulaşabilecek ne enerjim, ne zamanın ne de hafızam da yeterli boşluk var. Ancak Twitch’den birkaç oynayış videosu izleyip ekran görüntülerine bakıp geçerim. Sonuçta ilk oyun çıkalı 25 yıl olmuş. 15-16 yaşlarında o oyunu oynayan biri olarak Civilization VI’yı bırakayım da gençler oynasın. Turn based oyunlar gençler arasında pek tutmasa da biraz vakit ayırırlar diye düşünüyorum. Civilopedia okudukları takdirde belki biraz ufukları açılır genişler.&lt;/p&gt;
+&lt;p&gt;Bu arada Sid Meier’de kendi yarattığı bu oyunda o kadar da başarılı değilmiş. Oyunda başarılı olmak için oyunun açıklarını bulmak gerektiğini, kendisinin ise bu yola başvurmadığını, oyunu olduğu gibi oynayarak role adapte olmaya çalıştığını söylüyor.&lt;a href=&#34;#fn1&#34;&gt;1&lt;/a&gt; Asıl eğlenceli olan kısmı bu diyor ki bence de öyle…&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://arstechnica.com/gaming/2016/10/sid-meier-reflects-on-25-years-of-civilization/&#34;&gt;http://arstechnica.com/gaming/2016/10/sid-meier-reflects-on-25-years-of-civilization/&lt;/a&gt; &lt;a href=&#34;#ffn1&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -31,8 +47,14 @@
       <pubDate>Wed, 13 Jul 2016 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/witcher-3-blood-wine-expansion-pack/</guid>
-      <description>Vampirler bu kadar popüler olmadan önce en sevdiğim korku kahramanlarıydılar. Vampirlere olan özel ilgim taa Commodore 64&amp;rsquo;de oynadığım CRL adventure oyunu Dracula (ki Bram Stoker&amp;rsquo;ın romanını esas alır, 3 ayrı bölüm halinde oynanır. 1987 yılında ingilizcemi ilerleten ve gore nedir öğrenmemi sağlayan oyun olmuştur.) isimli oyunla başlamış, Stephen King&amp;rsquo;in &amp;lsquo;Salem&amp;rsquo;s Lot romanında zirve yapmıştı.
-Vampirler, The Twilight ile başlayan dönemde çoluk-çocuk eğlencesi olmaya başlayınca gözümden düştüler. Witcher 3 Blood &amp;amp; Wine eklenti paketini duyduğum zamana kadar.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/BloodWine.jpg&#34; alt=&#34;Blood&amp;amp;Wine&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Vampirler bu kadar popüler olmadan önce en sevdiğim korku kahramanlarıydılar. Vampirlere olan özel ilgim taa Commodore 64&amp;rsquo;de oynadığım CRL adventure oyunu &lt;a href=&#34;https://en.wikipedia.org/wiki/Dracula_(1986_video_game)&#34;&gt;Dracula&lt;/a&gt; (ki Bram Stoker&amp;rsquo;ın romanını esas alır, 3 ayrı bölüm halinde oynanır. 1987 yılında ingilizcemi ilerleten ve gore nedir öğrenmemi sağlayan oyun olmuştur.) isimli oyunla başlamış, Stephen King&amp;rsquo;in &lt;a href=&#34;https://en.wikipedia.org/wiki/%27Salem%27s_Lot&#34;&gt;&amp;lsquo;Salem&amp;rsquo;s Lot&lt;/a&gt; romanında zirve yapmıştı.&lt;/p&gt;
+&lt;p&gt;Vampirler, &lt;a href=&#34;https://en.wikipedia.org/wiki/The_Twilight_Saga_(film_series)#Twilight_.282008.29&#34;&gt;The Twilight&lt;/a&gt; ile başlayan dönemde çoluk-çocuk eğlencesi olmaya başlayınca gözümden düştüler. Witcher 3 Blood &amp;amp; Wine eklenti paketini duyduğum zamana kadar. Çoluk çocuk için sulandırılmamışsert vampirlerin kan ve şarap içtiği gerçek bir expansion&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Oyunda vampirlerin yer aldığını ilgi çeken trailer&amp;rsquo;ı &lt;a href=&#34;https://www.youtube.com/watch?v=ehjJ614QfeM&#34;&gt;A Night To Remember&lt;/a&gt; ile göstermişti bize CD Projekt. Ancak son anda pek çok vampiri ana oyundan çıkarıp (birkaç boss hariç) expansion içine koymaya karar vermişler gibi geldi bana. Bence daha iyi olmuş. Blood and Wine, kan ve şarabı vampirler ile bir araya getiren ve önceki expansion&amp;rsquo;a göre daha kapsamlı bir eklenti paketi. Çoluk çocuk eğlencesi olan değil, gerçek vampirler var burada! Kanlı canlı&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://vimeo.com/174555292&#34;&gt;https://vimeo.com/174555292&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Oyunun sonunda Regis ile Geralt&amp;rsquo;ın gece başlayan sohbetleri gün aydınlanana kadar devam ettiği bölüm özellikle hoşuma gitti. Bütün kavga, dövüş, hengâme sonrasında şarap eşliğinde sakince oturup sohbet etmek, güneş doğarken bile yaşanan huzur ve dinginlik anını sonusuza kadar uzamasını dileyerek bir müddet daha oturmayı istemek&amp;hellip;zamanı orada durdurmak belki&amp;hellip;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -41,8 +63,11 @@ Vampirler, The Twilight ile başlayan dönemde çoluk-çocuk eğlencesi olmaya b
       <pubDate>Sat, 03 Jul 2010 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/eboy-fixpix/</guid>
-      <description>Aylar önce demosunu gördüğüm oyun özellikle Pixel Art&amp;rsquo;dan hoşlananlar için. eBoy tarafından çizilen mükemmel resimlerden oluşan grafiklerin yanında, komik ve orijinal ses efektleri de övgüyü hak ediyor. Şimdilik 100 levelden oluşan oyunu bir çırpıda oynayıp bitiriyorsunuz, tadı damağınızda kalıyor.
-Bu kadar başarılı çizimlerden oluşan grafiklere sahip oyunun ikonu daha iyi olabilirdi. FaceBook entegrasyonu da şu an için çalışmıyor maalesef. Oyunun sitesine bu adresten, AppStore&amp;rsquo;daki sayfasına ise bu adresten ulaşabilirsiniz.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_l4zv23icpv1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Aylar önce demosunu gördüğüm oyun özellikle Pixel Art&amp;rsquo;dan hoşlananlar için. eBoy tarafından çizilen mükemmel resimlerden oluşan grafiklerin yanında, komik ve orijinal ses efektleri de övgüyü hak ediyor. Şimdilik 100 levelden oluşan oyunu bir çırpıda oynayıp bitiriyorsunuz, tadı damağınızda kalıyor.&lt;/p&gt;
+&lt;p&gt;Bu kadar başarılı çizimlerden oluşan grafiklere sahip oyunun ikonu daha iyi olabilirdi. FaceBook entegrasyonu da şu an için çalışmıyor maalesef. Oyunun sitesine bu &lt;a href=&#34;http://www.eboyfixpix.com/&#34;&gt;adresten&lt;/a&gt;, AppStore&amp;rsquo;daki sayfasına ise bu &lt;a href=&#34;http://itunes.apple.com/app/eboy-fixpix/id371977953&#34;&gt;adresten&lt;/a&gt; ulaşabilirsiniz.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

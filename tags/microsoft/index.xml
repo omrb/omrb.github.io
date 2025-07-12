@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>microsoft on Darkest Notes</title>
+    <title>Microsoft on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/microsoft/</link>
-    <description>Recent content in microsoft on Darkest Notes</description>
+    <description>Recent content in Microsoft on Darkest Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/microsoft/index.xml" rel="self" type="application/rss+xml" />
@@ -13,9 +13,20 @@
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/microsoft-flight-simulator-2020/</guid>
-      <description>[caption id=&amp;ldquo;attachment_3589&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;480&amp;rdquo;] Şu güzel havalı kapağı görüp de oyunu almamak olur mu?[/caption]
-Microsoft’un ilk kez 1982 yılında 8 bitlik bilgisayarlar ile oyun dünyasına tanıştırdığı uçuş simülasyonu 2020 yılı sürümü ile 18 Ağustos’da karşımıza çıktı. 90 küsur GigaByte download sonrasında oynanabilir hale gelen oyun önemli teknolojik geliştirmeleri içinde barındırıyor.
-Kuşkusuz bunlardan en önemlisi ve nasıl çalışacağı merakla bekleneni, oyunun haritasının gerçek dünya ile birebir olarak Microsoft Bing harita sisteminden alınmasıydı.</description>
+      <description>&lt;p&gt;[caption id=&amp;ldquo;attachment_3589&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;480&amp;rdquo;]&lt;img loading=&#34;lazy&#34; src=&#34;images/MSFS-2020-Cover-2.jpg&#34; alt=&#34;&#34;  /&gt;
+ Şu güzel havalı kapağı görüp de oyunu almamak olur mu?[/caption]&lt;/p&gt;
+&lt;p&gt;Microsoft’un ilk kez 1982 yılında 8 bitlik bilgisayarlar ile oyun dünyasına tanıştırdığı uçuş simülasyonu 2020 yılı sürümü ile 18 Ağustos’da karşımıza çıktı. 90 küsur GigaByte download sonrasında oynanabilir hale gelen oyun önemli teknolojik geliştirmeleri içinde barındırıyor.&lt;/p&gt;
+&lt;p&gt;Kuşkusuz bunlardan en önemlisi ve nasıl çalışacağı merakla bekleneni, oyunun haritasının gerçek dünya ile birebir olarak Microsoft Bing harita sisteminden alınmasıydı. Uçuş sırasında harita internetten online olarak indiriliyor ve &lt;a href=&#34;https://blackshark.ai&#34;&gt;Blackshark.ai&lt;/a&gt; sistemi ile 3 boyutlu hale getiriliyor. Böylece birebir gerçek dünya haritası üzerinde uçabilme imkanına kavuşmuş oluyoruz. Yadsınamayacak büyüklükte önemli bir teknoloji adımı oyun dünyası için.&lt;/p&gt;
+&lt;p&gt;[caption id=&amp;ldquo;attachment_3896&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;2560&amp;rdquo;]&lt;img loading=&#34;lazy&#34; src=&#34;images/MSFS-Icon-A5-Over-Finland.png&#34; alt=&#34;&#34;  /&gt;
+ Batmayan güneşe doğru Finlandiya ormanları üzerinde&amp;hellip;[/caption]&lt;/p&gt;
+&lt;p&gt;Oyunu oynamadan bu sistemin nasıl çalışacağı konusunda bazı şüphelerim vardı. Şehirlerden uzak doğal güzellikler içinde uçuş yapıldığında sistem oldukça iyi çalışıyor, gerçek bir dünya üzerinde uçuluyor. Bununla birlikte şehir üzeri uçuşlarında bazı sıkıntılar var. Şöyle ki Bing harita sisteminde detaylandırılmış haritalara sahip şehirler (örneğin New York) ve bölgeler Blackshark.ai ile başarılı bir biçimde 3 boyuta dönüştürülüyor ve gerçek harita üzerinde uçuş hissini yaratabiliyor. Ancak detaylı bilgisi olmayan şehirler ve bölgeler gerçekçiliği önemli ölçüde azaltan hatalı görüntülere yol açıyor. Mesela İstanbul’da Boğaz Köprüsü düz bir yol olarak gözüküyor, medeniyetten uzak ormanların içindeki kulübe yapıları büyük apartmanlar olarak 3D’ye çözümleniyor vb. Microsoft gerçeğin aynısını yapacağım derken zaman zaman olay gerçeklikten uzak bir paralel evrende geçmeye başlıyor neredeyse.&lt;/p&gt;
+&lt;p&gt;Elbette önemli şehirler ve landmarklar için eklenti paketleri ile haritaların detaylı ve gerçekçi olması sağlanacaktır (Londra şu an satılıyor örneğin) ama zaman zaman bana keyif vermeyen bir özellik oldu bu. Tüm dünya haritasında uçabilmek yerine belli bölgelerde detaylı ve gerçekçi haritalarda uçmak daha keyifli olurdu.&lt;/p&gt;
+&lt;p&gt;[caption id=&amp;ldquo;attachment_3588&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;2560&amp;rdquo;]&lt;img loading=&#34;lazy&#34; src=&#34;images/MSFS-2020-Icon-A5-Over-I%CC%87ztuzu-2.png&#34; alt=&#34;&#34;  /&gt;
+ İztuzu&amp;rsquo;nu geride bırakıyorum.[/caption]&lt;/p&gt;
+&lt;p&gt;Anlayamadığım bir diğer konu ise görev yokluğu oldu. Bir önceki sürüm Flight Simulator X’de çok sayıda hem ilginç hem oyunun atmosferini artıran pek çok görev vardı. Büyük olasılıkla ileride çıkacak güncellemelerde eklenecektir görevler ama bu haliyle fazlasıyla bomboş bir oyun.&lt;/p&gt;
+&lt;p&gt;Simülasyon ve uçuş hissi kısmında söyleyebileceğim çok fazla şey yok, haliyle bir pilot değilim ve uçuş yardımlarını açarak oynuyorum oyunu. İnsan heyecanla kokpite dalıp uçuşa geçiyor. Ama sonrasında ne yapacağını bilemiyor. Amaçsız bir halde gökyüzünde dolaşıp haritadaki garipliklerle bir miktar eğlendikten sonra alakasız bir havaalanına iniş yaparken buluyorum kendimi.&lt;/p&gt;
+&lt;p&gt;Oyun bu haliyle henüz beta aşamasına bile geçememiş alpha aşamasında piyasaya sürülmüş gibi duruyor bence. 1-2 yıl sonra üzerinde tekrar konuşmak gerekir.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

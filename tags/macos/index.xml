@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>macos on Darkest Notes</title>
+    <title>Macos on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/macos/</link>
-    <description>Recent content in macos on Darkest Notes</description>
+    <description>Recent content in Macos on Darkest Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 20 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/macos/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,20 @@
       <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/macos-catalina/</guid>
-      <description>Apple işletim sistemini her yıl güncelliyor ve yeni bir isimle piyasaya sürüyor. Son kullanıcı tarafında yeni bir işletim sistemi çıkmış gibi bir algı yaratılıyor. Hemen hemen hiçbir yeni ve önemli özellik olmamasına rağmen sanki yeni bir sürüm çıkarıyormuş hissiyatı yaratmak pek etik değil. Bununla birlikte her yıl yeni işletim sistemi çıkarma döngüsünü sürdürme çabası ile programlama aşaması aceleye getiriliyor ve daha önceki sürümde olmayan çok sayıda bug ile karşılaşma durumu, kullanıcının işletim sistemini kalite ve stabilite açısından da eleştirmesine sebep oluyor.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/MacOS_Catalina_Logo.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Apple işletim sistemini her yıl güncelliyor ve yeni bir isimle piyasaya sürüyor. Son kullanıcı tarafında yeni bir işletim sistemi çıkmış gibi bir algı yaratılıyor. Hemen hemen hiçbir yeni ve önemli özellik olmamasına rağmen sanki yeni bir sürüm çıkarıyormuş hissiyatı yaratmak pek etik değil. Bununla birlikte her yıl yeni işletim sistemi çıkarma döngüsünü sürdürme çabası ile programlama aşaması aceleye getiriliyor ve daha önceki sürümde olmayan çok sayıda bug ile karşılaşma durumu, kullanıcının işletim sistemini kalite ve stabilite açısından da eleştirmesine sebep oluyor.&lt;/p&gt;
+&lt;p&gt;Aşağıda belli başlı yenilikleri sıraladım ama çoğunu ne kullandım ne de denedim açıkçası.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;32 bit uygulamalar artık çalışmayacak, tüm uygulamaların 64 bit olması zorunlu. Eskiden kalma ve artık güncellenmeyen uygulamalar ile vedalaşma zamanı.&lt;/li&gt;
+&lt;li&gt;iTunes artık tarih oldu. Kendisinden 3 farklı uygulama doğdu. Music, TV ve Podcasts.&lt;/li&gt;
+&lt;li&gt;Notes uygulamasında galeri görünümü geldi, aradığınız notu bulmak artık daha kolay.&lt;/li&gt;
+&lt;li&gt;Reminders, yenilendi, listeleri gruplandırılmış olarak görebilmek mümkün.&lt;/li&gt;
+&lt;li&gt;Sidecar ile yeni iPad&amp;rsquo;ler ikincil bir ekran olarak kullanılabiliyor. Deneme imkanım olmadı.&lt;/li&gt;
+&lt;li&gt;Screen Time, iPhone&amp;rsquo;larda olduğu gibi artık MacOS&amp;rsquo;da da var. Hangi işle ne kadar uğraşıldığını görebilmek ve çeşitli limitler belirlemek mümkün.&lt;/li&gt;
+&lt;li&gt;Safari&amp;rsquo;nin yeni bir açılış sayfası var. Sık ziyaret edilen, favori ve Siri tarafından önerilen web sayfaları diğer tüm güncel tarayıcılarda olduğu gibi Safari&amp;rsquo;de de var artık.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -22,7 +35,11 @@
       <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/macos-mojavede-yenilikler/</guid>
-      <description>1. Karanlık Mod 2. Dinamik Desktop, yani böyle havalı bir ismi var ama duvar kağıdının günün zamanına göre değişmesi özelliği aslında. Windows 7’de mi Vista’da mı vardı animasyonlu duvar kağıdı gibi birşey. 3. Tema renkleri, MacOS’da arabirimindeki renklendirme seçenekleri 8’e çıkmış (eskiden 2 idi galiba) Favorim mor. 4. Stacks, masaüstündeki dağınıklığı toparlamak için yeni bir seçenek, klasör ve dosyaları gruplandırarak masaüstünü derli toplu yapıyor. Masaüstünde hiçbirşey bulundurmayan benim gibiler için anlamsız bir özellik.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/macOS-Mojave-Night.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1&lt;/strong&gt;. &lt;em&gt;&lt;strong&gt;Karanlık Mod&lt;/strong&gt;&lt;/em&gt; &lt;strong&gt;2&lt;/strong&gt;. &lt;em&gt;&lt;strong&gt;Dinamik Desktop&lt;/strong&gt;&lt;/em&gt;, yani böyle havalı bir ismi var ama duvar kağıdının günün zamanına göre değişmesi özelliği aslında. Windows 7’de mi Vista’da mı vardı animasyonlu duvar kağıdı gibi birşey. &lt;strong&gt;3&lt;/strong&gt;. &lt;em&gt;&lt;strong&gt;Tema renkleri&lt;/strong&gt;&lt;/em&gt;, MacOS’da arabirimindeki renklendirme seçenekleri 8’e çıkmış (eskiden 2 idi galiba) Favorim mor. &lt;strong&gt;4&lt;/strong&gt;. &lt;em&gt;&lt;strong&gt;Stacks&lt;/strong&gt;&lt;/em&gt;, masaüstündeki dağınıklığı toparlamak için yeni bir seçenek, klasör ve dosyaları gruplandırarak masaüstünü derli toplu yapıyor. Masaüstünde hiçbirşey bulundurmayan benim gibiler için anlamsız bir özellik. &lt;strong&gt;5&lt;/strong&gt;. &lt;strong&gt;&lt;em&gt;Finder - Gallery View&lt;/em&gt;&lt;/strong&gt;, finder’da dosyaları önizleyerek göz gezdirebilirsiniz, özellikle GIF’ler için faydalı. &lt;strong&gt;6&lt;/strong&gt;. &lt;em&gt;&lt;strong&gt;Quick Actions&lt;/strong&gt;&lt;/em&gt;, finder’da göz atılan dosyalarda hızlı değişiklikler yapabilme imkanı, aynı durum Quick Look içi de geçerli. &lt;strong&gt;7&lt;/strong&gt;. &lt;em&gt;&lt;strong&gt;Metadata&lt;/strong&gt;&lt;/em&gt;, finder’da göz atılan dosyalarda eğer mevcut ise önemli tüm metadata’ları görebiliyoruz. &lt;strong&gt;8&lt;/strong&gt;. &lt;em&gt;&lt;strong&gt;Safari Tab Favicon&lt;/strong&gt;&lt;/em&gt;, Safari’de açtığımız sekmelerde artık faviconlar gözüküyor. &lt;strong&gt;9&lt;/strong&gt;. &lt;em&gt;&lt;strong&gt;Screenshot&lt;/strong&gt;&lt;/em&gt;’lar, artık Shift+Command+5 ile alınan ekran görüntülerini kaydetmeden önce düzenleme yapabilme ve video kaydedebilme imkanı. &lt;strong&gt;10&lt;/strong&gt;. &lt;strong&gt;&lt;em&gt;Yeni Mac AppStore&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bu yenilikleri toparlarken kısmen bu &lt;a href=&#34;https://9to5mac.com/2018/09/24/macos-mojave-top-features-changes-video/&#34;&gt;adresten&lt;/a&gt; faydalandım.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -31,8 +48,14 @@
       <pubDate>Sat, 06 Apr 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/ulysses-iii/</guid>
-      <description>Internette dolaşırken gördüğüm Ulysses isimli Markdown Editor dikkatimi çekti bugün. Pek çok editor kullanmama rağmen MultiMarkdown1 yazımı editör boyutunda destekleyen uygulama bulmak aslında çok zor. Ulysses MultiMarkdown desteklemesinin yanında editör olarakta kullandığım pek çok uygulamadan daha gelişmiş özellikler sağlıyor. Bununla birlikte Ulysses ile entegre olduğu söylenen ve satın aldığım iOS uygulaması Daedalus Markdown görüntüleme desteğine sahip değil.
-Byword ile oluşturmuş olduğum notları Ulysses III ile kategoriler içinde toplamayı başardım. Blog-Journal ve Notes olarak 3 farklı kategori oluşturdum.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/tQjZ&amp;#43;&#34; alt=&#34;image&#34;  title=&#34;Ulysses III&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Internette dolaşırken gördüğüm &lt;a href=&#34;http://www.ulyssesapp.com&#34;&gt;Ulysses&lt;/a&gt; isimli Markdown Editor dikkatimi çekti bugün. Pek çok editor kullanmama rağmen MultiMarkdown&lt;a href=&#34;#fn1&#34;&gt;1&lt;/a&gt; yazımı editör boyutunda destekleyen uygulama bulmak aslında çok zor. Ulysses MultiMarkdown desteklemesinin yanında editör olarakta kullandığım pek çok uygulamadan daha gelişmiş özellikler sağlıyor. Bununla birlikte Ulysses ile entegre olduğu söylenen ve satın aldığım iOS uygulaması Daedalus Markdown görüntüleme desteğine sahip değil.&lt;/p&gt;
+&lt;p&gt;Byword ile oluşturmuş olduğum notları Ulysses III ile kategoriler içinde toplamayı başardım. &lt;em&gt;Blog&lt;/em&gt;-&lt;em&gt;Journal&lt;/em&gt; ve &lt;em&gt;Notes&lt;/em&gt; olarak 3 farklı kategori oluşturdum. Oluşturulan bu kategoriler için farklı ikonlar da seçilebiliyor. Bununla birlikte bu kategorileri Ulysses III farklı dizinler altında topladığından Daedalus ile Dropbox aracılığı ile senkronize etmeyi başaramadım.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Markdown&amp;rsquo;ın bir ileri aşaması. Dipnot imkanı var. &lt;a href=&#34;#fn1&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -41,8 +64,11 @@ Byword ile oluşturmuş olduğum notları Ulysses III ile kategoriler içinde to
       <pubDate>Sun, 21 Oct 2012 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/gog-os-x/</guid>
-      <description>Eski DOS oyunlarını OS X&amp;rsquo;de oynamak DOSBox için yazılmış Boxer gibi arabirimler sayesinde çok zor olmuyordu. Bununla birlikte GOG.com‘dan satın aldığım oyunları install etmek için öncelikle Windows&amp;rsquo;a geçmem daha sonra dosyaları OS X&amp;rsquo;e aktarmam gerekirdi.
-GOG.com artık DOS oyunlarını tek bir tıklama ile çalıştırılabilecek paketler halinde OS X için de satmaya başladı. Çok fazla oyunu deneme imkanım olmadı ama Boxer&amp;rsquo;ın sağladığı stabil platform sayesinde eski DOS oyunlarını Windows&amp;rsquo;a dönmeden rahatlıkla OS X&amp;rsquo;de oynayabilmek artık mümkün.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_mc9bssHXgj1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Eski DOS oyunlarını OS X&amp;rsquo;de oynamak DOSBox için yazılmış &lt;a href=&#34;http://boxerapp.com&#34;&gt;Boxer&lt;/a&gt; gibi arabirimler sayesinde çok zor olmuyordu. Bununla birlikte &lt;a href=&#34;http://www.gog.com&#34;&gt;GOG.com&lt;/a&gt;‘dan satın aldığım oyunları install etmek için öncelikle Windows&amp;rsquo;a geçmem daha sonra dosyaları OS X&amp;rsquo;e aktarmam gerekirdi.&lt;/p&gt;
+&lt;p&gt;GOG.com artık DOS oyunlarını tek bir tıklama ile çalıştırılabilecek paketler halinde OS X için de satmaya başladı. Çok fazla oyunu deneme imkanım olmadı ama Boxer&amp;rsquo;ın sağladığı stabil platform sayesinde eski DOS oyunlarını Windows&amp;rsquo;a dönmeden rahatlıkla OS X&amp;rsquo;de oynayabilmek artık mümkün.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -51,7 +77,10 @@ GOG.com artık DOS oyunlarını tek bir tıklama ile çalıştırılabilecek pak
       <pubDate>Wed, 20 Jul 2011 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/macos-x-lion/</guid>
-      <description>MacOS X Lion bugün Mac kullanıcılarının deneyimine sunuldu. MacOS X Lion&amp;rsquo;ın detaylı bir incelemesi Ars Technica&amp;rsquo;da yayınlandı.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_loncitA2o31qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;MacOS X Lion bugün Mac kullanıcılarının deneyimine sunuldu. MacOS X Lion&amp;rsquo;ın detaylı bir &lt;a href=&#34;http://arstechnica.com/apple/reviews/2011/07/mac-os-x-10-7.ars&#34; title=&#34;MacOS X Lion Review&#34;&gt;incelemesi&lt;/a&gt; Ars Technica&amp;rsquo;da yayınlandı.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -60,11 +89,21 @@ GOG.com artık DOS oyunlarını tek bir tıklama ile çalıştırılabilecek pak
       <pubDate>Sun, 17 Jul 2011 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/macos-x-lion-hakk%C4%B1nda-birka%C3%A7-not/</guid>
-      <description>Yeni MacOS sürümü Lion&amp;rsquo;ın piyasaya çıkmasına günler kala göze çarpan değişiklikler hakkında aldığım notlar…
-- Login ekranı yenilenmiş, aslında boot ekranındaki Apple logosunun devamı şeklinde yapılabilse estetik açıdan çok daha şık gözükebilirdi…
-- Finder&amp;rsquo;da sidebar ikonları değiştirilmiş. Pencereler daha akıcı animasyonlar ile açılıyor.
--LaunchPad, bilgisayarınıza yüklü uygulamaların tümünü iPad (iOS) benzeri bir şekilde ekranda gösterilmesini sağlıyor.
--Reverse Scrolling, TrackPad&amp;rsquo;de yukarı-aşağı scroll&amp;rsquo;un yönü değiştirilmiş, iOS&amp;rsquo;da olduğu gibi yapılmış. Ben alışamadaım, doğrudan eski seçeneğe döndüm.</description>
+      <description>&lt;p&gt;Yeni MacOS sürümü Lion&amp;rsquo;ın piyasaya çıkmasına günler kala göze çarpan değişiklikler hakkında aldığım notlar…&lt;/p&gt;
+&lt;p&gt;- Login ekranı yenilenmiş, aslında boot ekranındaki Apple logosunun devamı şeklinde yapılabilse estetik açıdan çok daha şık gözükebilirdi…&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_lohbjsoF0K1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;- Finder&amp;rsquo;da sidebar ikonları değiştirilmiş. Pencereler daha akıcı animasyonlar ile açılıyor.&lt;/p&gt;
+&lt;p&gt;-LaunchPad, bilgisayarınıza yüklü uygulamaların tümünü iPad (iOS) benzeri bir şekilde ekranda gösterilmesini sağlıyor.&lt;/p&gt;
+&lt;p&gt;-Reverse Scrolling, TrackPad&amp;rsquo;de yukarı-aşağı scroll&amp;rsquo;un yönü değiştirilmiş, iOS&amp;rsquo;da olduğu gibi yapılmış. Ben alışamadaım, doğrudan eski seçeneğe döndüm.&lt;/p&gt;
+&lt;p&gt;-Safari&amp;rsquo;de yenilikler…&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_lohb9zEsA41qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;- Reading List ile daha sonra okumak istediğiniz linkleri kopyalama imkanı gelmiş, Instapaper ile ReadLater&amp;rsquo;a rakip olacak gibi, kullanışlı bir özellik.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_lohbazTBCA1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;- Download Manager ile artık toolbar&amp;rsquo;da indirilen dosyalarınızı ve ne kadarının indirildiğini grafiksel olarak görebileceğinizi sağlayan bir özellik.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -73,8 +112,9 @@ GOG.com artık DOS oyunlarını tek bir tıklama ile çalıştırılabilecek pak
       <pubDate>Tue, 06 Apr 2010 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/current-wallpaper/</guid>
-      <description>[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;668&amp;rdquo;]
-Current Desktop on my MacBook</description>
+      <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;large&amp;rdquo; ids=&amp;ldquo;668&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;Current Desktop on my MacBook&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -83,9 +123,15 @@ Current Desktop on my MacBook</description>
       <pubDate>Thu, 17 Dec 2009 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/socialite/</guid>
-      <description>Internette çok fazla sayıda sosyal ağ bulunması ve bunların pek çoğuna üye olmam sebebiyle, tüm bu siteleri tek bir çatı altında toplayan programlara yada web sitelerine gereksinim duyuyorum. Bunların içinde en derli toplu olanlarının başında FriendFeed geliyordu.
-Ama her zaman web tabanlı uygulamaları kullanmak mümkün olmuyor. Bilgisayara yüklenebilecek bir program olarak EventBox (Beta) gerek güzel dizaynı gerek sade yapısı ile dikkatimi çekti ve kullanmaya başladım.
-EventBox&amp;rsquo;ı RealMacSoftware satın aldı. Programın ismi Socialite olarak değişti.</description>
+      <description>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/12d_socialite.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Internette çok fazla sayıda sosyal ağ bulunması ve bunların pek çoğuna üye olmam sebebiyle, tüm bu siteleri tek bir çatı altında toplayan programlara yada web sitelerine gereksinim duyuyorum. Bunların içinde en derli toplu olanlarının başında &lt;a href=&#34;http://www.friendfeed.com&#34; title=&#34;FriendFeed&#34;&gt;FriendFeed&lt;/a&gt; geliyordu.&lt;/p&gt;
+&lt;p&gt;Ama her zaman web tabanlı uygulamaları kullanmak mümkün olmuyor. Bilgisayara yüklenebilecek bir program olarak EventBox (Beta) gerek güzel dizaynı gerek sade yapısı ile dikkatimi çekti ve kullanmaya başladım.&lt;/p&gt;
+&lt;p&gt;EventBox&amp;rsquo;ı &lt;a href=&#34;http://realmacsoftware.com&#34; title=&#34;RealMacSoftware&#34;&gt;RealMacSoftware&lt;/a&gt; satın aldı. Programın ismi Socialite olarak değişti. Uygulamadaki kimi özellikler çıkarıldı, daha modüler bir yapı ile baştan yazıldı. Twitter API&amp;rsquo;de yapılan değişikliklere uygun hale getirildi.&lt;/p&gt;
+&lt;p&gt;Facebook, Twitter, Flickr, Digg güncellemelerini ve RSS feedlerini tek bir programdan takip etmenin yanında bu programı en çok Google Reader&amp;rsquo;a ulaşmak için kullanıyorum.&lt;/p&gt;
+&lt;p&gt;Bugün 1.0.2 güncellemesi yayınlanan &lt;a href=&#34;http://www.realmacsoftware.com/socialite/&#34; title=&#34;Socialite&#34;&gt;Socialite&lt;/a&gt; son 2 aydır en çok kullandığım uygulamalar arasında yer alıyor.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -94,8 +140,11 @@ EventBox&amp;rsquo;ı RealMacSoftware satın aldı. Programın ismi Socialite ol
       <pubDate>Sat, 05 Dec 2009 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/espresso/</guid>
-      <description>GeoCities ile beraber gelen kişisel web sitesi sahibi olma furyasında HTML ile düzenlenen web siteleri için editörler şart olmuştu. O zamanlar Macromedia&amp;rsquo;nın Dreamweaver isimli yazılımını kullanıyordum. Aradan neredeyse 10 yıl geçti.
-Zamanının ötesinde bir program olan Dreamweaver&amp;rsquo;ın yetenekleri ile şimdiki editörleri kıyasladığımda oldukça şaşırıyorum. Tamam Espresso‘da gelişmiş özellikler sunuyor ama pek çok işlemi gerçekleştirmek için çok ilkel yolları tercih etmek gerekiyor.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_ku6r8aDqiN1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;GeoCities ile beraber gelen kişisel web sitesi sahibi olma furyasında HTML ile düzenlenen web siteleri için editörler şart olmuştu. O zamanlar Macromedia&amp;rsquo;nın Dreamweaver isimli yazılımını kullanıyordum. Aradan neredeyse 10 yıl geçti.&lt;/p&gt;
+&lt;p&gt;Zamanının ötesinde bir program olan Dreamweaver&amp;rsquo;ın yetenekleri ile şimdiki editörleri kıyasladığımda oldukça şaşırıyorum. Tamam &lt;a href=&#34;http://macrabbit.com/espresso/&#34; title=&#34;Espresso !&#34;&gt;Espresso&lt;/a&gt;‘da gelişmiş özellikler sunuyor ama pek çok işlemi gerçekleştirmek için çok ilkel yolları tercih etmek gerekiyor.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -104,7 +153,10 @@ Zamanının ötesinde bir program olan Dreamweaver&amp;rsquo;ın yetenekleri ile
       <pubDate>Thu, 22 Oct 2009 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/wallet/</guid>
-      <description>Şifreleri saklamak, gerektiğinde bakmak, yanınızda (iPhone ile) taşımak için ideal bir program. iPhone ile Wi-Fi yolu ile senkronize edilebilmesi bu programı tüm diğer şifre saklama programlarından ayırıyor.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.omrb.org/wp-content/uploads/2009/10/Wallet.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Wallet.png&#34; alt=&#34;Wallet&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Şifreleri saklamak, gerektiğinde bakmak, yanınızda (iPhone ile) taşımak için ideal bir program. iPhone ile Wi-Fi yolu ile senkronize edilebilmesi bu programı tüm diğer şifre saklama programlarından ayırıyor.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -113,8 +165,13 @@ Zamanının ötesinde bir program olan Dreamweaver&amp;rsquo;ın yetenekleri ile
       <pubDate>Mon, 19 Oct 2009 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/littlesnapper/</guid>
-      <description>Her ne kadar fotografik bir hafızaya sahip olsamda (!) internette gezinirken beğendiğim çoğu siteyi daha sonra hatırlayıp bulabilmek zor ve uğraştıran bir iştir. Özellikle beğendiğim sayfa dizaynı ve görüntüleri güncellenirse o sayfaları bir daha bulabilmek imkansızdır.
-LittleSnapper işte bu noktada devreye giriyor. Normal ekran görüntüsü yakalayan programlardan farklı olarak web sayfalarının tümünün görüntüsünü bir resim dosyası olarak saklayabiliyor. Programın içinde yer alan kataloglama özellikleri sayesinde ekran görüntüsü dosyalarını ayrı kategorilerde saklayabilir, yine programla bağlantılı bir site olan Ember&amp;lsquo;a veya Flickr&amp;lsquo;a yollayabiliyorsunuz.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.omrb.org/wp-content/uploads/2009/10/Introducing-LittleSnapper-Desktop.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Introducing-LittleSnapper-Desktop.jpg&#34; alt=&#34;Introducing LittleSnapper Desktop&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Her ne kadar fotografik bir hafızaya sahip olsamda (!) internette gezinirken beğendiğim çoğu siteyi daha sonra hatırlayıp bulabilmek zor ve uğraştıran bir iştir. Özellikle beğendiğim sayfa dizaynı ve görüntüleri güncellenirse o sayfaları bir daha bulabilmek imkansızdır.&lt;/p&gt;
+&lt;p&gt;LittleSnapper işte bu noktada devreye giriyor. Normal ekran görüntüsü yakalayan programlardan farklı olarak web sayfalarının tümünün görüntüsünü bir resim dosyası olarak saklayabiliyor. Programın içinde yer alan kataloglama özellikleri sayesinde  ekran görüntüsü dosyalarını ayrı kategorilerde saklayabilir, yine programla bağlantılı bir site olan &lt;a href=&#34;http://emberapp.com/&#34;&gt;Ember&lt;/a&gt;&amp;lsquo;a veya &lt;a href=&#34;http://www.flickr.com/&#34;&gt;Flickr&lt;/a&gt;&amp;lsquo;a yollayabiliyorsunuz.&lt;/p&gt;
+&lt;p&gt;Beğenilen web sayfalarını arşivlemek ve ekran görüntülerini düzenli bir şekilde kataloglamak için LittleSnapper benzersiz bir program.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://emberapp.com/balamir/&#34;&gt;http://emberapp.com/balamir/&lt;/a&gt; &lt;a href=&#34;http://www.flickr.com/photos/balamir/&#34;&gt;http://www.flickr.com/photos/balamir/&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

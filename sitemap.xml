@@ -2,52 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://darkestnotes.org/categories/blog/</loc>
+    <lastmod>2025-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://darkestnotes.org/tags/blog/</loc>
+    <lastmod>2025-07-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://darkestnotes.org/categories/</loc>
-    <lastmod>2023-08-20T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/</loc>
+    <lastmod>2025-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://darkestnotes.org/posts/long-time-no-see/</loc>
+    <lastmod>2025-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://darkestnotes.org/posts/</loc>
+    <lastmod>2025-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://darkestnotes.org/tags/</loc>
+    <lastmod>2025-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://darkestnotes.org/tags/writing/</loc>
+    <lastmod>2025-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://darkestnotes.org/categories/music/</loc>
     <lastmod>2023-08-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/tags/music/</loc>
     <lastmod>2023-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://darkestnotes.org/categories/music/</loc>
-    <lastmod>2023-08-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://darkestnotes.org/posts/</loc>
+    <loc>https://darkestnotes.org/categories/review/</loc>
     <lastmod>2023-08-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/tags/review/</loc>
     <lastmod>2023-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://darkestnotes.org/categories/review/</loc>
-    <lastmod>2023-08-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://darkestnotes.org/tags/</loc>
-    <lastmod>2023-08-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://darkestnotes.org/posts/yeni-dinlediklerim/</loc>
     <lastmod>2023-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://darkestnotes.org/tags/internet/</loc>
+    <loc>https://darkestnotes.org/categories/internet/</loc>
     <lastmod>2023-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://darkestnotes.org/categories/internet/</loc>
+    <loc>https://darkestnotes.org/tags/internet/</loc>
     <lastmod>2023-06-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/posts/tweekly.fm-sona-geldi/</loc>
     <lastmod>2023-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://darkestnotes.org/tags/blog/</loc>
-    <lastmod>2023-06-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://darkestnotes.org/categories/blog/</loc>
+    <loc>https://darkestnotes.org/categories/wordpress/</loc>
     <lastmod>2023-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/tags/wordpress/</loc>
-    <lastmod>2023-06-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://darkestnotes.org/categories/wordpress/</loc>
     <lastmod>2023-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/posts/wordpressden-hugoya-ge%C3%A7i%C5%9F/</loc>
@@ -80,10 +86,10 @@
     <loc>https://darkestnotes.org/categories/amiga/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://darkestnotes.org/tags/hardware/</loc>
+    <loc>https://darkestnotes.org/categories/hardware/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://darkestnotes.org/categories/hardware/</loc>
+    <loc>https://darkestnotes.org/tags/hardware/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/posts/vampire-v4-standalone/</loc>
@@ -113,10 +119,10 @@
     <loc>https://darkestnotes.org/posts/elder-scrolls-online-high-isle-/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://darkestnotes.org/tags/games/</loc>
+    <loc>https://darkestnotes.org/categories/games/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://darkestnotes.org/categories/games/</loc>
+    <loc>https://darkestnotes.org/tags/games/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/tags/mmorpg/</loc>
@@ -170,10 +176,10 @@
     <loc>https://darkestnotes.org/posts/the-elder-scrolls-online-ve-blackwood/</loc>
     <lastmod>2021-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://darkestnotes.org/tags/book/</loc>
+    <loc>https://darkestnotes.org/categories/book/</loc>
     <lastmod>2021-06-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://darkestnotes.org/categories/book/</loc>
+    <loc>https://darkestnotes.org/tags/book/</loc>
     <lastmod>2021-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/posts/manu-larcenet-ve-s%C4%B1radan-zaferler/</loc>
@@ -185,10 +191,10 @@
     <loc>https://darkestnotes.org/posts/bitmap-books/</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://darkestnotes.org/tags/c64/</loc>
+    <loc>https://darkestnotes.org/categories/c64/</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://darkestnotes.org/categories/c64/</loc>
+    <loc>https://darkestnotes.org/tags/c64/</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/tags/apps/</loc>
@@ -410,9 +416,6 @@
     <loc>https://darkestnotes.org/posts/ulysses/</loc>
     <lastmod>2016-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://darkestnotes.org/tags/writing/</loc>
-    <lastmod>2016-08-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://darkestnotes.org/posts/witcher-3-blood-wine-expansion-pack/</loc>
     <lastmod>2016-07-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -488,10 +491,10 @@
     <loc>https://darkestnotes.org/tags/design/</loc>
     <lastmod>2016-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://darkestnotes.org/tags/typography/</loc>
+    <loc>https://darkestnotes.org/posts/typography/</loc>
     <lastmod>2016-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://darkestnotes.org/posts/typography/</loc>
+    <loc>https://darkestnotes.org/tags/typography/</loc>
     <lastmod>2016-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/tags/quote/</loc>
@@ -1115,10 +1118,10 @@
     <loc>https://darkestnotes.org/posts/snow-in-ankara/</loc>
     <lastmod>2012-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://darkestnotes.org/tags/istanbul/</loc>
+    <loc>https://darkestnotes.org/posts/istanbul/</loc>
     <lastmod>2012-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://darkestnotes.org/posts/istanbul/</loc>
+    <loc>https://darkestnotes.org/tags/istanbul/</loc>
     <lastmod>2012-12-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/posts/istanbul-arkeoloji-m%C3%BCzeleri/</loc>
@@ -1334,10 +1337,10 @@
     <loc>https://darkestnotes.org/tags/board-game/</loc>
     <lastmod>2011-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://darkestnotes.org/tags/chaostle/</loc>
+    <loc>https://darkestnotes.org/posts/chaostle/</loc>
     <lastmod>2011-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://darkestnotes.org/posts/chaostle/</loc>
+    <loc>https://darkestnotes.org/tags/chaostle/</loc>
     <lastmod>2011-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/tags/dungeons-and-dragons/</loc>
@@ -1517,10 +1520,10 @@
     <loc>https://darkestnotes.org/tags/lyrics/</loc>
     <lastmod>2010-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://darkestnotes.org/tags/lystener/</loc>
+    <loc>https://darkestnotes.org/posts/lystener/</loc>
     <lastmod>2010-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://darkestnotes.org/posts/lystener/</loc>
+    <loc>https://darkestnotes.org/tags/lystener/</loc>
     <lastmod>2010-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/posts/vintage-ads-for-facebook-youtube-skype/</loc>
@@ -1661,10 +1664,10 @@
     <loc>https://darkestnotes.org/posts/yellow-submarine-tea-infuser/</loc>
     <lastmod>2010-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://darkestnotes.org/tags/everplay/</loc>
+    <loc>https://darkestnotes.org/posts/everplay/</loc>
     <lastmod>2010-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://darkestnotes.org/posts/everplay/</loc>
+    <loc>https://darkestnotes.org/tags/everplay/</loc>
     <lastmod>2010-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/tags/last-fm/</loc>

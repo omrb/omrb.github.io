@@ -1,20 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>writing on Darkest Notes</title>
+    <title>Writing on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/writing/</link>
-    <description>Recent content in writing on Darkest Notes</description>
+    <description>Recent content in Writing on Darkest Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 07 Aug 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Long Time No See</title>
+      <link>https://darkestnotes.org/posts/long-time-no-see/</link>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/posts/long-time-no-see/</guid>
+      <description>&lt;p&gt;Uzun zaman oldu bu eski blog&amp;rsquo;uma birşeyler yazmayalı. Eskisi kadar yazmaya fırsat bulamıyor olmanın yanında aslında yazacak çok fazla birşeyler de olmuyor hayatımda. Yaş ilerledikçe hayat hem rutinleşiyor, hem eskiden ilgilenilen pek çok şeye ilgi azalıyor.&lt;/p&gt;
+&lt;p&gt;Yazın en sıcak günlerini yaşıyoruz bu ara. Biraz bilgisayar oyunları, biraz müzik, biraz internet derken saatler, günler, haftalar akıp gidiyor. Yaklaşık 1.5 yıl sonra hem blog&amp;rsquo;a birşeyler yazmak hem de Hugo ile yeniden yükleyebilmek biraz uğraştırıcı olacak gibi.&lt;/p&gt;
+&lt;p&gt;Yakın zamanda daha sık blog post&amp;rsquo;ları ekleyebilmek dileğiyle&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Ulysses</title>
       <link>https://darkestnotes.org/posts/ulysses/</link>
       <pubDate>Sun, 07 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/ulysses/</guid>
-      <description>Yıllar önce kullandığım not alma -yazı yazma- programı Ulysses yenilenmiş, güncellenmiş, parlatılmış ve tekrar piyasaya çıkmış. Yaklaşık 118 ₺’lik fiyatını görünce şaşırdım tabi, önceden satın almış olduğum için bir indirim var mı acaba? diye bakarken bir upgrade ücreti olmadığını görünce hemen yükledim ve denemeye başladım, yüzeysel ilk izlenimlerim şu şekilde.
-Uzun zamandır Byword kullanmakta olduğum düşünüldüğünde ve tuhaf bir biçimde -eksiklikleriyle beraber- kullanmaya alışmış olduğumdan kendisinden kolay kolay vazgeçebileceğimi düşünmüyorum ancak Ulysses’de bazı özelliklerin fazlasıyla kullanışlı olması dikkatimi çekti.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/ADA_Ulysses.png&#34; alt=&#34;ADA_Ulysses&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Yıllar önce kullandığım not alma -yazı yazma- programı Ulysses yenilenmiş, güncellenmiş, parlatılmış ve tekrar piyasaya çıkmış. Yaklaşık 118 ₺’lik fiyatını görünce şaşırdım tabi, önceden satın almış olduğum için bir indirim var mı acaba? diye bakarken bir upgrade ücreti olmadığını görünce hemen yükledim ve denemeye başladım, yüzeysel ilk izlenimlerim şu şekilde.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Ulysses-Header.jpeg&#34; alt=&#34;Ulysses-Header&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Uzun zamandır &lt;a href=&#34;https://bywordapp.com&#34;&gt;Byword&lt;/a&gt; kullanmakta olduğum düşünüldüğünde ve tuhaf bir biçimde -&lt;em&gt;eksiklikleriyle beraber&lt;/em&gt;- kullanmaya alışmış olduğumdan kendisinden kolay kolay vazgeçebileceğimi düşünmüyorum ancak Ulysses’de bazı özelliklerin fazlasıyla kullanışlı olması dikkatimi çekti.&lt;/p&gt;
+&lt;p&gt;Wordpress ve Medium’a yükleme seçeneklerini saymıyorum, Byword’de de var bu özellik. Bununla birlikte Wordpress için yayınlama seçenekleri daha detaylı Byword’e göre. Yazılan yazıların bir kütüphane içerisinde toparlanması fikri Byword’de göre oldukça ileri bir özellik. Journal, Blog vb. gruplar oluşturarak (ve bunlar için ayrı uygun ikonlar seçerek) yazıları gruplandırmak hoşuma gitti. Byword’de bu işlem için kaydedilen yazıları farklı klasörler içinde organize etmek gerekiyor. Yazılan yazılar için bir gol belirleme seçeneği ise bence Ulysses’in en önemli ve en çok hoşuma giden özelliği oldu. En az 200 kelime yazmak istiyorum diyorsunuz ve yazarken ne kadar ilerlediğinizi küçük bir ilerleme ikonu ile rahatça görebiliyorsunuz.&lt;/p&gt;
+&lt;p&gt;Bu tür programlarda her zaman programcıyı ve programlam ekibini merak eden bir kişi olmuşumdur. Ulysses’in çok güzel bir web sitesi var ve sitede ekip hakkında detaylı bilgi alabileceğiniz eğlenceli bir bölüm mevcut.&lt;/p&gt;
+&lt;p&gt;Mevcut özellikleri ile yazı yazma ihtiyaçlarım için aslında tam aradığım program. Yıllar önce satın aldığımdan yüksek fiyatını bir eksi olarak değerlendirmiyorum. Yazı yazarken kaç kelime yazdığımı Byword gibi alt satırda belli belirsiz görebilsem iyi olurdu diyeceğim ama gol özelliği ile bu eksisini kapatıyor gibi sanki.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Dock-Ulysses.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Ayrıca belirtmeden geçemeyeceğim, Ulysses’in ikonu Dock’da gerçekten -&lt;em&gt;Byword’e kıyasla&lt;/em&gt;- çok hoş duruyor.😉&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -23,8 +46,14 @@ Uzun zamandır Byword kullanmakta olduğum düşünüldüğünde ve tuhaf bir bi
       <pubDate>Mon, 20 Sep 2010 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/ommwriter/</guid>
-      <description>OmmWriter Dana I ve II bilgisayarda yazı yazarken, kafasındaki düşünceler ile bilgisayarı arasına dikkat dağıtıcı hiç bir unsurun girmesini istemeyen minimalistik bilgisayar kullanıcıları için tasarlanmış bir text editor. ChromaTherapy adı verilen arkaplanlar ve relaxing ses tonları ile bilgisayar başında yazı yazmayı dinlendirici ve zevkli bir hale getiriyor. Şimdilik sadece MacOS versionu bulunan OmmWriter Dana I ve II&amp;rsquo;nin yakın gelecekte Windows versionununda hazırlanması bekleniyor.
-Bilgisayarda yazı yazmak zordur. Yazı yazmak için kullandığınız program size tam istediğiniz sonucu vermek için çok sayıda özellik sunar.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_l925kzBqen1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;OmmWriter Dana I ve II bilgisayarda yazı yazarken, kafasındaki düşünceler ile bilgisayarı arasına dikkat dağıtıcı hiç bir unsurun girmesini istemeyen minimalistik bilgisayar kullanıcıları için tasarlanmış bir text editor. ChromaTherapy adı verilen arkaplanlar ve relaxing ses tonları ile bilgisayar başında yazı yazmayı dinlendirici ve zevkli bir hale getiriyor. Şimdilik sadece MacOS versionu bulunan OmmWriter Dana I ve II&amp;rsquo;nin yakın gelecekte Windows versionununda hazırlanması bekleniyor.&lt;/p&gt;
+&lt;p&gt;Bilgisayarda yazı yazmak zordur. Yazı yazmak için kullandığınız program size tam istediğiniz sonucu vermek için çok sayıda özellik sunar. Büyük çoğunluğunu kullanmayı bile bilmediğimiz özellikler sürekli gözümüzün önünde toolbar&amp;rsquo;larda kullanılmayı bekler.&lt;/p&gt;
+&lt;p&gt;Bilgisayarınızın başına birşeyler yazmak için oturduğunuzda arkaplanda pekçok uygulama çalışır. Yeni bir mail iletisi aldığınızda bilgisayarınız sizi uyarır. Dinlediğiniz şarkı değiştiğinde farklı bir uyarı alırsınız. Twitter clientleri saymıyorum bile. Kısacası bilgisayar başına birşeyler yazmak için oturduğunuzda dikkatinizi dağıtan çok sayıda unsur vardır. Konsantre olmak zordur.&lt;/p&gt;
+&lt;p&gt;OmmWriter&amp;rsquo;ı kullanmaya başlayana kadar gerçekten ne kadar çok şeyin dikkatimi dağıttığını fark etmemiştim. OmmWriter bütün dikkat dağıtıcıları programı kapatana kadar geçici bir süre kullanım dışı bırakıyor. Tüm ekranı kaplayan basit bir  text editor, arka planda çalan relax edici müzik tonları ile kafanızdaki düşünceler ve bilgisayarınız arasına hiçbir dikkat dağıtıcı unsur giremiyor.&lt;/p&gt;
+&lt;p&gt;Windows versionu henüz planlanma aşamasındaki programın tüm özelliklerini denemek ücretsiz, buna karşılık chromatherapy arkaplanlar için sonu 1 ile biten (4.11 US$ veya 4.91 US$) herhangi bir ücret ödeyerek Dana II sürümünü satın almak gerekiyor.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

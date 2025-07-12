@@ -6,9 +6,27 @@
     <description>Recent content in Tags on Darkest Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 20 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>music</title>
+      <title>Blog</title>
+      <link>https://darkestnotes.org/tags/blog/</link>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writing</title>
+      <link>https://darkestnotes.org/tags/writing/</link>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkestnotes.org/tags/writing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
       <link>https://darkestnotes.org/tags/music/</link>
       <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
       
@@ -17,7 +35,7 @@
     </item>
     
     <item>
-      <title>review</title>
+      <title>Review</title>
       <link>https://darkestnotes.org/tags/review/</link>
       <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
       
@@ -26,7 +44,7 @@
     </item>
     
     <item>
-      <title>internet</title>
+      <title>Internet</title>
       <link>https://darkestnotes.org/tags/internet/</link>
       <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
       
@@ -35,16 +53,7 @@
     </item>
     
     <item>
-      <title>blog</title>
-      <link>https://darkestnotes.org/tags/blog/</link>
-      <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://darkestnotes.org/tags/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>wordpress</title>
+      <title>Wordpress</title>
       <link>https://darkestnotes.org/tags/wordpress/</link>
       <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
       
@@ -53,7 +62,7 @@
     </item>
     
     <item>
-      <title>app</title>
+      <title>App</title>
       <link>https://darkestnotes.org/tags/app/</link>
       <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
       
@@ -62,7 +71,7 @@
     </item>
     
     <item>
-      <title>garfield</title>
+      <title>Garfield</title>
       <link>https://darkestnotes.org/tags/garfield/</link>
       <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
       
@@ -71,7 +80,7 @@
     </item>
     
     <item>
-      <title>hardware</title>
+      <title>Hardware</title>
       <link>https://darkestnotes.org/tags/hardware/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       
@@ -80,7 +89,7 @@
     </item>
     
     <item>
-      <title>operating-system</title>
+      <title>Operating-System</title>
       <link>https://darkestnotes.org/tags/operating-system/</link>
       <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
       
@@ -89,7 +98,7 @@
     </item>
     
     <item>
-      <title>games</title>
+      <title>Games</title>
       <link>https://darkestnotes.org/tags/games/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       
@@ -98,7 +107,7 @@
     </item>
     
     <item>
-      <title>mmorpg</title>
+      <title>Mmorpg</title>
       <link>https://darkestnotes.org/tags/mmorpg/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       
@@ -107,7 +116,7 @@
     </item>
     
     <item>
-      <title>abandonware</title>
+      <title>Abandonware</title>
       <link>https://darkestnotes.org/tags/abandonware/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
       
@@ -116,7 +125,7 @@
     </item>
     
     <item>
-      <title>pc</title>
+      <title>Pc</title>
       <link>https://darkestnotes.org/tags/pc/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
       
@@ -125,7 +134,7 @@
     </item>
     
     <item>
-      <title>gif</title>
+      <title>Gif</title>
       <link>https://darkestnotes.org/tags/gif/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
@@ -134,7 +143,7 @@
     </item>
     
     <item>
-      <title>book</title>
+      <title>Book</title>
       <link>https://darkestnotes.org/tags/book/</link>
       <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
       
@@ -143,7 +152,7 @@
     </item>
     
     <item>
-      <title>amiga</title>
+      <title>Amiga</title>
       <link>https://darkestnotes.org/tags/amiga/</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
       
@@ -152,7 +161,7 @@
     </item>
     
     <item>
-      <title>c64</title>
+      <title>C64</title>
       <link>https://darkestnotes.org/tags/c64/</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
       
@@ -161,7 +170,7 @@
     </item>
     
     <item>
-      <title>apps</title>
+      <title>Apps</title>
       <link>https://darkestnotes.org/tags/apps/</link>
       <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
       
@@ -170,7 +179,7 @@
     </item>
     
     <item>
-      <title>computers</title>
+      <title>Computers</title>
       <link>https://darkestnotes.org/tags/computers/</link>
       <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
       
@@ -179,7 +188,7 @@
     </item>
     
     <item>
-      <title>emulation</title>
+      <title>Emulation</title>
       <link>https://darkestnotes.org/tags/emulation/</link>
       <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
       
@@ -188,7 +197,7 @@
     </item>
     
     <item>
-      <title>ios</title>
+      <title>Ios</title>
       <link>https://darkestnotes.org/tags/ios/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
       
@@ -197,7 +206,7 @@
     </item>
     
     <item>
-      <title>chronology</title>
+      <title>Chronology</title>
       <link>https://darkestnotes.org/tags/chronology/</link>
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       
@@ -206,7 +215,7 @@
     </item>
     
     <item>
-      <title>icons</title>
+      <title>Icons</title>
       <link>https://darkestnotes.org/tags/icons/</link>
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       
@@ -215,7 +224,7 @@
     </item>
     
     <item>
-      <title>microsoft</title>
+      <title>Microsoft</title>
       <link>https://darkestnotes.org/tags/microsoft/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
@@ -224,7 +233,7 @@
     </item>
     
     <item>
-      <title>wow</title>
+      <title>Wow</title>
       <link>https://darkestnotes.org/tags/wow/</link>
       <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
       
@@ -233,7 +242,7 @@
     </item>
     
     <item>
-      <title>beta</title>
+      <title>Beta</title>
       <link>https://darkestnotes.org/tags/beta/</link>
       <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
       
@@ -242,7 +251,7 @@
     </item>
     
     <item>
-      <title>macos</title>
+      <title>Macos</title>
       <link>https://darkestnotes.org/tags/macos/</link>
       <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
       
@@ -251,7 +260,7 @@
     </item>
     
     <item>
-      <title>photo</title>
+      <title>Photo</title>
       <link>https://darkestnotes.org/tags/photo/</link>
       <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
       
@@ -260,7 +269,7 @@
     </item>
     
     <item>
-      <title>game</title>
+      <title>Game</title>
       <link>https://darkestnotes.org/tags/game/</link>
       <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
       
@@ -269,7 +278,7 @@
     </item>
     
     <item>
-      <title>picture</title>
+      <title>Picture</title>
       <link>https://darkestnotes.org/tags/picture/</link>
       <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
       
@@ -278,7 +287,7 @@
     </item>
     
     <item>
-      <title>gallery</title>
+      <title>Gallery</title>
       <link>https://darkestnotes.org/tags/gallery/</link>
       <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
       
@@ -287,7 +296,7 @@
     </item>
     
     <item>
-      <title>elder-scrolls</title>
+      <title>Elder-Scrolls</title>
       <link>https://darkestnotes.org/tags/elder-scrolls/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
       
@@ -296,7 +305,7 @@
     </item>
     
     <item>
-      <title>heavy-metal</title>
+      <title>Heavy-Metal</title>
       <link>https://darkestnotes.org/tags/heavy-metal/</link>
       <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
       
@@ -305,7 +314,7 @@
     </item>
     
     <item>
-      <title>dos</title>
+      <title>Dos</title>
       <link>https://darkestnotes.org/tags/dos/</link>
       <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
       
@@ -314,7 +323,7 @@
     </item>
     
     <item>
-      <title>software</title>
+      <title>Software</title>
       <link>https://darkestnotes.org/tags/software/</link>
       <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
       
@@ -323,7 +332,7 @@
     </item>
     
     <item>
-      <title>diablo3</title>
+      <title>Diablo3</title>
       <link>https://darkestnotes.org/tags/diablo3/</link>
       <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
       
@@ -332,7 +341,7 @@
     </item>
     
     <item>
-      <title>trip</title>
+      <title>Trip</title>
       <link>https://darkestnotes.org/tags/trip/</link>
       <pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
       
@@ -341,16 +350,7 @@
     </item>
     
     <item>
-      <title>writing</title>
-      <link>https://darkestnotes.org/tags/writing/</link>
-      <pubDate>Sun, 07 Aug 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://darkestnotes.org/tags/writing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>spotify</title>
+      <title>Spotify</title>
       <link>https://darkestnotes.org/tags/spotify/</link>
       <pubDate>Thu, 30 Jun 2016 00:00:00 +0000</pubDate>
       
@@ -359,7 +359,7 @@
     </item>
     
     <item>
-      <title>playstation</title>
+      <title>Playstation</title>
       <link>https://darkestnotes.org/tags/playstation/</link>
       <pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
       
@@ -368,7 +368,7 @@
     </item>
     
     <item>
-      <title>macbook</title>
+      <title>Macbook</title>
       <link>https://darkestnotes.org/tags/macbook/</link>
       <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
       
@@ -377,7 +377,7 @@
     </item>
     
     <item>
-      <title>comics</title>
+      <title>Comics</title>
       <link>https://darkestnotes.org/tags/comics/</link>
       <pubDate>Thu, 28 Jan 2016 00:00:00 +0000</pubDate>
       
@@ -386,7 +386,7 @@
     </item>
     
     <item>
-      <title>design</title>
+      <title>Design</title>
       <link>https://darkestnotes.org/tags/design/</link>
       <pubDate>Wed, 20 Jan 2016 00:00:00 +0000</pubDate>
       
@@ -395,7 +395,7 @@
     </item>
     
     <item>
-      <title>typography</title>
+      <title>Typography</title>
       <link>https://darkestnotes.org/tags/typography/</link>
       <pubDate>Wed, 20 Jan 2016 00:00:00 +0000</pubDate>
       
@@ -404,7 +404,7 @@
     </item>
     
     <item>
-      <title>quote</title>
+      <title>Quote</title>
       <link>https://darkestnotes.org/tags/quote/</link>
       <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
       
@@ -413,7 +413,7 @@
     </item>
     
     <item>
-      <title>video</title>
+      <title>Video</title>
       <link>https://darkestnotes.org/tags/video/</link>
       <pubDate>Sun, 10 Jan 2016 00:00:00 +0000</pubDate>
       
@@ -422,7 +422,7 @@
     </item>
     
     <item>
-      <title>movie</title>
+      <title>Movie</title>
       <link>https://darkestnotes.org/tags/movie/</link>
       <pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate>
       
@@ -431,7 +431,7 @@
     </item>
     
     <item>
-      <title>statistics</title>
+      <title>Statistics</title>
       <link>https://darkestnotes.org/tags/statistics/</link>
       <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
       
@@ -440,7 +440,7 @@
     </item>
     
     <item>
-      <title>nostalgia</title>
+      <title>Nostalgia</title>
       <link>https://darkestnotes.org/tags/nostalgia/</link>
       <pubDate>Mon, 28 Dec 2015 00:00:00 +0000</pubDate>
       
@@ -449,7 +449,7 @@
     </item>
     
     <item>
-      <title>tv</title>
+      <title>Tv</title>
       <link>https://darkestnotes.org/tags/tv/</link>
       <pubDate>Thu, 17 Dec 2015 00:00:00 +0000</pubDate>
       
@@ -458,7 +458,7 @@
     </item>
     
     <item>
-      <title>c64-sid</title>
+      <title>C64-Sid</title>
       <link>https://darkestnotes.org/tags/c64-sid/</link>
       <pubDate>Sun, 13 Dec 2015 00:00:00 +0000</pubDate>
       
@@ -467,7 +467,7 @@
     </item>
     
     <item>
-      <title>coding</title>
+      <title>Coding</title>
       <link>https://darkestnotes.org/tags/coding/</link>
       <pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate>
       
@@ -476,7 +476,7 @@
     </item>
     
     <item>
-      <title>emoji</title>
+      <title>Emoji</title>
       <link>https://darkestnotes.org/tags/emoji/</link>
       <pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate>
       
@@ -485,7 +485,7 @@
     </item>
     
     <item>
-      <title>finland</title>
+      <title>Finland</title>
       <link>https://darkestnotes.org/tags/finland/</link>
       <pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate>
       
@@ -494,7 +494,7 @@
     </item>
     
     <item>
-      <title>journal</title>
+      <title>Journal</title>
       <link>https://darkestnotes.org/tags/journal/</link>
       <pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate>
       
@@ -503,7 +503,7 @@
     </item>
     
     <item>
-      <title>windows</title>
+      <title>Windows</title>
       <link>https://darkestnotes.org/tags/windows/</link>
       <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
       
@@ -512,7 +512,7 @@
     </item>
     
     <item>
-      <title>magazine</title>
+      <title>Magazine</title>
       <link>https://darkestnotes.org/tags/magazine/</link>
       <pubDate>Sun, 12 Jul 2015 00:00:00 +0000</pubDate>
       
@@ -521,7 +521,7 @@
     </item>
     
     <item>
-      <title>snow</title>
+      <title>Snow</title>
       <link>https://darkestnotes.org/tags/snow/</link>
       <pubDate>Thu, 19 Feb 2015 00:00:00 +0000</pubDate>
       
@@ -530,7 +530,7 @@
     </item>
     
     <item>
-      <title>winter</title>
+      <title>Winter</title>
       <link>https://darkestnotes.org/tags/winter/</link>
       <pubDate>Thu, 19 Feb 2015 00:00:00 +0000</pubDate>
       
@@ -539,7 +539,7 @@
     </item>
     
     <item>
-      <title>dog</title>
+      <title>Dog</title>
       <link>https://darkestnotes.org/tags/dog/</link>
       <pubDate>Tue, 27 Jan 2015 00:00:00 +0000</pubDate>
       
@@ -548,7 +548,7 @@
     </item>
     
     <item>
-      <title>iceberg</title>
+      <title>Iceberg</title>
       <link>https://darkestnotes.org/tags/iceberg/</link>
       <pubDate>Fri, 23 Jan 2015 00:00:00 +0000</pubDate>
       
@@ -557,7 +557,7 @@
     </item>
     
     <item>
-      <title>polar</title>
+      <title>Polar</title>
       <link>https://darkestnotes.org/tags/polar/</link>
       <pubDate>Fri, 23 Jan 2015 00:00:00 +0000</pubDate>
       
@@ -566,7 +566,7 @@
     </item>
     
     <item>
-      <title>tumblr-birthday</title>
+      <title>Tumblr-Birthday</title>
       <link>https://darkestnotes.org/tags/tumblr-birthday/</link>
       <pubDate>Tue, 16 Dec 2014 00:00:00 +0000</pubDate>
       
@@ -575,7 +575,7 @@
     </item>
     
     <item>
-      <title>tumblr-milestone</title>
+      <title>Tumblr-Milestone</title>
       <link>https://darkestnotes.org/tags/tumblr-milestone/</link>
       <pubDate>Tue, 16 Dec 2014 00:00:00 +0000</pubDate>
       
@@ -584,7 +584,7 @@
     </item>
     
     <item>
-      <title>railroad</title>
+      <title>Railroad</title>
       <link>https://darkestnotes.org/tags/railroad/</link>
       <pubDate>Fri, 14 Nov 2014 00:00:00 +0000</pubDate>
       
@@ -593,7 +593,7 @@
     </item>
     
     <item>
-      <title>apple</title>
+      <title>Apple</title>
       <link>https://darkestnotes.org/tags/apple/</link>
       <pubDate>Sat, 25 Oct 2014 00:00:00 +0000</pubDate>
       
@@ -602,7 +602,7 @@
     </item>
     
     <item>
-      <title>iphone</title>
+      <title>Iphone</title>
       <link>https://darkestnotes.org/tags/iphone/</link>
       <pubDate>Sat, 25 Oct 2014 00:00:00 +0000</pubDate>
       
@@ -611,7 +611,7 @@
     </item>
     
     <item>
-      <title>family</title>
+      <title>Family</title>
       <link>https://darkestnotes.org/tags/family/</link>
       <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
       
@@ -620,7 +620,7 @@
     </item>
     
     <item>
-      <title>art</title>
+      <title>Art</title>
       <link>https://darkestnotes.org/tags/art/</link>
       <pubDate>Mon, 16 Jun 2014 00:00:00 +0000</pubDate>
       
@@ -629,7 +629,7 @@
     </item>
     
     <item>
-      <title>eg2014</title>
+      <title>Eg2014</title>
       <link>https://darkestnotes.org/tags/eg2014/</link>
       <pubDate>Mon, 16 Jun 2014 00:00:00 +0000</pubDate>
       
@@ -638,7 +638,7 @@
     </item>
     
     <item>
-      <title>graphicdesign</title>
+      <title>Graphicdesign</title>
       <link>https://darkestnotes.org/tags/graphicdesign/</link>
       <pubDate>Mon, 16 Jun 2014 00:00:00 +0000</pubDate>
       
@@ -647,7 +647,7 @@
     </item>
     
     <item>
-      <title>iconographer</title>
+      <title>Iconographer</title>
       <link>https://darkestnotes.org/tags/iconographer/</link>
       <pubDate>Mon, 16 Jun 2014 00:00:00 +0000</pubDate>
       
@@ -656,7 +656,7 @@
     </item>
     
     <item>
-      <title>susankare</title>
+      <title>Susankare</title>
       <link>https://darkestnotes.org/tags/susankare/</link>
       <pubDate>Mon, 16 Jun 2014 00:00:00 +0000</pubDate>
       
@@ -665,7 +665,7 @@
     </item>
     
     <item>
-      <title>technology</title>
+      <title>Technology</title>
       <link>https://darkestnotes.org/tags/technology/</link>
       <pubDate>Mon, 16 Jun 2014 00:00:00 +0000</pubDate>
       
@@ -674,7 +674,7 @@
     </item>
     
     <item>
-      <title>vimeo</title>
+      <title>Vimeo</title>
       <link>https://darkestnotes.org/tags/vimeo/</link>
       <pubDate>Mon, 16 Jun 2014 00:00:00 +0000</pubDate>
       
@@ -683,7 +683,7 @@
     </item>
     
     <item>
-      <title>lego</title>
+      <title>Lego</title>
       <link>https://darkestnotes.org/tags/lego/</link>
       <pubDate>Sun, 15 Jun 2014 00:00:00 +0000</pubDate>
       
@@ -692,7 +692,7 @@
     </item>
     
     <item>
-      <title>abandoned</title>
+      <title>Abandoned</title>
       <link>https://darkestnotes.org/tags/abandoned/</link>
       <pubDate>Sun, 25 May 2014 00:00:00 +0000</pubDate>
       
@@ -701,7 +701,7 @@
     </item>
     
     <item>
-      <title>landscape</title>
+      <title>Landscape</title>
       <link>https://darkestnotes.org/tags/landscape/</link>
       <pubDate>Sun, 25 May 2014 00:00:00 +0000</pubDate>
       
@@ -710,7 +710,7 @@
     </item>
     
     <item>
-      <title>norway</title>
+      <title>Norway</title>
       <link>https://darkestnotes.org/tags/norway/</link>
       <pubDate>Sun, 25 May 2014 00:00:00 +0000</pubDate>
       
@@ -719,7 +719,7 @@
     </item>
     
     <item>
-      <title>animation</title>
+      <title>Animation</title>
       <link>https://darkestnotes.org/tags/animation/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
       
@@ -728,7 +728,7 @@
     </item>
     
     <item>
-      <title>highlight</title>
+      <title>Highlight</title>
       <link>https://darkestnotes.org/tags/highlight/</link>
       <pubDate>Sun, 25 Aug 2013 00:00:00 +0000</pubDate>
       
@@ -737,7 +737,7 @@
     </item>
     
     <item>
-      <title>programming</title>
+      <title>Programming</title>
       <link>https://darkestnotes.org/tags/programming/</link>
       <pubDate>Sat, 18 May 2013 00:00:00 +0000</pubDate>
       
@@ -746,7 +746,7 @@
     </item>
     
     <item>
-      <title>app-store</title>
+      <title>App-Store</title>
       <link>https://darkestnotes.org/tags/app-store/</link>
       <pubDate>Mon, 29 Apr 2013 00:00:00 +0000</pubDate>
       
@@ -755,7 +755,7 @@
     </item>
     
     <item>
-      <title>link</title>
+      <title>Link</title>
       <link>https://darkestnotes.org/tags/link/</link>
       <pubDate>Thu, 31 Jan 2013 00:00:00 +0000</pubDate>
       
@@ -764,7 +764,7 @@
     </item>
     
     <item>
-      <title>archaeology</title>
+      <title>Archaeology</title>
       <link>https://darkestnotes.org/tags/archaeology/</link>
       <pubDate>Wed, 30 Jan 2013 00:00:00 +0000</pubDate>
       
@@ -773,7 +773,7 @@
     </item>
     
     <item>
-      <title>ios-6-1</title>
+      <title>Ios-6-1</title>
       <link>https://darkestnotes.org/tags/ios-6-1/</link>
       <pubDate>Tue, 29 Jan 2013 00:00:00 +0000</pubDate>
       
@@ -791,7 +791,7 @@
     </item>
     
     <item>
-      <title>phd</title>
+      <title>Phd</title>
       <link>https://darkestnotes.org/tags/phd/</link>
       <pubDate>Tue, 22 Jan 2013 00:00:00 +0000</pubDate>
       
@@ -800,7 +800,7 @@
     </item>
     
     <item>
-      <title>istanbul</title>
+      <title>Istanbul</title>
       <link>https://darkestnotes.org/tags/istanbul/</link>
       <pubDate>Thu, 20 Dec 2012 00:00:00 +0000</pubDate>
       
@@ -809,7 +809,7 @@
     </item>
     
     <item>
-      <title>os-x</title>
+      <title>Os-X</title>
       <link>https://darkestnotes.org/tags/os-x/</link>
       <pubDate>Sun, 04 Nov 2012 00:00:00 +0000</pubDate>
       
@@ -818,7 +818,7 @@
     </item>
     
     <item>
-      <title>unix</title>
+      <title>Unix</title>
       <link>https://darkestnotes.org/tags/unix/</link>
       <pubDate>Sun, 04 Nov 2012 00:00:00 +0000</pubDate>
       
@@ -827,7 +827,7 @@
     </item>
     
     <item>
-      <title>mercedes</title>
+      <title>Mercedes</title>
       <link>https://darkestnotes.org/tags/mercedes/</link>
       <pubDate>Sun, 09 Sep 2012 00:00:00 +0000</pubDate>
       
@@ -836,7 +836,7 @@
     </item>
     
     <item>
-      <title>truck</title>
+      <title>Truck</title>
       <link>https://darkestnotes.org/tags/truck/</link>
       <pubDate>Sun, 09 Sep 2012 00:00:00 +0000</pubDate>
       
@@ -845,7 +845,7 @@
     </item>
     
     <item>
-      <title>mountain-lion</title>
+      <title>Mountain-Lion</title>
       <link>https://darkestnotes.org/tags/mountain-lion/</link>
       <pubDate>Sat, 28 Jul 2012 00:00:00 +0000</pubDate>
       
@@ -854,7 +854,7 @@
     </item>
     
     <item>
-      <title>steve-jobs</title>
+      <title>Steve-Jobs</title>
       <link>https://darkestnotes.org/tags/steve-jobs/</link>
       <pubDate>Thu, 06 Oct 2011 00:00:00 +0000</pubDate>
       
@@ -863,7 +863,7 @@
     </item>
     
     <item>
-      <title>aurora</title>
+      <title>Aurora</title>
       <link>https://darkestnotes.org/tags/aurora/</link>
       <pubDate>Sun, 25 Sep 2011 00:00:00 +0000</pubDate>
       
@@ -872,7 +872,7 @@
     </item>
     
     <item>
-      <title>lion</title>
+      <title>Lion</title>
       <link>https://darkestnotes.org/tags/lion/</link>
       <pubDate>Wed, 20 Jul 2011 00:00:00 +0000</pubDate>
       
@@ -881,7 +881,7 @@
     </item>
     
     <item>
-      <title>classics</title>
+      <title>Classics</title>
       <link>https://darkestnotes.org/tags/classics/</link>
       <pubDate>Thu, 14 Jul 2011 00:00:00 +0000</pubDate>
       
@@ -890,7 +890,7 @@
     </item>
     
     <item>
-      <title>dostoyevski</title>
+      <title>Dostoyevski</title>
       <link>https://darkestnotes.org/tags/dostoyevski/</link>
       <pubDate>Thu, 14 Jul 2011 00:00:00 +0000</pubDate>
       
@@ -899,7 +899,7 @@
     </item>
     
     <item>
-      <title>starbucks</title>
+      <title>Starbucks</title>
       <link>https://darkestnotes.org/tags/starbucks/</link>
       <pubDate>Thu, 14 Jul 2011 00:00:00 +0000</pubDate>
       
@@ -908,7 +908,7 @@
     </item>
     
     <item>
-      <title>board-game</title>
+      <title>Board-Game</title>
       <link>https://darkestnotes.org/tags/board-game/</link>
       <pubDate>Tue, 12 Jul 2011 00:00:00 +0000</pubDate>
       
@@ -917,7 +917,7 @@
     </item>
     
     <item>
-      <title>chaostle</title>
+      <title>Chaostle</title>
       <link>https://darkestnotes.org/tags/chaostle/</link>
       <pubDate>Tue, 12 Jul 2011 00:00:00 +0000</pubDate>
       
@@ -926,7 +926,7 @@
     </item>
     
     <item>
-      <title>dungeons-and-dragons</title>
+      <title>Dungeons-and-Dragons</title>
       <link>https://darkestnotes.org/tags/dungeons-and-dragons/</link>
       <pubDate>Tue, 12 Jul 2011 00:00:00 +0000</pubDate>
       
@@ -935,7 +935,7 @@
     </item>
     
     <item>
-      <title>gandsfjorden</title>
+      <title>Gandsfjorden</title>
       <link>https://darkestnotes.org/tags/gandsfjorden/</link>
       <pubDate>Thu, 16 Jun 2011 00:00:00 +0000</pubDate>
       
@@ -944,7 +944,7 @@
     </item>
     
     <item>
-      <title>lunar-eclipse</title>
+      <title>Lunar-Eclipse</title>
       <link>https://darkestnotes.org/tags/lunar-eclipse/</link>
       <pubDate>Thu, 16 Jun 2011 00:00:00 +0000</pubDate>
       
@@ -953,7 +953,7 @@
     </item>
     
     <item>
-      <title>compilation</title>
+      <title>Compilation</title>
       <link>https://darkestnotes.org/tags/compilation/</link>
       <pubDate>Wed, 08 Jun 2011 00:00:00 +0000</pubDate>
       
@@ -962,7 +962,7 @@
     </item>
     
     <item>
-      <title>iron-maiden</title>
+      <title>Iron-Maiden</title>
       <link>https://darkestnotes.org/tags/iron-maiden/</link>
       <pubDate>Wed, 08 Jun 2011 00:00:00 +0000</pubDate>
       
@@ -971,7 +971,7 @@
     </item>
     
     <item>
-      <title>c64-art</title>
+      <title>C64-Art</title>
       <link>https://darkestnotes.org/tags/c64-art/</link>
       <pubDate>Mon, 23 May 2011 00:00:00 +0000</pubDate>
       
@@ -980,7 +980,7 @@
     </item>
     
     <item>
-      <title>arctic</title>
+      <title>Arctic</title>
       <link>https://darkestnotes.org/tags/arctic/</link>
       <pubDate>Thu, 19 May 2011 00:00:00 +0000</pubDate>
       
@@ -989,7 +989,7 @@
     </item>
     
     <item>
-      <title>flickr</title>
+      <title>Flickr</title>
       <link>https://darkestnotes.org/tags/flickr/</link>
       <pubDate>Sat, 02 Apr 2011 00:00:00 +0000</pubDate>
       
@@ -998,7 +998,7 @@
     </item>
     
     <item>
-      <title>assembly</title>
+      <title>Assembly</title>
       <link>https://darkestnotes.org/tags/assembly/</link>
       <pubDate>Sat, 12 Feb 2011 00:00:00 +0000</pubDate>
       
@@ -1007,7 +1007,7 @@
     </item>
     
     <item>
-      <title>hp-lovecraft</title>
+      <title>Hp-Lovecraft</title>
       <link>https://darkestnotes.org/tags/hp-lovecraft/</link>
       <pubDate>Sun, 21 Nov 2010 00:00:00 +0000</pubDate>
       
@@ -1016,7 +1016,7 @@
     </item>
     
     <item>
-      <title>animal</title>
+      <title>Animal</title>
       <link>https://darkestnotes.org/tags/animal/</link>
       <pubDate>Thu, 07 Oct 2010 00:00:00 +0000</pubDate>
       
@@ -1025,7 +1025,7 @@
     </item>
     
     <item>
-      <title>civ5</title>
+      <title>Civ5</title>
       <link>https://darkestnotes.org/tags/civ5/</link>
       <pubDate>Mon, 20 Sep 2010 00:00:00 +0000</pubDate>
       
@@ -1034,7 +1034,7 @@
     </item>
     
     <item>
-      <title>game-center</title>
+      <title>Game-Center</title>
       <link>https://darkestnotes.org/tags/game-center/</link>
       <pubDate>Tue, 14 Sep 2010 00:00:00 +0000</pubDate>
       
@@ -1043,7 +1043,7 @@
     </item>
     
     <item>
-      <title>itunes</title>
+      <title>Itunes</title>
       <link>https://darkestnotes.org/tags/itunes/</link>
       <pubDate>Tue, 14 Sep 2010 00:00:00 +0000</pubDate>
       
@@ -1052,7 +1052,7 @@
     </item>
     
     <item>
-      <title>ping</title>
+      <title>Ping</title>
       <link>https://darkestnotes.org/tags/ping/</link>
       <pubDate>Tue, 14 Sep 2010 00:00:00 +0000</pubDate>
       
@@ -1061,7 +1061,7 @@
     </item>
     
     <item>
-      <title>lyrics</title>
+      <title>Lyrics</title>
       <link>https://darkestnotes.org/tags/lyrics/</link>
       <pubDate>Sun, 15 Aug 2010 00:00:00 +0000</pubDate>
       
@@ -1070,7 +1070,7 @@
     </item>
     
     <item>
-      <title>lystener</title>
+      <title>Lystener</title>
       <link>https://darkestnotes.org/tags/lystener/</link>
       <pubDate>Sun, 15 Aug 2010 00:00:00 +0000</pubDate>
       
@@ -1079,7 +1079,7 @@
     </item>
     
     <item>
-      <title>epicwin</title>
+      <title>Epicwin</title>
       <link>https://darkestnotes.org/tags/epicwin/</link>
       <pubDate>Sun, 11 Jul 2010 00:00:00 +0000</pubDate>
       
@@ -1088,7 +1088,7 @@
     </item>
     
     <item>
-      <title>dark</title>
+      <title>Dark</title>
       <link>https://darkestnotes.org/tags/dark/</link>
       <pubDate>Fri, 02 Jul 2010 00:00:00 +0000</pubDate>
       
@@ -1097,7 +1097,7 @@
     </item>
     
     <item>
-      <title>beer</title>
+      <title>Beer</title>
       <link>https://darkestnotes.org/tags/beer/</link>
       <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
       
@@ -1106,7 +1106,7 @@
     </item>
     
     <item>
-      <title>philosophy</title>
+      <title>Philosophy</title>
       <link>https://darkestnotes.org/tags/philosophy/</link>
       <pubDate>Tue, 29 Jun 2010 00:00:00 +0000</pubDate>
       
@@ -1115,7 +1115,7 @@
     </item>
     
     <item>
-      <title>danzig</title>
+      <title>Danzig</title>
       <link>https://darkestnotes.org/tags/danzig/</link>
       <pubDate>Sun, 27 Jun 2010 00:00:00 +0000</pubDate>
       
@@ -1124,7 +1124,7 @@
     </item>
     
     <item>
-      <title>comic</title>
+      <title>Comic</title>
       <link>https://darkestnotes.org/tags/comic/</link>
       <pubDate>Sat, 19 Jun 2010 00:00:00 +0000</pubDate>
       
@@ -1133,7 +1133,7 @@
     </item>
     
     <item>
-      <title>vienna</title>
+      <title>Vienna</title>
       <link>https://darkestnotes.org/tags/vienna/</link>
       <pubDate>Sun, 13 Jun 2010 00:00:00 +0000</pubDate>
       
@@ -1142,7 +1142,7 @@
     </item>
     
     <item>
-      <title>wien</title>
+      <title>Wien</title>
       <link>https://darkestnotes.org/tags/wien/</link>
       <pubDate>Sun, 13 Jun 2010 00:00:00 +0000</pubDate>
       
@@ -1160,7 +1160,7 @@
     </item>
     
     <item>
-      <title>desktop</title>
+      <title>Desktop</title>
       <link>https://darkestnotes.org/tags/desktop/</link>
       <pubDate>Tue, 06 Apr 2010 00:00:00 +0000</pubDate>
       
@@ -1169,7 +1169,7 @@
     </item>
     
     <item>
-      <title>screenshot</title>
+      <title>Screenshot</title>
       <link>https://darkestnotes.org/tags/screenshot/</link>
       <pubDate>Tue, 06 Apr 2010 00:00:00 +0000</pubDate>
       
@@ -1178,7 +1178,7 @@
     </item>
     
     <item>
-      <title>ipad</title>
+      <title>Ipad</title>
       <link>https://darkestnotes.org/tags/ipad/</link>
       <pubDate>Sat, 03 Apr 2010 00:00:00 +0000</pubDate>
       
@@ -1187,7 +1187,7 @@
     </item>
     
     <item>
-      <title>everplay</title>
+      <title>Everplay</title>
       <link>https://darkestnotes.org/tags/everplay/</link>
       <pubDate>Sun, 21 Mar 2010 00:00:00 +0000</pubDate>
       
@@ -1196,7 +1196,7 @@
     </item>
     
     <item>
-      <title>last-fm</title>
+      <title>Last-Fm</title>
       <link>https://darkestnotes.org/tags/last-fm/</link>
       <pubDate>Sun, 21 Mar 2010 00:00:00 +0000</pubDate>
       
@@ -1205,7 +1205,7 @@
     </item>
     
     <item>
-      <title>robocat</title>
+      <title>Robocat</title>
       <link>https://darkestnotes.org/tags/robocat/</link>
       <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
       
@@ -1214,7 +1214,7 @@
     </item>
     
     <item>
-      <title>death-angel</title>
+      <title>Death-Angel</title>
       <link>https://darkestnotes.org/tags/death-angel/</link>
       <pubDate>Mon, 25 Jan 2010 00:00:00 +0000</pubDate>
       
@@ -1223,7 +1223,7 @@
     </item>
     
     <item>
-      <title>wallpaper</title>
+      <title>Wallpaper</title>
       <link>https://darkestnotes.org/tags/wallpaper/</link>
       <pubDate>Tue, 08 Dec 2009 00:00:00 +0000</pubDate>
       
@@ -1232,7 +1232,7 @@
     </item>
     
     <item>
-      <title>history</title>
+      <title>History</title>
       <link>https://darkestnotes.org/tags/history/</link>
       <pubDate>Mon, 13 Apr 2009 00:00:00 +0000</pubDate>
       
@@ -1241,7 +1241,7 @@
     </item>
     
     <item>
-      <title>laptop</title>
+      <title>Laptop</title>
       <link>https://darkestnotes.org/tags/laptop/</link>
       <pubDate>Tue, 07 Apr 2009 00:00:00 +0000</pubDate>
       
@@ -1250,7 +1250,7 @@
     </item>
     
     <item>
-      <title>blogger</title>
+      <title>Blogger</title>
       <link>https://darkestnotes.org/tags/blogger/</link>
       <pubDate>Tue, 02 Dec 2008 00:00:00 +0000</pubDate>
       
@@ -1259,7 +1259,7 @@
     </item>
     
     <item>
-      <title>blogspot</title>
+      <title>Blogspot</title>
       <link>https://darkestnotes.org/tags/blogspot/</link>
       <pubDate>Tue, 02 Dec 2008 00:00:00 +0000</pubDate>
       
@@ -1268,7 +1268,7 @@
     </item>
     
     <item>
-      <title>livejournal</title>
+      <title>Livejournal</title>
       <link>https://darkestnotes.org/tags/livejournal/</link>
       <pubDate>Tue, 02 Dec 2008 00:00:00 +0000</pubDate>
       
@@ -1277,7 +1277,7 @@
     </item>
     
     <item>
-      <title>social-network</title>
+      <title>Social-Network</title>
       <link>https://darkestnotes.org/tags/social-network/</link>
       <pubDate>Tue, 18 Nov 2008 00:00:00 +0000</pubDate>
       
@@ -1286,7 +1286,7 @@
     </item>
     
     <item>
-      <title>anthropolgy</title>
+      <title>Anthropolgy</title>
       <link>https://darkestnotes.org/tags/anthropolgy/</link>
       <pubDate>Sun, 09 Nov 2008 00:00:00 +0000</pubDate>
       
@@ -1295,7 +1295,7 @@
     </item>
     
     <item>
-      <title>story</title>
+      <title>Story</title>
       <link>https://darkestnotes.org/tags/story/</link>
       <pubDate>Sat, 26 Jul 2008 00:00:00 +0000</pubDate>
       

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>beta on Darkest Notes</title>
+    <title>Beta on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/beta/</link>
-    <description>Recent content in beta on Darkest Notes</description>
+    <description>Recent content in Beta on Darkest Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 27 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://darkestnotes.org/tags/beta/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,51 @@
       <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/geleneksel-y%C4%B1ll%C4%B1k-oyun-oynama-istatistikleri/</guid>
-      <description>Boş zamanımın büyük çoğunluğunu bilgisayar oyunları ile doldurduğum yıllardır bilinen bir gerçektir. 2014-2017 yılları arasında PlayStation 4 ile devam eden bu macera 2017 yılından beri aldığım masaüstü oyun bilgisayarı ile bu yıl da devam etti.
-Geçtiğimiz yıllarda büyük oyun firmalarının Steam’e karşı kendi oyunları için kendi launcher sistemlerini geliştirmeleri ise bilgisayarlarda bir launcher enflasyonunun oluşmasına sebep oldu. 2019 yılı içinde kapalı beta süreci başlayan ve geçtiğimiz haftalarda açık betaya geçen GOG Galaxy 2.</description>
+      <description>&lt;p&gt;Boş zamanımın büyük çoğunluğunu bilgisayar oyunları ile doldurduğum yıllardır bilinen bir gerçektir. 2014-2017 yılları arasında PlayStation 4 ile devam eden bu macera 2017 yılından beri aldığım masaüstü oyun bilgisayarı ile bu yıl da devam etti.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/gog-galaxy-2-0-all-in-one-pc-launcher-open-beta-0-2.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Geçtiğimiz yıllarda büyük oyun firmalarının Steam’e karşı kendi oyunları için kendi launcher sistemlerini geliştirmeleri ise bilgisayarlarda bir launcher enflasyonunun oluşmasına sebep oldu. 2019 yılı içinde kapalı beta süreci başlayan ve geçtiğimiz haftalarda açık betaya geçen &lt;a href=&#34;https://www.gog.com/galaxy&#34;&gt;GOG Galaxy 2.0&lt;/a&gt; ile kısmi bir çözüm sağlanmaya çalışıldı. Ayrı launcher sistemlerinde çalışan oyunları bir araya getirip tek bir arabirim üzerinden ulaşılmasını sağlayan sağlam bir uygulama GOG Galaxy 2.0. Bununla birlikte oyunları çalıştırabilmek için tüm launcher’ların sistemde yüklü olması gerekli. Bununla birlikte artık oynanmayacak oyunlar için o oyun için launcher olmadan achievement’ları, oynama süreleri gibi bilgileri görebilmek mümkün.&lt;/p&gt;
+&lt;p&gt;Yıl içinde derinlemesine oynadığım oyunlar ile vakit ayırabildiklerim ise şöyle sıralanıyor;&lt;/p&gt;
+&lt;h2 id=&#34;elder-scrolls-online&#34;&gt;Elder Scrolls Online&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Elder_Scrolls_Online_Dragonhold-2.jpeg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Bir önceki yıl olduğu gibi bu yılın da büyük bölümünü Elder Scrolls Online oynayarak geçirdiğimi düşünüyorum. Herşeyiyle fazlasıyla üst düzey bir MMORPG oyunu olan Elder Scrolls Online ne yazık ki server bağlantı sorunları, ping sorunları, log-in sorunları, oyun içi bazı hizmetlerde yaşanan sorunlar nedeniyle çok fazla oyuncu kaybetti bu yıl.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/ESO-Improvements-2-1.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Yılın başlarında oyun hizmetleri, server’lar, dungeon finder’da iyileştirmeler yapılacağı duyurulsa da bunların geliştirilmesi fazlasıyla yavaş &lt;a href=&#34;https://www.elderscrollsonline.com/en-us/news/post/56681/&#34;&gt;kaldı&lt;/a&gt;. Yılın ikinci yarısında düzenledikleri oyun içi festivallerin bu sorunlar nedeniyle oynanamaması ise tüm bu olumsuzlukların tuzu biberi oldu.&lt;/p&gt;
+&lt;h2 id=&#34;gwent&#34;&gt;Gwent&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Gwent-Merchants-of-Ofir-2.jpeg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Yılın son çeyreğinde Witcher dünyasında yaptığım lore gezisi sırasında tekrardan başladığım bir oyun oldu Gwent. Başlangıç hem hızlı, hem de keyifli oldu, Pro Rank’e ulaşmayı başardım. iOS desteğinin gelmesi bununla birlikte konsol desteğinin kaldırılması ise ayrı bir tartışma konusu oldu derken CD Projekt mükemmel bir hamleyle Merchants of Ofir eklentisini çıkardı ve konsol konusunun fazla konuşulmadan gündemden düşmesini sağladı.&lt;/p&gt;
+&lt;h2 id=&#34;path-of-exile&#34;&gt;Path of Exile&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Path-of-Exile-2.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;3 yıl önce tanıştığım bu oyunda fazla ilerleme kaydedememiştim. Bu yıl biraz da para harcayarak meta build’ler oluşturdum ve bilgisayar başında fazlasıyla keyifli saatler harcadım oyunda.&lt;/p&gt;
+&lt;h2 id=&#34;diablo-3&#34;&gt;Diablo 3&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Diablo-3-2.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Sezonları sayesinde kendini 1-2 hafta oynatabilen bir oyun olmaya bu yıl da devam etti Diablo 3. Eski sezonlarda verdiği ve bende eksik olan bazı portre çerçevelerini tamamlamayı başarabildim bu sayede.&lt;/p&gt;
+&lt;h2 id=&#34;euro-truck-simulator-2---road-to-the-black-sea&#34;&gt;Euro Truck Simulator 2 - Road to the Black Sea&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Euro-Truck-Simulator-2-2.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Bilgisayarımda her daim yüklü bulunsa da bu yılın sonlarına doğru çıkan Road to the Black Sea DLC’si ile uzun saatler geçirdiğim bir oyun oldu. Avrupa’nın bir ucundan İstanbul’a yaklaşık 4 gerçek saat süren yolculuk direksiyon başında uyuyakalsam da kazasız tamamlandı.&lt;/p&gt;
+&lt;h2 id=&#34;pathfinder-kingmaker&#34;&gt;Pathfinder Kingmaker&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Pathfinder-Kingmaker-2.jpeg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Klasik masaüstü Dungeons &amp;amp; Dragons oyununun bilgisayara uyarlanmış hali. Bir süre beni fazlasıyla oyaladı. Bununla birlikte uzun ve karmaşık savaş bölümleri oyunun temposunun düşmesine ve bir süre sonra tekrarlara dönüşünce oynamayı bıraktım. Vakit bulduğumda tekrar deneyeceğim büyük ihtimalle.&lt;/p&gt;
+&lt;h2 id=&#34;graveyard-keeper&#34;&gt;Graveyard Keeper&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/graveyard_keeper_logo-2.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Senenin belki de en ilginç oyunlarından biri Graveyard Keeper oldu benim için. Biraz fantastik bir ortaçağ yolculuğu sonucu mezarlık bekçisi olunan oyun fazlasıyla yavaş ilerlemesi nedeniyle çok uzun süreyle oynayabildiğim bir oyun olamadı.&lt;/p&gt;
+&lt;h2 id=&#34;torchlight-frontiers-alpha&#34;&gt;Torchlight Frontiers Alpha&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Torchlight-Frontiers-2.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Yıl içinde kapalı alpha sürecine katılmaya hak kazandığım bir oyun oldu. Serinin ilk oyunu hayli yenilikçi ve eğlenceli bir oyun olmasına karşın ikincisinde yapımcı firmanın değişmesiyle eski eğlencesinden uzaklaşılmıştı. Frontiers ile hızlı bir giriş yapıldı hype yaratıldı ancak sonrasında ortalık fazlasıyla sessizleşti. Oyunun tam olarak nasıl bir yapıda olacağı (microtransactions? vb.) içerip içermeyeceği belli değil.&lt;/p&gt;
+&lt;h2 id=&#34;last-epoch&#34;&gt;Last Epoch&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Last-Epoch-2.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Betasını oynadığım oyunlardan bir diğeri Eleventh Hour Games tarafından 2017 yılında geliştirilmeye başlanan Last Epoch oldu. Grafik olarak Path of Exile’a benzeyen oyun büyük bir hype yaratarak yılın ilk yarısında popüler oldu ama sonrasında pek fazla sesi soluğu çıkmadı.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -23,8 +66,27 @@ Geçtiğimiz yıllarda büyük oyun firmalarının Steam’e karşı kendi oyunl
       <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/gwent-the-witcher-card-game/</guid>
-      <description>2016 yılı sonunda kapalı betasına davetiye aldığım zaman büyük heyecanla oynamaya başladığım bir oyun olmuştu Gwent. Witcher 3 Wild Hunt içinde -oyunun bir parçası ve yan quest’ler içinde- hem ünik kartları biriktirmek hem de achievement’larda eksik bırakmamak için asıl oyunu bırakıp heyecanla bol bol Gwent oynamıştım.
-Gwent’in bilgisayar için ayrı bir kart oyunu haline gelebilmesi biraz sıkıntılı oldu. Magic The Gathering Arena ve Hearthstone gibi rakiplerinin olması bir tarafa Witcher 3’ün içindeki basit ama eğlenceli oyunu 400 küsur kartlık sürekli güncellenebilen bir gelir modeli haline dönüştürmek çok çok zor bir işti.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/gwent_logo.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;2016 yılı sonunda kapalı betasına davetiye aldığım zaman büyük heyecanla oynamaya başladığım bir oyun olmuştu Gwent. Witcher 3 Wild Hunt içinde -oyunun bir parçası ve yan quest’ler içinde- hem ünik kartları biriktirmek hem de achievement’larda eksik bırakmamak için asıl oyunu bırakıp heyecanla bol bol Gwent oynamıştım.&lt;/p&gt;
+&lt;p&gt;Gwent’in bilgisayar için ayrı bir kart oyunu haline gelebilmesi biraz sıkıntılı oldu. Magic The Gathering Arena ve Hearthstone gibi rakiplerinin olması bir tarafa Witcher 3’ün içindeki basit ama eğlenceli oyunu 400 küsur kartlık sürekli güncellenebilen bir gelir modeli haline dönüştürmek çok çok zor bir işti. Betasını oynadığım süreçte yapılması gereken çok fazla iş olduğunu görmüş ve belli bir süre oynadıktan sonra oyunu bırakmıştım.&lt;/p&gt;
+&lt;p&gt;2017 Haziran ayında açık beta sürecine geçildi ve işler iyice karmaşık hale geldi. CD Projekt Red tüm oyuncuları memnun edeyim derken Reddit’de verilen her öneriyi değerlendirmeye kalkınca işler sarpa sardı. Yapımcılar işin içinden çıkamayınca “&lt;em&gt;bu böyle olmaz, herşeyi baştan yapacağız&lt;/em&gt;” diyerek yeni bir süreç başlattılar 2017’nin son aylarında.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Gwent_Geralt.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Sonrasında direktör olarak Jason Slama işin başına geçti, rakip oyunları iyi inceledi, kullanıcının isteklerini görmeye çalıştı ama her istenileni yapacağım diye bir saplantısı olmadı. Gwent: The Witcher Card Game, 2018 yılı Ekim ayında piyasaya çıktı. Eksiklikler yine çoktu, belki en önemlisi iOS, Android ve MacOS sürümlerinin olmamasıydı. Bu tarz bir kart oyununu ister mobilden ister konsoldan istenilen zamanda cross-platform olarak oynanabilmesi gerekiyordu. iOS kısmındaki eksikliği geçen ay kapattılar, Android sürümü 2020 ilk çeyreğinde çıkacağı söyleniyor.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Gwent_iOS.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Bir süre ara verdiğim oyuna, Andrzej Sapkowski’nin Witcher kitaplarını okurken hem evreni daha iyi tanımak hem de merak ettiğim karakterlerin artistler tarafından Gwent kartlarında nasıl canlandırıldığına görebilme amacıyla ister istemez geri döndüm. Gwent için kitabın İngilizcesinde &lt;em&gt;Barrel&lt;/em&gt;, Almancasında ise &lt;em&gt;Grizu&lt;/em&gt; adı kullanılmış sanıyorum.&lt;/p&gt;
+&lt;p&gt;[caption id=&amp;ldquo;attachment_3349&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1920&amp;rdquo;]&lt;img loading=&#34;lazy&#34; src=&#34;images/Thorskald_Gwent_Profile.png&#34; alt=&#34;&#34;  /&gt;
+ Ara ara oynayan biri için profil fena sayılmaz![/caption]&lt;/p&gt;
+&lt;p&gt;Oyunda başarılı olabilmek için en azından meta konumunda olan tüm kartları nasıl kullanılacağını (veya kendinize karşı nasıl kullanıldığını) çok iyi bilmek gerekiyor. Tek bir faction üzerine yoğunlaşıp bir deste hazırlamak en mantıklısı. Oynadıkça tecrübe kazanıp şöhret basamaklarında hızla ilerlemek mümkün. Düzenli olarak oynandığı vakit kazanılan ödüller ile tüm kartları toplamak ve eksik olanları scrap’lar ile üretmek oldukça kolay, hatta oynaması bedava olan oyunda para harcayarak kart almaya bile gerek kalmıyor.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Gwent_Friends.jpeg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;İşte bu noktada kafama şu soru takılıyor. Oyun bu haliyle sürdürülebilir bir gelir modelini nasıl oluşturacak? Geçen ay iOS sürümü çıkınca pek çok kişi oyuna dönüş yaptı ama bu sürdürülebilir bir durum mu? Oyunun yeni eklentiler, metalar oluşturarak sürekli güncel kalabilmesi nereye kadar mümkün olacak?&lt;/p&gt;
+&lt;p&gt;[caption id=&amp;ldquo;attachment_3950&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1920&amp;rdquo;]&lt;img loading=&#34;lazy&#34; src=&#34;images/Dragon-Avatar-02-1.png&#34; alt=&#34;&#34;  /&gt;
+ Gwent çerçeveleri içerisine kendi resmini koymak&amp;hellip;[/caption]&lt;/p&gt;
+&lt;p&gt;Bu sorular bir kenara Witcher lore dünyasını kitaplarından okuyup, Gwent kartlarındaki tasarımları ile detaylandırmak, orta ve doğu avrupa halk öykülerinden mitoloji kitaplarına aktarılan tuhaf canavarların isimlerinin etimolojik bağlantılarını araştırmak son zamanlarda en keyif aldığım işlerin başında geliyor, tadını çıkarmak lazım.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -33,8 +95,14 @@ Gwent’in bilgisayar için ayrı bir kart oyunu haline gelebilmesi biraz sıkı
       <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/ios-8-devkit/</guid>
-      <description>Sonbaharın gelişi Apple dünyasında son yıllarda yeni iPhone modelleri ve iOS ile Mac OS’un piyasaya çıkış tarihlerinin yaklaştığına işaret eder. Yaz aylarında Beta sürümlerle yenilikler hakkında tecrübe edinmeye çalışsak da Final sürümler piyasaya çıkmadan işletim sistemleri ile ilgili yazılıp çizilen şeylerin çok anlamı yok.
-Telefonumda yaklaşık 3 haftadır iOS 8 Beta kullanıyorum. Genel olarak stabil, bunun yanında çeşitli uygulamalarda doğal olarak sorunlar var. Yoğun kullanımda telefonun ısınması ve bataryanın hızla boşalıyor olması betaların ortak problemlerinden.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://d.pr/i/SyX9&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/SyX9&amp;#43;&#34; alt=&#34;iOS 8 DevKit&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sonbaharın gelişi Apple dünyasında son yıllarda yeni iPhone modelleri ve iOS ile Mac OS’un piyasaya çıkış tarihlerinin yaklaştığına işaret eder. Yaz aylarında Beta sürümlerle yenilikler hakkında tecrübe edinmeye çalışsak da Final sürümler piyasaya çıkmadan işletim sistemleri ile ilgili yazılıp çizilen şeylerin çok anlamı yok.&lt;/p&gt;
+&lt;p&gt;Telefonumda yaklaşık 3 haftadır iOS 8 Beta kullanıyorum. Genel olarak stabil, bunun yanında çeşitli uygulamalarda doğal olarak sorunlar var. Yoğun kullanımda telefonun ısınması ve bataryanın hızla boşalıyor olması betaların ortak problemlerinden.&lt;/p&gt;
+&lt;p&gt;7 Versionu ile ile görsel ve UX olarak yenileşen iOS, iOS 8 ile geliştiricilere sağlayacağı olanaklar ile ön plana çıkacak gibi. 4000’den fazla yeni API’nin kullanıma girecek olması geliştiricilerin eski programlarında yeni özellikleri denemesi ve yeni yazılacak programların ise yepyeni olanaklarla ile özelleştirilmesi anlamına geliyor.&lt;/p&gt;
+&lt;p&gt;iOS 8 ile &lt;em&gt;CloudKit&lt;/em&gt; ve &lt;em&gt;iCloud Drive&lt;/em&gt; sayesinde dosya depolamada, &lt;em&gt;Metal, SpriteKit&lt;/em&gt; ve &lt;em&gt;SceneKit&lt;/em&gt; ile oyunlarda hız ve mimimum güç tüketimi imkanı sağlanıyor. App Extensions uygulamaların sistem ile daha kolay entegrasyonu ve dosya paylaşımının kolaylaşması demek. &lt;em&gt;HomeKit&lt;/em&gt;, aile bireylerinin uygulama ve veri alışverişini kolaylaştıracak, &lt;em&gt;Handoff&lt;/em&gt; telefonunuzu Apple’ın diğer ürünlerinde kullanabilmenizi sağlayacak. &lt;em&gt;Manual Camera Controls&lt;/em&gt;, uygulamaların dahili kamera ile iletişimini güçlendirecek, &lt;em&gt;Health Kit&lt;/em&gt; ise sağlık uygulamalarının iPhone tarafından tutulan verilerle bir arada çalışmasını sağlayacak özellikler içeriyor.&lt;/p&gt;
+&lt;p&gt;iPhone’un kapalı bir kutu olmasını eleştirenler iOS 8’in DevKit’ini detaylı olarak incelediklerinde veri ve dosya paylaşımı konusunda büyük yenilikler içerdiğini rahatlıkla görebilecekler. Kısaca iOS 7 görünüm ve UX yenilikleri ile geldi, iOS 8 ise geliştiricilere yönelik yenilikler içerecek.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -43,8 +111,18 @@ Telefonumda yaklaşık 3 haftadır iOS 8 Beta kullanıyorum. Genel olarak stabil
       <pubDate>Sat, 22 Jun 2013 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/ios-7/</guid>
-      <description>Haziran ayında tanıtımı yapılan iOS 7&amp;rsquo;nin 1.betasını telefonuma geçtiğimiz hafta içinde yüklemiş bulundum. Beta sürümleri sürekli kullandığınız telefonlara yüklemenin tehlikelerinden bahsedilse de yazılım-donanım tehlikeleri ile yüzleşmeyi seven birisi olarak bir beta sürümünü en iyi her gün kullandığım telefonla en iyi şekilde test edilebileceğini düşünenlerdenim.
-iOS 7&amp;rsquo;yi ilk gördüğümde gerçekten hayal kırıklığına uğradım. Windows Phone&amp;rsquo;a büyük ölçüde benzemesi, nedense bir türlü sevemediğim Avenir yazıtipi, genel görünümde skeumorphismin terkedilerek pastel tonlu renkli bir görünümün oluşturulması hiç hoşuma gitmemişti.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/jnmh&amp;#43;&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Haziran ayında tanıtımı yapılan iOS 7&amp;rsquo;nin 1.betasını telefonuma geçtiğimiz hafta içinde yüklemiş bulundum. Beta sürümleri sürekli kullandığınız telefonlara yüklemenin tehlikelerinden bahsedilse de yazılım-donanım tehlikeleri ile yüzleşmeyi seven birisi olarak bir beta sürümünü en iyi her gün kullandığım telefonla en iyi şekilde test edilebileceğini düşünenlerdenim.&lt;/p&gt;
+&lt;p&gt;iOS 7&amp;rsquo;yi ilk gördüğümde gerçekten hayal kırıklığına uğradım. Windows Phone&amp;rsquo;a büyük ölçüde benzemesi, nedense bir türlü sevemediğim Avenir yazıtipi, genel görünümde skeumorphismin terkedilerek pastel tonlu renkli bir görünümün oluşturulması hiç hoşuma gitmemişti. Görünümün dışında uygulama geliştiriciler için sağlanan &lt;a href=&#34;https://developer.apple.com/ios7/&#34;&gt;1500&amp;rsquo;den fazla yeni API&lt;/a&gt;‘nin dışında yeni özellikler arasında beni çok etkileyen birşeyler de bulamamıştım.&lt;/p&gt;
+&lt;p&gt;Bakış açım iOS 7&amp;rsquo;yi telefonuma yükledikten sonra değişti. Genel görünümün retina ekranlı iPhone&amp;rsquo;lara çok daha fazla yakıştığını söyleyebilirim. Status Bar ile birlikte Wi-Fi ve GPS ikonları ince detaylı olarak çizilmiş, uygulama açılışındaki geçişler retina ekranın imkanlarından çok daha iyi yararlandığı görülüyor. 3 boyutlu parallax efekti ile arka-plan, ikonlar, ve en önde yer alan bildirim ekranı farklı katmanlar halinde render ediliyor, telefonu tutuş şeklinize göre ikonlar bakışlarınızı takip ediyor.&lt;/p&gt;
+&lt;p&gt;Yeni özellikler arasında en önemlisi Control Center. Hızlı kullanılması gereken özelliklerden (Bluetooth açma-kapama, parlaklık ayarı vb.) buraya toplanmış. El feneri yeni uygulama olarak bu bölümde yer alıyor.&lt;/p&gt;
+&lt;p&gt;App Store&amp;rsquo;un uygulamaları kendiliğinden güncelleştirmesi ve bunları Notification Center&amp;rsquo;da bildirim olarak vermesi beğendiğim özelliklerden biri.&lt;/p&gt;
+&lt;p&gt;Camera uygulaması içinde Instagram&amp;rsquo;da olduğu gibi çektiğiniz fotoğraflara filtreler ekleyebiliyorsunuz.&lt;/p&gt;
+&lt;p&gt;Safari&amp;rsquo;deki en önemli yenilik Shared Links bölümü. Twitter hesabınızda paylaşılan linklere doğrudan ulaşma imkanı sağlanmış.&lt;/p&gt;
+&lt;p&gt;Dosya paylaşımı konusunda AirDrop seçeneği sunulmuş olmakla birlikte denemelerimde çok etkili biçimde kullanamadım.&lt;/p&gt;
+&lt;p&gt;iOS 7 bir anlamda yeni nesil iPhone&amp;rsquo;lar için iOS 1.0 sürümü olarak tanımlanabilir. İlk iPhone çıktığından beri kullanılan tasarım iOS 7 ile tümüyle değişiyor. Yeni tasarımın mükemmel olduğu söylenemez ancak zaman içinde gelişeceği ve değişeceği unutulmamalı.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -53,8 +131,24 @@ iOS 7&amp;rsquo;yi ilk gördüğümde gerçekten hayal kırıklığına uğradı
       <pubDate>Tue, 21 Feb 2012 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/os-x-mountain-lion/</guid>
-      <description>Apple 2012 yılı yaz sonunda çıkacak olan işletim sistemi OS X Mountain Lion&amp;rsquo;ın ilk Geliştirici Sürümünü programcıların kullanımına açtı. Bu sürümü bilgisayarıma kurup kurmamakta önce kararsız olmama karşın, gerçekten kullanışlı özelliklerini okudukça ve gayet stabil olduğunu öğrenince kurmaya karar verdim.
-Yükledikten sonra ilk işim iCloud bağlantısını sağlamak oldu. Çünkü artık OS X tamamen iCloud ile entegre bir hale gelmiş. Kişiler, Hatırlatıcılar, E-Posta, Notlar vb. pek çok özellik iCloud üzerinden eşitleniyor. Hayatımızı büyük ölçüde kolaylaştıran bu özellik kimi zaman karmaşayı da beraberinde getiriyor.</description>
+      <description>&lt;p&gt;Apple 2012 yılı yaz sonunda çıkacak olan işletim sistemi OS X Mountain Lion&amp;rsquo;ın ilk Geliştirici Sürümünü programcıların kullanımına açtı. Bu sürümü bilgisayarıma kurup kurmamakta önce kararsız olmama karşın, gerçekten kullanışlı özelliklerini okudukça ve gayet stabil olduğunu öğrenince kurmaya karar verdim.&lt;/p&gt;
+&lt;p&gt;Yükledikten sonra ilk işim iCloud bağlantısını sağlamak oldu. Çünkü artık OS X tamamen iCloud ile entegre bir hale gelmiş. Kişiler, Hatırlatıcılar, E-Posta, Notlar vb. pek çok özellik iCloud üzerinden eşitleniyor. Hayatımızı büyük ölçüde kolaylaştıran bu özellik kimi zaman karmaşayı da beraberinde getiriyor. Özellikle kurulum aşamasında Apple ID&amp;rsquo;leri arasındaki farklılık sebebi ile biraz sorun yaşadım. Eski MobileMe adresleri yeni iCloud sistemi ile tam entegrasyon sağlayamıyor. Ancak Notes uygulamasını iCloud ile eşitlemek isterseniz bir MobileMe adresinizin olması da şart. Yani 2 tane iCloud hesabınız (Primary ve Secondary) Apple tek bir iCloud hesabında tüm eşitlemeyi gerçekleştirebilecek bir sistem oluşturmazsa iCloud sisteminde kullanıcılar biraz karışıklık yaşayacak gibi.&lt;/p&gt;
+&lt;p&gt;iCloud bağlantısı sağlandıktan sonra tüm iOS cihazlarınız ile bilgisayarınızdaki uygulamalar anında eşitleniyor. iPhone&amp;rsquo;unuza eklediğiniz bir kişi, evdeki bilgisarınızdaki Contacts uygulamasında görülebiliyor.&lt;/p&gt;
+&lt;p&gt;iOS 5 ile iPhone ve iPad&amp;rsquo;e gelen Reminders uygulaması Mountain Lion ile bilgisayarınızdan yapacağınız değişikliklerle daha etkili bir yapılacaklar uygulaması haine gelmiş.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_lzr38bx7fs1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Notes iPhone&amp;rsquo;da kullandıkça alıştığım ve vazgeçemediğim bir uygulama. iPad&amp;rsquo;de de severek kullanıyorum. Şimdi OS X&amp;rsquo;e eklenmiş ve iCloud senkronizasyonu ile tüm cihazlar eşitleniyor. Denemelerimde gördüğüm kadarıyla her zaman başarılı bir senkronizasyon mümkün olmadı. OS X&amp;rsquo;deki Notes uygulamasına resimler eklenti olarak yapıştırılabiliyor. iOS cihazlar henüz bu özelliği desteklemiyor tabiki.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_lzr394Wpja1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Safari&amp;rsquo;deki en önemli yenilik Share (paylaşım) düğmesi ile adres çubuğunun aramalar için tek bir çubuk haline (omnibar) gelmesi olmuş. Bence adres çubuğu ile arama çubuğunun ayrı olması daha iyiydi. Share düğmesi Preview uygulamasında değişerek fotoğrafları Flickr&amp;rsquo;da paylaşabilir hale getirebiliyor.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_lzr36zeqfh1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Safari ile twitter&amp;rsquo;da yaptığım paylaşım iOS&amp;rsquo;dan gönderilmiş gibi gözükmesi bu program parçasının iOS&amp;rsquo;dan doğrudan aktarıldığını gösteriyor.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_lzr3adiU561qztw2k.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Game Center şu an için çalışabilir bir uygulama değil. Yalnız dikkatimi çeken Apple OS X&amp;rsquo;deki Game Center için yeni bir kimlik yaratmamı istedi. Eğer iOS ile eşitlemeyecekse burada da iCloud&amp;rsquo;da olduğu gibi çift kimlik sorunları yaşanabilir.&lt;/p&gt;
+&lt;p&gt;Genel haliyle oldukça stabil çalışan Mountain Lion&amp;rsquo;da en önemli çökmeleri System Preferences&amp;rsquo;da özellikle iCloud ayarlarını yaparken yaşadım.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -63,8 +157,11 @@ Yükledikten sonra ilk işim iCloud bağlantısını sağlamak oldu. Çünkü ar
       <pubDate>Fri, 20 Oct 2006 00:00:00 +0000</pubDate>
       
       <guid>https://darkestnotes.org/posts/windows-vista/</guid>
-      <description>Şu an laptopumda Windows Vista RC1 Build 5600 kullanıyorum. Genel olarak stabil çalışıyor, herhangi bir problemle karşılaşmama karşın performans oldukça düşük. Yeni özelliklerden bazıları çok güzel. Mesela Sidebar ve gadget sistemi güzel… (Bunlar Yahoo! Widgets olarak vardı önceden) İşletim sistemine entegre edilmiş olması hoş.
-Internet Explorer 7 ve Media Player 10 ise tam bir felaket bence, sonuçta beta sürüm elbette performans problemleri olacaktır ama sistemin kaynaklarını resmen tüketiyorlar…</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Desktop.jpg&#34; alt=&#34;Desktop&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Şu an laptopumda Windows Vista RC1 Build 5600 kullanıyorum. Genel olarak stabil çalışıyor, herhangi bir problemle karşılaşmama karşın performans oldukça düşük. Yeni özelliklerden bazıları çok güzel. Mesela Sidebar ve gadget sistemi güzel… (Bunlar Yahoo! Widgets olarak vardı önceden) İşletim sistemine entegre edilmiş olması hoş.&lt;/p&gt;
+&lt;p&gt;Internet Explorer 7 ve Media Player 10 ise tam bir felaket bence, sonuçta beta sürüm elbette performans problemleri olacaktır ama sistemin kaynaklarını resmen tüketiyorlar…&lt;/p&gt;
+</description>
     </item>
     
   </channel>
