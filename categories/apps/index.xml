@@ -4,7 +4,7 @@
     <title>Apps on Darkest Notes</title>
     <link>https://darkestnotes.org/categories/apps/</link>
     <description>Recent content in Apps on Darkest Notes</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://darkestnotes.org/categories/apps/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,7 @@
       <link>https://darkestnotes.org/posts/tweetbota-veda/</link>
       <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/tweetbota-veda/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/TweetBot.Ends_.jpeg&#34; alt=&#34;TweetBot.Ends&#34;  /&gt;
- Twitter&amp;rsquo;a 2008 yılında kaydolmuştum. O yıllarda sosyal medya daha yeni oluşmaya başlıyordu ve Twitter&amp;rsquo;daki tek amaç &lt;strong&gt;&lt;em&gt;o an ne yaptığını&lt;/em&gt;&lt;/strong&gt; bildirmekten ibaretti.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;TweetBot.Ends&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/tweetbota-veda/images/TweetBot.Ends_.jpeg&#34;&gt; Twitter&amp;rsquo;a 2008 yılında kaydolmuştum. O yıllarda sosyal medya daha yeni oluşmaya başlıyordu ve Twitter&amp;rsquo;daki tek amaç &lt;strong&gt;&lt;em&gt;o an ne yaptığını&lt;/em&gt;&lt;/strong&gt; bildirmekten ibaretti.&lt;/p&gt;
 &lt;p&gt;Yıllar geçtikçe işler değişti, Twitter büyüdü, artık takip edilmeyen hesapları bile size zorla göstermeye, aralara reklamlar almaya başladı. İşte o zamanlar Twitter&amp;rsquo;a sadece kendi timeline&amp;rsquo;ınıza ulaşmayı sağlayan programlar yaygınlaşmaya başladı. &lt;em&gt;Echofon&lt;/em&gt;, &lt;em&gt;Twitterrific&lt;/em&gt;, &lt;em&gt;Tweetie&lt;/em&gt;&amp;hellip;ve &lt;em&gt;&lt;strong&gt;TweetBot&lt;/strong&gt;&lt;/em&gt;!&lt;/p&gt;
 &lt;p&gt;Sadece takip ettiklerimi göstermesi ve reklamları timeline&amp;rsquo;ımın dışında tutması ile TweetBot 2011 yılından beri hem telefonumda hem de bilgisayarımda kullandığım bir program olmuştu.&lt;/p&gt;</description>
     </item>
@@ -24,11 +23,9 @@
       <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/assembly64/</guid>
       <description>&lt;p&gt;Ne zaman kendim yapmayı hayal ettiğim bir programı görsem hem şaşkınlığa uğrarım, hem de programcısına saygı duyarım. Assembly64’de bu tür programlardan biri.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Assembly64.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/assembly64/images/Assembly64.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Commodore 64 Scene Database (&lt;a href=&#34;https://csdb.dk/&#34;&gt;CsDB&lt;/a&gt;)’nin bir kopyasını bilgisayarda tutma imkanı vermesinin yanında ara ara güncellemesi scene dünyasından uzak kalınan zamanlarında telafisini sağlıyor. Java ile yazılan programın arama fonksiyonunun tam anlamıyla çalışabilmesi için 5€ bağış yapmak gerekiyor.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Assembly64-Installed-Hero.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/assembly64/images/Assembly64-Installed-Hero.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Kullanmaya başladığım zamandan beri neredeyse aradığım her demo’yu internetten indirme mecburiyeti kalmadan ulaşabildim. Bunun yanında HVSC’nin bir kopyası da bilgisayara yükleniyor, kimi demoların SID dosyaları da aynı klasör altından erişilebilir oluyor. Programın sabit sürücüde açacağı delik ise yaklaşık 28 GByte!&lt;/p&gt;</description>
     </item>
     <item>
@@ -36,8 +33,7 @@
       <link>https://darkestnotes.org/posts/ibmulator/</link>
       <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/ibmulator/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/IBMulator-PS1_Realistic_View.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/ibmulator/images/IBMulator-PS1_Realistic_View.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Soğuk kış günlerinde evde otururken nedense aklıma 1991 yılı sonu 1992 yılı başlarındaki soğuk bir kış gününde babamla IBM PS/1 bakmaya gittiğimiz gün geldi. Commodore 64 sonrası geleceğe dönük bir bilgisayar alma düşüncesi ile Amiga mı yoksa PC uyumlu bilgisayar mı alalım diye düşünürken TV&amp;rsquo;de reklamlarını gördüğümüz IBM PS/1 modeli neyin nesiymiş bakmaya gitmiştik soğuk bir Cumartesi akşam üzeri.&lt;/p&gt;
 &lt;p&gt;Mağaza sahibi bizimle fazlasıyla ilgilenmiş, oğlu hemen teşhirdeki ürünü kullanıma hazır hale getirmişti. Bilgisayar boot ederken hoparlöründen gelen &amp;ldquo;&lt;em&gt;beep-blüp&lt;/em&gt;&amp;rdquo; sesleri ve sonrasında 640x480x16 renkli ekranına gelen 4-Quadrant ile bizi orada büyülemişti bilgisayar. 640x480 çözünürlüklü renkli grafikler o zamanlar için günümüzün 4k teknolojisi gibi birşeydi. Yalnız anlaşılan şuydu ki IBM elinde kalan eski model PS/1&amp;rsquo;leri yeni modelleri çıkarmadan önce Türkiye&amp;rsquo;de satabilme çabasında idi. 1990 yılında üretilen ve 1991 yılının hemen başında Amerika ve Avrupa&amp;rsquo;da satılan bu ilk PS/1 modelleri &amp;ldquo;&lt;strong&gt;&lt;em&gt;5 Dakika ve İşin İçindesiniz&lt;/em&gt;&lt;/strong&gt;&amp;rdquo; gibi bir sloganla PC kullanmaya çekinen kitleleri PC dünyasına çekebilmek için üretilmişti. Zaten bu 4 quadrant hikayesi de Macintosh&amp;rsquo;un grafik kullanıcı arabiriminin benzerini PC dünyasına taşıma çabasıydı. Neyse sonuçta bu bilgisayarlar fazlasıyla eski bir teknolojiye sahipti. Türkiye&amp;rsquo;ye gelen 4 model 80286-10 MhZ işlemcili, renkli-renksiz ekranlı ve 30 MByte HDD&amp;rsquo;li, HDD&amp;rsquo;siz modellerden oluşuyordu. Sonuçta Türkiye&amp;rsquo;de bu cihazlardan kaç adet satıldı ne oldu bilemiyorum ama sonraki model PS/1&amp;rsquo;lerin hiçbiri Türkiye&amp;rsquo;ye gelmedi onu biliyorum. Dükkanda teşhirde incelediğim model HDD&amp;rsquo;si olmayan bir modeldi, HDD&amp;rsquo;li olsa belki o gün orada satın alınırdı ama almadık.&lt;/p&gt;</description>
     </item>
@@ -46,8 +42,7 @@
       <link>https://darkestnotes.org/posts/tweetbot-6/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/tweetbot-6/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tapbots_2021-Jan-27.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/tweetbot-6/images/tapbots_2021-Jan-27.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Tapbots’un iPhone için Twitter client’i Tweetbot’da abonelik sistemini zorunlu tutan uygulamalar kervanına katılmış sonunda.&lt;/p&gt;
 &lt;p&gt;Her yıl yenilemem gereken aboneliklerin listesine Tweetbot’u da eklemek gerekiyor artık…&lt;/p&gt;</description>
     </item>
@@ -57,8 +52,7 @@
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/instagram%C4%B1n-10.-y%C4%B1l%C4%B1/</guid>
       <description>&lt;p&gt;Instagram ortaya çıkalı 10 yıl olmuş, yeni güncelledikleri uygulamanın içine bir &lt;em&gt;easter egg&lt;/em&gt; yerleştirmişler ve 1 ay boyunca uygulamanın eski ikonlarını seçebilme imkanı oluşmuş.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Instagram_10th-Year.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/instagram%C4%B1n-10.-y%C4%B1l%C4%B1/images/Instagram_10th-Year.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Hangi ikonun, hangi sürüm ile hangi tarihte değiştiğini de eklemişler ki -&lt;em&gt;&lt;strong&gt;benim gibi kronolojiye meraklı biri için yapmışlar sanki bunu&lt;/strong&gt;&lt;/em&gt;- çok hoşuma gitti.&lt;/p&gt;
 &lt;p&gt;İlk orijinal ikonu gerçekten hatırlamıyorum ama Instagram programını ne zaman yüklemişim diye yaptığım ilk paylaşıma hızla ilerleyince gördüğüm 6 Ekim 2010 tarihi şaşırttı beni.&lt;/p&gt;</description>
     </item>
@@ -67,19 +61,14 @@
       <link>https://darkestnotes.org/posts/roon/</link>
       <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/roon/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Roon_Header.png&#34; alt=&#34;&#34;  /&gt;
- &lt;a href=&#34;https://roonlabs.com&#34;&gt;Roon&lt;/a&gt; Windows, MacOS ve Linux için bir müzik yönetim ve çalma programı. Roon&amp;rsquo;u diğer programlardan ayıran en önemli özelliği büyük bir metadata kütüphanesine erişmesi ve dinlediğiniz müziğin yapımcısından tutun da plak şirketine, şarkıların bestecisinden albüm kapağına kadar bilgilere kolaylıkla ulaşım sağlayabilmesi. Zaten tanıtım sayfalarında da dijital müziğe geçişte iTunes ve Spotify gibi listelerden oluşan programların olumsuz yönüne vurgu yapılıyor.&lt;img loading=&#34;lazy&#34; src=&#34;images/Roon-Problem.png&#34; alt=&#34;&#34;  /&gt;
- Roon bilgisayarda veya network ortamında bulunan müzik dosyalarına ulaşabildiği gibi &lt;a href=&#34;https://tidal.com&#34;&gt;TIDAL&lt;/a&gt; ve &lt;a href=&#34;https://www.qobuz.com/&#34;&gt;Qobuz&lt;/a&gt; lossless streaming servisleri ile de etkileşimli çalışabiliyor. Dinlenilen albümün Allmusic&amp;rsquo;de yer alan eleştirisinden, yüksek çözünürlüklü albüm kapağına, sanatçının biyografisinden, şarkı sözlerine kolaylıkla ulaşabilmek mümkün. Eğer elinizde albümlerin PDF formatındaki Digital Booklet&amp;rsquo;leri veya JPG formatındaki albüm kapağı, iç kapak resimleri var ise bunlara da tek tıklama ile ulaşabilmek mümkün. Kısacası müzik arama ve dinlemeyi eskisinden keyifli bir hale getiriyor. &lt;img loading=&#34;lazy&#34; src=&#34;images/Roon-Solution.png&#34; alt=&#34;&#34;  /&gt;
- Roon audiophile&amp;rsquo;ler için belli başlı donanımları otomatik olarak tanıyor ve partner programı sayesinde doğrudan bu donanımı destekliyor. DSP Engine ile ses çıkışına equalizer vb. geliştirmeler sağlamak mümkün. &lt;img loading=&#34;lazy&#34; src=&#34;images/Roon_Signal_Path.png&#34; alt=&#34;&#34;  /&gt;
- Roon’un en güzel özelliklerinden biri ise Signal Path. Yani dijital ses dosyasının bilgisayarda okunduktan sonra analog hale dönüşünceye kadar geçtiği aşamaları teker teker göstermesi.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/roon/images/Roon_Header.png&#34;&gt; &lt;a href=&#34;https://roonlabs.com&#34;&gt;Roon&lt;/a&gt; Windows, MacOS ve Linux için bir müzik yönetim ve çalma programı. Roon&amp;rsquo;u diğer programlardan ayıran en önemli özelliği büyük bir metadata kütüphanesine erişmesi ve dinlediğiniz müziğin yapımcısından tutun da plak şirketine, şarkıların bestecisinden albüm kapağına kadar bilgilere kolaylıkla ulaşım sağlayabilmesi. Zaten tanıtım sayfalarında da dijital müziğe geçişte iTunes ve Spotify gibi listelerden oluşan programların olumsuz yönüne vurgu yapılıyor.&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/roon/images/Roon-Problem.png&#34;&gt; Roon bilgisayarda veya network ortamında bulunan müzik dosyalarına ulaşabildiği gibi &lt;a href=&#34;https://tidal.com&#34;&gt;TIDAL&lt;/a&gt; ve &lt;a href=&#34;https://www.qobuz.com/&#34;&gt;Qobuz&lt;/a&gt; lossless streaming servisleri ile de etkileşimli çalışabiliyor. Dinlenilen albümün Allmusic&amp;rsquo;de yer alan eleştirisinden, yüksek çözünürlüklü albüm kapağına, sanatçının biyografisinden, şarkı sözlerine kolaylıkla ulaşabilmek mümkün. Eğer elinizde albümlerin PDF formatındaki Digital Booklet&amp;rsquo;leri veya JPG formatındaki albüm kapağı, iç kapak resimleri var ise bunlara da tek tıklama ile ulaşabilmek mümkün. Kısacası müzik arama ve dinlemeyi eskisinden keyifli bir hale getiriyor. &lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/roon/images/Roon-Solution.png&#34;&gt; Roon audiophile&amp;rsquo;ler için belli başlı donanımları otomatik olarak tanıyor ve partner programı sayesinde doğrudan bu donanımı destekliyor. DSP Engine ile ses çıkışına equalizer vb. geliştirmeler sağlamak mümkün. &lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/roon/images/Roon_Signal_Path.png&#34;&gt; Roon’un en güzel özelliklerinden biri ise Signal Path. Yani dijital ses dosyasının bilgisayarda okunduktan sonra analog hale dönüşünceye kadar geçtiği aşamaları teker teker göstermesi.&lt;/p&gt;</description>
     </item>
     <item>
       <title>MacOS Mojave&#39;de Yenilikler</title>
       <link>https://darkestnotes.org/posts/macos-mojavede-yenilikler/</link>
       <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/macos-mojavede-yenilikler/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/macOS-Mojave-Night.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/macos-mojavede-yenilikler/images/macOS-Mojave-Night.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;1&lt;/strong&gt;. &lt;em&gt;&lt;strong&gt;Karanlık Mod&lt;/strong&gt;&lt;/em&gt; &lt;strong&gt;2&lt;/strong&gt;. &lt;em&gt;&lt;strong&gt;Dinamik Desktop&lt;/strong&gt;&lt;/em&gt;, yani böyle havalı bir ismi var ama duvar kağıdının günün zamanına göre değişmesi özelliği aslında. Windows 7’de mi Vista’da mı vardı animasyonlu duvar kağıdı gibi birşey. &lt;strong&gt;3&lt;/strong&gt;. &lt;em&gt;&lt;strong&gt;Tema renkleri&lt;/strong&gt;&lt;/em&gt;, MacOS’da arabirimindeki renklendirme seçenekleri 8’e çıkmış (eskiden 2 idi galiba) Favorim mor. &lt;strong&gt;4&lt;/strong&gt;. &lt;em&gt;&lt;strong&gt;Stacks&lt;/strong&gt;&lt;/em&gt;, masaüstündeki dağınıklığı toparlamak için yeni bir seçenek, klasör ve dosyaları gruplandırarak masaüstünü derli toplu yapıyor. Masaüstünde hiçbirşey bulundurmayan benim gibiler için anlamsız bir özellik. &lt;strong&gt;5&lt;/strong&gt;. &lt;strong&gt;&lt;em&gt;Finder - Gallery View&lt;/em&gt;&lt;/strong&gt;, finder’da dosyaları önizleyerek göz gezdirebilirsiniz, özellikle GIF’ler için faydalı. &lt;strong&gt;6&lt;/strong&gt;. &lt;em&gt;&lt;strong&gt;Quick Actions&lt;/strong&gt;&lt;/em&gt;, finder’da göz atılan dosyalarda hızlı değişiklikler yapabilme imkanı, aynı durum Quick Look içi de geçerli. &lt;strong&gt;7&lt;/strong&gt;. &lt;em&gt;&lt;strong&gt;Metadata&lt;/strong&gt;&lt;/em&gt;, finder’da göz atılan dosyalarda eğer mevcut ise önemli tüm metadata’ları görebiliyoruz. &lt;strong&gt;8&lt;/strong&gt;. &lt;em&gt;&lt;strong&gt;Safari Tab Favicon&lt;/strong&gt;&lt;/em&gt;, Safari’de açtığımız sekmelerde artık faviconlar gözüküyor. &lt;strong&gt;9&lt;/strong&gt;. &lt;em&gt;&lt;strong&gt;Screenshot&lt;/strong&gt;&lt;/em&gt;’lar, artık Shift+Command+5 ile alınan ekran görüntülerini kaydetmeden önce düzenleme yapabilme ve video kaydedebilme imkanı. &lt;strong&gt;10&lt;/strong&gt;. &lt;strong&gt;&lt;em&gt;Yeni Mac AppStore&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -87,11 +76,9 @@
       <link>https://darkestnotes.org/posts/things-3-%C3%9Feta/</link>
       <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/things-3-%C3%9Feta/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Things-3.gif&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/things-3-%C3%9Feta/images/Things-3.gif&#34;&gt;&lt;/p&gt;
 &lt;p&gt;İlk duyurulduğu zamandan bu yana çok uzun zaman geçti. Apple iOS 7 ile yeni tasarım sürecine girince sil baştan yeniden oluşturulmaya başlandı. O yıllardan bu yana to-do list’lerin popülerliği büyük oranda azaldı.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/things-3-is-coming.jpg&#34; alt=&#34;&#34;  /&gt;
- Tüm bunlara karşın betası için e-posta aldığımda bir an önce kullanabilmek için heyecanlanmadım değil. &lt;a href=&#34;https://darkestnotes.org/2016/08/07/ulysses/&#34;&gt;Ulysses&lt;/a&gt;’de de olan “Gol” sistemi Things’e de eklenmiş. Beni motive eder mi etmez mi tartışılır tabi. Yapacakları bitirdikçe ilerleyişi görmek güzel ama bitiremediğim şeyleri o listelerde görmek ve yapamayacağını fark etmek moral bozmuyor değil.&lt;/p&gt;</description>
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/things-3-%C3%9Feta/images/things-3-is-coming.jpg&#34;&gt; Tüm bunlara karşın betası için e-posta aldığımda bir an önce kullanabilmek için heyecanlanmadım değil. &lt;a href=&#34;https://darkestnotes.org/2016/08/07/ulysses/&#34;&gt;Ulysses&lt;/a&gt;’de de olan “Gol” sistemi Things’e de eklenmiş. Beni motive eder mi etmez mi tartışılır tabi. Yapacakları bitirdikçe ilerleyişi görmek güzel ama bitiremediğim şeyleri o listelerde görmek ve yapamayacağını fark etmek moral bozmuyor değil.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Boxer ve Dot-Matrix Printer Emülasyonu</title>
@@ -106,11 +93,9 @@
       <link>https://darkestnotes.org/posts/ulysses/</link>
       <pubDate>Sun, 07 Aug 2016 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/ulysses/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/ADA_Ulysses.png&#34; alt=&#34;ADA_Ulysses&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;ADA_Ulysses&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/ulysses/images/ADA_Ulysses.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Yıllar önce kullandığım not alma -yazı yazma- programı Ulysses yenilenmiş, güncellenmiş, parlatılmış ve tekrar piyasaya çıkmış. Yaklaşık 118 ₺’lik fiyatını görünce şaşırdım tabi, önceden satın almış olduğum için bir indirim var mı acaba? diye bakarken bir upgrade ücreti olmadığını görünce hemen yükledim ve denemeye başladım, yüzeysel ilk izlenimlerim şu şekilde.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Ulysses-Header.jpeg&#34; alt=&#34;Ulysses-Header&#34;  /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Ulysses-Header&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/ulysses/images/Ulysses-Header.jpeg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Uzun zamandır &lt;a href=&#34;https://bywordapp.com&#34;&gt;Byword&lt;/a&gt; kullanmakta olduğum düşünüldüğünde ve tuhaf bir biçimde -&lt;em&gt;eksiklikleriyle beraber&lt;/em&gt;- kullanmaya alışmış olduğumdan kendisinden kolay kolay vazgeçebileceğimi düşünmüyorum ancak Ulysses’de bazı özelliklerin fazlasıyla kullanışlı olması dikkatimi çekti.&lt;/p&gt;</description>
     </item>
     <item>
@@ -118,8 +103,7 @@
       <link>https://darkestnotes.org/posts/vox/</link>
       <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/vox/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/VOX.png&#34; alt=&#34;VOX&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;VOX&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/vox/images/VOX.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;2007 yılında Alessio Nonni tarafından piyasaya sürülen Vox, iTunes tarafından desteklenmeyen lossless formatlardaki dosyaları Mac OS bilgisayarlarda dinleyebilme amacını taşıyordu.&lt;/p&gt;
 &lt;p&gt;2011 yılında Ukrayna’lı yazılım firması Coppertino tarafından satın alınan Vox&amp;rsquo;u biraz geliştiren firma 2013 Ağustos’unda yeni versionu, hemen 6 ay sonrasında ise 2.0 olarak adlandırılan yeni arabirim ve Winamp benzeri minimal tarz ile geliştirerek piyasaya sürdü.&lt;/p&gt;
 &lt;p&gt;Bilgisayarlarımda yüklü olan iTunes ve &lt;a href=&#34;https://open.spotify.com/user/bjornheimdall&#34;&gt;Spotify&lt;/a&gt; müzik zevkimin büyük kısmını doyurmaya yetiyor ancak ses kalitesinin yüksek olarak dinlenmesi gereken bazı albümlerde yetersiz kalabiliiyorlar. Bu tür dosyaları dinleyebilmek için uzun yıllardır &lt;a href=&#34;https://www.feisty-dog.com/decibel/&#34;&gt;Decibel&lt;/a&gt; kullanıyordum. Ancak son versionundaki bir sorun nedeniyle Last.fm’e skroplamam yapamamasından ötürü yeni bir program aramaya başladım. Skroplama olayı müzik çalarlar için benim nezdimde “&lt;strong&gt;&lt;em&gt;olmazsa olmaz&lt;/em&gt;&lt;/strong&gt;” bir özellik.&lt;/p&gt;</description>
@@ -129,8 +113,7 @@
       <link>https://darkestnotes.org/posts/day-one-2/</link>
       <pubDate>Sat, 06 Feb 2016 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/day-one-2/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/DayOne-Header.png&#34; alt=&#34;DayOne-Header&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;DayOne-Header&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/day-one-2/images/DayOne-Header.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Çocukluğumdan beri günlük tutarım. 1984 yılında yazmaya başladığım, üzerinde Snoopy resmi olan bir defterim olduğunu hatırlıyorum. Hergün yazmamakla ve bazen çok uzun süreler yazmaya ara veriyor olmamla birlikte her yıl sonunda, hangi ay ne yaptığımı, neler düşündüğümü özetlediğim uzun &amp;ldquo;&lt;em&gt;yıllık gözden geçirme yazıları&lt;/em&gt;&amp;rdquo; yazmaya çalışırdım. O defter bitene kadar, (1992 başları) yazdığımı hatırlıyorum.&lt;/p&gt;
 &lt;p&gt;Mobil cihazların gelişimi ile günlük tutma fikri yeniden canlandı bende. Sosyal medyaya yaptığım katkıları(!) otomatik olarak toplayan ve bir sosyal medya günlüğü şeklinde çalışan &lt;a href=&#34;http://momentoapp.com&#34;&gt;Momento&lt;/a&gt; kullandığım ilk uygulama olmuştu. Sosyal medyadan toplanan entry&amp;rsquo;lerin yanında yaşadığım ve üzerinde düşündüğüm önemli olayları da ufak notlar halinde kaydediyordum. Bir ara Momento’nun gelişimi durunca ve iPad sürümü geliştirilmeyince 2012 yılı başında &lt;a href=&#34;http://dayoneapp.com&#34;&gt;Day One’a&lt;/a&gt; geçtim.&lt;/p&gt;</description>
     </item>
@@ -156,7 +139,8 @@
       <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/facebook/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Facebook&amp;rsquo;un gizlilik ayarları son derece karışık ve bir paylaşımda bulunduğunda kimin neyi görebildiğini hemen hemen hiç kimse tam olarak bilemiyor.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Facebook&amp;rsquo;un gizlilik ayarları son derece karışık ve bir paylaşımda bulunduğunda kimin neyi görebildiğini hemen hemen hiç kimse tam olarak bilemiyor.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.dw.de/facebook-ya%C5%9Flan%C4%B1yor/a-17238126&#34;&gt;Facebook yaşlanıyor | DW.DE | 18.11.2013&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -164,8 +148,7 @@
       <link>https://darkestnotes.org/posts/spotify-m%C3%BCzik-ve-jazz-fusion/</link>
       <pubDate>Tue, 12 Nov 2013 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/spotify-m%C3%BCzik-ve-jazz-fusion/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/AIvd&amp;#43;&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/AIvd+&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Bugünlerde &lt;a href=&#34;http://open.spotify.com/user/bjornheimdall&#34;&gt;Spotify&lt;/a&gt; sayesinde gereğinden fazla müzik dinleyebiliyorum. Normalde yüzüne bile bakmayacağım pek çok albümü hazır boş vakit de bulumuşken dinleyebilme şansı edindim. Bu albümler içinde en kayda değer olanları şu şekilde sıraladım.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Carcass - Surgical Steel&lt;/li&gt;
@@ -190,8 +173,7 @@
       <link>https://darkestnotes.org/posts/elveda-google-reader/</link>
       <pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/elveda-google-reader/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mpbqr4r7RE1qz4rgp.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/elveda-google-reader/images/tumblr_inline_mpbqr4r7RE1qz4rgp.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;2006 yılından beri her sabah e-postalarımı kontrol ettikten sonra açtığım ve düzenli olarak kullandığım web-uygulaması Google Reader’ı bu sabah son kez (serverlarının fişi çekilirken, yarım yamalak) kullandım.&lt;/p&gt;
 &lt;p&gt;Alternatifleri pek inceleme fırsatım olmadıysa da Google Reader’ın yerini tutabilmeleri için çok uzun zaman geçmesi gerekecek gibi.&lt;/p&gt;
 &lt;p&gt;Seni özleyeceğim Google Reader! Elveda!&lt;/p&gt;</description>
@@ -201,8 +183,7 @@
       <link>https://darkestnotes.org/posts/ios-7/</link>
       <pubDate>Sat, 22 Jun 2013 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/ios-7/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/jnmh&amp;#43;&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/jnmh+&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Haziran ayında tanıtımı yapılan iOS 7&amp;rsquo;nin 1.betasını telefonuma geçtiğimiz hafta içinde yüklemiş bulundum. Beta sürümleri sürekli kullandığınız telefonlara yüklemenin tehlikelerinden bahsedilse de yazılım-donanım tehlikeleri ile yüzleşmeyi seven birisi olarak bir beta sürümünü en iyi her gün kullandığım telefonla en iyi şekilde test edilebileceğini düşünenlerdenim.&lt;/p&gt;
 &lt;p&gt;iOS 7&amp;rsquo;yi ilk gördüğümde gerçekten hayal kırıklığına uğradım. Windows Phone&amp;rsquo;a büyük ölçüde benzemesi, nedense bir türlü sevemediğim Avenir yazıtipi, genel görünümde skeumorphismin terkedilerek pastel tonlu renkli bir görünümün oluşturulması hiç hoşuma gitmemişti. Görünümün dışında uygulama geliştiriciler için sağlanan &lt;a href=&#34;https://developer.apple.com/ios7/&#34;&gt;1500&amp;rsquo;den fazla yeni API&lt;/a&gt;‘nin dışında yeni özellikler arasında beni çok etkileyen birşeyler de bulamamıştım.&lt;/p&gt;</description>
     </item>
@@ -226,8 +207,7 @@
       <link>https://darkestnotes.org/posts/delicious-library-3/</link>
       <pubDate>Mon, 29 Apr 2013 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/delicious-library-3/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/S3U1&amp;#43;&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/S3U1+&#34;&gt;&lt;/p&gt;
 &lt;p&gt;MacOs ile tanışmam sonrasında satın aldığım ilk uygulamalardan biri Delicious Library 2 olmuştu. Kitap, müzik CD&amp;rsquo;leri, araç-gereç, vb. nesneleri kataloglamak için göze hoş gelen arabirimi ve gelişmiş özellikleri olan bir programdı. Özellikle Mac&amp;rsquo;in iSight kamerasından objenin barkodununun okutularak Amazon&amp;rsquo;da araması ve veritabanı özelliklerini otomatik olarak doldurması programın en kullanışlı özelliği idi. Yıllarca severek kullandım, bir ara Hard Diski formatlarken veritabanı dosyasının yedeğini almayı unutmam nedeniyle tüm girdileri kaybettim ama yavaştan tekrar oluşturmaya başladım.&lt;/p&gt;</description>
     </item>
     <item>
@@ -235,8 +215,7 @@
       <link>https://darkestnotes.org/posts/ulysses-iii/</link>
       <pubDate>Sat, 06 Apr 2013 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/ulysses-iii/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/tQjZ&amp;#43;&#34; alt=&#34;image&#34;  title=&#34;Ulysses III&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://d.pr/i/tQjZ+&#34; title=&#34;Ulysses III&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Internette dolaşırken gördüğüm &lt;a href=&#34;http://www.ulyssesapp.com&#34;&gt;Ulysses&lt;/a&gt; isimli Markdown Editor dikkatimi çekti bugün. Pek çok editor kullanmama rağmen MultiMarkdown&lt;a href=&#34;#fn1&#34;&gt;1&lt;/a&gt; yazımı editör boyutunda destekleyen uygulama bulmak aslında çok zor. Ulysses MultiMarkdown desteklemesinin yanında editör olarakta kullandığım pek çok uygulamadan daha gelişmiş özellikler sağlıyor. Bununla birlikte Ulysses ile entegre olduğu söylenen ve satın aldığım iOS uygulaması Daedalus Markdown görüntüleme desteğine sahip değil.&lt;/p&gt;
 &lt;p&gt;Byword ile oluşturmuş olduğum notları Ulysses III ile kategoriler içinde toplamayı başardım. &lt;em&gt;Blog&lt;/em&gt;-&lt;em&gt;Journal&lt;/em&gt; ve &lt;em&gt;Notes&lt;/em&gt; olarak 3 farklı kategori oluşturdum. Oluşturulan bu kategoriler için farklı ikonlar da seçilebiliyor. Bununla birlikte bu kategorileri Ulysses III farklı dizinler altında topladığından Daedalus ile Dropbox aracılığı ile senkronize etmeyi başaramadım.&lt;/p&gt;</description>
     </item>
@@ -245,8 +224,7 @@
       <link>https://darkestnotes.org/posts/thinglist/</link>
       <pubDate>Sat, 23 Feb 2013 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/thinglist/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/WAc7&amp;#43;&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/WAc7+&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Bir daha hiçbirşeyi unutmayın&lt;/em&gt;!&lt;/p&gt;
 &lt;p&gt;Bazen unutmak istemediğim şeyleri hızlı bir şekilde not almam gerekir, ama alınan bu notlar zamanla karmaşık hale gelir, aranılan bulunamaz ve notlar kaybolur gider.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://getthinglist.com&#34;&gt;Thinglist&lt;/a&gt; işte böyle karmaşık notları belirli kategorilere ayırmak için minimal bir tasarımla hazırlanmış bir &lt;a href=&#34;http://appstore.com/thinglist&#34;&gt;iOS&lt;/a&gt; uygulaması. Ana ekranında 9 kategori (Film, Kitap, Müzik, Yemek, Kişi, Ürün, Yer, Bar ve Fikir) yer alıyor. Seçimimi yapıp notumu kaydediyorum, işte bu kadar! İşlevsel, başarıyla tasarlanan ve uygulanan minimalist uygulamaları seviyorum.&lt;/p&gt;</description>
@@ -272,8 +250,7 @@
       <link>https://darkestnotes.org/posts/app.net/</link>
       <pubDate>Sun, 13 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/app.net/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mgkq3tzndm1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/app.net/images/tumblr_inline_mgkq3tzndm1qztw2k.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Twitter&amp;rsquo;ın bir ileri aşaması App.net olmalı. Reklam olmadan, yarattığımız içeriğin tümüyle kontrolümüz altında olması sosyal network&amp;rsquo;ün en önemli özelliklerinden biri.&lt;/p&gt;</description>
     </item>
     <item>
@@ -288,8 +265,7 @@
       <link>https://darkestnotes.org/posts/gog-os-x/</link>
       <pubDate>Sun, 21 Oct 2012 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/gog-os-x/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_mc9bssHXgj1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/gog-os-x/images/tumblr_mc9bssHXgj1qztw2k.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Eski DOS oyunlarını OS X&amp;rsquo;de oynamak DOSBox için yazılmış &lt;a href=&#34;http://boxerapp.com&#34;&gt;Boxer&lt;/a&gt; gibi arabirimler sayesinde çok zor olmuyordu. Bununla birlikte &lt;a href=&#34;http://www.gog.com&#34;&gt;GOG.com&lt;/a&gt;‘dan satın aldığım oyunları install etmek için öncelikle Windows&amp;rsquo;a geçmem daha sonra dosyaları OS X&amp;rsquo;e aktarmam gerekirdi.&lt;/p&gt;
 &lt;p&gt;GOG.com artık DOS oyunlarını tek bir tıklama ile çalıştırılabilecek paketler halinde OS X için de satmaya başladı. Çok fazla oyunu deneme imkanım olmadı ama Boxer&amp;rsquo;ın sağladığı stabil platform sayesinde eski DOS oyunlarını Windows&amp;rsquo;a dönmeden rahatlıkla OS X&amp;rsquo;de oynayabilmek artık mümkün.&lt;/p&gt;</description>
     </item>
@@ -298,8 +274,7 @@
       <link>https://darkestnotes.org/posts/dayone/</link>
       <pubDate>Thu, 02 Aug 2012 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/dayone/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_m855o9DZ0m1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/dayone/images/tumblr_m855o9DZ0m1qztw2k.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Günlük tutmak. Düşündüklerini yazıya dökmek. Daha sonra hatırlayabilmek için, hatırladıkça yazarken düşündüğün duyguları tekrar hissedebilmek için. Nostaljik ve melankolik yapılı insanların işi.&lt;/p&gt;
 &lt;p&gt;Oğuz Atay &lt;em&gt;Tutunamayanlar&lt;/em&gt;’ın kahramanına benzetir kendini, kendi günlüğünü tutmaya başladığında. Selim gibi günlük tutmaya başladığında sonunun da onun gibi hayırlı olmayacağını düşünür.&lt;/p&gt;
 &lt;p&gt;Hayatımın bir döneminde bende günlük tutmuştum, sonra ara verdim. Post-PC olarak adlandırılan bu dönemde sosyal networklerde hayatımızla ilgili pek çok şeyi paylaşırken kendi düşündüklerim ile paylaştıklarımı bir araya toparlayan &lt;a href=&#34;http://momentoapp.com&#34;&gt;Momento&lt;/a&gt; iPhone’da en beğendiğim günlük uygulaması olmuştu. Farkettimki bu uygulama sayesinde ufak ufak yeniden günlük tutmaya başlamışım. Ne yazıkki bu çok başarılı uygulama kendini geliştiremedi, iPad ve Mac uygulamaları ile desteklenmedi, günlüğü iPhone dışına aktarabilme imkanını geliştirmedi ve artık pek kullanmadığım bir uygulama olarak iPhone’umda bir klasör içine hapsoldu.&lt;/p&gt;</description>
@@ -326,8 +301,7 @@
       <link>https://darkestnotes.org/posts/windows-8-bsod/</link>
       <pubDate>Thu, 15 Sep 2011 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/windows-8-bsod/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_lrkohthP421qztw2k.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/windows-8-bsod/images/tumblr_lrkohthP421qztw2k.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Windows 8 önceki sürümlerine göre en önemli gelişmeyi BSOD ekranında gerçekleştirmiş gibi görünüyor. Daha sevimli ve kullanıcı dostu (!) bir hata ekranı. Windows 8&amp;rsquo;de geliştirilen birşeyler olduğunu görmek güzel…&lt;/p&gt;</description>
     </item>
     <item>
@@ -335,8 +309,7 @@
       <link>https://darkestnotes.org/posts/notebook-backpack/</link>
       <pubDate>Thu, 11 Aug 2011 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/notebook-backpack/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_lps1197Ydv1qztaweo1_250.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/notebook-backpack/images/tumblr_lps1197Ydv1qztaweo1_250.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Notebook Backpack by Omer Balamir&lt;/p&gt;</description>
     </item>
     <item>
@@ -360,8 +333,7 @@
       <link>https://darkestnotes.org/posts/mac-app-store/</link>
       <pubDate>Sun, 09 Jan 2011 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/mac-app-store/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_ler738Plav1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/mac-app-store/images/tumblr_ler738Plav1qztw2k.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Geçtiğimiz hafta Apple MacOS işletim sistemi için geliştirilen uygulamaların satılacağı &lt;a href=&#34;http://www.apple.com/mac/app-store/&#34;&gt;Mac App Store&lt;/a&gt;‘un açılışını yaptı. Apple iPhone için yarattığı AppStore&amp;rsquo;un beklenmeyen başarısı sonrasında aynı başarıyı MacOS uygulama pazarında da yakalamak istiyor.&lt;/p&gt;
 &lt;p&gt;Apple&amp;rsquo;ın MacOS uygulamaları için merkezi bir sistem oluşturmasında, iPhone&amp;rsquo;da yakaladığı başarının yanısıra bağımsız uygulama geliştiricilerinin (&lt;em&gt;indie developer&lt;/em&gt;) son yıllarda, hem görsel, hem işlevsel mükemmele yakın programlar üretmelerini farketmiş olması yatıyor. Haliyle büyüyen bu pastadan kendisi de pay almak istiyor.&lt;/p&gt;</description>
     </item>
@@ -387,8 +359,7 @@
       <link>https://darkestnotes.org/posts/ommwriter/</link>
       <pubDate>Mon, 20 Sep 2010 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/ommwriter/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_l925kzBqen1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/ommwriter/images/tumblr_l925kzBqen1qztw2k.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;OmmWriter Dana I ve II bilgisayarda yazı yazarken, kafasındaki düşünceler ile bilgisayarı arasına dikkat dağıtıcı hiç bir unsurun girmesini istemeyen minimalistik bilgisayar kullanıcıları için tasarlanmış bir text editor. ChromaTherapy adı verilen arkaplanlar ve relaxing ses tonları ile bilgisayar başında yazı yazmayı dinlendirici ve zevkli bir hale getiriyor. Şimdilik sadece MacOS versionu bulunan OmmWriter Dana I ve II&amp;rsquo;nin yakın gelecekte Windows versionununda hazırlanması bekleniyor.&lt;/p&gt;
 &lt;p&gt;Bilgisayarda yazı yazmak zordur. Yazı yazmak için kullandığınız program size tam istediğiniz sonucu vermek için çok sayıda özellik sunar. Büyük çoğunluğunu kullanmayı bile bilmediğimiz özellikler sürekli gözümüzün önünde toolbar&amp;rsquo;larda kullanılmayı bekler.&lt;/p&gt;</description>
     </item>
@@ -397,8 +368,7 @@
       <link>https://darkestnotes.org/posts/everplay-1.5/</link>
       <pubDate>Sun, 19 Sep 2010 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/everplay-1.5/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_l8zoho7JOg1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/everplay-1.5/images/tumblr_l8zoho7JOg1qztw2k.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Uzun süredir bilgisayarımda müzik dinlemek için &lt;a href=&#34;http://snarbsoft.com/everplay.html&#34;&gt;Everplay&lt;/a&gt; kullanıyorum. Yaklaşık 3-4 aydır beta tester olarak kullandığım 1.5 sürümü dün yayınlandı. Her yeni sürümü ile müzik çalar olarak bilgisayarımdaki yerini sağlamlaştıran Everplay özellikle beta sürümünde test etme olanağı bulamadığımız şarkı sözleri özelliği ile tam istediğim program olmayı başarmış gibi görünüyor.&lt;/p&gt;
 &lt;p&gt;Program özellikle hafıza kullanımında da çok iyi. Dün yaptığım denemelerde 50-60 MByte aralığını tüm zorlamalara karşın aşmadı. Bununla birlikte tek eksik şimdilik 64 Bit olmaması gözüküyor. Ayrıca şarkı sözleri veritabanı aranılan şarkı sözüne ulaşamadığında başka veritabanlarını da araştırmalı. iTunes yerine alternatif player arayanlar Everplay&amp;rsquo;i kaçırmasınlar…&lt;/p&gt;</description>
     </item>
@@ -407,8 +377,7 @@
       <link>https://darkestnotes.org/posts/itunes-10-ping-game-center/</link>
       <pubDate>Tue, 14 Sep 2010 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/itunes-10-ping-game-center/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_l8r23fX1Lj1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/itunes-10-ping-game-center/images/tumblr_l8r23fX1Lj1qztw2k.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Eylül ayının başında yapılan ve genellikle Apple&amp;rsquo;ın yeni iPod modellerini tanıttığı keynote&amp;rsquo;da bu yıl yeni iPod Touch ve Nano&amp;rsquo;dan başka yazılım ürünleri iTunes 10 ve iOS 4.1&amp;rsquo;de tanıtıldı.&lt;/p&gt;
 &lt;p&gt;Apple geçmişte her zaman yeni ürünler ile teknoloji dünyasını farklı yönlere taşırken yavaş yavaş gelişmelerin gerisinde kaldığını ve hareketin içine sonradan katıldığını keynote&amp;rsquo;da tanıttığı sosyal ağ uygulamaları Ping ve Game Center&amp;rsquo;da görmekteyiz. Bu iki uygulama bana kalırsa yıllar önce iTunes&amp;rsquo;a ve iPhone&amp;rsquo;a eklenmiş olmalıydı.&lt;/p&gt;</description>
     </item>
@@ -418,7 +387,8 @@
       <pubDate>Fri, 10 Sep 2010 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/game-center-achievements-for-apps/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Game Center should allow non-game iOS apps to register for achievements and leaderboards. Think about it: Largest Dropbox File, Most TextExpander Time Saved, Longest iStat Uptime, Most LoseIt Pounds Lost This Week.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Game Center should allow non-game iOS apps to register for achievements and leaderboards. Think about it: Largest Dropbox File, Most TextExpander Time Saved, Longest iStat Uptime, Most LoseIt Pounds Lost This Week.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://onefps.net/post/1090089355/game-center-should-allow-non-game-ios-apps-to&#34;&gt;David Chartier&lt;/a&gt; nails a great idea. I’d love to make Game Center-shareable achievements in Instapaper, but I don’t think there’s any chance that Apple would approve it, even after &lt;a href=&#34;http://daringfireball.net/2010/09/app_store_guidelines&#34;&gt;today’s improvements&lt;/a&gt;. (via &lt;a href=&#34;http://www.marco.org/&#34;&gt;marco&lt;/a&gt;)&lt;/p&gt;</description>
     </item>
     <item>
@@ -451,8 +421,7 @@
       <link>https://darkestnotes.org/posts/everplay/</link>
       <pubDate>Sun, 21 Mar 2010 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/everplay/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_kznhei3wbB1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/everplay/images/tumblr_kznhei3wbB1qztw2k.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Bilgisayarda çalışırken genelde müzik dinliyorum. Bir albümü başından sonuna dinlemeyi severim.&lt;/p&gt;
 &lt;p&gt;Şarkıları karıştırıp dinlemem, programların müzik parçalarımı verdiğim yıldızlara göre yada en çok dinlediğim parçaları “tanıyarak” sıralamasından hiç hoşlanmam. iTunes&amp;rsquo;un karmaşık seçeneklerini hiç kullanmadım, kullanmaya da çalışmadım. Durum böyle olunca basit müzik programları işimi görüyor.&lt;/p&gt;
 &lt;p&gt;Bununla birlikte dinlediğim parçaların Last.fm‘e skroplanması benim için fazlasıyla önemli bir konu. Bunu yapabilmek için ya arka planda ek bir program çalıştırmak gerekiyor, ya da karmaşık programları kullanıyor olmak gerekiyor.&lt;/p&gt;</description>
@@ -462,8 +431,7 @@
       <link>https://darkestnotes.org/posts/outside/</link>
       <pubDate>Sun, 20 Dec 2009 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/outside/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_kuy7r7Eupq1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/outside/images/tumblr_kuy7r7Eupq1qztw2k.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;iPhone&amp;rsquo;un standart hava durumu uygulamasının tekdüze görünümünden sıkılanlar için daha renkli ve eğlenceli bir uygulama &lt;a href=&#34;http://www.outsideapp.com/&#34;&gt;Outside&lt;/a&gt;, uzun süren testler sonrasında bu sabah itibariyle indirilebilir hale geldi. &lt;a href=&#34;http://robocatapps.com/&#34;&gt;Robocatapps&lt;/a&gt; tarafından geliştirilen uygulamanın en önemli özelliği Push-Notifications desteği olması. Belirli durumlar hakkında (mesela hava sıcaklığının 0&amp;rsquo;ın altına düşmesi, yada o gün içinde yağmur yağacak olması gibi) sizi ikaz etmesini sağlayabiliyorsunuz. 2.99 US$‘a satılan uygulama &lt;a href=&#34;http://bit.ly/getoutsideapp&#34;&gt;iTunes Store&lt;/a&gt;&amp;lsquo;dan satın alınabilir.&lt;/p&gt;</description>
     </item>
     <item>
@@ -472,8 +440,7 @@
       <pubDate>Thu, 17 Dec 2009 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/socialite/</guid>
       <description>&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/12d_socialite.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/socialite/images/12d_socialite.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Internette çok fazla sayıda sosyal ağ bulunması ve bunların pek çoğuna üye olmam sebebiyle, tüm bu siteleri tek bir çatı altında toplayan programlara yada web sitelerine gereksinim duyuyorum. Bunların içinde en derli toplu olanlarının başında &lt;a href=&#34;http://www.friendfeed.com&#34; title=&#34;FriendFeed&#34;&gt;FriendFeed&lt;/a&gt; geliyordu.&lt;/p&gt;
 &lt;p&gt;Ama her zaman web tabanlı uygulamaları kullanmak mümkün olmuyor. Bilgisayara yüklenebilecek bir program olarak EventBox (Beta) gerek güzel dizaynı gerek sade yapısı ile dikkatimi çekti ve kullanmaya başladım.&lt;/p&gt;
 &lt;p&gt;EventBox&amp;rsquo;ı &lt;a href=&#34;http://realmacsoftware.com&#34; title=&#34;RealMacSoftware&#34;&gt;RealMacSoftware&lt;/a&gt; satın aldı. Programın ismi Socialite olarak değişti. Uygulamadaki kimi özellikler çıkarıldı, daha modüler bir yapı ile baştan yazıldı. Twitter API&amp;rsquo;de yapılan değişikliklere uygun hale getirildi.&lt;/p&gt;</description>
@@ -492,8 +459,7 @@
       <link>https://darkestnotes.org/posts/espresso/</link>
       <pubDate>Sat, 05 Dec 2009 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/espresso/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_ku6r8aDqiN1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/espresso/images/tumblr_ku6r8aDqiN1qztw2k.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;GeoCities ile beraber gelen kişisel web sitesi sahibi olma furyasında HTML ile düzenlenen web siteleri için editörler şart olmuştu. O zamanlar Macromedia&amp;rsquo;nın Dreamweaver isimli yazılımını kullanıyordum. Aradan neredeyse 10 yıl geçti.&lt;/p&gt;
 &lt;p&gt;Zamanının ötesinde bir program olan Dreamweaver&amp;rsquo;ın yetenekleri ile şimdiki editörleri kıyasladığımda oldukça şaşırıyorum. Tamam &lt;a href=&#34;http://macrabbit.com/espresso/&#34; title=&#34;Espresso !&#34;&gt;Espresso&lt;/a&gt;‘da gelişmiş özellikler sunuyor ama pek çok işlemi gerçekleştirmek için çok ilkel yolları tercih etmek gerekiyor.&lt;/p&gt;</description>
     </item>
@@ -502,8 +468,7 @@
       <link>https://darkestnotes.org/posts/google-wave/</link>
       <pubDate>Tue, 10 Nov 2009 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/google-wave/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mhlqkcqpNj1qz4rgp.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/google-wave/images/tumblr_inline_mhlqkcqpNj1qz4rgp.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Sonunda Google Wave&amp;rsquo;i test edebilme imkanım oldu.&lt;/p&gt;
 &lt;p&gt;Bence davetiye ile katılım olması pek çok kişide büyük beklentiler oluşmasına sebep oldu. Çoğu kişi Wave&amp;rsquo;i FaceBook tarzı bir sosyal ağ olarak tahmin ediyordu. Ben Facebook, FriendFeed&amp;rsquo;i satın aldıktan sonra, GoogleWave&amp;rsquo;in FriendFeed ile benzer bir yapıda olacağını düşünenlerdendim. Genel olarak tüm social-network sitelerini bir çatı altında (GoogleWave) toplanacağını düşünmüştüm. Yanılmışım.&lt;/p&gt;
 &lt;p&gt;Bu haliyle bile aslında GoogleWave&amp;rsquo;i bir yenilik, ileriye doğru atılmış bir adım olarak görmek mümkün. E-Posta+Anında Mesajlaşma+Forum. Internet dünyasının gelişimine baktığımızda bu 3 öğenin ilk çıktığından bu yana pek fazla değişmediğini görüyoruz. GoogleWave kullandıkça farkettimki bir hafta öncesine kadar severek kullandığım bu 3 unsur fazlasıyla eskimiş ve köhnemiş.:)&lt;/p&gt;</description>
@@ -513,8 +478,7 @@
       <link>https://darkestnotes.org/posts/wallet/</link>
       <pubDate>Thu, 22 Oct 2009 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/wallet/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.omrb.org/wp-content/uploads/2009/10/Wallet.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Wallet.png&#34; alt=&#34;Wallet&#34;  /&gt;
-&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.omrb.org/wp-content/uploads/2009/10/Wallet.png&#34;&gt;&lt;img alt=&#34;Wallet&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/wallet/images/Wallet.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Şifreleri saklamak, gerektiğinde bakmak, yanınızda (iPhone ile) taşımak için ideal bir program. iPhone ile Wi-Fi yolu ile senkronize edilebilmesi bu programı tüm diğer şifre saklama programlarından ayırıyor.&lt;/p&gt;</description>
     </item>
     <item>
@@ -522,8 +486,7 @@
       <link>https://darkestnotes.org/posts/littlesnapper/</link>
       <pubDate>Mon, 19 Oct 2009 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/littlesnapper/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.omrb.org/wp-content/uploads/2009/10/Introducing-LittleSnapper-Desktop.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Introducing-LittleSnapper-Desktop.jpg&#34; alt=&#34;Introducing LittleSnapper Desktop&#34;  /&gt;
-&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.omrb.org/wp-content/uploads/2009/10/Introducing-LittleSnapper-Desktop.jpg&#34;&gt;&lt;img alt=&#34;Introducing LittleSnapper Desktop&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/littlesnapper/images/Introducing-LittleSnapper-Desktop.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Her ne kadar fotografik bir hafızaya sahip olsamda (!) internette gezinirken beğendiğim çoğu siteyi daha sonra hatırlayıp bulabilmek zor ve uğraştıran bir iştir. Özellikle beğendiğim sayfa dizaynı ve görüntüleri güncellenirse o sayfaları bir daha bulabilmek imkansızdır.&lt;/p&gt;
 &lt;p&gt;LittleSnapper işte bu noktada devreye giriyor. Normal ekran görüntüsü yakalayan programlardan farklı olarak web sayfalarının tümünün görüntüsünü bir resim dosyası olarak saklayabiliyor. Programın içinde yer alan kataloglama özellikleri sayesinde  ekran görüntüsü dosyalarını ayrı kategorilerde saklayabilir, yine programla bağlantılı bir site olan &lt;a href=&#34;http://emberapp.com/&#34;&gt;Ember&lt;/a&gt;&amp;lsquo;a veya &lt;a href=&#34;http://www.flickr.com/&#34;&gt;Flickr&lt;/a&gt;&amp;lsquo;a yollayabiliyorsunuz.&lt;/p&gt;</description>
     </item>
@@ -539,8 +502,7 @@
       <link>https://darkestnotes.org/posts/songbird/</link>
       <pubDate>Sat, 27 Dec 2008 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/songbird/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mhlpg1ST9o1qz4rgp.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/songbird/images/tumblr_inline_mhlpg1ST9o1qz4rgp.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Analog medyanın yavaş yavaş yerini dijital ortama bıraktığı 90&amp;rsquo;lı yılların sonunda PC&amp;rsquo;lerimizde müzik dinlemek için Winamp kullanırdık. MP3&amp;rsquo;leri bir klasör altına kopyalar, ufak tefek playlistler hazırlar, dijital müziğin keyfini çıkarırdık. O dönemlerde genelde müzik CD&amp;rsquo;lerinin tamamını dijital ortama aktarmaz, sadece beğendiğimiz şarkıları MP3 olarak saklar, veya internetten indirirdik. Malum hard disklerimiz binlerce MP3 depolayamayacak kadar düşük kapasiteliydi.&lt;/p&gt;
 &lt;p&gt;Yıllar geçtikçe Winamp&amp;rsquo;ın kimi özellikleri yetersiz kalmaya başladı. Yeni programlar yavaş yavaş Winamp&amp;rsquo;ın yerini almaya başladı. Bu yenilerin çoğu cicili bicili ama işlevsellikten uzak hantal programlar oldu. Winamp uzun yıllar tahtını korumaya başardı.&lt;/p&gt;</description>
     </item>
@@ -556,8 +518,7 @@
       <link>https://darkestnotes.org/posts/windows-vista-capable/</link>
       <pubDate>Fri, 04 May 2007 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/windows-vista-capable/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mhlreq1AkM1qz4rgp.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/windows-vista-capable/images/tumblr_inline_mhlreq1AkM1qz4rgp.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;HP Compaq NX6110 Notebook bilgisayarımı bundan tam 2 yıl önce bugün almıştım. Aldığım zaman giriş seviyesi en ucuz notebook bilgisayarlardan biriydi. Sanırım 999 $+KDV gibi bir fiyata almıştım. Zaman içinde 256 MByte bellek ekleyerek hafızasını 512 MByte&amp;rsquo;a çıkardım. Celeron 1.4 Ghz işlemcili, i915 Chipsetli basit bir notebook anlayacağınız.&lt;/p&gt;
 &lt;p&gt;Ancak bu notebook bilgisayara aslında Windows Vista Capable etiketi yapıştırılabilir. i915 chipsetine sahip bilgisayarlar halen satılıyor ve Windows Vista Capable etiketi taşıyorlar. Windows Vista&amp;rsquo;yı en basit haliyle çalıştırabilir anlamına gelen bu etikete göre en azından 800 Mhz güce sahip bir işlemci + 512 MByte RAM ve DirectX 9 uyumlu bir grafik kartı ile Aero gibi özellikleri kullanmadan en basit haliyle Windows Vista&amp;rsquo;yı (Windows Vista Basic) çalıştırabilirsiniz.&lt;/p&gt;</description>
     </item>
@@ -566,8 +527,7 @@
       <link>https://darkestnotes.org/posts/windows-vista/</link>
       <pubDate>Sun, 29 Apr 2007 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/windows-vista/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mhlrgvZ9bR1qz4rgp.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/windows-vista/images/tumblr_inline_mhlrgvZ9bR1qz4rgp.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Windows Vista™ yenilik olarak neler getiriyor ? Bunları madde madde sıralamak mümkün, ancak göze çarpan ilk değişiklik görsellikte. Masaüstü ikonları, pencerelerin görünümü vb…&lt;/p&gt;
 &lt;p&gt;Bilgisayarınıza yükleyip kullanmaya başladığınızda bu yeni görünümden etkilenmemek mümkün değil. Bilgisayarda yapacak işiniz olmasa bile Windows Vista™ ile uğraşmak, yeni neler var acaba diyerek saatler boyunca bilgisayarınızın başından kalkamıyorsunuz… Ancak belli bir süre Windows Vista&amp;rsquo;yı kullandıktan sonra gözünüz bu yeniliklere alışıyor, bu yeni görünümün aslında sistem kaynaklarınızın ne kadar büyük bir kısmını tükettiğini fark ediyorsunuz. Performans gerektiren işlemlerde Windows Vista&amp;rsquo;nın nasıl şiştiğini (!) bizzat farkediyorsunuz.&lt;/p&gt;</description>
     </item>
@@ -576,8 +536,7 @@
       <link>https://darkestnotes.org/posts/beos-r5/</link>
       <pubDate>Wed, 15 Nov 2006 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/beos-r5/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mhlscl8w3K1qz4rgp.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/beos-r5/images/tumblr_inline_mhlscl8w3K1qz4rgp.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;BeOS, BeBox adını taşıyan bilgisayarlar için üretilmişti. Görsel olarak ünik ve dikkat çekici olan BeOS&amp;rsquo;un 90&amp;rsquo;ların ikinci yarısında Apple MacOS&amp;rsquo;un yerini alacağı düşünülmüştü. Hesaplar tutmadı, BeOS yalnız ve terkedilmiş olarak bir kenara bırakıldı.&lt;/p&gt;
 &lt;p&gt;Günümüzde BeOS&amp;rsquo;u yeniden canlandıran YellowTab isimli firma, işletim sistemini günümüz donanım ve yazılım kriterlerine uygun hale getirerek yeniden piyasaya sundu. 80 ile 120 $ arası fiyatlarda satılan bu yeni BeOS, Zeta ismiyle öncekinden ayrılıyor.&lt;/p&gt;
 &lt;p&gt;BeOS ile ilgili detaylı bilgi edinmek için ;&lt;/p&gt;</description>
@@ -587,8 +546,7 @@
       <link>https://darkestnotes.org/posts/windows-vista/</link>
       <pubDate>Fri, 20 Oct 2006 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/windows-vista/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Desktop.jpg&#34; alt=&#34;Desktop&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;Desktop&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/windows-vista/images/Desktop.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Şu an laptopumda Windows Vista RC1 Build 5600 kullanıyorum. Genel olarak stabil çalışıyor, herhangi bir problemle karşılaşmama karşın performans oldukça düşük. Yeni özelliklerden bazıları çok güzel. Mesela Sidebar ve gadget sistemi güzel… (Bunlar Yahoo! Widgets olarak vardı önceden) İşletim sistemine entegre edilmiş olması hoş.&lt;/p&gt;
 &lt;p&gt;Internet Explorer 7 ve Media Player 10 ise tam bir felaket bence, sonuçta beta sürüm elbette performans problemleri olacaktır ama sistemin kaynaklarını resmen tüketiyorlar…&lt;/p&gt;</description>
     </item>

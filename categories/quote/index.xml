@@ -4,7 +4,7 @@
     <title>Quote on Darkest Notes</title>
     <link>https://darkestnotes.org/categories/quote/</link>
     <description>Recent content in Quote on Darkest Notes</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 06 Dec 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://darkestnotes.org/categories/quote/index.xml" rel="self" type="application/rss+xml" />
@@ -34,8 +34,7 @@
       <link>https://darkestnotes.org/posts/alcohol/</link>
       <pubDate>Tue, 08 Dec 2015 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/alcohol/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Alcohol.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/alcohol/images/Alcohol.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>RIP Leonard Nimoy</title>
@@ -66,7 +65,8 @@
       <pubDate>Sat, 18 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/diary-of-a-u-boat-commander/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;I am left severely alone with my memories.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;I am left severely alone with my memories.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://readmill.com/omerb/reads/the-diary-of-a-u-boat-commander/highlights/qe0bka&#34;&gt;Highlighted by Omer Balamir&lt;/a&gt; in The Diary of a U-boat Commander by Anonymous,&lt;/p&gt;</description>
     </item>
     <item>
@@ -75,7 +75,8 @@
       <pubDate>Mon, 13 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/atat%C3%BCrk/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Herhangi bir kimsenin yaşadıkça kıvançlı ve mutlu olması için gereken şey kendisi için değil, kendisinden sonra gelecekler için çalışmaktır. Hayatta tam zevk ve mutluluk ancak gelecek kuşakların onuru, varlığı ve mutluluğu için çalışmakta bulunur.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Herhangi bir kimsenin yaşadıkça kıvançlı ve mutlu olması için gereken şey kendisi için değil, kendisinden sonra gelecekler için çalışmaktır. Hayatta tam zevk ve mutluluk ancak gelecek kuşakların onuru, varlığı ve mutluluğu için çalışmakta bulunur.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;M.K. Atatürk, 1937&lt;/p&gt;</description>
     </item>
     <item>
@@ -84,7 +85,8 @@
       <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/facebook/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Facebook&amp;rsquo;un gizlilik ayarları son derece karışık ve bir paylaşımda bulunduğunda kimin neyi görebildiğini hemen hemen hiç kimse tam olarak bilemiyor.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Facebook&amp;rsquo;un gizlilik ayarları son derece karışık ve bir paylaşımda bulunduğunda kimin neyi görebildiğini hemen hemen hiç kimse tam olarak bilemiyor.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.dw.de/facebook-ya%C5%9Flan%C4%B1yor/a-17238126&#34;&gt;Facebook yaşlanıyor | DW.DE | 18.11.2013&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -93,7 +95,8 @@
       <pubDate>Sun, 17 Nov 2013 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/star-trek/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Gelişmiş zihinler basit oyunlar oynamaya ihtiyaç duyar.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Gelişmiş zihinler basit oyunlar oynamaya ihtiyaç duyar.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Star Trek, Shore Leave&lt;/p&gt;</description>
     </item>
     <item>
@@ -105,8 +108,10 @@
 &lt;p&gt;&lt;a href=&#34;http://minimalmac.com/post/64323165204/the-case-for-deleting-all-your-apps&#34;&gt;minimalmac&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;The best case scenario is that you delete your apps and feel relief, increase your efficiency, and de-clutter the most important device in your life. Worst case, you merely come to think more clearly about how you use technology.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;What we believe in…&lt;/p&gt;&lt;/blockquote&gt;</description>
+&lt;p&gt;&lt;em&gt;The best case scenario is that you delete your apps and feel relief, increase your efficiency, and de-clutter the most important device in your life. Worst case, you merely come to think more clearly about how you use technology.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;What we believe in…&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Maksim Gorki, Ana</title>
@@ -122,7 +127,8 @@
       <pubDate>Sat, 04 May 2013 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/darwinden-dersime-cumhuriyet-ve-antropoloji/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Türkiye&amp;rsquo;de laik düşüncenin gelişiminde Dil ve Tarih-Coğrafya Fakültesi&amp;rsquo;nin ve Türk Tarih Kurumu&amp;rsquo;nun arkeolojik çalışmalarının ve kongrelerinin ayrı bir yeri oldu.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Türkiye&amp;rsquo;de laik düşüncenin gelişiminde Dil ve Tarih-Coğrafya Fakültesi&amp;rsquo;nin ve Türk Tarih Kurumu&amp;rsquo;nun arkeolojik çalışmalarının ve kongrelerinin ayrı bir yeri oldu.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://readmill.com/omerb/reads/darwinden-dersime-cumhuriyet-ve-antropoloji/highlights/mcavsa&#34;&gt;Highlighted by Omer Balamir&lt;/a&gt; in Darwin&amp;rsquo;den Dersim&amp;rsquo;e Cumhuriyet ve Antropoloji by Zafer Toprak&lt;/p&gt;</description>
     </item>
     <item>
@@ -131,7 +137,8 @@
       <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/ailenin-%C3%B6zel-m%C3%BClkiyetin-ve-devletin-k%C3%B6keni/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;…her ilerlemenin aynı zamanda görece bir gerileme olduğu çağı açar.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;…her ilerlemenin aynı zamanda görece bir gerileme olduğu çağı açar.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://readmill.com/omerb/reads/ailenin-ozel-mulkiyetin-ve-devletin-kokeni/highlights/cglkva&#34;&gt;Highlighted by Omer Balamir&lt;/a&gt; in Ailenin, Özel Mülkiyetin ve Devletin Kökeni by Friedrich Engels&lt;/p&gt;</description>
     </item>
     <item>
@@ -140,7 +147,8 @@
       <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/ailenin-%C3%B6zel-m%C3%BClkiyetin-ve-devletin-k%C3%B6keni/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;…Ve gerçekte siyasal denilen bütün devrimler, birincisinden sonuncusuna kadar, mülkiyetin, belirli türden mülkiyetin korunması için yapılmış, ve yine bir başka türden mülkiyetin zoralımı, başka bir deyişle, çalınmasıyla tamamlanmıştır.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;…Ve gerçekte siyasal denilen bütün devrimler, birincisinden sonuncusuna kadar, mülkiyetin, belirli türden mülkiyetin korunması için yapılmış, ve yine bir başka türden mülkiyetin zoralımı, başka bir deyişle, çalınmasıyla tamamlanmıştır.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://readmill.com/omerb/reads/ailenin-ozel-mulkiyetin-ve-devletin-kokeni/highlights/vt2jhw&#34;&gt;Highlighted by Omer Balamir&lt;/a&gt; in Ailenin, Özel Mülkiyetin ve Devletin Kökeni by Friedrich Engels&lt;/p&gt;</description>
     </item>
     <item>
@@ -149,7 +157,8 @@
       <pubDate>Fri, 12 Apr 2013 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/arkeoloji-niye-nas%C4%B1l-ne-i%C3%A7in/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Arkeoloji dışarıdan bakıldığında bir hayli çekici gelir. Kazı yapan arkeolog klişesi bütün kafalarda yer etmiştir; yani acımasız doğada tarihin sırlarını ortaya çıkarmayı amaç edinmiş bir bilge kişi.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Arkeoloji dışarıdan bakıldığında bir hayli çekici gelir. Kazı yapan arkeolog klişesi bütün kafalarda yer etmiştir; yani acımasız doğada tarihin sırlarını ortaya çıkarmayı amaç edinmiş bir bilge kişi.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://readmill.com/omerb/reads/arkeoloji-niye-nasil-ne-icin/highlights/-z_okw&#34;&gt;Highlighted by Omer Balamir&lt;/a&gt; in Arkeoloji: Niye? Nasıl? Ne İçin? by Oğuz Erdur-Güneş Duru&lt;/p&gt;</description>
     </item>
     <item>
@@ -158,7 +167,8 @@
       <pubDate>Sun, 17 Mar 2013 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/starcraft-ii-heart-of-the-swarm/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Luck had nothing to do with it.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Luck had nothing to do with it.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Kerrigan, Starcraft II Heart of the Swarm&lt;/p&gt;</description>
     </item>
     <item>
@@ -167,7 +177,8 @@
       <pubDate>Sat, 02 Feb 2013 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/app.net/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;It doesn’t matter what pen you use. It doesn’t matter the notebook. It matters that you write.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;It doesn’t matter what pen you use. It doesn’t matter the notebook. It matters that you write.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://alpha.app.net/hcmarks/post/2766994&#34;&gt;alpha.App.net&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -176,7 +187,8 @@
       <pubDate>Sat, 02 Feb 2013 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/orson-welles/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Yalnız doğar, yalnız yaşar, yalnız ölürüz. Yalnız olmadığımız ilüzyonunu sadece sevgi ve dostluk üzerinden bir anlığına yaratabiliriz.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Yalnız doğar, yalnız yaşar, yalnız ölürüz. Yalnız olmadığımız ilüzyonunu sadece sevgi ve dostluk üzerinden bir anlığına yaratabiliriz.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Orson Welles&lt;/p&gt;</description>
     </item>
     <item>
@@ -185,7 +197,8 @@
       <pubDate>Sun, 27 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/montaigne/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Gerçekte insanı mutlu eden, bir şeyin sahibi olmak değil, sahip olduklarının tadına varabilmektir..&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Gerçekte insanı mutlu eden, bir şeyin sahibi olmak değil, sahip olduklarının tadına varabilmektir..&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Montaigne&lt;/p&gt;</description>
     </item>
     <item>
@@ -194,7 +207,8 @@
       <pubDate>Sat, 22 Dec 2012 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/dogs/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;If you whisper in a dogs ear they always look like you are telling them the best secret in the world.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;If you whisper in a dogs ear they always look like you are telling them the best secret in the world.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://twitter.com/Doc_Not_Doctor/status/282915941237551105&#34;&gt;Twitter&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -211,7 +225,8 @@
       <pubDate>Thu, 20 Sep 2012 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/computer-crimes/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;If you want to engage in computer crime, don’t waste your time developing ninja level hacking skills, because computers are not the weak point. People are.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;If you want to engage in computer crime, don’t waste your time developing ninja level hacking skills, because computers are not the weak point. People are.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.codinghorror.com/blog/2012/09/computer-crime-then-and-now.html&#34;&gt;Computer Crime, Then and Now&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -220,7 +235,8 @@
       <pubDate>Tue, 06 Mar 2012 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/franz-kafka/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;He remained in this state of empty and peaceful reflection until the tower clock struck three o’clock in the morning. From the window he witnessed the beginning of the general dawning outside. Then without willing it, his head sank all the way down, and from his nostrils flowed out weakly his last breath.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;He remained in this state of empty and peaceful reflection until the tower clock struck three o’clock in the morning. From the window he witnessed the beginning of the general dawning outside. Then without willing it, his head sank all the way down, and from his nostrils flowed out weakly his last breath.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://readmill.com/omerb/reads/metamorphosis/highlights/b2bc&#34;&gt;Highlighted by Omer Balamir&lt;/a&gt; in Metamorphosis by Franz Kafka&lt;/p&gt;</description>
     </item>
     <item>
@@ -229,7 +245,8 @@
       <pubDate>Tue, 06 Mar 2012 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/franz-kafka/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;He remembered his family with deep feelings of love.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;He remembered his family with deep feelings of love.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://readmill.com/omerb/reads/metamorphosis/highlights/0c07&#34;&gt;Highlighted by Omer Balamir&lt;/a&gt; in Metamorphosis by Franz Kafka&lt;/p&gt;</description>
     </item>
     <item>
@@ -238,7 +255,8 @@
       <pubDate>Sun, 17 Jul 2011 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/insanc%C4%B1klar/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Geçmiş kötü bile olsa, anısı tatlı bir elem verir insana. Beni üzen çirkin bir olayı bile sonraları çirkinliğinden sıyrılmış, hoş bir biçimde anımsarım.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Geçmiş kötü bile olsa, anısı tatlı bir elem verir insana. Beni üzen çirkin bir olayı bile sonraları çirkinliğinden sıyrılmış, hoş bir biçimde anımsarım.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Dostoyevski, “İnsancıklar”&lt;/p&gt;</description>
     </item>
     <item>
@@ -254,7 +272,8 @@
       <pubDate>Wed, 08 Sep 2010 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/william-wordsworth/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;A mind forever voyaging through strange seas of thought…alone.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;A mind forever voyaging through strange seas of thought…alone.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;William Wordsworth, &lt;a href=&#34;http://en.wikipedia.org/wiki/The_Prelude&#34;&gt;The Prelude&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

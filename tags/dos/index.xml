@@ -4,7 +4,7 @@
     <title>Dos on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/dos/</link>
     <description>Recent content in Dos on Darkest Notes</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 20 Feb 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://darkestnotes.org/tags/dos/index.xml" rel="self" type="application/rss+xml" />
@@ -21,8 +21,7 @@
       <link>https://darkestnotes.org/posts/gog-os-x/</link>
       <pubDate>Sun, 21 Oct 2012 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/gog-os-x/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_mc9bssHXgj1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/gog-os-x/images/tumblr_mc9bssHXgj1qztw2k.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Eski DOS oyunlarını OS X&amp;rsquo;de oynamak DOSBox için yazılmış &lt;a href=&#34;http://boxerapp.com&#34;&gt;Boxer&lt;/a&gt; gibi arabirimler sayesinde çok zor olmuyordu. Bununla birlikte &lt;a href=&#34;http://www.gog.com&#34;&gt;GOG.com&lt;/a&gt;‘dan satın aldığım oyunları install etmek için öncelikle Windows&amp;rsquo;a geçmem daha sonra dosyaları OS X&amp;rsquo;e aktarmam gerekirdi.&lt;/p&gt;
 &lt;p&gt;GOG.com artık DOS oyunlarını tek bir tıklama ile çalıştırılabilecek paketler halinde OS X için de satmaya başladı. Çok fazla oyunu deneme imkanım olmadı ama Boxer&amp;rsquo;ın sağladığı stabil platform sayesinde eski DOS oyunlarını Windows&amp;rsquo;a dönmeden rahatlıkla OS X&amp;rsquo;de oynayabilmek artık mümkün.&lt;/p&gt;</description>
     </item>

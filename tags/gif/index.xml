@@ -4,7 +4,7 @@
     <title>Gif on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/gif/</link>
     <description>Recent content in Gif on Darkest Notes</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://darkestnotes.org/tags/gif/index.xml" rel="self" type="application/rss+xml" />
@@ -13,16 +13,14 @@
       <link>https://darkestnotes.org/posts/happy-new-year/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/happy-new-year/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/New_Year.gif&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/happy-new-year/images/New_Year.gif&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Star Wars</title>
       <link>https://darkestnotes.org/posts/star-wars/</link>
       <pubDate>Wed, 09 Dec 2015 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/star-wars/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Star_Wars.gif&#34; alt=&#34;Star_Wars&#34;  /&gt;
-&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img alt=&#34;Star_Wars&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/star-wars/images/Star_Wars.gif&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tumblr.</title>

@@ -4,7 +4,7 @@
     <title>Robocat on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/robocat/</link>
     <description>Recent content in Robocat on Darkest Notes</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 01 Mar 2010 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://darkestnotes.org/tags/robocat/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,7 @@
       <link>https://darkestnotes.org/posts/robocat-stickers/</link>
       <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/robocat-stickers/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_kym8o5sKjN1qztw2k.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/robocat-stickers/images/tumblr_kym8o5sKjN1qztw2k.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Today, got my Robocat Stickers with a special one signed by Michael Flarup!&lt;/p&gt;</description>
     </item>
   </channel>

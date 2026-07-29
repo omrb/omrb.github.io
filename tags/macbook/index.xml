@@ -4,7 +4,7 @@
     <title>Macbook on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/macbook/</link>
     <description>Recent content in Macbook on Darkest Notes</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 15 Mar 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://darkestnotes.org/tags/macbook/index.xml" rel="self" type="application/rss+xml" />
@@ -13,11 +13,9 @@
       <link>https://darkestnotes.org/posts/macbook-early-2015/</link>
       <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/macbook-early-2015/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/MacBook-Space_Grey.jpeg&#34; alt=&#34;MacBook-Space_Grey&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;MacBook-Space_Grey&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/macbook-early-2015/images/MacBook-Space_Grey.jpeg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Başka birşeyler almak için girdiğim teknoloji markette vakit geçirmek için dolandığım sırada, Apple ürünlerini incelerken gördüm geçtiğimiz yılın ilk çeyreğinde çıkan MacBook modelini. Nisan ayında ilk çıktığı zaman beğenmiş, incelemiş, almayı düşünmüş ancak fiyatı çok yüksek olduğundan ertelemiştim.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/b_86829.jpg&#34; alt=&#34;b_86829&#34;  /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;b_86829&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/macbook-early-2015/images/b_86829.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;İncelemelerden okuduğum kadarıyla en büyük yeniliği klavyesinde taşıyordu. İlk bu özelliğini denemek için tuşlara dokunduğum an vuruldum. Düz, fazla çıkıntılı olmayan, bununla birlikte önceki modellere göre daha büyük tasarlanmış tuşlar. &lt;em&gt;Butterfly Mechanism&lt;/em&gt; diye adlandırmış Apple, tuşa basma hissi çok çok farklı ve keyifli bir deneyim sunuyor.&lt;/p&gt;</description>
     </item>
     <item>
@@ -25,9 +23,7 @@
       <link>https://darkestnotes.org/posts/macbook-pro-with-retina-display-early-2013/</link>
       <pubDate>Sat, 03 Aug 2013 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/macbook-pro-with-retina-display-early-2013/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/pZ3r&amp;#43;&#34; alt=&#34;&#34;  /&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/aSI5&amp;#43;&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/pZ3r+&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/aSI5+&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Yeni aldığım 15.4&amp;quot; Retina MacBook Pro’yu test etmekle meşgulum. Teknik özellikleri şu şekilde sıralayabilirim.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;2.4 GHz quad-core iNtel Core i7 CPU&lt;/li&gt;

@@ -4,7 +4,7 @@
     <title>Internet on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/internet/</link>
     <description>Recent content in Internet on Darkest Notes</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://darkestnotes.org/tags/internet/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,7 @@
       <link>https://darkestnotes.org/posts/tweekly.fm-sona-geldi/</link>
       <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/tweekly.fm-sona-geldi/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tweekly.png#center&#34; alt=&#34;Tweekly&#34;  /&gt;
-
+      <description>&lt;p&gt;&lt;img alt=&#34;Tweekly&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/tweekly.fm-sona-geldi/images/tweekly.png#center&#34;&gt;
 Severek kullandığım bir internet servisi daha Twitter’ın API ulaşımını sonlandırması nedeniyle yolun sonuna geldi. Tweekly.fm basit bir uygulamaydı. Last.fm’e skroplanan şarkılardan haftalık olarak en çok dinlenen müzisyenleri filtreler ve bir tweet atardı -bu hafta en çok dinlediklerin- diye.&lt;/p&gt;
 &lt;p&gt;Bir start-up olarak açılan servise 13 Şubat 2015 tarihinde açılır açılmaz hemen üye olmuş ve desteklemiştim.
 Twitter’ı uzun yıllardır pek aktif kullanmasam da her hafta Tweekly.fm benim için çalışır ve timeline’ıma bir tweet atardı.&lt;/p&gt;</description>
@@ -24,8 +23,7 @@ Twitter’ı uzun yıllardır pek aktif kullanmasam da her hafta Tweekly.fm beni
       <link>https://darkestnotes.org/posts/wordpressden-hugoya-ge%C3%A7i%C5%9F/</link>
       <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/wordpressden-hugoya-ge%C3%A7i%C5%9F/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/hugo-logo.png#center&#34; alt=&#34;Hugo&#34;  /&gt;
- 2006 yılından beri çeşitli sitelerde yer alan blog&amp;rsquo;umu hosting firmamın PHP 8&amp;rsquo;i zorunlu tutması ve Wordpress tema ve eklentilerinin PHP 8 ile sorunlar çıkarması sebebiyle Hugo&amp;rsquo;ya geçirmeye karar verdim.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;Hugo&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/wordpressden-hugoya-ge%C3%A7i%C5%9F/images/hugo-logo.png#center&#34;&gt; 2006 yılından beri çeşitli sitelerde yer alan blog&amp;rsquo;umu hosting firmamın PHP 8&amp;rsquo;i zorunlu tutması ve Wordpress tema ve eklentilerinin PHP 8 ile sorunlar çıkarması sebebiyle Hugo&amp;rsquo;ya geçirmeye karar verdim.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://darkestnotes.org/posts/hello-world/&#34;&gt;Wordpress&lt;/a&gt;&amp;lsquo;i 2015 yılından beri kullanıyordum ve herhangi bir sorunum yoktu. Bununla birlikte tema ve eklentilerin her güncelleme sonrası sorun çıkarabilecek olma ihtimali bie keyif kaçırıcı bir etkendi blog&amp;rsquo;um için.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; oldukça basit bir sisteme sahip. Text dosyalarını derleyerek statik, HTML tabanlı basit bir internet sitesi yaratıyor. Üstelik oluşturulan siteyi en basit hosting sisteminde bile host edebilmek mümkün çünkü geri planda çalışması gereken database ihtiyacı yok.&lt;/p&gt;</description>
     </item>
@@ -34,8 +32,7 @@ Twitter’ı uzun yıllardır pek aktif kullanmasam da her hafta Tweekly.fm beni
       <link>https://darkestnotes.org/posts/tweetbota-veda/</link>
       <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/tweetbota-veda/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/TweetBot.Ends_.jpeg&#34; alt=&#34;TweetBot.Ends&#34;  /&gt;
- Twitter&amp;rsquo;a 2008 yılında kaydolmuştum. O yıllarda sosyal medya daha yeni oluşmaya başlıyordu ve Twitter&amp;rsquo;daki tek amaç &lt;strong&gt;&lt;em&gt;o an ne yaptığını&lt;/em&gt;&lt;/strong&gt; bildirmekten ibaretti.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;TweetBot.Ends&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/tweetbota-veda/images/TweetBot.Ends_.jpeg&#34;&gt; Twitter&amp;rsquo;a 2008 yılında kaydolmuştum. O yıllarda sosyal medya daha yeni oluşmaya başlıyordu ve Twitter&amp;rsquo;daki tek amaç &lt;strong&gt;&lt;em&gt;o an ne yaptığını&lt;/em&gt;&lt;/strong&gt; bildirmekten ibaretti.&lt;/p&gt;
 &lt;p&gt;Yıllar geçtikçe işler değişti, Twitter büyüdü, artık takip edilmeyen hesapları bile size zorla göstermeye, aralara reklamlar almaya başladı. İşte o zamanlar Twitter&amp;rsquo;a sadece kendi timeline&amp;rsquo;ınıza ulaşmayı sağlayan programlar yaygınlaşmaya başladı. &lt;em&gt;Echofon&lt;/em&gt;, &lt;em&gt;Twitterrific&lt;/em&gt;, &lt;em&gt;Tweetie&lt;/em&gt;&amp;hellip;ve &lt;em&gt;&lt;strong&gt;TweetBot&lt;/strong&gt;&lt;/em&gt;!&lt;/p&gt;
 &lt;p&gt;Sadece takip ettiklerimi göstermesi ve reklamları timeline&amp;rsquo;ımın dışında tutması ile TweetBot 2011 yılından beri hem telefonumda hem de bilgisayarımda kullandığım bir program olmuştu.&lt;/p&gt;</description>
     </item>
@@ -61,8 +58,7 @@ Twitter’ı uzun yıllardır pek aktif kullanmasam da her hafta Tweekly.fm beni
       <link>https://darkestnotes.org/posts/app.net/</link>
       <pubDate>Sun, 13 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/app.net/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mgkq3tzndm1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/app.net/images/tumblr_inline_mgkq3tzndm1qztw2k.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Twitter&amp;rsquo;ın bir ileri aşaması App.net olmalı. Reklam olmadan, yarattığımız içeriğin tümüyle kontrolümüz altında olması sosyal network&amp;rsquo;ün en önemli özelliklerinden biri.&lt;/p&gt;</description>
     </item>
     <item>
@@ -78,8 +74,7 @@ Twitter’ı uzun yıllardır pek aktif kullanmasam da her hafta Tweekly.fm beni
       <link>https://darkestnotes.org/posts/librarything/</link>
       <pubDate>Tue, 18 Nov 2008 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/librarything/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mhlpawjI2T1qz4rgp.gif&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/librarything/images/tumblr_inline_mhlpawjI2T1qz4rgp.gif&#34;&gt;&lt;/p&gt;
 &lt;p&gt;FriendFeed&amp;rsquo;den sonra internet sosyal platformları içerisinde beni en çok etkileyen &lt;a href=&#34;http://www.librarything.com&#34;&gt;LibraryThing&lt;/a&gt; oldu. Kütüphanenizi bilgisayar ortamında (daha doğrusu, internet ortamında) kataloglamak için geliştirilmiş. LibraryThing&amp;rsquo;in bedava kullanımı 200 kitaba kadar kayıt girmenize imkan veriyor. Kitapları ISBN numarasına göre aratabilir, yeni kitaplar ekleyebilir, var olan kayıtları diğer edisyonlar ile eşleştirebilirsiniz. Kitap kapak resimlerini ekleyebilir, okuduğunuz kitapların eleştiri/yorumlarını yapabilir, beğendiğiniz kitap türlerine göre yeni arkadaşlıklar kurabilirsiniz.&lt;/p&gt;
 &lt;p&gt;Tabi bu dediklerim kitap okuma kültürü gelişmiş ve internet kullanım seviyesi chat kültürünü aşmış ülkeler için geçerli. Türkiye&amp;rsquo;den kaç sayıda kullanıcı var bilemiyorum ama Ankara&amp;rsquo;da benden başka sadece 1 kişi var. :)&lt;/p&gt;</description>
     </item>

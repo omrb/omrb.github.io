@@ -4,7 +4,7 @@
     <title>Lego on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/lego/</link>
     <description>Recent content in Lego on Darkest Notes</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 15 Jun 2014 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://darkestnotes.org/tags/lego/index.xml" rel="self" type="application/rss+xml" />
@@ -36,8 +36,7 @@
       <link>https://darkestnotes.org/posts/the-lego-mac-computer/</link>
       <pubDate>Mon, 16 Feb 2009 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/the-lego-mac-computer/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.omrb.org/wp-content/uploads/2009/02/Lego_Mac.jpeg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Lego_Mac-1024x683.jpeg&#34; alt=&#34;Lego_Mac&#34;  /&gt;
-&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.omrb.org/wp-content/uploads/2009/02/Lego_Mac.jpeg&#34;&gt;&lt;img alt=&#34;Lego_Mac&#34; loading=&#34;lazy&#34; src=&#34;images/Lego_Mac-1024x683.jpeg&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

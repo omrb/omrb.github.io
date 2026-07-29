@@ -4,7 +4,7 @@
     <title>Internet on Darkest Notes</title>
     <link>https://darkestnotes.org/categories/internet/</link>
     <description>Recent content in Internet on Darkest Notes</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://darkestnotes.org/categories/internet/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,7 @@
       <link>https://darkestnotes.org/posts/tweekly.fm-sona-geldi/</link>
       <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/tweekly.fm-sona-geldi/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tweekly.png#center&#34; alt=&#34;Tweekly&#34;  /&gt;
-
+      <description>&lt;p&gt;&lt;img alt=&#34;Tweekly&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/tweekly.fm-sona-geldi/images/tweekly.png#center&#34;&gt;
 Severek kullandığım bir internet servisi daha Twitter’ın API ulaşımını sonlandırması nedeniyle yolun sonuna geldi. Tweekly.fm basit bir uygulamaydı. Last.fm’e skroplanan şarkılardan haftalık olarak en çok dinlenen müzisyenleri filtreler ve bir tweet atardı -bu hafta en çok dinlediklerin- diye.&lt;/p&gt;
 &lt;p&gt;Bir start-up olarak açılan servise 13 Şubat 2015 tarihinde açılır açılmaz hemen üye olmuş ve desteklemiştim.
 Twitter’ı uzun yıllardır pek aktif kullanmasam da her hafta Tweekly.fm benim için çalışır ve timeline’ıma bir tweet atardı.&lt;/p&gt;</description>
@@ -24,8 +23,7 @@ Twitter’ı uzun yıllardır pek aktif kullanmasam da her hafta Tweekly.fm beni
       <link>https://darkestnotes.org/posts/wordpressden-hugoya-ge%C3%A7i%C5%9F/</link>
       <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/wordpressden-hugoya-ge%C3%A7i%C5%9F/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/hugo-logo.png#center&#34; alt=&#34;Hugo&#34;  /&gt;
- 2006 yılından beri çeşitli sitelerde yer alan blog&amp;rsquo;umu hosting firmamın PHP 8&amp;rsquo;i zorunlu tutması ve Wordpress tema ve eklentilerinin PHP 8 ile sorunlar çıkarması sebebiyle Hugo&amp;rsquo;ya geçirmeye karar verdim.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;Hugo&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/wordpressden-hugoya-ge%C3%A7i%C5%9F/images/hugo-logo.png#center&#34;&gt; 2006 yılından beri çeşitli sitelerde yer alan blog&amp;rsquo;umu hosting firmamın PHP 8&amp;rsquo;i zorunlu tutması ve Wordpress tema ve eklentilerinin PHP 8 ile sorunlar çıkarması sebebiyle Hugo&amp;rsquo;ya geçirmeye karar verdim.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://darkestnotes.org/posts/hello-world/&#34;&gt;Wordpress&lt;/a&gt;&amp;lsquo;i 2015 yılından beri kullanıyordum ve herhangi bir sorunum yoktu. Bununla birlikte tema ve eklentilerin her güncelleme sonrası sorun çıkarabilecek olma ihtimali bie keyif kaçırıcı bir etkendi blog&amp;rsquo;um için.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; oldukça basit bir sisteme sahip. Text dosyalarını derleyerek statik, HTML tabanlı basit bir internet sitesi yaratıyor. Üstelik oluşturulan siteyi en basit hosting sisteminde bile host edebilmek mümkün çünkü geri planda çalışması gereken database ihtiyacı yok.&lt;/p&gt;</description>
     </item>
@@ -34,8 +32,7 @@ Twitter’ı uzun yıllardır pek aktif kullanmasam da her hafta Tweekly.fm beni
       <link>https://darkestnotes.org/posts/tweetbota-veda/</link>
       <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/tweetbota-veda/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/TweetBot.Ends_.jpeg&#34; alt=&#34;TweetBot.Ends&#34;  /&gt;
- Twitter&amp;rsquo;a 2008 yılında kaydolmuştum. O yıllarda sosyal medya daha yeni oluşmaya başlıyordu ve Twitter&amp;rsquo;daki tek amaç &lt;strong&gt;&lt;em&gt;o an ne yaptığını&lt;/em&gt;&lt;/strong&gt; bildirmekten ibaretti.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;TweetBot.Ends&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/tweetbota-veda/images/TweetBot.Ends_.jpeg&#34;&gt; Twitter&amp;rsquo;a 2008 yılında kaydolmuştum. O yıllarda sosyal medya daha yeni oluşmaya başlıyordu ve Twitter&amp;rsquo;daki tek amaç &lt;strong&gt;&lt;em&gt;o an ne yaptığını&lt;/em&gt;&lt;/strong&gt; bildirmekten ibaretti.&lt;/p&gt;
 &lt;p&gt;Yıllar geçtikçe işler değişti, Twitter büyüdü, artık takip edilmeyen hesapları bile size zorla göstermeye, aralara reklamlar almaya başladı. İşte o zamanlar Twitter&amp;rsquo;a sadece kendi timeline&amp;rsquo;ınıza ulaşmayı sağlayan programlar yaygınlaşmaya başladı. &lt;em&gt;Echofon&lt;/em&gt;, &lt;em&gt;Twitterrific&lt;/em&gt;, &lt;em&gt;Tweetie&lt;/em&gt;&amp;hellip;ve &lt;em&gt;&lt;strong&gt;TweetBot&lt;/strong&gt;&lt;/em&gt;!&lt;/p&gt;
 &lt;p&gt;Sadece takip ettiklerimi göstermesi ve reklamları timeline&amp;rsquo;ımın dışında tutması ile TweetBot 2011 yılından beri hem telefonumda hem de bilgisayarımda kullandığım bir program olmuştu.&lt;/p&gt;</description>
     </item>
@@ -44,8 +41,7 @@ Twitter’ı uzun yıllardır pek aktif kullanmasam da her hafta Tweekly.fm beni
       <link>https://darkestnotes.org/posts/wordpress-vs.-tumblr./</link>
       <pubDate>Mon, 07 Mar 2016 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/wordpress-vs.-tumblr./</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/WP_vs_Tumblr.jpg&#34; alt=&#34;WP_vs_Tumblr&#34;  /&gt;
-Yaklaşık iki ay önce blog’umu tumblr.’dan Wordpress’e taşıdığımdan &lt;a href=&#34;https://darkestnotes.org/2015/12/06/hello-world/&#34;&gt;bahsetmiştim&lt;/a&gt;. Her iki servis kullanıldığında ortaya çıkan siteler, üç aşağı beş yukarı birbirine benzese de genel olarak iki içerik yönetim sisteminin (&lt;strong&gt;C&lt;/strong&gt;ontent &lt;strong&gt;M&lt;/strong&gt;anagement &lt;strong&gt;S&lt;/strong&gt;ystem) avantaj ve dezavantajları ile birlikte bazı farkları da var. (&lt;em&gt;Bu yazıda Wordpress&amp;rsquo;in kendi host&amp;rsquo;u üzerinden çalışan şekli &lt;a href=&#34;http://wordpress.org&#34;&gt;Wordpress.org&lt;/a&gt; ele alınmış olup, host&amp;rsquo;a ihtiyaç duymayan ancak daha az opsiyon içeren &lt;a href=&#34;http://wordpress.com&#34;&gt;Wordpress.com&lt;/a&gt; karşılaştırma dışı tutulmuştur.☺️&lt;/em&gt;)&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;WP_vs_Tumblr&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/wordpress-vs.-tumblr./images/WP_vs_Tumblr.jpg&#34;&gt;Yaklaşık iki ay önce blog’umu tumblr.’dan Wordpress’e taşıdığımdan &lt;a href=&#34;https://darkestnotes.org/2015/12/06/hello-world/&#34;&gt;bahsetmiştim&lt;/a&gt;. Her iki servis kullanıldığında ortaya çıkan siteler, üç aşağı beş yukarı birbirine benzese de genel olarak iki içerik yönetim sisteminin (&lt;strong&gt;C&lt;/strong&gt;ontent &lt;strong&gt;M&lt;/strong&gt;anagement &lt;strong&gt;S&lt;/strong&gt;ystem) avantaj ve dezavantajları ile birlikte bazı farkları da var. (&lt;em&gt;Bu yazıda Wordpress&amp;rsquo;in kendi host&amp;rsquo;u üzerinden çalışan şekli &lt;a href=&#34;http://wordpress.org&#34;&gt;Wordpress.org&lt;/a&gt; ele alınmış olup, host&amp;rsquo;a ihtiyaç duymayan ancak daha az opsiyon içeren &lt;a href=&#34;http://wordpress.com&#34;&gt;Wordpress.com&lt;/a&gt; karşılaştırma dışı tutulmuştur.☺️&lt;/em&gt;)&lt;/p&gt;
 &lt;p&gt;Temelde iki platformu birbirinden ayıran en temel özellik, birinin özel bir şirketin ürünü, diğerinin ise açık kaynak kodlu yazılım olması (yani sahibi yok). &lt;a href=&#34;http://www.tumblr.com&#34;&gt;Tumblr.&lt;/a&gt; birgün “&lt;em&gt;biz kapatıyoruz arkadaş!&lt;/em&gt;” dediğinde (elbette içeriğin kopyası sunulacaktır bir şekilde) yapılabilecek çok fazla bir şey yok. Wordpress iyi kötü açık kaynak koduyla ve içeriğinizin kendi hostunuzda olması sebebiyle kalıcı şekilde sürdürebilir kendisini.&lt;/p&gt;</description>
     </item>
     <item>
@@ -53,8 +49,7 @@ Yaklaşık iki ay önce blog’umu tumblr.’dan Wordpress’e taşıdığımda
       <link>https://darkestnotes.org/posts/mr.-robot/</link>
       <pubDate>Thu, 17 Dec 2015 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/mr.-robot/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.omrb.org/wp-content/uploads/2015/12/mrrobot-key-art.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/mrrobot-key-art-232x300.jpg&#34; alt=&#34;Mr. Robot&#34;  /&gt;
-&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.omrb.org/wp-content/uploads/2015/12/mrrobot-key-art.jpg&#34;&gt;&lt;img alt=&#34;Mr. Robot&#34; loading=&#34;lazy&#34; src=&#34;images/mrrobot-key-art-232x300.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Geçen hafta izlemeye başladığım ve her akşam düzenli olarak bir bölümünü seyrettiğim Mr. Robot bu akşam izlediğim 10. bölümüyle sona erdi.&lt;/p&gt;
 &lt;p&gt;Güzel dizi olmuş, beğenerek, tüm bölümleri uyuklamadan(!) izlediğim yegâne dizilerden biri oldu. Hatta &lt;a href=&#34;http://www.omrb.org/2014/08/31/true-detective-2/&#34;&gt;True Detective&lt;/a&gt;’den bu yana beni en çok etkileyen dizi oldu diyebilirim. (Gerçi çok fazla birşey izlediğimde yok ya! 😐)&lt;/p&gt;
 &lt;p&gt;Adamlar oturuyor kendi yarattıkları düzeni yine kendileri bir güzel eleştiriyor, yerden yere vuruyor, dalga geçiyor, biz de oturup ağzımız bir karış açık, hayran hayran seyredip sonra hiçbirşey olmamış gibi tekrar sakin, uyuz, rutin kendi yaşantımıza dönüveriyoruz.&lt;/p&gt;</description>
@@ -78,8 +73,7 @@ Yaklaşık iki ay önce blog’umu tumblr.’dan Wordpress’e taşıdığımda
       <link>https://darkestnotes.org/posts/readmill/</link>
       <pubDate>Tue, 24 Jun 2014 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/readmill/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/aMLH&amp;#43;&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/aMLH+&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Severek kullandığım bir servis de yolun sonuna geldi. Readmill. 2011 yılı sonunda kullanmaya başladım. Hatta iPad almama sebep olan en önemli uygulamadır. 1 Temmuz’da internetin arşivinde yok olup gidecek.&lt;/p&gt;
 &lt;p&gt;Kapanacak uygulamaların export seçeneğini kullanmak hep hüzünlendirir beni. Yıllarca kullanıp oluşturduğun arşiv bir adet uyduruk veritabanı dosyasının içine konur, harici diskin derinliklerindeki bir klasör içinde kimbilir belki ben öldükten sonra bile kimsenin görmeyeceği bir yerlere gömülür.&lt;/p&gt;
 &lt;p&gt;Readmill &lt;a href=&#34;http://d.pr/f/rXHo&#34;&gt;okuma günlüğümü&lt;/a&gt; bir kitap haline dönüştürerek export etmeme imkan verdi. Orada bir yerlerde kaybolacağına, aradığımda bulabileceğim bir yerlerde dursun istedim.&lt;/p&gt;</description>
@@ -90,7 +84,8 @@ Yaklaşık iki ay önce blog’umu tumblr.’dan Wordpress’e taşıdığımda
       <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/facebook/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Facebook&amp;rsquo;un gizlilik ayarları son derece karışık ve bir paylaşımda bulunduğunda kimin neyi görebildiğini hemen hemen hiç kimse tam olarak bilemiyor.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Facebook&amp;rsquo;un gizlilik ayarları son derece karışık ve bir paylaşımda bulunduğunda kimin neyi görebildiğini hemen hemen hiç kimse tam olarak bilemiyor.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.dw.de/facebook-ya%C5%9Flan%C4%B1yor/a-17238126&#34;&gt;Facebook yaşlanıyor | DW.DE | 18.11.2013&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -120,8 +115,7 @@ Yaklaşık iki ay önce blog’umu tumblr.’dan Wordpress’e taşıdığımda
       <link>https://darkestnotes.org/posts/elveda-google-reader/</link>
       <pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/elveda-google-reader/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mpbqr4r7RE1qz4rgp.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/elveda-google-reader/images/tumblr_inline_mpbqr4r7RE1qz4rgp.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;2006 yılından beri her sabah e-postalarımı kontrol ettikten sonra açtığım ve düzenli olarak kullandığım web-uygulaması Google Reader’ı bu sabah son kez (serverlarının fişi çekilirken, yarım yamalak) kullandım.&lt;/p&gt;
 &lt;p&gt;Alternatifleri pek inceleme fırsatım olmadıysa da Google Reader’ın yerini tutabilmeleri için çok uzun zaman geçmesi gerekecek gibi.&lt;/p&gt;
 &lt;p&gt;Seni özleyeceğim Google Reader! Elveda!&lt;/p&gt;</description>
@@ -131,8 +125,7 @@ Yaklaşık iki ay önce blog’umu tumblr.’dan Wordpress’e taşıdığımda
       <link>https://darkestnotes.org/posts/swimming-beneath-the-brinicles-in-antarctica/</link>
       <pubDate>Wed, 08 May 2013 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/swimming-beneath-the-brinicles-in-antarctica/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.omrb.org/wp-content/uploads/2013/05/rorycicle_sm-660x495.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/rorycicle_sm-660x495.jpg&#34; alt=&#34;rorycicle_sm-660x495&#34;  /&gt;
-&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.omrb.org/wp-content/uploads/2013/05/rorycicle_sm-660x495.jpg&#34;&gt;&lt;img alt=&#34;rorycicle_sm-660x495&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/swimming-beneath-the-brinicles-in-antarctica/images/rorycicle_sm-660x495.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.wired.com/wiredscience/2013/05/swimming-beneath-the-brinicles-in-antarctica/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+wired%2Findex+%28Wired%3A+Top+Stories%29&amp;amp;pid=6840&amp;amp;viewall=true&#34;&gt;Swimming Beneath the Brinicles, in Antarctica&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -140,8 +133,7 @@ Yaklaşık iki ay önce blog’umu tumblr.’dan Wordpress’e taşıdığımda
       <link>https://darkestnotes.org/posts/thinglist/</link>
       <pubDate>Sat, 23 Feb 2013 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/thinglist/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/WAc7&amp;#43;&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/WAc7+&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Bir daha hiçbirşeyi unutmayın&lt;/em&gt;!&lt;/p&gt;
 &lt;p&gt;Bazen unutmak istemediğim şeyleri hızlı bir şekilde not almam gerekir, ama alınan bu notlar zamanla karmaşık hale gelir, aranılan bulunamaz ve notlar kaybolur gider.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://getthinglist.com&#34;&gt;Thinglist&lt;/a&gt; işte böyle karmaşık notları belirli kategorilere ayırmak için minimal bir tasarımla hazırlanmış bir &lt;a href=&#34;http://appstore.com/thinglist&#34;&gt;iOS&lt;/a&gt; uygulaması. Ana ekranında 9 kategori (Film, Kitap, Müzik, Yemek, Kişi, Ürün, Yer, Bar ve Fikir) yer alıyor. Seçimimi yapıp notumu kaydediyorum, işte bu kadar! İşlevsel, başarıyla tasarlanan ve uygulanan minimalist uygulamaları seviyorum.&lt;/p&gt;</description>
@@ -168,8 +160,7 @@ Yaklaşık iki ay önce blog’umu tumblr.’dan Wordpress’e taşıdığımda
       <link>https://darkestnotes.org/posts/app.net/</link>
       <pubDate>Sun, 13 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/app.net/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mgkq3tzndm1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/app.net/images/tumblr_inline_mgkq3tzndm1qztw2k.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Twitter&amp;rsquo;ın bir ileri aşaması App.net olmalı. Reklam olmadan, yarattığımız içeriğin tümüyle kontrolümüz altında olması sosyal network&amp;rsquo;ün en önemli özelliklerinden biri.&lt;/p&gt;</description>
     </item>
     <item>
@@ -191,7 +182,8 @@ Yaklaşık iki ay önce blog’umu tumblr.’dan Wordpress’e taşıdığımda
       <description>&lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;medium&amp;rdquo; ids=&amp;ldquo;449&amp;rdquo;]&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://minimalmac.com/post/13883822722/love-joy-of-tech&#34;&gt;minimalmac&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Love &lt;a href=&#34;http://www.geekculture.com/joyoftech/&#34;&gt;Joy of Tech&lt;/a&gt;.&lt;/p&gt;&lt;/blockquote&gt;</description>
+&lt;p&gt;Love &lt;a href=&#34;http://www.geekculture.com/joyoftech/&#34;&gt;Joy of Tech&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Web Servisleri ve Sorunlar</title>
@@ -232,8 +224,7 @@ Yaklaşık iki ay önce blog’umu tumblr.’dan Wordpress’e taşıdığımda
       <link>https://darkestnotes.org/posts/google-wave/</link>
       <pubDate>Tue, 10 Nov 2009 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/google-wave/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mhlqkcqpNj1qz4rgp.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/google-wave/images/tumblr_inline_mhlqkcqpNj1qz4rgp.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Sonunda Google Wave&amp;rsquo;i test edebilme imkanım oldu.&lt;/p&gt;
 &lt;p&gt;Bence davetiye ile katılım olması pek çok kişide büyük beklentiler oluşmasına sebep oldu. Çoğu kişi Wave&amp;rsquo;i FaceBook tarzı bir sosyal ağ olarak tahmin ediyordu. Ben Facebook, FriendFeed&amp;rsquo;i satın aldıktan sonra, GoogleWave&amp;rsquo;in FriendFeed ile benzer bir yapıda olacağını düşünenlerdendim. Genel olarak tüm social-network sitelerini bir çatı altında (GoogleWave) toplanacağını düşünmüştüm. Yanılmışım.&lt;/p&gt;
 &lt;p&gt;Bu haliyle bile aslında GoogleWave&amp;rsquo;i bir yenilik, ileriye doğru atılmış bir adım olarak görmek mümkün. E-Posta+Anında Mesajlaşma+Forum. Internet dünyasının gelişimine baktığımızda bu 3 öğenin ilk çıktığından bu yana pek fazla değişmediğini görüyoruz. GoogleWave kullandıkça farkettimki bir hafta öncesine kadar severek kullandığım bu 3 unsur fazlasıyla eskimiş ve köhnemiş.:)&lt;/p&gt;</description>
@@ -243,8 +234,7 @@ Yaklaşık iki ay önce blog’umu tumblr.’dan Wordpress’e taşıdığımda
       <link>https://darkestnotes.org/posts/new-media-workout-plan/</link>
       <pubDate>Tue, 29 Sep 2009 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/new-media-workout-plan/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.omrb.org/wp-content/uploads/2009/09/New-Media-Workout.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/New-Media-Workout-984x1024.png&#34; alt=&#34;New Media Workout&#34;  /&gt;
-&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.omrb.org/wp-content/uploads/2009/09/New-Media-Workout.png&#34;&gt;&lt;img alt=&#34;New Media Workout&#34; loading=&#34;lazy&#34; src=&#34;images/New-Media-Workout-984x1024.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Superb workout plan-&lt;a href=&#34;http://tinyurl.com/ydt7h9k&#34;&gt;http://tinyurl.com/ydt7h9k&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>

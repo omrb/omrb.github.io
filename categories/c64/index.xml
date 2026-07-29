@@ -4,7 +4,7 @@
     <title>C64 on Darkest Notes</title>
     <link>https://darkestnotes.org/categories/c64/</link>
     <description>Recent content in C64 on Darkest Notes</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://darkestnotes.org/categories/c64/index.xml" rel="self" type="application/rss+xml" />
@@ -15,8 +15,7 @@
       <guid>https://darkestnotes.org/posts/bitmap-books/</guid>
       <description>&lt;p&gt;İngiltere merkezli bir kitabevi &lt;a href=&#34;https://www.bitmapbooks.co.uk&#34;&gt;Bitmap Books&lt;/a&gt;. Retro bilgisayarlar ve oyun konsolları ile ilgili kitap araştıran birinin internette ilk gözüne çarpan firmalardan biri.&lt;/p&gt;
 &lt;p&gt;Ağırlıklı olarak retro bilgisayar-oyun konsol severlere yönelik kitaplar hazırlasalar da yine retro koleksiyon severlere yönelik Unofficial Micro Machines Collection gibi minyatür araba katalogları ve çizgi roman - manga türünden kitapları da yayına hazırlıyorlar.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Bitmap_Books.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/bitmap-books/images/Bitmap_Books.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Günümüzde özenerek hazırlanmış internet siteleri ciddi kullanıcı ve alıcıların gözünden kaçması mümkün olmuyor zaten. Bitmap Books’un internet sitesi de bu şekilde özenle hazırlanmış, satıştaki ürünlerin detaylı ve yüksek çözünürlüklü profesyonelce çekilmiş fotoğrafları ile alma niyeti oladan siteyi dolaşan kullanıcılarda bile alma isteği uyandırmayı başarabiliyor.&lt;/p&gt;</description>
     </item>
     <item>
@@ -25,11 +24,9 @@
       <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/assembly64/</guid>
       <description>&lt;p&gt;Ne zaman kendim yapmayı hayal ettiğim bir programı görsem hem şaşkınlığa uğrarım, hem de programcısına saygı duyarım. Assembly64’de bu tür programlardan biri.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Assembly64.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/assembly64/images/Assembly64.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Commodore 64 Scene Database (&lt;a href=&#34;https://csdb.dk/&#34;&gt;CsDB&lt;/a&gt;)’nin bir kopyasını bilgisayarda tutma imkanı vermesinin yanında ara ara güncellemesi scene dünyasından uzak kalınan zamanlarında telafisini sağlıyor. Java ile yazılan programın arama fonksiyonunun tam anlamıyla çalışabilmesi için 5€ bağış yapmak gerekiyor.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Assembly64-Installed-Hero.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/assembly64/images/Assembly64-Installed-Hero.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Kullanmaya başladığım zamandan beri neredeyse aradığım her demo’yu internetten indirme mecburiyeti kalmadan ulaşabildim. Bunun yanında HVSC’nin bir kopyası da bilgisayara yükleniyor, kimi demoların SID dosyaları da aynı klasör altından erişilebilir oluyor. Programın sabit sürücüde açacağı delik ise yaklaşık 28 GByte!&lt;/p&gt;</description>
     </item>
     <item>
@@ -38,8 +35,7 @@
       <pubDate>Mon, 28 Dec 2015 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/eskiden-hersey-ne-g%C3%BCzeldi/</guid>
       <description>&lt;p&gt;1987 yılbasında, soguk bir kıs günü eve giren Commodore 64 ile basladı hersey. Görüntü kablosu kocaman tüplü televizyona baglanır, oyunlar kasetten yüklenirdi. Degisik oyunları oynanırdı ailecek. (Çünkü tek televizyon olurdu evlerde) Hafta ici açılmazdı, çünkü okul vardı, hafta sonu iple çekilir, cuma gecesi bütün hafta hayali kurulan oyunlar heyecanla oynanırdı.&lt;/p&gt;
-&lt;p&gt;[caption id=&amp;ldquo;attachment_2748&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;1184&amp;rdquo;]&lt;img loading=&#34;lazy&#34; src=&#34;images/Steven_Vitale-Saturday_Morning.png&#34; alt=&#34;Steven_Vitale-Saturday_Morning&#34;  /&gt;
- Saturday Morning[/caption]&lt;/p&gt;
+&lt;p&gt;[caption id=&amp;ldquo;attachment_2748&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;1184&amp;rdquo;]&lt;img alt=&#34;Steven_Vitale-Saturday_Morning&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/eskiden-hersey-ne-g%C3%BCzeldi/images/Steven_Vitale-Saturday_Morning.png&#34;&gt; Saturday Morning[/caption]&lt;/p&gt;
 &lt;p&gt;Hersey ne güzeldi 1990&amp;rsquo;da 1991&amp;rsquo;de. &lt;a href=&#34;https://darkestnotes.org/2009/09/26/eski-bilgisayarlar-amiga/&#34;&gt;Amiga&lt;/a&gt; bilgisayar vardı. Beyaz ekranda Workbench disketi tutan bir el. Disket sürücüden tuhaf sesler çıkardı yükleme esnasında. Mavi pencereli GUI&amp;rsquo;si vardı, kendine özel karakterleri, ikonları. Bazı programlar ve oyunlar sadece 1 MByte RAM&amp;rsquo;de çalışırdı. &lt;a href=&#34;https://darkestnotes.org/2015/07/12/dergilerdergicilik/&#34;&gt;Dergilerden&lt;/a&gt; takip ederdik yeni çıkan oyunları, programları. MAC Adventure okurduk, eski oyunları yeniden oynardık.&lt;/p&gt;</description>
     </item>
     <item>
@@ -101,8 +97,7 @@
       <link>https://darkestnotes.org/posts/c64-laptop/</link>
       <pubDate>Tue, 07 Apr 2009 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/c64-laptop/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/c64.jpg&#34; alt=&#34;c64&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;c64&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/c64-laptop/images/c64.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Commodore 64 laptop designer looking for work. - &lt;a href=&#34;http://gadgets.boingboing.net/2009/04/06/commodore-64-laptop.html&#34;&gt;http://gadgets.boingboing.net/2009/04/06/commodore-64-laptop.html&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

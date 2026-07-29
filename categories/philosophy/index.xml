@@ -4,7 +4,7 @@
     <title>Philosophy on Darkest Notes</title>
     <link>https://darkestnotes.org/categories/philosophy/</link>
     <description>Recent content in Philosophy on Darkest Notes</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://darkestnotes.org/categories/philosophy/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,7 @@
       <link>https://darkestnotes.org/posts/erling-kagge-g%C3%BCr%C3%BClt%C3%BC-%C3%A7a%C4%9F%C4%B1nda-sessizlik/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/erling-kagge-g%C3%BCr%C3%BClt%C3%BC-%C3%A7a%C4%9F%C4%B1nda-sessizlik/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/02_erling-kagge.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/erling-kagge-g%C3%BCr%C3%BClt%C3%BC-%C3%A7a%C4%9F%C4%B1nda-sessizlik/images/02_erling-kagge.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Erling Kagge… Norveçli kâşif, koleksiyoner… Hem Everest’in zirvesine, hem Güney Kutbu’na, hem de Kuzey Kutbu’na yardımsız ulaşarak &lt;a href=&#34;https://en.wikipedia.org/wiki/Three_Poles_Challenge&#34;&gt;The Three Poles Challange&lt;/a&gt;’ı gerçekleştirebilen az sayıdaki insandan biri. Üstelik Güney Kutbu’nu keşfe tek başına çıkmış. 1996 yılında kurduğu &lt;strong&gt;Kagge Forlag&lt;/strong&gt; yayınevinin sahibi ve orada çalışıyor. Özenilecek bir hayat.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Gürültü Çağında Sessizlik&lt;/em&gt; kitabında sessizliği dinlemenin, sessizlik içinde oturabilmenin kıymetinden bahsediyor Erling Kagge. 50 gün süren ve tek başına gerçekleştirdiği Güney Kutbu yürüyüşünde bu durumu fazlasıyla deneyimlediğini hayal edebiliyorum.&lt;/p&gt;</description>
     </item>
@@ -23,8 +22,7 @@
       <link>https://darkestnotes.org/posts/the-long-dark/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/the-long-dark/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/TheLongDark.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/the-long-dark/images/TheLongDark.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The Long Dark değişik bir oyun. İlk bakışta bir hayatta kalma ve &amp;ldquo;&lt;em&gt;yürüme&lt;/em&gt;&amp;rdquo; simülatörü olarak görülebilir, ama öyle değil. Dünya yeni bir jeolojik çağa giriyor, uyum sağlayabilenler belki hayatta kalacak ama canlıların büyük bir bölümü yeryüzünden silindi veya silinmek üzere.&lt;/p&gt;
 &lt;p&gt;İşte böyle bir dünyada hayatta kalma mücadelesi veriliyor. Tamam en zor düzey olan interloper&amp;rsquo;da 5-10 gün bile hayatta kalabilmek çok zor ama en kolay düzey pilgrim&amp;rsquo;de ister 500, ister 1000 gün hayatta kaldıktan sonra kaçınılmaz son ile yüzleşmek durumundasınız. - &lt;strong&gt;&lt;em&gt;☠️ Ölüm☠️&lt;/em&gt;&lt;/strong&gt; - Çünkü kaynaklar tükeniyor, terk edilmiş evlerde bulunan bozuk yiyeceklerin yerine yenisi gelmiyor, avlanan tavşanların, geyiklerin, kurtların soyu zamanla tükeniyor, soğuktan korunmak, karı eritip su yapabilmek için yakacak bulamadığınız bir zaman geliyor ve başınızı ellerinizin arasına alıp kaçınılmaz sonu beklemekten başka yapacak bir şey kalmıyor.&lt;/p&gt;</description>
     </item>
@@ -64,7 +62,8 @@
       <pubDate>Mon, 13 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/atat%C3%BCrk/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Herhangi bir kimsenin yaşadıkça kıvançlı ve mutlu olması için gereken şey kendisi için değil, kendisinden sonra gelecekler için çalışmaktır. Hayatta tam zevk ve mutluluk ancak gelecek kuşakların onuru, varlığı ve mutluluğu için çalışmakta bulunur.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Herhangi bir kimsenin yaşadıkça kıvançlı ve mutlu olması için gereken şey kendisi için değil, kendisinden sonra gelecekler için çalışmaktır. Hayatta tam zevk ve mutluluk ancak gelecek kuşakların onuru, varlığı ve mutluluğu için çalışmakta bulunur.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;M.K. Atatürk, 1937&lt;/p&gt;</description>
     </item>
     <item>
@@ -73,7 +72,8 @@
       <pubDate>Sun, 17 Nov 2013 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/star-trek/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Gelişmiş zihinler basit oyunlar oynamaya ihtiyaç duyar.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Gelişmiş zihinler basit oyunlar oynamaya ihtiyaç duyar.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Star Trek, Shore Leave&lt;/p&gt;</description>
     </item>
     <item>
@@ -82,7 +82,8 @@
       <pubDate>Fri, 18 Oct 2013 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/mutluluk/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Yakın ilişkiler kurmaktan hoşlanan, işlerine kendisini veren, kendilerine ulaşılabilir hedefler koyan ve bu hedeflere doğru kararlılıkla ilerleyen insanlar diğer insanlara oranla daha mutludur.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Yakın ilişkiler kurmaktan hoşlanan, işlerine kendisini veren, kendilerine ulaşılabilir hedefler koyan ve bu hedeflere doğru kararlılıkla ilerleyen insanlar diğer insanlara oranla daha mutludur.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://evrimagaci.org/fotograf/73/4445/&#34;&gt;Mutluluk Nedir, Nelerden Etkilenir, Göreceli Midir?&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -91,7 +92,8 @@
       <pubDate>Sat, 04 May 2013 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/darwinden-dersime-cumhuriyet-ve-antropoloji/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Türkiye&amp;rsquo;de laik düşüncenin gelişiminde Dil ve Tarih-Coğrafya Fakültesi&amp;rsquo;nin ve Türk Tarih Kurumu&amp;rsquo;nun arkeolojik çalışmalarının ve kongrelerinin ayrı bir yeri oldu.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Türkiye&amp;rsquo;de laik düşüncenin gelişiminde Dil ve Tarih-Coğrafya Fakültesi&amp;rsquo;nin ve Türk Tarih Kurumu&amp;rsquo;nun arkeolojik çalışmalarının ve kongrelerinin ayrı bir yeri oldu.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://readmill.com/omerb/reads/darwinden-dersime-cumhuriyet-ve-antropoloji/highlights/mcavsa&#34;&gt;Highlighted by Omer Balamir&lt;/a&gt; in Darwin&amp;rsquo;den Dersim&amp;rsquo;e Cumhuriyet ve Antropoloji by Zafer Toprak&lt;/p&gt;</description>
     </item>
     <item>
@@ -100,7 +102,8 @@
       <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/ailenin-%C3%B6zel-m%C3%BClkiyetin-ve-devletin-k%C3%B6keni/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;…her ilerlemenin aynı zamanda görece bir gerileme olduğu çağı açar.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;…her ilerlemenin aynı zamanda görece bir gerileme olduğu çağı açar.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://readmill.com/omerb/reads/ailenin-ozel-mulkiyetin-ve-devletin-kokeni/highlights/cglkva&#34;&gt;Highlighted by Omer Balamir&lt;/a&gt; in Ailenin, Özel Mülkiyetin ve Devletin Kökeni by Friedrich Engels&lt;/p&gt;</description>
     </item>
     <item>
@@ -109,7 +112,8 @@
       <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/ailenin-%C3%B6zel-m%C3%BClkiyetin-ve-devletin-k%C3%B6keni/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;…Ve gerçekte siyasal denilen bütün devrimler, birincisinden sonuncusuna kadar, mülkiyetin, belirli türden mülkiyetin korunması için yapılmış, ve yine bir başka türden mülkiyetin zoralımı, başka bir deyişle, çalınmasıyla tamamlanmıştır.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;…Ve gerçekte siyasal denilen bütün devrimler, birincisinden sonuncusuna kadar, mülkiyetin, belirli türden mülkiyetin korunması için yapılmış, ve yine bir başka türden mülkiyetin zoralımı, başka bir deyişle, çalınmasıyla tamamlanmıştır.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://readmill.com/omerb/reads/ailenin-ozel-mulkiyetin-ve-devletin-kokeni/highlights/vt2jhw&#34;&gt;Highlighted by Omer Balamir&lt;/a&gt; in Ailenin, Özel Mülkiyetin ve Devletin Kökeni by Friedrich Engels&lt;/p&gt;</description>
     </item>
     <item>

@@ -4,7 +4,7 @@
     <title>Snow on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/snow/</link>
     <description>Recent content in Snow on Darkest Notes</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 19 Feb 2015 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://darkestnotes.org/tags/snow/index.xml" rel="self" type="application/rss+xml" />
@@ -27,8 +27,7 @@
       <link>https://darkestnotes.org/posts/snowing-and-pictures/</link>
       <pubDate>Mon, 16 Mar 2009 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/snowing-and-pictures/</guid>
-      <description>&lt;p&gt;Today i got some pictures while snowing. &lt;a href=&#34;http://twitpic.com/25sjw&#34;&gt;http://twitpic.com/25sjw&lt;/a&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/3629516.jpg&#34; alt=&#34;Snowing&#34;  /&gt;
-&lt;/p&gt;</description>
+      <description>&lt;p&gt;Today i got some pictures while snowing. &lt;a href=&#34;http://twitpic.com/25sjw&#34;&gt;http://twitpic.com/25sjw&lt;/a&gt;&lt;img alt=&#34;Snowing&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/snowing-and-pictures/images/3629516.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

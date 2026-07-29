@@ -4,7 +4,7 @@
     <title>Computer on Darkest Notes</title>
     <link>https://darkestnotes.org/categories/computer/</link>
     <description>Recent content in Computer on Darkest Notes</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 15 Feb 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://darkestnotes.org/categories/computer/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,7 @@
       <link>https://darkestnotes.org/posts/beosun-k%C4%B1sa-tarihi/</link>
       <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/beosun-k%C4%B1sa-tarihi/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/BeLogo-with-black-background.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/beosun-k%C4%B1sa-tarihi/images/BeLogo-with-black-background.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Jean-Louis Gassée 1990 yılında Apple&amp;rsquo;dan ayrıldıktan sonra Steve Jobs gibi kendi firmasını Be Inc. adıyla 1991 yılında kurdu. At&amp;amp;T tarafından geliştirilen RISC tabanlı &amp;ldquo;&lt;em&gt;Hobbit&lt;/em&gt;&amp;rdquo; isimli işlemciye sahip bir bilgisayar geliştirmekle kalmadı bu bilgisayar için bir işletim sistemi de hazırlamaya koyuldu. Bilgisayarın adı &lt;em&gt;&lt;strong&gt;BeBox&lt;/strong&gt;&lt;/em&gt; oldu ancak 1995 yılında AT&amp;amp;T Hobbit işlemcisini geliştirmeyi bıraktı ve Gassée&amp;rsquo;nin bilgisayar tasarımı yarı yolda kaldı.&lt;/p&gt;
 &lt;p&gt;[gallery columns=&amp;ldquo;1&amp;rdquo; size=&amp;ldquo;full&amp;rdquo; ids=&amp;ldquo;4031&amp;rdquo; justified_image_grid row_height=500]&lt;/p&gt;
 &lt;p&gt;Gassée kolay vaz geçen biri değildi, hemen bilgisayarını iki 66 Mhz hızında PowerPC 603 işlemcisi ile donattı, hazırladığı işletim sistemi de C ve C++ diliyle yazılmış olduğundan kolaylıkla yeni işlemciye uyarlandı ve BeBox 1996 yılı Ocak ayında kullanıcı ile buluştu. Bilgisayarı alanlar fazlasıyla memnun kaldılar üründen. Bilgisayar kasası üzerinde işlemci performansını gösteren &amp;ldquo;&lt;em&gt;blinkenlight&lt;/em&gt;&amp;rdquo; LED ışıklar, stabil, isometirk ikonlara sahip işletim sistemi herkesi fazlasıyla memnun etti.&lt;/p&gt;</description>
@@ -24,18 +23,15 @@
       <link>https://darkestnotes.org/posts/sound-blaster-pro/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/sound-blaster-pro/</guid>
-      <description>&lt;p&gt;IBM PC dünyası 90’lı yılların başından itibaren ses kartları ile tanıştı. 1987 yılında çıkan Adlib ve sonrasında ultra pahalı Roland MIDI modüllerinin ardından Creative piyasaya makul fiyat etiketli ve dijital ses efektleri sunabilen Sound Blaster ses kartları ile 1990 yılında girdi ve piyasaya 10 yıldan fazla bir süre hakim oldu.&lt;img loading=&#34;lazy&#34; src=&#34;images/Sound_Blaster_Pro2-Box-Win31_Label2.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Creative ses kartları içinde bence en önemlisi Sound Blaster Pro modelidir. Hem eskiyle uyumlu, hem stereo, hem güçlü OPL3 yongası hem de CD-ROM arabirimi ile 1991 yılında ortaya çıkar. O zamanın ev bilgisayarı Amiga ile hemen hemen aynı kalitede ses çıkışı verebilen bir karttır bu. Çıktığı dönem biraz problemlidir elbette. İlk sürümünde OPL3 yongası yerine stereo ses çıkışı için 2 adet YM3812 synthisizer chip bulundurur. O dönem piyasada Windows 3.0 olduğundan paketten çıkan yazılımlar Windows 3.0 için üretilmiştir. &lt;img loading=&#34;lazy&#34; src=&#34;images/Sound_Blaster_Pro-1991.jpg&#34; alt=&#34;https://www.retrogamingmuseum.com/the-collection/sound-blaster-pro-ct1330-1991&#34;  /&gt;
-Sonraki modellerde (Sound Blaster Pro2 olarak adlandırılan) gerçek OPL3 (YMF262) eklenir, 1992 yılında Windows 3.1 multimedia desteği ile çıkınca ses kartı ile bundle edilen Windows 3.0 programları işlevsiz kalır, kartın kutusu üzerine Windows 3.1 uyumludur ibaresi ile bir süre daha satılır. Sürücüler ve programlar Windows 3.1 için hazırlandıktan sonra kutu üzerine etiketle Windows 3.1 sürücülerinin eklendiği belirtilir.&lt;/p&gt;</description>
+      <description>&lt;p&gt;IBM PC dünyası 90’lı yılların başından itibaren ses kartları ile tanıştı. 1987 yılında çıkan Adlib ve sonrasında ultra pahalı Roland MIDI modüllerinin ardından Creative piyasaya makul fiyat etiketli ve dijital ses efektleri sunabilen Sound Blaster ses kartları ile 1990 yılında girdi ve piyasaya 10 yıldan fazla bir süre hakim oldu.&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/sound-blaster-pro/images/Sound_Blaster_Pro2-Box-Win31_Label2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Creative ses kartları içinde bence en önemlisi Sound Blaster Pro modelidir. Hem eskiyle uyumlu, hem stereo, hem güçlü OPL3 yongası hem de CD-ROM arabirimi ile 1991 yılında ortaya çıkar. O zamanın ev bilgisayarı Amiga ile hemen hemen aynı kalitede ses çıkışı verebilen bir karttır bu. Çıktığı dönem biraz problemlidir elbette. İlk sürümünde OPL3 yongası yerine stereo ses çıkışı için 2 adet YM3812 synthisizer chip bulundurur. O dönem piyasada Windows 3.0 olduğundan paketten çıkan yazılımlar Windows 3.0 için üretilmiştir. &lt;img alt=&#34;https://www.retrogamingmuseum.com/the-collection/sound-blaster-pro-ct1330-1991&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/sound-blaster-pro/images/Sound_Blaster_Pro-1991.jpg&#34;&gt;Sonraki modellerde (Sound Blaster Pro2 olarak adlandırılan) gerçek OPL3 (YMF262) eklenir, 1992 yılında Windows 3.1 multimedia desteği ile çıkınca ses kartı ile bundle edilen Windows 3.0 programları işlevsiz kalır, kartın kutusu üzerine Windows 3.1 uyumludur ibaresi ile bir süre daha satılır. Sürücüler ve programlar Windows 3.1 için hazırlandıktan sonra kutu üzerine etiketle Windows 3.1 sürücülerinin eklendiği belirtilir.&lt;/p&gt;</description>
     </item>
     <item>
       <title>IBMulator</title>
       <link>https://darkestnotes.org/posts/ibmulator/</link>
       <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/ibmulator/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/IBMulator-PS1_Realistic_View.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/ibmulator/images/IBMulator-PS1_Realistic_View.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Soğuk kış günlerinde evde otururken nedense aklıma 1991 yılı sonu 1992 yılı başlarındaki soğuk bir kış gününde babamla IBM PS/1 bakmaya gittiğimiz gün geldi. Commodore 64 sonrası geleceğe dönük bir bilgisayar alma düşüncesi ile Amiga mı yoksa PC uyumlu bilgisayar mı alalım diye düşünürken TV&amp;rsquo;de reklamlarını gördüğümüz IBM PS/1 modeli neyin nesiymiş bakmaya gitmiştik soğuk bir Cumartesi akşam üzeri.&lt;/p&gt;
 &lt;p&gt;Mağaza sahibi bizimle fazlasıyla ilgilenmiş, oğlu hemen teşhirdeki ürünü kullanıma hazır hale getirmişti. Bilgisayar boot ederken hoparlöründen gelen &amp;ldquo;&lt;em&gt;beep-blüp&lt;/em&gt;&amp;rdquo; sesleri ve sonrasında 640x480x16 renkli ekranına gelen 4-Quadrant ile bizi orada büyülemişti bilgisayar. 640x480 çözünürlüklü renkli grafikler o zamanlar için günümüzün 4k teknolojisi gibi birşeydi. Yalnız anlaşılan şuydu ki IBM elinde kalan eski model PS/1&amp;rsquo;leri yeni modelleri çıkarmadan önce Türkiye&amp;rsquo;de satabilme çabasında idi. 1990 yılında üretilen ve 1991 yılının hemen başında Amerika ve Avrupa&amp;rsquo;da satılan bu ilk PS/1 modelleri &amp;ldquo;&lt;strong&gt;&lt;em&gt;5 Dakika ve İşin İçindesiniz&lt;/em&gt;&lt;/strong&gt;&amp;rdquo; gibi bir sloganla PC kullanmaya çekinen kitleleri PC dünyasına çekebilmek için üretilmişti. Zaten bu 4 quadrant hikayesi de Macintosh&amp;rsquo;un grafik kullanıcı arabiriminin benzerini PC dünyasına taşıma çabasıydı. Neyse sonuçta bu bilgisayarlar fazlasıyla eski bir teknolojiye sahipti. Türkiye&amp;rsquo;ye gelen 4 model 80286-10 MhZ işlemcili, renkli-renksiz ekranlı ve 30 MByte HDD&amp;rsquo;li, HDD&amp;rsquo;siz modellerden oluşuyordu. Sonuçta Türkiye&amp;rsquo;de bu cihazlardan kaç adet satıldı ne oldu bilemiyorum ama sonraki model PS/1&amp;rsquo;lerin hiçbiri Türkiye&amp;rsquo;ye gelmedi onu biliyorum. Dükkanda teşhirde incelediğim model HDD&amp;rsquo;si olmayan bir modeldi, HDD&amp;rsquo;li olsa belki o gün orada satın alınırdı ama almadık.&lt;/p&gt;</description>
     </item>
@@ -44,8 +40,7 @@ Sonraki modellerde (Sound Blaster Pro2 olarak adlandırılan) gerçek OPL3 (YMF2
       <link>https://darkestnotes.org/posts/creative-sound-blasterx-g6/</link>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/creative-sound-blasterx-g6/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Sound_BlasterX-G6-Logo.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/creative-sound-blasterx-g6/images/Sound_BlasterX-G6-Logo.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;2003-2004 yıllarından sonra anakart üzerinde gelen ses yongaları yeteneklerini fazlasıyla artırınca, ses kartları hobi amaçlı kullanılan pahalı oyuncaklar haline dönüşmeye başladı. Creative Sound Blaster Live! serisinden sonra çıkardığı Audigy serisinde istediği başarıyı yakalayamadı ve bilgisayar dünyası uzunca bir süre anakart üzerindeki onboard ses çözümlerine mahkum oldu.&lt;/p&gt;
 &lt;p&gt;Son yıllarda artmaya başlayan yüksek kaliteli müzik dinleme isteği ile ses kartı ve DAC piyasasında gözle görülür bir hareketlenme yaşanıyor. Geçen yıl kullandığım &lt;a href=&#34;https://darkestnotes.org/?p=3227&#34;&gt;Audioquest&lt;/a&gt;&amp;lsquo;in DAC&amp;rsquo;larının müzik dosyaları için ideal ancak oyunlar için fazlasıyla yetersiz olduğunu gördüğümden bir süredir her iki amaca uygun kullanımı olan birşeyler aramaya başladım. Ancak Hi-Res müzik dünyasında maalesef böyle donanım bulabilmenin mümkün olmadığını görmem çok zaman almadı. Müzik konusunu ayrı, oyunlardaki ses efektleri konusunu ayrı değerlendirmek gerekiyor.&lt;/p&gt;</description>
     </item>
@@ -54,19 +49,16 @@ Sonraki modellerde (Sound Blaster Pro2 olarak adlandırılan) gerçek OPL3 (YMF2
       <link>https://darkestnotes.org/posts/dead-pixel/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/dead-pixel/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/A6BE6E88-F227-41C8-941E-388D507CE33A.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/dead-pixel/images/A6BE6E88-F227-41C8-941E-388D507CE33A.png&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>MacBook (Early 2015)</title>
       <link>https://darkestnotes.org/posts/macbook-early-2015/</link>
       <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/macbook-early-2015/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/MacBook-Space_Grey.jpeg&#34; alt=&#34;MacBook-Space_Grey&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;MacBook-Space_Grey&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/macbook-early-2015/images/MacBook-Space_Grey.jpeg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Başka birşeyler almak için girdiğim teknoloji markette vakit geçirmek için dolandığım sırada, Apple ürünlerini incelerken gördüm geçtiğimiz yılın ilk çeyreğinde çıkan MacBook modelini. Nisan ayında ilk çıktığı zaman beğenmiş, incelemiş, almayı düşünmüş ancak fiyatı çok yüksek olduğundan ertelemiştim.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/b_86829.jpg&#34; alt=&#34;b_86829&#34;  /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;b_86829&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/macbook-early-2015/images/b_86829.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;İncelemelerden okuduğum kadarıyla en büyük yeniliği klavyesinde taşıyordu. İlk bu özelliğini denemek için tuşlara dokunduğum an vuruldum. Düz, fazla çıkıntılı olmayan, bununla birlikte önceki modellere göre daha büyük tasarlanmış tuşlar. &lt;em&gt;Butterfly Mechanism&lt;/em&gt; diye adlandırmış Apple, tuşa basma hissi çok çok farklı ve keyifli bir deneyim sunuyor.&lt;/p&gt;</description>
     </item>
     <item>
@@ -75,8 +67,7 @@ Sonraki modellerde (Sound Blaster Pro2 olarak adlandırılan) gerçek OPL3 (YMF2
       <pubDate>Mon, 28 Dec 2015 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/eskiden-hersey-ne-g%C3%BCzeldi/</guid>
       <description>&lt;p&gt;1987 yılbasında, soguk bir kıs günü eve giren Commodore 64 ile basladı hersey. Görüntü kablosu kocaman tüplü televizyona baglanır, oyunlar kasetten yüklenirdi. Degisik oyunları oynanırdı ailecek. (Çünkü tek televizyon olurdu evlerde) Hafta ici açılmazdı, çünkü okul vardı, hafta sonu iple çekilir, cuma gecesi bütün hafta hayali kurulan oyunlar heyecanla oynanırdı.&lt;/p&gt;
-&lt;p&gt;[caption id=&amp;ldquo;attachment_2748&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;1184&amp;rdquo;]&lt;img loading=&#34;lazy&#34; src=&#34;images/Steven_Vitale-Saturday_Morning.png&#34; alt=&#34;Steven_Vitale-Saturday_Morning&#34;  /&gt;
- Saturday Morning[/caption]&lt;/p&gt;
+&lt;p&gt;[caption id=&amp;ldquo;attachment_2748&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;1184&amp;rdquo;]&lt;img alt=&#34;Steven_Vitale-Saturday_Morning&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/eskiden-hersey-ne-g%C3%BCzeldi/images/Steven_Vitale-Saturday_Morning.png&#34;&gt; Saturday Morning[/caption]&lt;/p&gt;
 &lt;p&gt;Hersey ne güzeldi 1990&amp;rsquo;da 1991&amp;rsquo;de. &lt;a href=&#34;https://darkestnotes.org/2009/09/26/eski-bilgisayarlar-amiga/&#34;&gt;Amiga&lt;/a&gt; bilgisayar vardı. Beyaz ekranda Workbench disketi tutan bir el. Disket sürücüden tuhaf sesler çıkardı yükleme esnasında. Mavi pencereli GUI&amp;rsquo;si vardı, kendine özel karakterleri, ikonları. Bazı programlar ve oyunlar sadece 1 MByte RAM&amp;rsquo;de çalışırdı. &lt;a href=&#34;https://darkestnotes.org/2015/07/12/dergilerdergicilik/&#34;&gt;Dergilerden&lt;/a&gt; takip ederdik yeni çıkan oyunları, programları. MAC Adventure okurduk, eski oyunları yeniden oynardık.&lt;/p&gt;</description>
     </item>
     <item>
@@ -84,8 +75,7 @@ Sonraki modellerde (Sound Blaster Pro2 olarak adlandırılan) gerçek OPL3 (YMF2
       <link>https://darkestnotes.org/posts/windows-10/</link>
       <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/windows-10/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://d.pr/i/10xr5&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/10xr5&amp;#43;&#34; alt=&#34;&#34;  /&gt;
-&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;http://d.pr/i/10xr5&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/10xr5+&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Microsoft&amp;rsquo;un işletim sistemlerinin telefon, tablet ve bilgisayarlarda tek bir sürüm şeklinde yapılamayacağını yavaş yavaş anlıyor olduğunu göstererek yazılım dünyasında yerini alan ücretsiz işletim sistemi. Aynı sıkıntıyı zamanında Apple&amp;rsquo;da yaşadı, bir taşla üç kuş vurabilir miyiz dediler ama olmayacağını gördüler.&lt;/p&gt;
 &lt;p&gt;Elbette telefon, tablet ve bilgisayar işletim sistemlerinde kullanıcı deneyimini kolaylaştıracak benzerlikler olmalı. Birini kullanan diğerlerini de kolaylıkla kullanabilmeli, UX’in (&lt;em&gt;kullanıcı deneyimi&lt;/em&gt;) bu şekilde geliştirilmesi gerekir.&lt;/p&gt;
 &lt;p&gt;Windows 8.1 bunun tam tersi idi, tablet işletim sistemini bilgisayara uyarlamaya çalıştılar ve her şey karıştı. Windows 10 bu kapsamda ileriye doğru atılan bir adım gibi. Hala karışık çok şey var ancak bir önceki sürüme göre daha derli toplu.&lt;/p&gt;</description>
@@ -126,8 +116,7 @@ Sonraki modellerde (Sound Blaster Pro2 olarak adlandırılan) gerçek OPL3 (YMF2
       <link>https://darkestnotes.org/posts/windows-8.1/</link>
       <pubDate>Thu, 19 Dec 2013 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/windows-8.1/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/6nzX&amp;#43;&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/6nzX+&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Yılbaşı tatiline girmemle birlikte boş zamanımı değerlendirme amacıyla bilgisayar oyunları oynayabileceğimi düşünerek yaz aylarında yenilediğim bilgisayarıma Windows yüklemeye karar verdim. OS X’e o kadar çok alıştımki Windows yüklemeyi hiç düşünmememe karşın bazı oyunları oynayabilmek için mecburen tatilim başlamadan hemen önce Windows 8.1 satın aldım. Tatilimin ilk saatleri, retina ekranlı MacBook Pro’ma Windows 8.1 kurmakla başlamış oldu.&lt;/p&gt;
 &lt;p&gt;Karşılaşılan ilk güçlük MacBook Pro’da DVD sürücü olmamasından kaynaklandı. Eski MacBook’umun DVD sürücüsünden faydalanarak Windows 8.1 DVD’sinin imajını almayı başardım. Ancak imajın hem Mac OS X hem Windows ortamında sorunsuz çalışabilmesi için kara büyülü Terminal komutlarından faydalandım.&lt;/p&gt;</description>
     </item>
@@ -136,9 +125,7 @@ Sonraki modellerde (Sound Blaster Pro2 olarak adlandırılan) gerçek OPL3 (YMF2
       <link>https://darkestnotes.org/posts/macbook-pro-with-retina-display-early-2013/</link>
       <pubDate>Sat, 03 Aug 2013 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/macbook-pro-with-retina-display-early-2013/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/pZ3r&amp;#43;&#34; alt=&#34;&#34;  /&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/aSI5&amp;#43;&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/pZ3r+&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/aSI5+&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Yeni aldığım 15.4&amp;quot; Retina MacBook Pro’yu test etmekle meşgulum. Teknik özellikleri şu şekilde sıralayabilirim.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;2.4 GHz quad-core iNtel Core i7 CPU&lt;/li&gt;
@@ -158,8 +145,7 @@ Sonraki modellerde (Sound Blaster Pro2 olarak adlandırılan) gerçek OPL3 (YMF2
       <link>https://darkestnotes.org/posts/a-sad-picture-of-dennis-m.-ritchie-1941-2011/</link>
       <pubDate>Sat, 18 May 2013 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/a-sad-picture-of-dennis-m.-ritchie-1941-2011/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/sGO3&amp;#43;&#34; alt=&#34;image&#34;  /&gt;
-&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://d.pr/i/sGO3+&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Crappy Computers</title>
@@ -182,8 +168,7 @@ Sonraki modellerde (Sound Blaster Pro2 olarak adlandırılan) gerçek OPL3 (YMF2
       <link>https://darkestnotes.org/posts/gog-os-x/</link>
       <pubDate>Sun, 21 Oct 2012 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/gog-os-x/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_mc9bssHXgj1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/gog-os-x/images/tumblr_mc9bssHXgj1qztw2k.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Eski DOS oyunlarını OS X&amp;rsquo;de oynamak DOSBox için yazılmış &lt;a href=&#34;http://boxerapp.com&#34;&gt;Boxer&lt;/a&gt; gibi arabirimler sayesinde çok zor olmuyordu. Bununla birlikte &lt;a href=&#34;http://www.gog.com&#34;&gt;GOG.com&lt;/a&gt;‘dan satın aldığım oyunları install etmek için öncelikle Windows&amp;rsquo;a geçmem daha sonra dosyaları OS X&amp;rsquo;e aktarmam gerekirdi.&lt;/p&gt;
 &lt;p&gt;GOG.com artık DOS oyunlarını tek bir tıklama ile çalıştırılabilecek paketler halinde OS X için de satmaya başladı. Çok fazla oyunu deneme imkanım olmadı ama Boxer&amp;rsquo;ın sağladığı stabil platform sayesinde eski DOS oyunlarını Windows&amp;rsquo;a dönmeden rahatlıkla OS X&amp;rsquo;de oynayabilmek artık mümkün.&lt;/p&gt;</description>
     </item>
@@ -193,7 +178,8 @@ Sonraki modellerde (Sound Blaster Pro2 olarak adlandırılan) gerçek OPL3 (YMF2
       <pubDate>Thu, 20 Sep 2012 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/computer-crimes/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;If you want to engage in computer crime, don’t waste your time developing ninja level hacking skills, because computers are not the weak point. People are.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;If you want to engage in computer crime, don’t waste your time developing ninja level hacking skills, because computers are not the weak point. People are.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.codinghorror.com/blog/2012/09/computer-crime-then-and-now.html&#34;&gt;Computer Crime, Then and Now&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -208,8 +194,7 @@ Sonraki modellerde (Sound Blaster Pro2 olarak adlandırılan) gerçek OPL3 (YMF2
       <link>https://darkestnotes.org/posts/steve-jobs/</link>
       <pubDate>Thu, 06 Oct 2011 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/steve-jobs/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_lsnut3G1La1qztw2k.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/steve-jobs/images/tumblr_lsnut3G1La1qztw2k.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;1986 yılında bir bilgisayar dergisini karıştırırken gördüğüm bu fotoğrafla tanıdım Steve Jobs&amp;rsquo;u. Bir garajda, ceplerinde hiç paraları olmadan, çeşitli bilgisayar parçalarını birleştirerek Steve Wozniak ile birlikte Apple&amp;rsquo;ı kurduklarını öğrenmek 10 yaşında bir çocuk için çok heyecan vericiydi.&lt;/p&gt;
 &lt;p&gt;Evdeki Commodore 64, bu fotoğraf sonrasında sadece oyun oynadığım, Basic ile ufak tefek programlar yazdığım bir bilgisayar olmaktan çıkmıştı. Onun nasıl çalıştığını anlamama, bozup, tamir etmeme, soketli chipleri değiştirerek yeni şeyler denememe bu fotoğraf sebep olmuştu. Doğrudan CPU&amp;rsquo;ya ulaşabilmek için Assembly, sistemi programlayabilmek için Pascal, kullanıcı arabirimli düzgün programlar yazabilmek için  C, Turbo C ve C++ öğrenmemi, iyi bilgisayar kullanabilmenin yolunun işletim sistemlerinin en gizli özelliklerini bilmekten geçtiğini bu fotoğraf sayesinde öğrendim.&lt;/p&gt;</description>
     </item>
@@ -218,8 +203,7 @@ Sonraki modellerde (Sound Blaster Pro2 olarak adlandırılan) gerçek OPL3 (YMF2
       <link>https://darkestnotes.org/posts/windows-8-bsod/</link>
       <pubDate>Thu, 15 Sep 2011 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/windows-8-bsod/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_lrkohthP421qztw2k.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/windows-8-bsod/images/tumblr_lrkohthP421qztw2k.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Windows 8 önceki sürümlerine göre en önemli gelişmeyi BSOD ekranında gerçekleştirmiş gibi görünüyor. Daha sevimli ve kullanıcı dostu (!) bir hata ekranı. Windows 8&amp;rsquo;de geliştirilen birşeyler olduğunu görmek güzel…&lt;/p&gt;</description>
     </item>
     <item>
@@ -227,8 +211,7 @@ Sonraki modellerde (Sound Blaster Pro2 olarak adlandırılan) gerçek OPL3 (YMF2
       <link>https://darkestnotes.org/posts/notebook-backpack/</link>
       <pubDate>Thu, 11 Aug 2011 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/notebook-backpack/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_lps1197Ydv1qztaweo1_250.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/notebook-backpack/images/tumblr_lps1197Ydv1qztaweo1_250.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Notebook Backpack by Omer Balamir&lt;/p&gt;</description>
     </item>
     <item>
@@ -261,7 +244,8 @@ Sonraki modellerde (Sound Blaster Pro2 olarak adlandırılan) gerçek OPL3 (YMF2
       <pubDate>Sat, 12 Feb 2011 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/programming/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;If BASIC programming was like putting together an Airfix aeroplane kit with ready-made plastic parts, assembly-code programming was more like building a model suspension bridge from matchsticks.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;If BASIC programming was like putting together an Airfix aeroplane kit with ready-made plastic parts, assembly-code programming was more like building a model suspension bridge from matchsticks.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.guardian.co.uk&#34;&gt;www.guardian.co.uk&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -290,7 +274,8 @@ Sonraki modellerde (Sound Blaster Pro2 olarak adlandırılan) gerçek OPL3 (YMF2
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://and.rw/post/1215390063/10years&#34;&gt;ajdesign&lt;/a&gt;:&lt;/p&gt;
 &lt;p&gt;There is great truth in beauty.&lt;/p&gt;
-&lt;p&gt;(via &lt;a href=&#34;http://log.ianhines.com/2010/12/10-years-later/&#34;&gt;Ian Hines&lt;/a&gt;)&lt;/p&gt;&lt;/blockquote&gt;</description>
+&lt;p&gt;(via &lt;a href=&#34;http://log.ianhines.com/2010/12/10-years-later/&#34;&gt;Ian Hines&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Web Designers vs Developers</title>
@@ -313,8 +298,7 @@ Sonraki modellerde (Sound Blaster Pro2 olarak adlandırılan) gerçek OPL3 (YMF2
       <link>https://darkestnotes.org/posts/c64-laptop/</link>
       <pubDate>Tue, 07 Apr 2009 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/c64-laptop/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/c64.jpg&#34; alt=&#34;c64&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;c64&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/c64-laptop/images/c64.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Commodore 64 laptop designer looking for work. - &lt;a href=&#34;http://gadgets.boingboing.net/2009/04/06/commodore-64-laptop.html&#34;&gt;http://gadgets.boingboing.net/2009/04/06/commodore-64-laptop.html&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -322,8 +306,7 @@ Sonraki modellerde (Sound Blaster Pro2 olarak adlandırılan) gerçek OPL3 (YMF2
       <link>https://darkestnotes.org/posts/the-lego-mac-computer/</link>
       <pubDate>Mon, 16 Feb 2009 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/the-lego-mac-computer/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.omrb.org/wp-content/uploads/2009/02/Lego_Mac.jpeg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Lego_Mac-1024x683.jpeg&#34; alt=&#34;Lego_Mac&#34;  /&gt;
-&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.omrb.org/wp-content/uploads/2009/02/Lego_Mac.jpeg&#34;&gt;&lt;img alt=&#34;Lego_Mac&#34; loading=&#34;lazy&#34; src=&#34;images/Lego_Mac-1024x683.jpeg&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wakoopa</title>
@@ -337,8 +320,7 @@ Sonraki modellerde (Sound Blaster Pro2 olarak adlandırılan) gerçek OPL3 (YMF2
       <link>https://darkestnotes.org/posts/windows-vista-capable/</link>
       <pubDate>Fri, 04 May 2007 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/windows-vista-capable/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mhlreq1AkM1qz4rgp.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/windows-vista-capable/images/tumblr_inline_mhlreq1AkM1qz4rgp.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;HP Compaq NX6110 Notebook bilgisayarımı bundan tam 2 yıl önce bugün almıştım. Aldığım zaman giriş seviyesi en ucuz notebook bilgisayarlardan biriydi. Sanırım 999 $+KDV gibi bir fiyata almıştım. Zaman içinde 256 MByte bellek ekleyerek hafızasını 512 MByte&amp;rsquo;a çıkardım. Celeron 1.4 Ghz işlemcili, i915 Chipsetli basit bir notebook anlayacağınız.&lt;/p&gt;
 &lt;p&gt;Ancak bu notebook bilgisayara aslında Windows Vista Capable etiketi yapıştırılabilir. i915 chipsetine sahip bilgisayarlar halen satılıyor ve Windows Vista Capable etiketi taşıyorlar. Windows Vista&amp;rsquo;yı en basit haliyle çalıştırabilir anlamına gelen bu etikete göre en azından 800 Mhz güce sahip bir işlemci + 512 MByte RAM ve DirectX 9 uyumlu bir grafik kartı ile Aero gibi özellikleri kullanmadan en basit haliyle Windows Vista&amp;rsquo;yı (Windows Vista Basic) çalıştırabilirsiniz.&lt;/p&gt;</description>
     </item>
@@ -347,8 +329,7 @@ Sonraki modellerde (Sound Blaster Pro2 olarak adlandırılan) gerçek OPL3 (YMF2
       <link>https://darkestnotes.org/posts/windows-vista/</link>
       <pubDate>Sun, 29 Apr 2007 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/windows-vista/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mhlrgvZ9bR1qz4rgp.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/windows-vista/images/tumblr_inline_mhlrgvZ9bR1qz4rgp.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Windows Vista™ yenilik olarak neler getiriyor ? Bunları madde madde sıralamak mümkün, ancak göze çarpan ilk değişiklik görsellikte. Masaüstü ikonları, pencerelerin görünümü vb…&lt;/p&gt;
 &lt;p&gt;Bilgisayarınıza yükleyip kullanmaya başladığınızda bu yeni görünümden etkilenmemek mümkün değil. Bilgisayarda yapacak işiniz olmasa bile Windows Vista™ ile uğraşmak, yeni neler var acaba diyerek saatler boyunca bilgisayarınızın başından kalkamıyorsunuz… Ancak belli bir süre Windows Vista&amp;rsquo;yı kullandıktan sonra gözünüz bu yeniliklere alışıyor, bu yeni görünümün aslında sistem kaynaklarınızın ne kadar büyük bir kısmını tükettiğini fark ediyorsunuz. Performans gerektiren işlemlerde Windows Vista&amp;rsquo;nın nasıl şiştiğini (!) bizzat farkediyorsunuz.&lt;/p&gt;</description>
     </item>
@@ -357,8 +338,7 @@ Sonraki modellerde (Sound Blaster Pro2 olarak adlandırılan) gerçek OPL3 (YMF2
       <link>https://darkestnotes.org/posts/beos-r5/</link>
       <pubDate>Wed, 15 Nov 2006 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/beos-r5/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_inline_mhlscl8w3K1qz4rgp.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/beos-r5/images/tumblr_inline_mhlscl8w3K1qz4rgp.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;BeOS, BeBox adını taşıyan bilgisayarlar için üretilmişti. Görsel olarak ünik ve dikkat çekici olan BeOS&amp;rsquo;un 90&amp;rsquo;ların ikinci yarısında Apple MacOS&amp;rsquo;un yerini alacağı düşünülmüştü. Hesaplar tutmadı, BeOS yalnız ve terkedilmiş olarak bir kenara bırakıldı.&lt;/p&gt;
 &lt;p&gt;Günümüzde BeOS&amp;rsquo;u yeniden canlandıran YellowTab isimli firma, işletim sistemini günümüz donanım ve yazılım kriterlerine uygun hale getirerek yeniden piyasaya sundu. 80 ile 120 $ arası fiyatlarda satılan bu yeni BeOS, Zeta ismiyle öncekinden ayrılıyor.&lt;/p&gt;
 &lt;p&gt;BeOS ile ilgili detaylı bilgi edinmek için ;&lt;/p&gt;</description>
@@ -368,8 +348,7 @@ Sonraki modellerde (Sound Blaster Pro2 olarak adlandırılan) gerçek OPL3 (YMF2
       <link>https://darkestnotes.org/posts/windows-vista/</link>
       <pubDate>Fri, 20 Oct 2006 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/windows-vista/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Desktop.jpg&#34; alt=&#34;Desktop&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;Desktop&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/windows-vista/images/Desktop.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Şu an laptopumda Windows Vista RC1 Build 5600 kullanıyorum. Genel olarak stabil çalışıyor, herhangi bir problemle karşılaşmama karşın performans oldukça düşük. Yeni özelliklerden bazıları çok güzel. Mesela Sidebar ve gadget sistemi güzel… (Bunlar Yahoo! Widgets olarak vardı önceden) İşletim sistemine entegre edilmiş olması hoş.&lt;/p&gt;
 &lt;p&gt;Internet Explorer 7 ve Media Player 10 ise tam bir felaket bence, sonuçta beta sürüm elbette performans problemleri olacaktır ama sistemin kaynaklarını resmen tüketiyorlar…&lt;/p&gt;</description>
     </item>

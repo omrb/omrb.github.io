@@ -4,7 +4,7 @@
     <title>Comics on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/comics/</link>
     <description>Recent content in Comics on Darkest Notes</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 28 Jan 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://darkestnotes.org/tags/comics/index.xml" rel="self" type="application/rss+xml" />
@@ -13,16 +13,14 @@
       <link>https://darkestnotes.org/posts/my-peanuts-character/</link>
       <pubDate>Thu, 28 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/my-peanuts-character/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Peanuts_Character_Small.png&#34; alt=&#34;Peanuts_Character&#34;  /&gt;
-&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img alt=&#34;Peanuts_Character&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/my-peanuts-character/images/Peanuts_Character_Small.png&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Essential Spider-Man</title>
       <link>https://darkestnotes.org/posts/essential-spider-man/</link>
       <pubDate>Tue, 29 Sep 2015 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/essential-spider-man/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://d.pr/i/11gxU&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/11gxU&amp;#43;&#34; alt=&#34;&#34;  title=&#34;Essential Logo&#34;  /&gt;
-&lt;/a&gt; Herşey 2000&amp;rsquo;li yılların başında yeni Spider-Man filmlerinin yapılmasıyla başladı. Popülaritesi azalan, yeni neslin okumadığı bir süper kahramanın çağa uyarlanan filminin yapılması ile tekrar popüler hale getirilmesi amaçlandı. Başarılı da oldu, Spider-Man tekrar popüler olmayı başardı.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;http://d.pr/i/11gxU&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/11gxU+&#34; title=&#34;Essential Logo&#34;&gt;&lt;/a&gt; Herşey 2000&amp;rsquo;li yılların başında yeni Spider-Man filmlerinin yapılmasıyla başladı. Popülaritesi azalan, yeni neslin okumadığı bir süper kahramanın çağa uyarlanan filminin yapılması ile tekrar popüler hale getirilmesi amaçlandı. Başarılı da oldu, Spider-Man tekrar popüler olmayı başardı.&lt;/p&gt;
 &lt;p&gt;Bunu fırsat bilen &lt;a href=&#34;http://marvel.com/&#34; title=&#34;Marvel.com&#34;&gt;Marvel&lt;/a&gt; boş durmadı tabi, süper kahramanın çizgi romanının en çok tutan serilerini ilk sayısından itibaren ciltler halinde siyah-beyaz olarak tekrar yayınlamaya başladı. Essential adı ile markalaştırılan bu ciltli serilerde hedef kitle filmlerin hayranı genç nesil değil, benim gibi Spider-Man&amp;rsquo;in klasik dönemini (yaklaşık 1975-1990) arası takip eden nispeten daha yaşlı hayranlardı.&lt;/p&gt;</description>
     </item>
   </channel>

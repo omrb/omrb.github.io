@@ -4,7 +4,7 @@
     <title>Coding on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/coding/</link>
     <description>Recent content in Coding on Darkest Notes</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 11 Dec 2015 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://darkestnotes.org/tags/coding/index.xml" rel="self" type="application/rss+xml" />
@@ -24,8 +24,7 @@
       <guid>https://darkestnotes.org/posts/macos-x-lion-hakk%C4%B1nda-birka%C3%A7-not/</guid>
       <description>&lt;p&gt;Yeni MacOS sürümü Lion&amp;rsquo;ın piyasaya çıkmasına günler kala göze çarpan değişiklikler hakkında aldığım notlar…&lt;/p&gt;
 &lt;p&gt;- Login ekranı yenilenmiş, aslında boot ekranındaki Apple logosunun devamı şeklinde yapılabilse estetik açıdan çok daha şık gözükebilirdi…&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tumblr_lohbjsoF0K1qztw2k.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/macos-x-lion-hakk%C4%B1nda-birka%C3%A7-not/images/tumblr_lohbjsoF0K1qztw2k.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;- Finder&amp;rsquo;da sidebar ikonları değiştirilmiş. Pencereler daha akıcı animasyonlar ile açılıyor.&lt;/p&gt;
 &lt;p&gt;-LaunchPad, bilgisayarınıza yüklü uygulamaların tümünü iPad (iOS) benzeri bir şekilde ekranda gösterilmesini sağlıyor.&lt;/p&gt;
 &lt;p&gt;-Reverse Scrolling, TrackPad&amp;rsquo;de yukarı-aşağı scroll&amp;rsquo;un yönü değiştirilmiş, iOS&amp;rsquo;da olduğu gibi yapılmış. Ben alışamadaım, doğrudan eski seçeneğe döndüm.&lt;/p&gt;</description>
@@ -36,7 +35,8 @@
       <pubDate>Sat, 12 Feb 2011 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/programming/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;If BASIC programming was like putting together an Airfix aeroplane kit with ready-made plastic parts, assembly-code programming was more like building a model suspension bridge from matchsticks.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;If BASIC programming was like putting together an Airfix aeroplane kit with ready-made plastic parts, assembly-code programming was more like building a model suspension bridge from matchsticks.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.guardian.co.uk&#34;&gt;www.guardian.co.uk&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -52,8 +52,7 @@
       <link>https://darkestnotes.org/posts/apple-html5-demo-page/</link>
       <pubDate>Fri, 04 Jun 2010 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/apple-html5-demo-page/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Apple-HTML5-Demo-Page.jpg#center&#34; alt=&#34;HTML5 Demo Pages&#34;  /&gt;
-&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img alt=&#34;HTML5 Demo Pages&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/apple-html5-demo-page/images/Apple-HTML5-Demo-Page.jpg#center&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

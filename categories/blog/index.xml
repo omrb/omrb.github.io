@@ -4,10 +4,18 @@
     <title>Blog on Darkest Notes</title>
     <link>https://darkestnotes.org/categories/blog/</link>
     <description>Recent content in Blog on Darkest Notes</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 12 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://darkestnotes.org/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Long Time No See 2</title>
+      <link>https://darkestnotes.org/posts/long-time-no-see-2/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/long-time-no-see-2/</guid>
+      <description>&lt;p&gt;Darkest Notes blog&amp;rsquo;uma birşeyler yazmayalı Uzun zaman oldu dememin üzerinden 1 yılı aşkın zaman geçmiş. Fırsat bulamamaktan çok Hugo&amp;rsquo;yu kullanmak sanki biraz zor geliyor bana, sanki yazdığım her post sonrasında tüm site internete yeniden upload edilecekmiş gibi düşünüyorum, ancak öyle birşey yok tabi.&lt;/p&gt;
+&lt;p&gt;Yazılabilecek çok şey var tabi, Hugo kullanımı ile ilgili bilgilerimi tazeledikten sonra daha sık yazacağım. Şimdilik bu bir &lt;strong&gt;Hello World&lt;/strong&gt; girdisi gibi test amaçlı birşey olsun, sonrasına bakacağız artık&amp;hellip;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Long Time No See</title>
       <link>https://darkestnotes.org/posts/long-time-no-see/</link>
@@ -21,8 +29,7 @@
       <link>https://darkestnotes.org/posts/wordpressden-hugoya-ge%C3%A7i%C5%9F/</link>
       <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/wordpressden-hugoya-ge%C3%A7i%C5%9F/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/hugo-logo.png#center&#34; alt=&#34;Hugo&#34;  /&gt;
- 2006 yılından beri çeşitli sitelerde yer alan blog&amp;rsquo;umu hosting firmamın PHP 8&amp;rsquo;i zorunlu tutması ve Wordpress tema ve eklentilerinin PHP 8 ile sorunlar çıkarması sebebiyle Hugo&amp;rsquo;ya geçirmeye karar verdim.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;Hugo&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/wordpressden-hugoya-ge%C3%A7i%C5%9F/images/hugo-logo.png#center&#34;&gt; 2006 yılından beri çeşitli sitelerde yer alan blog&amp;rsquo;umu hosting firmamın PHP 8&amp;rsquo;i zorunlu tutması ve Wordpress tema ve eklentilerinin PHP 8 ile sorunlar çıkarması sebebiyle Hugo&amp;rsquo;ya geçirmeye karar verdim.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://darkestnotes.org/posts/hello-world/&#34;&gt;Wordpress&lt;/a&gt;&amp;lsquo;i 2015 yılından beri kullanıyordum ve herhangi bir sorunum yoktu. Bununla birlikte tema ve eklentilerin her güncelleme sonrası sorun çıkarabilecek olma ihtimali bie keyif kaçırıcı bir etkendi blog&amp;rsquo;um için.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; oldukça basit bir sisteme sahip. Text dosyalarını derleyerek statik, HTML tabanlı basit bir internet sitesi yaratıyor. Üstelik oluşturulan siteyi en basit hosting sisteminde bile host edebilmek mümkün çünkü geri planda çalışması gereken database ihtiyacı yok.&lt;/p&gt;</description>
     </item>
@@ -31,16 +38,14 @@
       <link>https://darkestnotes.org/posts/hep-yan%C4%B1nday%C4%B1m/</link>
       <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/hep-yan%C4%B1nday%C4%B1m/</guid>
-      <description>&lt;p&gt;[caption id=&amp;ldquo;attachment_3570&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1298&amp;rdquo;]&lt;img loading=&#34;lazy&#34; src=&#34;images/Bambi.png&#34; alt=&#34;&#34;  /&gt;
- Hayatıma kattığın herşey için sana teşekkür ederim. Seni hiç unutmayacağım![/caption]&lt;/p&gt;</description>
+      <description>&lt;p&gt;[caption id=&amp;ldquo;attachment_3570&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1298&amp;rdquo;]&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/hep-yan%C4%B1nday%C4%B1m/images/Bambi.png&#34;&gt; Hayatıma kattığın herşey için sana teşekkür ederim. Seni hiç unutmayacağım![/caption]&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wordpress Gutenberg Editor</title>
       <link>https://darkestnotes.org/posts/wordpress-gutenberg-editor/</link>
       <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/wordpress-gutenberg-editor/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/books.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/wordpress-gutenberg-editor/images/books.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Bilgisayar dünyasında birşeyleri kullanmaya alışmayagör, hemen yeni bir sürümü hazırlanır, türlü etiketlerle &amp;ldquo;&lt;em&gt;şöyle güzel oldu&lt;/em&gt;&amp;rdquo;, &amp;ldquo;&lt;em&gt;böyle iyi yaptık&lt;/em&gt;&amp;rdquo; diye anlı şanlı editörler tarafından öve öve cilalanıp, bir anda kullanımımıza sunulur. Bunca zamandır alışkanlık haline getirilen pratik özellikler, kısayollar, artık tarih olmuştur. Herşeye yeniden başlamak, yeniden öğrenmek gerekir.&lt;/p&gt;
 &lt;p&gt;Wordpress internal editor&amp;rsquo;ünü bundan sonraki sürümünde Gutenberg ile değiştirmeyi planlıyormuş. Biraz deneyeyim dedim ancak fazlasıyla karışık. Genelde buraya bir şeyler yazacağım zaman zaten Wordpress&amp;rsquo;in kendi editör&amp;rsquo;ünü kullanmıyordum ancak kullandığım diğer editörlerden metni aktarırken yaşayacağım uyum sorunları ne olacak?&lt;/p&gt;</description>
     </item>
@@ -49,8 +54,7 @@
       <link>https://darkestnotes.org/posts/yaz-saati/</link>
       <pubDate>Sun, 27 Mar 2016 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/yaz-saati/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Dark_Skies-Daylight_Saving_Time.png&#34; alt=&#34;Dark_Skies-Daylight_Saving_Time&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;Dark_Skies-Daylight_Saving_Time&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/yaz-saati/images/Dark_Skies-Daylight_Saving_Time.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Bugün 4,5 ay gibi kısa bir süre süren normal saat uygulaması sonrası yaz saatine geçilen gün oldu. Kış’ı, karanlığı ve soğuk havayı seven benim gibi biri için zor bir durum maalesef. Yılın neredeyse 8 ayı yaz saati uygulaması ile geçiyor. Kabul edilemez bir durum.😬&lt;/p&gt;</description>
     </item>
     <item>
@@ -58,8 +62,7 @@
       <link>https://darkestnotes.org/posts/wordpress-vs.-tumblr./</link>
       <pubDate>Mon, 07 Mar 2016 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/wordpress-vs.-tumblr./</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/WP_vs_Tumblr.jpg&#34; alt=&#34;WP_vs_Tumblr&#34;  /&gt;
-Yaklaşık iki ay önce blog’umu tumblr.’dan Wordpress’e taşıdığımdan &lt;a href=&#34;https://darkestnotes.org/2015/12/06/hello-world/&#34;&gt;bahsetmiştim&lt;/a&gt;. Her iki servis kullanıldığında ortaya çıkan siteler, üç aşağı beş yukarı birbirine benzese de genel olarak iki içerik yönetim sisteminin (&lt;strong&gt;C&lt;/strong&gt;ontent &lt;strong&gt;M&lt;/strong&gt;anagement &lt;strong&gt;S&lt;/strong&gt;ystem) avantaj ve dezavantajları ile birlikte bazı farkları da var. (&lt;em&gt;Bu yazıda Wordpress&amp;rsquo;in kendi host&amp;rsquo;u üzerinden çalışan şekli &lt;a href=&#34;http://wordpress.org&#34;&gt;Wordpress.org&lt;/a&gt; ele alınmış olup, host&amp;rsquo;a ihtiyaç duymayan ancak daha az opsiyon içeren &lt;a href=&#34;http://wordpress.com&#34;&gt;Wordpress.com&lt;/a&gt; karşılaştırma dışı tutulmuştur.☺️&lt;/em&gt;)&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;WP_vs_Tumblr&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/wordpress-vs.-tumblr./images/WP_vs_Tumblr.jpg&#34;&gt;Yaklaşık iki ay önce blog’umu tumblr.’dan Wordpress’e taşıdığımdan &lt;a href=&#34;https://darkestnotes.org/2015/12/06/hello-world/&#34;&gt;bahsetmiştim&lt;/a&gt;. Her iki servis kullanıldığında ortaya çıkan siteler, üç aşağı beş yukarı birbirine benzese de genel olarak iki içerik yönetim sisteminin (&lt;strong&gt;C&lt;/strong&gt;ontent &lt;strong&gt;M&lt;/strong&gt;anagement &lt;strong&gt;S&lt;/strong&gt;ystem) avantaj ve dezavantajları ile birlikte bazı farkları da var. (&lt;em&gt;Bu yazıda Wordpress&amp;rsquo;in kendi host&amp;rsquo;u üzerinden çalışan şekli &lt;a href=&#34;http://wordpress.org&#34;&gt;Wordpress.org&lt;/a&gt; ele alınmış olup, host&amp;rsquo;a ihtiyaç duymayan ancak daha az opsiyon içeren &lt;a href=&#34;http://wordpress.com&#34;&gt;Wordpress.com&lt;/a&gt; karşılaştırma dışı tutulmuştur.☺️&lt;/em&gt;)&lt;/p&gt;
 &lt;p&gt;Temelde iki platformu birbirinden ayıran en temel özellik, birinin özel bir şirketin ürünü, diğerinin ise açık kaynak kodlu yazılım olması (yani sahibi yok). &lt;a href=&#34;http://www.tumblr.com&#34;&gt;Tumblr.&lt;/a&gt; birgün “&lt;em&gt;biz kapatıyoruz arkadaş!&lt;/em&gt;” dediğinde (elbette içeriğin kopyası sunulacaktır bir şekilde) yapılabilecek çok fazla bir şey yok. Wordpress iyi kötü açık kaynak koduyla ve içeriğinizin kendi hostunuzda olması sebebiyle kalıcı şekilde sürdürebilir kendisini.&lt;/p&gt;</description>
     </item>
     <item>
@@ -67,8 +70,7 @@ Yaklaşık iki ay önce blog’umu tumblr.’dan Wordpress’e taşıdığımda
       <link>https://darkestnotes.org/posts/happy-new-darkest-year-everyone/</link>
       <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/happy-new-darkest-year-everyone/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Christmas_Gift.png&#34; alt=&#34;Christmas_Gift&#34;  /&gt;
-&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img alt=&#34;Christmas_Gift&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/happy-new-darkest-year-everyone/images/Christmas_Gift.png&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Eskiden Hersey Ne Güzeldi!</title>
@@ -76,8 +78,7 @@ Yaklaşık iki ay önce blog’umu tumblr.’dan Wordpress’e taşıdığımda
       <pubDate>Mon, 28 Dec 2015 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/eskiden-hersey-ne-g%C3%BCzeldi/</guid>
       <description>&lt;p&gt;1987 yılbasında, soguk bir kıs günü eve giren Commodore 64 ile basladı hersey. Görüntü kablosu kocaman tüplü televizyona baglanır, oyunlar kasetten yüklenirdi. Degisik oyunları oynanırdı ailecek. (Çünkü tek televizyon olurdu evlerde) Hafta ici açılmazdı, çünkü okul vardı, hafta sonu iple çekilir, cuma gecesi bütün hafta hayali kurulan oyunlar heyecanla oynanırdı.&lt;/p&gt;
-&lt;p&gt;[caption id=&amp;ldquo;attachment_2748&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;1184&amp;rdquo;]&lt;img loading=&#34;lazy&#34; src=&#34;images/Steven_Vitale-Saturday_Morning.png&#34; alt=&#34;Steven_Vitale-Saturday_Morning&#34;  /&gt;
- Saturday Morning[/caption]&lt;/p&gt;
+&lt;p&gt;[caption id=&amp;ldquo;attachment_2748&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;1184&amp;rdquo;]&lt;img alt=&#34;Steven_Vitale-Saturday_Morning&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/eskiden-hersey-ne-g%C3%BCzeldi/images/Steven_Vitale-Saturday_Morning.png&#34;&gt; Saturday Morning[/caption]&lt;/p&gt;
 &lt;p&gt;Hersey ne güzeldi 1990&amp;rsquo;da 1991&amp;rsquo;de. &lt;a href=&#34;https://darkestnotes.org/2009/09/26/eski-bilgisayarlar-amiga/&#34;&gt;Amiga&lt;/a&gt; bilgisayar vardı. Beyaz ekranda Workbench disketi tutan bir el. Disket sürücüden tuhaf sesler çıkardı yükleme esnasında. Mavi pencereli GUI&amp;rsquo;si vardı, kendine özel karakterleri, ikonları. Bazı programlar ve oyunlar sadece 1 MByte RAM&amp;rsquo;de çalışırdı. &lt;a href=&#34;https://darkestnotes.org/2015/07/12/dergilerdergicilik/&#34;&gt;Dergilerden&lt;/a&gt; takip ederdik yeni çıkan oyunları, programları. MAC Adventure okurduk, eski oyunları yeniden oynardık.&lt;/p&gt;</description>
     </item>
     <item>
@@ -94,8 +95,7 @@ Yaklaşık iki ay önce blog’umu tumblr.’dan Wordpress’e taşıdığımda
       <link>https://darkestnotes.org/posts/hello-world/</link>
       <pubDate>Sun, 06 Dec 2015 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/hello-world/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/DN_on_WP-1.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/hello-world/images/DN_on_WP-1.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;Hello World!&lt;/p&gt;
 &lt;p&gt;Welcome to WordPress. This is your first post. Edit or delete it, then start writing!&lt;/p&gt;
