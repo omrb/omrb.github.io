@@ -2,25 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://darkestnotes.org/categories/</loc>
+    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://darkestnotes.org/</loc>
+    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://darkestnotes.org/categories/hardware/</loc>
+    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://darkestnotes.org/posts/kobo-clara-colour/</loc>
+    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://darkestnotes.org/posts/</loc>
+    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://darkestnotes.org/categories/review/</loc>
+    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://darkestnotes.org/tags/</loc>
+    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://darkestnotes.org/tags/technology/</loc>
+    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://darkestnotes.org/categories/blog/</loc>
     <lastmod>2026-07-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/tags/blog/</loc>
     <lastmod>2026-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://darkestnotes.org/categories/</loc>
-    <lastmod>2026-07-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://darkestnotes.org/</loc>
-    <lastmod>2026-07-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://darkestnotes.org/posts/long-time-no-see-2/</loc>
-    <lastmod>2026-07-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://darkestnotes.org/posts/</loc>
-    <lastmod>2026-07-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://darkestnotes.org/tags/</loc>
     <lastmod>2026-07-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/tags/writing/</loc>
@@ -33,9 +45,6 @@
     <lastmod>2023-08-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/tags/music/</loc>
-    <lastmod>2023-08-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://darkestnotes.org/categories/review/</loc>
     <lastmod>2023-08-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/tags/review/</loc>
@@ -87,9 +96,6 @@
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/categories/amiga/</loc>
-    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://darkestnotes.org/categories/hardware/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/tags/hardware/</loc>
@@ -777,9 +783,6 @@
     <lastmod>2014-06-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/tags/susankare/</loc>
-    <lastmod>2014-06-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://darkestnotes.org/tags/technology/</loc>
     <lastmod>2014-06-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/tags/vimeo/</loc>

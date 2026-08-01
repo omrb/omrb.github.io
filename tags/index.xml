@@ -6,8 +6,15 @@
     <description>Recent content in Tags on Darkest Notes</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 29 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://darkestnotes.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Technology</title>
+      <link>https://darkestnotes.org/tags/technology/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/tags/technology/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Blog</title>
       <link>https://darkestnotes.org/tags/blog/</link>
@@ -517,13 +524,6 @@
       <link>https://darkestnotes.org/tags/susankare/</link>
       <pubDate>Mon, 16 Jun 2014 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/tags/susankare/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Technology</title>
-      <link>https://darkestnotes.org/tags/technology/</link>
-      <pubDate>Mon, 16 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/tags/technology/</guid>
       <description></description>
     </item>
     <item>
