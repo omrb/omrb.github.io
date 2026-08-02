@@ -15,7 +15,603 @@
       <guid>https://darkestnotes.org/posts/blog-tarih%C3%A7esi/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://bromr.tumblr.com&#34;&gt;tumblr.&lt;/a&gt;’ın belirli sunucularına erişimin yasaklanması sebebiyle kısmen tuhaflaşan 10 yıllık blog’umu &lt;a href=&#34;http://wordpress.org&#34;&gt;WordPress.org&lt;/a&gt;’ye taşımaya karar verdim.&lt;/p&gt;
 &lt;p&gt;Ücretsiz blog (veya içerik diyelim) servislerinin en önemli sorunu tüm içeriğin onların sunucusunda kalması ve sorunlar oluştuğunda ulaşılamaz hale gelmesi. İlk blogumu &lt;a href=&#34;http://omerbalamir.blogspot.com.tr&#34;&gt;Blogger&lt;/a&gt; ile oluşturmuştum. Yaklaşık 2006–2008 arası kullandım. Daha sonra blogger’a erişim yasaklandığında 26 Ekim 2008’de &lt;a href=&#34;http://omerbalamir.livejournal.com&#34;&gt;LiveJournal&lt;/a&gt;’a (2008–2009) geçtim. Bir ara &lt;a href=&#34;https://omerbalamir.wordpress.com&#34;&gt;WordPress&lt;/a&gt;&amp;lsquo;i de denedim. Daha organize ve hızlı paylaşım özellikleri bulunması sebebiyle 2009’da ise tumblr. kullanmaya başladım.&lt;/p&gt;
-&lt;p&gt;[gallery type=&amp;ldquo;slideshow&amp;rdquo; ids=&amp;ldquo;2690,2688,2687,2686,2685,2684,2689&amp;rdquo;]&lt;/p&gt;</description>
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+	
+		&lt;script src=&#34;https://darkestnotes.org/shortcode-gallery/jquery-3.7.1.min.js&#34;&gt;&lt;/script&gt;
+	
+
+	
+		&lt;script src=&#34;https://darkestnotes.org/shortcode-gallery/lazy/jquery.lazy.min.js&#34;&gt;&lt;/script&gt;
+	
+
+	&lt;script src=&#34;https://darkestnotes.org/shortcode-gallery/swipebox/js/jquery.swipebox.min.js&#34;&gt;&lt;/script&gt;
+	&lt;link rel=&#34;stylesheet&#34; href=&#34;https://darkestnotes.org/shortcode-gallery/swipebox/css/swipebox.min.css&#34;&gt;
+
+	&lt;script src=&#34;https://darkestnotes.org/shortcode-gallery/justified_gallery/jquery.justifiedGallery.min.js&#34;&gt;&lt;/script&gt;
+	&lt;link rel=&#34;stylesheet&#34; href=&#34;https://darkestnotes.org/shortcode-gallery/justified_gallery/justifiedGallery.min.css&#34;/&gt;
+
+
+&lt;style&gt;
+	
+		.jg-entry img {
+			transition: transform .25s ease-in-out !important;
+		}
+
+		.jg-entry img:hover {
+			transform: scale(1.1);
+		}
+	
+
+	
+&lt;/style&gt;
+
+
+
+
+
+&lt;div id=&#34;gallery-4c2b11e2c8a208ce28291ad8fa46a835-0-wrapper&#34; class=&#34;gallery-wrapper&#34;&gt;
+&lt;div id=&#34;gallery-4c2b11e2c8a208ce28291ad8fa46a835-0&#34; class=&#34;justified-gallery&#34;&gt;
+	
+		
+
+			
+			
+
+			
+			
+				
+			
+
+			
+				
+			
+
+			
+			
+				
+					
+				
+			
+
+
+			
+			
+
+			&lt;div&gt;
+				
+				
+					
+					
+				
+
+				
+				
+					
+					
+				
+
+				&lt;a href=&#34;https://darkestnotes.org/posts/blog-tarih%C3%A7esi/images/Latest_Design.png&#34;
+					class=&#34;galleryImg&#34;
+					
+					&gt;
+					&lt;img
+						width=&#34;600&#34; height=&#34;392&#34;
+
+						
+							
+							style=&#34;filter: blur(25px);&#34;
+							
+								src=&#34;data:image/jpeg;base64,/9j/2wCEAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4&amp;#43;JS5ESUM8SDc9PjsBCgsLDg0OHBAQHDsoIig7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7O//AABEIABUAIAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&amp;#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&amp;#43;Tl5ufo6ery8/T19vf4&amp;#43;fr/2gAMAwEAAhEDEQA/APUmtJ3dmGo3ChmJ2gJgc9OlMayuVU7NRuC3uUH/ALLV5en4mnhAYyTmgDOSyutvz6lcBvbYf/ZaelpPG6udQuHAYEqQmD7fdq9tHlqwBGQODTG6fiKAI2ScOQssYGeMxkn&amp;#43;dNMd0Tn7So9ghH/s1WG&amp;#43;8aSgCAR3Q/5eEP1Qn/2anKk5cBpYyM84jIP86lpV&amp;#43;8KAP//Z&#34;
+							
+							class=&#34;lazy&#34;
+							data-src=&#34;https://darkestnotes.org/posts/blog-tarih%C3%A7esi/images/Latest_Design_hu_73483a5fcffe9524.png&#34;
+						
+
+						
+					&gt;
+				&lt;/a&gt;
+			&lt;/div&gt;
+		
+	
+		
+
+			
+			
+
+			
+			
+				
+			
+
+			
+				
+			
+
+			
+			
+				
+					
+				
+			
+
+
+			
+			
+
+			&lt;div&gt;
+				
+				
+					
+					
+				
+
+				
+				
+					
+					
+				
+
+				&lt;a href=&#34;https://darkestnotes.org/posts/blog-tarih%C3%A7esi/images/Blog-Tumblr-Scaffold.png&#34;
+					class=&#34;galleryImg&#34;
+					
+					&gt;
+					&lt;img
+						width=&#34;600&#34; height=&#34;392&#34;
+
+						
+							
+							style=&#34;filter: blur(25px);&#34;
+							
+								src=&#34;data:image/jpeg;base64,/9j/2wCEAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4&amp;#43;JS5ESUM8SDc9PjsBCgsLDg0OHBAQHDsoIig7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7O//AABEIABUAIAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&amp;#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&amp;#43;Tl5ufo6ery8/T19vf4&amp;#43;fr/2gAMAwEAAhEDEQA/APVJvMAJWZgS3fkf0rP0TVRrCXLRi4TyJjFl8Lux3HJ4rTkUtjHZ8n6V5YfBvjP7RqLxMQJXfyVa6OACSQeDx2pN2KirnozahHHNJEzy5jbBPmp/LOf0qzFvchxNMoDD5WGM/mK4vRf7Y03TIdP1UgTQKPNLySPvOQeobHf26V1ejXDXVl5jIqfvMAKc&amp;#43;lO6JLzxTh22yxgZ4BjJ/rURt70nP21B/wBsf/r1cb7xpKAKTaf5jb5hbyOerNB1/wDHqlgtWiKohhRM5KpFtz&amp;#43;tWKVfvCgD/9k=&#34;
+							
+							class=&#34;lazy&#34;
+							data-src=&#34;https://darkestnotes.org/posts/blog-tarih%C3%A7esi/images/Blog-Tumblr-Scaffold_hu_7eda40554a88e32d.png&#34;
+						
+
+						
+					&gt;
+				&lt;/a&gt;
+			&lt;/div&gt;
+		
+	
+		
+
+			
+			
+
+			
+			
+				
+			
+
+			
+				
+			
+
+			
+			
+				
+					
+				
+			
+
+
+			
+			
+
+			&lt;div&gt;
+				
+				
+					
+					
+				
+
+				
+				
+					
+					
+				
+
+				&lt;a href=&#34;https://darkestnotes.org/posts/blog-tarih%C3%A7esi/images/Blog-Tumblr-Postcards.png&#34;
+					class=&#34;galleryImg&#34;
+					
+					&gt;
+					&lt;img
+						width=&#34;600&#34; height=&#34;392&#34;
+
+						
+							
+							style=&#34;filter: blur(25px);&#34;
+							
+								src=&#34;data:image/jpeg;base64,/9j/2wCEAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4&amp;#43;JS5ESUM8SDc9PjsBCgsLDg0OHBAQHDsoIig7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7O//AABEIABUAIAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&amp;#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&amp;#43;Tl5ufo6ery8/T19vf4&amp;#43;fr/2gAMAwEAAhEDEQA/APQp7&amp;#43;5S7lQSnAdsfnUtvcXEhbMp6ZHJrPvdwup9pYHe2Cq7j19O9P0p3dpVeaQlQAfOi8vHtz1rNNjNGN7sH944Ax1WQnn8qlUzCZf3743Dj8aj8sdzFj/eFSp95MnPI5z1p3YEFzovnTyN9p2h2JwFII/EEUWmjNaFit0X3f397fzatVvvGkqrIRT&amp;#43;xSZ/1sf/AHw3/wAVT47WUSLmVMA9BGf8as0q/eFFkB//2Q==&#34;
+							
+							class=&#34;lazy&#34;
+							data-src=&#34;https://darkestnotes.org/posts/blog-tarih%C3%A7esi/images/Blog-Tumblr-Postcards_hu_af1e19144945ee3e.png&#34;
+						
+
+						
+					&gt;
+				&lt;/a&gt;
+			&lt;/div&gt;
+		
+	
+		
+
+			
+			
+
+			
+			
+				
+			
+
+			
+				
+			
+
+			
+			
+				
+					
+				
+			
+
+
+			
+			
+
+			&lt;div&gt;
+				
+				
+					
+					
+				
+
+				
+				
+					
+					
+				
+
+				&lt;a href=&#34;https://darkestnotes.org/posts/blog-tarih%C3%A7esi/images/Blog-Tumblr-Aquamarine.png&#34;
+					class=&#34;galleryImg&#34;
+					
+					&gt;
+					&lt;img
+						width=&#34;600&#34; height=&#34;392&#34;
+
+						
+							
+							style=&#34;filter: blur(25px);&#34;
+							
+								src=&#34;data:image/jpeg;base64,/9j/2wCEAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4&amp;#43;JS5ESUM8SDc9PjsBCgsLDg0OHBAQHDsoIig7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7O//AABEIABUAIAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&amp;#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&amp;#43;Tl5ufo6ery8/T19vf4&amp;#43;fr/2gAMAwEAAhEDEQA/ALmu&amp;#43;ONfstbvba2mTy4p3RQY84APrXbaXqkB8P2l/qV&amp;#43;8cklusspGcDI9hXj/ip1l8T6opU5S8l5JwPvV6ZpE6W2gaRvgMkZs4wxQ5YDH8v1rHE1XSgmrbrc0pQ520dGt9pzRq630m1hkHLdPyq2bZkO8XEpAIOCRXDXuoFgtvaxtHbwyYCt8zH255A/T68GvQH/ANX&amp;#43;VZYetKpKSbTStt8/MurTUEjgNU&amp;#43;FllqOq3V82qXMbXMrSlVVcAk5rqdN02XTNNtrCK5Ro7aMRqzw5JA9ea0m&amp;#43;8aSut67mBX8q4zzLCf&amp;#43;2H/16mU3DMA8kRUnnEZB/wDQqdSr94UWA//Z&#34;
+							
+							class=&#34;lazy&#34;
+							data-src=&#34;https://darkestnotes.org/posts/blog-tarih%C3%A7esi/images/Blog-Tumblr-Aquamarine_hu_4c17b082c2f3c376.png&#34;
+						
+
+						
+					&gt;
+				&lt;/a&gt;
+			&lt;/div&gt;
+		
+	
+		
+
+			
+			
+
+			
+			
+				
+			
+
+			
+				
+			
+
+			
+			
+				
+					
+				
+			
+
+
+			
+			
+
+			&lt;div&gt;
+				
+				
+					
+					
+				
+
+				
+				
+					
+					
+				
+
+				&lt;a href=&#34;https://darkestnotes.org/posts/blog-tarih%C3%A7esi/images/Blog-MinimalTheme.jpg&#34;
+					class=&#34;galleryImg&#34;
+					
+						
+
+						
+							data-description=&#34;&lt;br/&gt; &#34;
+						
+
+						
+					
+					&gt;
+					&lt;img
+						width=&#34;600&#34; height=&#34;385&#34;
+
+						
+							
+							style=&#34;filter: blur(25px);&#34;
+							
+								src=&#34;data:image/jpeg;base64,/9j/2wCEAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4&amp;#43;JS5ESUM8SDc9PjsBCgsLDg0OHBAQHDsoIig7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7O//AABEIABUAIAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&amp;#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&amp;#43;Tl5ufo6ery8/T19vf4&amp;#43;fr/2gAMAwEAAhEDEQA/AOwl8WWSardWsrTQG3Z/MmluAsQAP0qVfF&amp;#43;itCJP7bsipONwvRjPp9yuA8UAG98Qg9CJf/QxVWKysLfw8T9gt2JXzC27jd6YqZy5dkUotnqdrrkF4GNs5mjABWVJiyuCM5BCGqkvieKPXYNNZboSSSIAVcbeSOuVBrnfCF/a22hW7XUqReZEpUNO8fQc/dGO460y4uILrx1YT2zh4nli2sJWkBwcHlhnqDWiVyTpL3wJZ3d7eTSzl1uy3mRspxgnPUEGqh&amp;#43;GejmLyj9zGMbpf/jldo/3z9abUjucxF4It4IYoYbkxxxLtRArEAcerc9O9OtfA9tDqNrdC6bNu4ZVC8HBz3J9a6WnJ98fWgR//9k=&#34;
+							
+							class=&#34;lazy&#34;
+							data-src=&#34;https://darkestnotes.org/posts/blog-tarih%C3%A7esi/images/Blog-MinimalTheme_hu_ecac1bd508e0e11b.jpg&#34;
+						
+
+						
+							
+								
+							
+						
+					&gt;
+				&lt;/a&gt;
+			&lt;/div&gt;
+		
+	
+		
+
+			
+			
+
+			
+			
+				
+			
+
+			
+				
+			
+
+			
+			
+				
+					
+				
+			
+
+
+			
+			
+
+			&lt;div&gt;
+				
+				
+					
+					
+				
+
+				
+				
+					
+					
+				
+
+				&lt;a href=&#34;https://darkestnotes.org/posts/blog-tarih%C3%A7esi/images/Blog-LiveJournal.png&#34;
+					class=&#34;galleryImg&#34;
+					
+					&gt;
+					&lt;img
+						width=&#34;600&#34; height=&#34;392&#34;
+
+						
+							
+							style=&#34;filter: blur(25px);&#34;
+							
+								src=&#34;data:image/jpeg;base64,/9j/2wCEAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4&amp;#43;JS5ESUM8SDc9PjsBCgsLDg0OHBAQHDsoIig7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7O//AABEIABUAIAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&amp;#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&amp;#43;Tl5ufo6ery8/T19vf4&amp;#43;fr/2gAMAwEAAhEDEQA/AOp1SfxnHe3Rsruw8gSOY1fdu25OB93rWQup/EdwTFBEw9Vic/riuwn/AOPmT/fP86nhitY5UaNLzKsCT50hB&amp;#43;o3Y/StG7dCOTzZxaX/AMRBIIm&amp;#43;ypIwyFdHyR9MVqabP40a/tPtl3p/2cyL5yoW3Fc84&amp;#43;Xriuqn0yx1DVba/mg3zQRMInLMpUHg8ZGfxrPg/wCPmP8A3x/OhO/QOTzZcm0x3mdhOoDMTgx5/rVhIpYwArQgD/pmx/8AZqsN940lRcsixcBwweEEDH&amp;#43;qPT/vqqsOmOk6MZ1IDA4EeP61fpV&amp;#43;8KLgf//Z&#34;
+							
+							class=&#34;lazy&#34;
+							data-src=&#34;https://darkestnotes.org/posts/blog-tarih%C3%A7esi/images/Blog-LiveJournal_hu_d8901f51e58dfdf0.png&#34;
+						
+
+						
+					&gt;
+				&lt;/a&gt;
+			&lt;/div&gt;
+		
+	
+		
+
+			
+			
+
+			
+			
+				
+			
+
+			
+				
+			
+
+			
+			
+				
+					
+				
+			
+
+
+			
+			
+
+			&lt;div&gt;
+				
+				
+					
+					
+				
+
+				
+				
+					
+					
+				
+
+				&lt;a href=&#34;https://darkestnotes.org/posts/blog-tarih%C3%A7esi/images/Blog-Blogger.png&#34;
+					class=&#34;galleryImg&#34;
+					
+					&gt;
+					&lt;img
+						width=&#34;600&#34; height=&#34;392&#34;
+
+						
+							
+							style=&#34;filter: blur(25px);&#34;
+							
+								src=&#34;data:image/jpeg;base64,/9j/2wCEAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4&amp;#43;JS5ESUM8SDc9PjsBCgsLDg0OHBAQHDsoIig7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7O//AABEIABUAIAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&amp;#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&amp;#43;Tl5ufo6ery8/T19vf4&amp;#43;fr/2gAMAwEAAhEDEQA/APW2h2xPM9w6gZYktgAf4VVs7izvkY22qRTFcbvJnD7c9M&amp;#43;lXprdLuxltpM7JkZGx6EEGsvRvCWlaHPdz2sR33hUybsYG0EDAA44NAFtbebtcZz/ANNSf6VN9nZAG86TIwcZ4pJ7fGxIWEYJ5A71YcYix6YoAgJuFYhJIgoPGYyT/wChUm&amp;#43;6/wCesP8A36P/AMVUjfeNJQBE32pmVvNiyv8A0yP/AMVTwbhmAeSIqTziMg/&amp;#43;hU6lX7woA//Z&#34;
+							
+							class=&#34;lazy&#34;
+							data-src=&#34;https://darkestnotes.org/posts/blog-tarih%C3%A7esi/images/Blog-Blogger_hu_e196d5ee252acc1.png&#34;
+						
+
+						
+					&gt;
+				&lt;/a&gt;
+			&lt;/div&gt;
+		
+	
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+	if (!(&#34;HSCGjQuery&#34; in window)) {
+		if (!window.jQuery) {
+			throw new Error(&#34;jQuery is not loaded, hugo-shortcode-gallery wont work without it!&#34;);
+		}
+		window.HSCGjQuery = window.jQuery.noConflict(true);
+	}
+
+	
+	
+	
+	
+	
+	;(function($) {
+
+		$( document ).ready(() =&gt; {
+			const gallery = $(&#34;#gallery-4c2b11e2c8a208ce28291ad8fa46a835-0&#34;);
+			
+
+			
+			let swipeboxInstance = null;
+
+			
+			
+			gallery.on(&#39;jg.complete&#39;, () =&gt; {
+				
+					
+					
+					$(() =&gt; {
+						$(&#39;.lazy&#39;).Lazy({
+							visibleOnly: true,
+							afterLoad: element =&gt; element.css({filter: &#34;none&#34;, transition: &#34;filter 1.0s ease-in-out&#34;})
+						});
+					});
+				
+
+				swipeboxInstance = $(&#39;.galleryImg&#39;).swipebox(
+					$.extend({},
+						{  }
+					)
+				);
+			});
+
+			
+			gallery.justifiedGallery($.extend(
+				{
+					rowHeight : &#34;150&#34;,
+					margins : &#34;5&#34;,
+					border : 0,
+					randomize :  false ,
+					waitThumbnailsLoad : false,
+					lastRow : &#34;justify&#34;,
+					captions : false,
+					
+					
+				},
+				{  }
+			));
+
+			
+			
+		});
+
+	
+	
+	
+	})(window.HSCGjQuery)
+&lt;/script&gt;
+
+&lt;p&gt;Hepsi ücretsiz olan bu servislerde yer alan içeriğimi tumblr.’da birleştirmeye çalıştım. Ancak iyi kötü içeriğin büyük kısmı tumblr. sunucularında kaldı. Tasarım ve görünüm olarak 2 Şubat 2013&amp;rsquo;de şeklini alan blog o zamandan bu zamana pek büyük değişim geçirmedi. Ta ki 06 Aralık 2015&amp;rsquo;de kendi alanıma taşımaya karar verinceye kadar.&lt;/p&gt;</description>
     </item>
     <item>
       <title>MacOS X Lion Hakkında Birkaç Not</title>
