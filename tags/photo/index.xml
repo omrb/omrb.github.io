@@ -29,6 +29,14 @@
 
 &lt;style&gt;
 	
+		.jg-entry img {
+			transition: transform .25s ease-in-out !important;
+		}
+
+		.jg-entry img:hover {
+			transform: scale(1.1);
+		}
+	
 
 	
 &lt;/style&gt;
