@@ -204,5 +204,12 @@
       <guid>https://darkestnotes.org/categories/toy/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Photo</title>
+      <link>https://darkestnotes.org/categories/photo/</link>
+      <pubDate>Sun, 25 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/categories/photo/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Photo on Darkest Notes</title>
+    <link>https://darkestnotes.org/categories/photo/</link>
+    <description>Recent content in Photo on Darkest Notes</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 25 May 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://darkestnotes.org/categories/photo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cottage</title>
+      <link>https://darkestnotes.org/posts/cottage/</link>
+      <pubDate>Sun, 25 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/cottage/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/cottage/images/Norway-Cottage.jpg#center&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Cottage from Norway with mossy rooftop.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sumatra Tiger Cub</title>
+      <link>https://darkestnotes.org/posts/sumatra-tiger-cub/</link>
+      <pubDate>Thu, 07 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/sumatra-tiger-cub/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/sumatra-tiger-cub/images/Sumatra-Tiger-Cub.jpg#center&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Sumatra Tiger Cub Daseeb - Frankfurt Zoo&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
