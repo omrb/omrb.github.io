@@ -2272,5 +2272,176 @@
 	})(window.HSCGjQuery)
 &lt;/script&gt;</description>
     </item>
+    <item>
+      <title>Ukraine&#39;s Tunnel of Love</title>
+      <link>https://darkestnotes.org/posts/ukraines-tunnel-of-love/</link>
+      <pubDate>Mon, 11 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/ukraines-tunnel-of-love/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Ukraine’s Tunnel of Love (Тунель Кохання)&lt;/strong&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+	
+		&lt;script src=&#34;https://darkestnotes.org/shortcode-gallery/jquery-3.7.1.min.js&#34;&gt;&lt;/script&gt;
+	
+
+	
+		&lt;script src=&#34;https://darkestnotes.org/shortcode-gallery/lazy/jquery.lazy.min.js&#34;&gt;&lt;/script&gt;
+	
+
+	&lt;script src=&#34;https://darkestnotes.org/shortcode-gallery/swipebox/js/jquery.swipebox.min.js&#34;&gt;&lt;/script&gt;
+	&lt;link rel=&#34;stylesheet&#34; href=&#34;https://darkestnotes.org/shortcode-gallery/swipebox/css/swipebox.min.css&#34;&gt;
+
+	&lt;script src=&#34;https://darkestnotes.org/shortcode-gallery/justified_gallery/jquery.justifiedGallery.min.js&#34;&gt;&lt;/script&gt;
+	&lt;link rel=&#34;stylesheet&#34; href=&#34;https://darkestnotes.org/shortcode-gallery/justified_gallery/justifiedGallery.min.css&#34;/&gt;
+
+
+&lt;style&gt;
+	
+		.jg-entry img {
+			transition: transform .25s ease-in-out !important;
+		}
+
+		.jg-entry img:hover {
+			transform: scale(1.1);
+		}
+	
+
+	
+&lt;/style&gt;
+
+
+
+
+
+&lt;div id=&#34;gallery-61755f53aef50af269b794abd1f8c418-0-wrapper&#34; class=&#34;gallery-wrapper&#34;&gt;
+&lt;div id=&#34;gallery-61755f53aef50af269b794abd1f8c418-0&#34; class=&#34;justified-gallery&#34;&gt;
+	
+		
+	
+		
+	
+		
+	
+		
+	
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+	if (!(&#34;HSCGjQuery&#34; in window)) {
+		if (!window.jQuery) {
+			throw new Error(&#34;jQuery is not loaded, hugo-shortcode-gallery wont work without it!&#34;);
+		}
+		window.HSCGjQuery = window.jQuery.noConflict(true);
+	}
+
+	
+	
+	
+	
+	
+	;(function($) {
+
+		$( document ).ready(() =&gt; {
+			const gallery = $(&#34;#gallery-61755f53aef50af269b794abd1f8c418-0&#34;);
+			
+
+			
+			let swipeboxInstance = null;
+
+			
+			
+			gallery.on(&#39;jg.complete&#39;, () =&gt; {
+				
+					
+					
+					$(() =&gt; {
+						$(&#39;.lazy&#39;).Lazy({
+							visibleOnly: true,
+							afterLoad: element =&gt; element.css({filter: &#34;none&#34;, transition: &#34;filter 1.0s ease-in-out&#34;})
+						});
+					});
+				
+
+				swipeboxInstance = $(&#39;.galleryImg&#39;).swipebox(
+					$.extend({},
+						{  }
+					)
+				);
+			});
+
+			
+			gallery.justifiedGallery($.extend(
+				{
+					rowHeight : &#34;150&#34;,
+					margins : &#34;5&#34;,
+					border : 0,
+					randomize :  false ,
+					waitThumbnailsLoad : false,
+					lastRow : &#34;justify&#34;,
+					captions : false,
+					
+					
+				},
+				{  }
+			));
+
+			
+			
+		});
+
+	
+	
+	
+	})(window.HSCGjQuery)
+&lt;/script&gt;</description>
+    </item>
   </channel>
 </rss>

@@ -32,10 +32,19 @@
       <link>https://darkestnotes.org/posts/ios-9/</link>
       <pubDate>Sun, 18 Oct 2015 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/ios-9/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://d.pr/i/10hHo&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://d.pr/i/10hHo+&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/ios-9/images/iOS9.jpg#center&#34;&gt;&lt;/p&gt;
 &lt;p&gt;iOS 9 geçtiğimiz ay içinde 16 Eylül Çarşamba günü kullanılabilir oldu. Aylardır beta sürümlerini kullanıyor olsam da, bazı özellikleri ancak herkes tarafından kullanılabilir olduğunda, uygulamalar iOS 9 için güncellendiğinde anlaşılır hale gelebiliyor.&lt;/p&gt;
 &lt;p&gt;Internet üzerinde iOS 9 için yazılmış çok kapsamlı incelemeler yer alıyor. Rene Ritchie&amp;rsquo;nin 21000 kelimelik &lt;a href=&#34;http://www.imore.com/ios-9-review&#34;&gt;incelemesi&lt;/a&gt;, Federico Viticci&amp;rsquo;nin bir kitap kadar kapsamlı (48.000 kelime!) ve iPad ile yazılan &lt;a href=&#34;https://www.macstories.net/stories/ios-9-review/&#34;&gt;incelemelerinde&lt;/a&gt; detaylar mevcut.&lt;/p&gt;
 &lt;p&gt;iOS 9&amp;rsquo;da benim için önemli olan ve kullanımının yaygınlaşması ile daha da önemli hale gelecek özellikler şu şekilde sıralanıyor;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Windows 8.1</title>
+      <link>https://darkestnotes.org/posts/windows-8.1/</link>
+      <pubDate>Thu, 19 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/windows-8.1/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/windows-8.1/images/Windows-8-1-1.png#center&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Yılbaşı tatiline girmemle birlikte boş zamanımı değerlendirme amacıyla bilgisayar oyunları oynayabileceğimi düşünerek yaz aylarında yenilediğim bilgisayarıma Windows yüklemeye karar verdim. OS X’e o kadar çok alıştımki Windows yüklemeyi hiç düşünmememe karşın bazı oyunları oynayabilmek için mecburen tatilim başlamadan hemen önce Windows 8.1 satın aldım. Tatilimin ilk saatleri, retina ekranlı MacBook Pro’ma Windows 8.1 kurmakla başlamış oldu.&lt;/p&gt;
+&lt;p&gt;Karşılaşılan ilk güçlük MacBook Pro’da DVD sürücü olmamasından kaynaklandı. Eski MacBook’umun DVD sürücüsünden faydalanarak Windows 8.1 DVD’sinin imajını almayı başardım. Ancak imajın hem Mac OS X hem Windows ortamında sorunsuz çalışabilmesi için kara büyülü Terminal komutlarından faydalandım.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mountain Lion</title>

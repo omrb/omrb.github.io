@@ -198,6 +198,27 @@
       <description></description>
     </item>
     <item>
+      <title>Photo</title>
+      <link>https://darkestnotes.org/categories/photo/</link>
+      <pubDate>Sun, 09 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/categories/photo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Winter</title>
+      <link>https://darkestnotes.org/categories/winter/</link>
+      <pubDate>Thu, 19 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/categories/winter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>History</title>
+      <link>https://darkestnotes.org/categories/history/</link>
+      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/categories/history/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Toy</title>
       <link>https://darkestnotes.org/categories/toy/</link>
       <pubDate>Sun, 15 Jun 2014 00:00:00 +0000</pubDate>
@@ -205,10 +226,10 @@
       <description></description>
     </item>
     <item>
-      <title>Photo</title>
-      <link>https://darkestnotes.org/categories/photo/</link>
-      <pubDate>Sun, 25 May 2014 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/categories/photo/</guid>
+      <title>Gallery</title>
+      <link>https://darkestnotes.org/categories/gallery/</link>
+      <pubDate>Mon, 11 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/categories/gallery/</guid>
       <description></description>
     </item>
   </channel>
