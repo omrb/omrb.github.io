@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wallpaper on Darkest Notes</title>
+    <link>https://darkestnotes.org/categories/wallpaper/</link>
+    <description>Recent content in Wallpaper on Darkest Notes</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 06 Apr 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://darkestnotes.org/categories/wallpaper/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Current Wallpaper</title>
+      <link>https://darkestnotes.org/posts/current-wallpaper/</link>
+      <pubDate>Tue, 06 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/current-wallpaper/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/current-wallpaper/images/Current-Desktop-Wallpaper.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Current Desktop on my MacBook&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Polar Bear Wallpaper</title>
+      <link>https://darkestnotes.org/posts/polar-bear-wallpaper/</link>
+      <pubDate>Sat, 20 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/polar-bear-wallpaper/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/polar-bear-wallpaper/images/Polar_Bear_Wallpaper.jpg#center&#34;&gt;&lt;/p&gt;
+&lt;p&gt;via &lt;a href=&#34;http://ngm.nationalgeographic.com/wallpaper/img/2009/04/apr09wallpaper-1_1280.jpg&#34;&gt;ngm.nationalgeographic.com&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

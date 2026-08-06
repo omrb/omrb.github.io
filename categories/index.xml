@@ -232,5 +232,19 @@
       <guid>https://darkestnotes.org/categories/gallery/</guid>
       <description></description>
     </item>
+    <item>
+      <title>App</title>
+      <link>https://darkestnotes.org/categories/app/</link>
+      <pubDate>Sat, 18 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/categories/app/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wallpaper</title>
+      <link>https://darkestnotes.org/categories/wallpaper/</link>
+      <pubDate>Tue, 06 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/categories/wallpaper/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
