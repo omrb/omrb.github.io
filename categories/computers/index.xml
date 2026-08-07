@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Computers on Darkest Notes</title>
+    <link>https://darkestnotes.org/categories/computers/</link>
+    <description>Recent content in Computers on Darkest Notes</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 04 Nov 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://darkestnotes.org/categories/computers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crappy Computers</title>
+      <link>https://darkestnotes.org/posts/crappy-computers/</link>
+      <pubDate>Sun, 04 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/crappy-computers/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://ignorethecode.net/blog/2012/11/04/crappy_computers/&#34;&gt;Crappy Computers&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;_In reality, it’s exactly backwards: proficient users can deal with a crappy computer, but casual users need as good a computer as possible.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
+</rss>

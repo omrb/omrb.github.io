@@ -394,17 +394,31 @@
       <description></description>
     </item>
     <item>
-      <title>Windows</title>
-      <link>https://darkestnotes.org/tags/windows/</link>
-      <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/tags/windows/</guid>
+      <title>Art</title>
+      <link>https://darkestnotes.org/tags/art/</link>
+      <pubDate>Thu, 10 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/tags/art/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scene</title>
+      <link>https://darkestnotes.org/tags/scene/</link>
+      <pubDate>Thu, 10 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/tags/scene/</guid>
       <description></description>
     </item>
     <item>
       <title>Archaeology</title>
       <link>https://darkestnotes.org/tags/archaeology/</link>
-      <pubDate>Sun, 09 Aug 2015 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/tags/archaeology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Windows</title>
+      <link>https://darkestnotes.org/tags/windows/</link>
+      <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/tags/windows/</guid>
       <description></description>
     </item>
     <item>
@@ -457,13 +471,6 @@
       <description></description>
     </item>
     <item>
-      <title>Art</title>
-      <link>https://darkestnotes.org/tags/art/</link>
-      <pubDate>Mon, 16 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/tags/art/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Lego</title>
       <link>https://darkestnotes.org/tags/lego/</link>
       <pubDate>Sun, 15 Jun 2014 00:00:00 +0000</pubDate>
@@ -506,6 +513,13 @@
       <description></description>
     </item>
     <item>
+      <title>Computer</title>
+      <link>https://darkestnotes.org/tags/computer/</link>
+      <pubDate>Sun, 04 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/tags/computer/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Os-X</title>
       <link>https://darkestnotes.org/tags/os-x/</link>
       <pubDate>Sun, 04 Nov 2012 00:00:00 +0000</pubDate>
@@ -513,115 +527,10 @@
       <description></description>
     </item>
     <item>
-      <title>Unix</title>
-      <link>https://darkestnotes.org/tags/unix/</link>
-      <pubDate>Sun, 04 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/tags/unix/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Railroad</title>
-      <link>https://darkestnotes.org/tags/railroad/</link>
-      <pubDate>Fri, 26 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/tags/railroad/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mercedes</title>
-      <link>https://darkestnotes.org/tags/mercedes/</link>
-      <pubDate>Sun, 09 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/tags/mercedes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Truck</title>
-      <link>https://darkestnotes.org/tags/truck/</link>
-      <pubDate>Sun, 09 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/tags/truck/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mountain-Lion</title>
-      <link>https://darkestnotes.org/tags/mountain-lion/</link>
-      <pubDate>Sat, 28 Jul 2012 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/tags/mountain-lion/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Steve-Jobs</title>
-      <link>https://darkestnotes.org/tags/steve-jobs/</link>
-      <pubDate>Thu, 06 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/tags/steve-jobs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Aurora</title>
-      <link>https://darkestnotes.org/tags/aurora/</link>
-      <pubDate>Sun, 25 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/tags/aurora/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Lion</title>
       <link>https://darkestnotes.org/tags/lion/</link>
       <pubDate>Wed, 20 Jul 2011 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/tags/lion/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Classics</title>
-      <link>https://darkestnotes.org/tags/classics/</link>
-      <pubDate>Thu, 14 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/tags/classics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dostoyevski</title>
-      <link>https://darkestnotes.org/tags/dostoyevski/</link>
-      <pubDate>Thu, 14 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/tags/dostoyevski/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Starbucks</title>
-      <link>https://darkestnotes.org/tags/starbucks/</link>
-      <pubDate>Thu, 14 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/tags/starbucks/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Board-Game</title>
-      <link>https://darkestnotes.org/tags/board-game/</link>
-      <pubDate>Tue, 12 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/tags/board-game/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Chaostle</title>
-      <link>https://darkestnotes.org/tags/chaostle/</link>
-      <pubDate>Tue, 12 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/tags/chaostle/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dungeons-and-Dragons</title>
-      <link>https://darkestnotes.org/tags/dungeons-and-dragons/</link>
-      <pubDate>Tue, 12 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/tags/dungeons-and-dragons/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Gandsfjorden</title>
-      <link>https://darkestnotes.org/tags/gandsfjorden/</link>
-      <pubDate>Thu, 16 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/tags/gandsfjorden/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Lunar-Eclipse</title>
-      <link>https://darkestnotes.org/tags/lunar-eclipse/</link>
-      <pubDate>Thu, 16 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/tags/lunar-eclipse/</guid>
       <description></description>
     </item>
     <item>
@@ -636,34 +545,6 @@
       <link>https://darkestnotes.org/tags/iron-maiden/</link>
       <pubDate>Wed, 08 Jun 2011 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/tags/iron-maiden/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Scene</title>
-      <link>https://darkestnotes.org/tags/scene/</link>
-      <pubDate>Mon, 23 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/tags/scene/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Arctic</title>
-      <link>https://darkestnotes.org/tags/arctic/</link>
-      <pubDate>Thu, 19 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/tags/arctic/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Flickr</title>
-      <link>https://darkestnotes.org/tags/flickr/</link>
-      <pubDate>Sat, 02 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/tags/flickr/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Computer</title>
-      <link>https://darkestnotes.org/tags/computer/</link>
-      <pubDate>Wed, 15 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/tags/computer/</guid>
       <description></description>
     </item>
     <item>
@@ -811,6 +692,13 @@
       <link>https://darkestnotes.org/tags/story/</link>
       <pubDate>Sat, 26 Jul 2008 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/tags/story/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Railroad</title>
+      <link>https://darkestnotes.org/tags/railroad/</link>
+      <pubDate>Mon, 08 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/tags/railroad/</guid>
       <description></description>
     </item>
   </channel>

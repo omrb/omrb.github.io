@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Scene on Darkest Notes</title>
+    <link>https://darkestnotes.org/categories/scene/</link>
+    <description>Recent content in Scene on Darkest Notes</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 10 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://darkestnotes.org/categories/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PETSCII Stormtroopers</title>
+      <link>https://darkestnotes.org/posts/petscii-stormtroopers/</link>
+      <pubDate>Thu, 10 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/petscii-stormtroopers/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/petscii-stormtroopers/images/PETSCII-Stormtroopers.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Stormtroopers by &lt;a href=&#34;https://csdb.dk/release/?id=143686&#34;&gt;Debris&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
