@@ -27,6 +27,14 @@
 &lt;p&gt;Oyun dünyasının gördüğü ilk açık dünya araba yarışı oyunu sanıyorum Test Drive III&amp;rsquo;dür. Günümüze yakın zamanlarda oynadığım ilk açık dünya araba yarışı oyunu ise Need for Speed Most Wanted olmuştur. Uzunca bir süre Free Play modunda sağda solda gezindiğimi hatırlarım. Ondan sonrasında uzun yıllar ortamında özgürce arabayla dolaşabileceğim bir oyun bulamadım. Sonrasında ise gerçek bir yarış oyunu olmasa da GTA V ile bu keyfi yaşama imkanım oldu.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Boxer ve Dot-Matrix Printer Emülasyonu</title>
+      <link>https://darkestnotes.org/posts/boxer-ve-dot-matrix-printer-em%C3%BClasyonu/</link>
+      <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/boxer-ve-dot-matrix-printer-em%C3%BClasyonu/</guid>
+      <description>&lt;p&gt;Hafta sonu uzun zamandır beklediğim ancak programcısının artık herhangi bir geliştirme yapacağını düşünmediğim bir uygulama ile uğraşmakla geçti. &lt;a href=&#34;http://boxerapp.com&#34;&gt;Boxer&lt;/a&gt;. Büyük oranda gelişimini tamamlamış bir uygulama aslında, DOSBox için yazılmış bir kullanıcı arayüzü. Ancak MacOs’un kullanıcı dostu arabirimine yönelik o kadar ince detaylar düşünülerek geliştirilmiş ki bir daha Windows ile DOSBox kullanamaz oldum.&lt;/p&gt;
+&lt;p&gt;Oyun ve programların dökümanları ve kutu resimleri ile bir paket haline getirilebilmesi, DOSBox’dan farklı daha gelişmiş Roland MT-32 &lt;a href=&#34;https://sourceforge.net/projects/munt/&#34;&gt;emülasyonu&lt;/a&gt;, Roland MT-32’nin LCD ekranında kimi programlar tarafından yazılan mesajları benzer bir biçimde ekranda gösterme gibi eski bilgisayarcılara yönelik baştan çıkarıcı detaylar.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Windows 8.1</title>
       <link>https://darkestnotes.org/posts/windows-8.1/</link>
       <pubDate>Thu, 19 Dec 2013 00:00:00 +0000</pubDate>
@@ -34,6 +42,13 @@
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/windows-8.1/images/Windows-8-1-1.png#center&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Yılbaşı tatiline girmemle birlikte boş zamanımı değerlendirme amacıyla bilgisayar oyunları oynayabileceğimi düşünerek yaz aylarında yenilediğim bilgisayarıma Windows yüklemeye karar verdim. OS X’e o kadar çok alıştımki Windows yüklemeyi hiç düşünmememe karşın bazı oyunları oynayabilmek için mecburen tatilim başlamadan hemen önce Windows 8.1 satın aldım. Tatilimin ilk saatleri, retina ekranlı MacBook Pro’ma Windows 8.1 kurmakla başlamış oldu.&lt;/p&gt;
 &lt;p&gt;Karşılaşılan ilk güçlük MacBook Pro’da DVD sürücü olmamasından kaynaklandı. Eski MacBook’umun DVD sürücüsünden faydalanarak Windows 8.1 DVD’sinin imajını almayı başardım. Ancak imajın hem Mac OS X hem Windows ortamında sorunsuz çalışabilmesi için kara büyülü Terminal komutlarından faydalandım.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Sad Picture of Dennis M. Ritchie (1941-2011)</title>
+      <link>https://darkestnotes.org/posts/a-sad-picture-of-dennis-m.-ritchie-1941-2011/</link>
+      <pubDate>Sat, 18 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/a-sad-picture-of-dennis-m.-ritchie-1941-2011/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/a-sad-picture-of-dennis-m.-ritchie-1941-2011/images/Dennis_Ritchie-Goodbye_World.jpg#center&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

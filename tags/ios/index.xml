@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>IOS on Darkest Notes</title>
+    <title>Ios on Darkest Notes</title>
     <link>https://darkestnotes.org/tags/ios/</link>
-    <description>Recent content in IOS on Darkest Notes</description>
+    <description>Recent content in Ios on Darkest Notes</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
@@ -25,6 +25,15 @@
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/ios-13/images/top-new-ios-13-features.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;iOS 13 iPhone’larımıza geldi gelmesine ama sorunlarıyla birlikte geldi. Daha iOS 13 çıkmadan 13.1 betaları dağıtıldı, 13.1.1 sonrasında 13.1.2. Herşey içinde bulunsun derken Apple fazlasıyla karman çorman bir hale getirdi iOS’u. Bu durum ister istemez sistemde hantallaşmaya yol açıyor kuşkusuz.&lt;/p&gt;
 &lt;p&gt;Pek çok özelliği zaten ülkemizde kullanamıyoruz, bazı özelliklerinde farkında değiliz bile. Apple’ın iOS 13 sayfasında şöyle bir baktım neyi kullanıyorum, hangi özellikler bana faydalı diye, görünürde pek birşey yok.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Day One 2</title>
+      <link>https://darkestnotes.org/posts/day-one-2/</link>
+      <pubDate>Sat, 06 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/day-one-2/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;DayOne-Header&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/day-one-2/images/DayOne-Header.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Çocukluğumdan beri günlük tutarım. 1984 yılında yazmaya başladığım, üzerinde Snoopy resmi olan bir defterim olduğunu hatırlıyorum. Hergün yazmamakla ve bazen çok uzun süreler yazmaya ara veriyor olmamla birlikte her yıl sonunda, hangi ay ne yaptığımı, neler düşündüğümü özetlediğim uzun &amp;ldquo;&lt;em&gt;yıllık gözden geçirme yazıları&lt;/em&gt;&amp;rdquo; yazmaya çalışırdım. O defter bitene kadar, (1992 başları) yazdığımı hatırlıyorum.&lt;/p&gt;
+&lt;p&gt;Mobil cihazların gelişimi ile günlük tutma fikri yeniden canlandı bende. Sosyal medyaya yaptığım katkıları(!) otomatik olarak toplayan ve bir sosyal medya günlüğü şeklinde çalışan &lt;a href=&#34;http://momentoapp.com&#34;&gt;Momento&lt;/a&gt; kullandığım ilk uygulama olmuştu. Sosyal medyadan toplanan entry&amp;rsquo;lerin yanında yaşadığım ve üzerinde düşündüğüm önemli olayları da ufak notlar halinde kaydediyordum. Bir ara Momento’nun gelişimi durunca ve iPad sürümü geliştirilmeyince 2012 yılı başında &lt;a href=&#34;http://dayoneapp.com&#34;&gt;Day One’a&lt;/a&gt; geçtim.&lt;/p&gt;</description>
     </item>
     <item>
       <title>iOS 9</title>
