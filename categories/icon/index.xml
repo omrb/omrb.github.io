@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Icon on Darkest Notes</title>
+    <link>https://darkestnotes.org/categories/icon/</link>
+    <description>Recent content in Icon on Darkest Notes</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 16 Jun 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://darkestnotes.org/categories/icon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Susan Kare, Iconographer</title>
+      <link>https://darkestnotes.org/posts/susan-kare-iconographer/</link>
+      <pubDate>Mon, 16 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/susan-kare-iconographer/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://vimeo.com/97583369&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://markdown-videos-api.jorgenkh.no/vimeo/97583369?width=800&amp;height=600&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
