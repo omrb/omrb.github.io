@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Ios on Darkest Notes</title>
+    <title>IOS on Darkest Notes</title>
     <link>https://darkestnotes.org/categories/ios/</link>
-    <description>Recent content in Ios on Darkest Notes</description>
+    <description>Recent content in IOS on Darkest Notes</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 06 Feb 2016 00:00:00 +0000</lastBuildDate>
@@ -40,6 +40,21 @@
 &lt;li&gt;Lock ekranında kontrol düğmelerinde değişiklik&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/ios-6.1-g%C3%B6ze-%C3%A7arpan-yenilikler/images/tumblr_inline_mhelqd3sOI1qz4rgp.png&#34;&gt;        &lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/ios-6.1-g%C3%B6ze-%C3%A7arpan-yenilikler/images/tumblr_inline_mhelqrxZhr1qz4rgp.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>iPhone Homescreen</title>
+      <link>https://darkestnotes.org/posts/iphone-homescreen/</link>
+      <pubDate>Sun, 13 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/iphone-homescreen/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/iphone-homescreen/images/iPhone-HomeScreen-2013-January.jpg#center&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>App Store Statistics</title>
+      <link>https://darkestnotes.org/posts/app-store-statistics/</link>
+      <pubDate>Sat, 18 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/app-store-statistics/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/app-store-statistics/images/App-Store-Statistics.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;App Store Statistics&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

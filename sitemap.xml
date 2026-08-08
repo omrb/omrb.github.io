@@ -233,7 +233,7 @@
     <loc>https://darkestnotes.org/tags/c64/</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://darkestnotes.org/tags/apps/</loc>
+    <loc>https://darkestnotes.org/categories/app/</loc>
     <lastmod>2021-04-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/posts/assembly64/</loc>
@@ -242,7 +242,7 @@
     <loc>https://darkestnotes.org/posts/macbook-pro-m1/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://darkestnotes.org/tags/computers/</loc>
+    <loc>https://darkestnotes.org/tags/computer/</loc>
     <lastmod>2021-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/tags/emulation/</loc>
@@ -263,7 +263,7 @@
     <loc>https://darkestnotes.org/tags/chronology/</loc>
     <lastmod>2020-10-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://darkestnotes.org/tags/icons/</loc>
+    <loc>https://darkestnotes.org/tags/icon/</loc>
     <lastmod>2020-10-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/posts/instagram%C4%B1n-10.-y%C4%B1l%C4%B1/</loc>
@@ -758,6 +758,9 @@
     <loc>https://darkestnotes.org/posts/readmill/</loc>
     <lastmod>2014-06-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://darkestnotes.org/tags/icons/</loc>
+    <lastmod>2014-06-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://darkestnotes.org/posts/susan-kare-iconographer/</loc>
     <lastmod>2014-06-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -815,6 +818,12 @@
     <loc>https://darkestnotes.org/posts/star-wars-darth-maul-shadow-hunter-/</loc>
     <lastmod>2013-12-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://darkestnotes.org/categories/operating-system/</loc>
+    <lastmod>2013-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://darkestnotes.org/categories/windows/</loc>
+    <lastmod>2013-12-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://darkestnotes.org/posts/windows-8.1/</loc>
     <lastmod>2013-12-19T00:00:00+00:00</lastmod>
   </url><url>
@@ -847,9 +856,6 @@
   </url><url>
     <loc>https://darkestnotes.org/posts/the-lego-movie/</loc>
     <lastmod>2013-11-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://darkestnotes.org/tags/app-store/</loc>
-    <lastmod>2013-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/posts/apple-store-t%C3%BCrkiye/</loc>
     <lastmod>2013-11-01T00:00:00+00:00</lastmod>
@@ -896,6 +902,9 @@
     <loc>https://darkestnotes.org/posts/megadeth-super-collider/</loc>
     <lastmod>2013-08-05T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://darkestnotes.org/categories/macbook/</loc>
+    <lastmod>2013-08-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://darkestnotes.org/posts/macbook-pro-with-retina-display-early-2013/</loc>
     <lastmod>2013-08-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -923,12 +932,6 @@
     <loc>https://darkestnotes.org/posts/a-sad-picture-of-dennis-m.-ritchie-1941-2011/</loc>
     <lastmod>2013-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://darkestnotes.org/tags/computer/</loc>
-    <lastmod>2013-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://darkestnotes.org/categories/operating-system/</loc>
-    <lastmod>2013-05-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://darkestnotes.org/posts/civilization-v-brave-new-world-video/</loc>
     <lastmod>2013-05-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -940,6 +943,9 @@
   </url><url>
     <loc>https://darkestnotes.org/posts/the-lake/</loc>
     <lastmod>2013-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://darkestnotes.org/tags/app-store/</loc>
+    <lastmod>2013-04-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/posts/delicious-library-3/</loc>
     <lastmod>2013-04-29T00:00:00+00:00</lastmod>
@@ -1196,6 +1202,9 @@
     <loc>https://darkestnotes.org/posts/joy-of-tech/</loc>
     <lastmod>2011-12-08T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://darkestnotes.org/categories/app-store/</loc>
+    <lastmod>2011-12-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://darkestnotes.org/posts/thermo-translation/</loc>
     <lastmod>2011-12-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -1280,10 +1289,10 @@
     <loc>https://darkestnotes.org/posts/mac-app-store/</loc>
     <lastmod>2011-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://darkestnotes.org/categories/app/</loc>
+    <loc>https://darkestnotes.org/posts/app-store-statistics/</loc>
     <lastmod>2010-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://darkestnotes.org/posts/app-store-statistics/</loc>
+    <loc>https://darkestnotes.org/categories/iphone/</loc>
     <lastmod>2010-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/posts/susan-kare-art/</loc>
@@ -1370,13 +1379,7 @@
     <loc>https://darkestnotes.org/posts/wolfram-alpha/</loc>
     <lastmod>2010-07-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://darkestnotes.org/categories/app-store/</loc>
-    <lastmod>2010-07-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://darkestnotes.org/posts/epicwin/</loc>
-    <lastmod>2010-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://darkestnotes.org/categories/iphone/</loc>
     <lastmod>2010-07-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/posts/foursquare-badges/</loc>
@@ -1807,6 +1810,12 @@
   </url><url>
     <loc>https://darkestnotes.org/posts/f-29-retaliator/</loc>
     <lastmod>2006-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://darkestnotes.org/categories/abanndonware/</loc>
+    <lastmod>2006-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://darkestnotes.org/tags/abanndonware/</loc>
+    <lastmod>2006-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://darkestnotes.org/posts/beos-r5/</loc>
     <lastmod>2006-11-15T00:00:00+00:00</lastmod>

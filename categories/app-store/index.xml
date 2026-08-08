@@ -6,15 +6,29 @@
     <description>Recent content in App-Store on Darkest Notes</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 11 Jul 2010 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Dec 2011 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://darkestnotes.org/categories/app-store/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thermo Translation</title>
+      <link>https://darkestnotes.org/posts/thermo-translation/</link>
+      <pubDate>Sat, 03 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/thermo-translation/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/thermo-translation/images/Thermo-Translation.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://robokitten.tumblr.com/post/13633967815/therere-lots-of-things-to-be-happy-about-in-this&#34;&gt;robokitten&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;There’re lots of things to be happy about in this chilly December, but right now we’re celebrating a milestone. We’ve surpassed the &lt;strong&gt;five hundred thousand&lt;/strong&gt; (500.000) thermometer served! Rounding a half a million downloads seemed like the perfect time to launch another update that would make &lt;a href=&#34;http://thermo.me&#34;&gt;Thermo&lt;/a&gt; even more accessible to people around the world. Thermo 1.3 is now live in the App Store, and with it we’re introducing &lt;strong&gt;17 New languages&lt;/strong&gt;. We’re also introducing Horizontal History (For awesome History owners), iOS Twitter integration and a redesigned auto location system.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>EpicWin</title>
       <link>https://darkestnotes.org/posts/epicwin/</link>
       <pubDate>Sun, 11 Jul 2010 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/epicwin/</guid>
-      <description>&lt;p&gt;Bilgisayar dünyasında yeni fikirler ortaya çıkarmak zor, bu fikirleri uygun algoritmalarla, işe yarayabilecek bir program haline getirebilmek daha da zordur. Artık bundan daha iyisi yapılamaz denilen türde programlara yeni bir bakış açısı ile bakabilmek ve hiç denenmemiş bir şeyi denemeyi başaran program geliştiricilerine hayran kalmamak elde değil.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.epicwinapp.com/&#34; title=&#34;EpicWin&#34;&gt;EpicWin&lt;/a&gt; bildiğimiz -yapılacak işler listesi-(to-do list app) uygulaması olarak düşünülebilir. Internette basit bir arama yaparak yüzlerce örneğini bulabileceğimiz bu türden bir uygulamayı nasıl daha ilginç hale getirilebileceğini düşünenler, bu basit programı bir online RPG oyunu gibi hazırlamışlar.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/epicwin/images/EpicWin-01.jpg&#34;&gt;
+Bilgisayar dünyasında yeni fikirler ortaya çıkarmak zor, bu fikirleri uygun algoritmalarla, işe yarayabilecek bir program haline getirebilmek daha da zordur. Artık bundan daha iyisi yapılamaz denilen türde programlara yeni bir bakış açısı ile bakabilmek ve hiç denenmemiş bir şeyi denemeyi başaran program geliştiricilerine hayran kalmamak elde değil.
+&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/epicwin/images/EpicWin-02.jpg&#34;&gt;
+&lt;a href=&#34;http://www.epicwinapp.com/&#34; title=&#34;EpicWin&#34;&gt;EpicWin&lt;/a&gt; bildiğimiz -yapılacak işler listesi-(to-do list app) uygulaması olarak düşünülebilir. Internette basit bir arama yaparak yüzlerce örneğini bulabileceğimiz bu türden bir uygulamayı nasıl daha ilginç hale getirilebileceğini düşünenler, bu basit programı bir online RPG oyunu gibi hazırlamışlar.
+&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/epicwin/images/EpicWin-03.jpg&#34;&gt;
+Yani yapmayı planladığınız işleri bu programa giriyorsunuz, bitirdiğiniz her iş için XP kazanıp, ganimet topluyorsunuz. Bir -yapılacak işler listesi-(to-do list) uygulaması bundan daha eğlenceli bir hale getirilemezdi sanırım.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

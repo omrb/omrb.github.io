@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Windows on Darkest Notes</title>
+    <link>https://darkestnotes.org/categories/windows/</link>
+    <description>Recent content in Windows on Darkest Notes</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 19 Dec 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://darkestnotes.org/categories/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows 8.1</title>
+      <link>https://darkestnotes.org/posts/windows-8.1/</link>
+      <pubDate>Thu, 19 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/windows-8.1/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/windows-8.1/images/Windows-8-1-1.png#center&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Yılbaşı tatiline girmemle birlikte boş zamanımı değerlendirme amacıyla bilgisayar oyunları oynayabileceğimi düşünerek yaz aylarında yenilediğim bilgisayarıma Windows yüklemeye karar verdim. OS X’e o kadar çok alıştımki Windows yüklemeyi hiç düşünmememe karşın bazı oyunları oynayabilmek için mecburen tatilim başlamadan hemen önce Windows 8.1 satın aldım. Tatilimin ilk saatleri, retina ekranlı MacBook Pro’ma Windows 8.1 kurmakla başlamış oldu.&lt;/p&gt;
+&lt;p&gt;Karşılaşılan ilk güçlük MacBook Pro’da DVD sürücü olmamasından kaynaklandı. Eski MacBook’umun DVD sürücüsünden faydalanarak Windows 8.1 DVD’sinin imajını almayı başardım. Ancak imajın hem Mac OS X hem Windows ortamında sorunsuz çalışabilmesi için kara büyülü Terminal komutlarından faydalandım.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Windows Vista Capable</title>
+      <link>https://darkestnotes.org/posts/windows-vista-capable/</link>
+      <pubDate>Fri, 04 May 2007 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/windows-vista-capable/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/windows-vista-capable/images/tumblr_inline_mhlreq1AkM1qz4rgp.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;HP Compaq NX6110 Notebook bilgisayarımı bundan tam 2 yıl önce bugün almıştım. Aldığım zaman giriş seviyesi en ucuz notebook bilgisayarlardan biriydi. Sanırım 999 $+KDV gibi bir fiyata almıştım. Zaman içinde 256 MByte bellek ekleyerek hafızasını 512 MByte&amp;rsquo;a çıkardım. Celeron 1.4 Ghz işlemcili, i915 Chipsetli basit bir notebook anlayacağınız.&lt;/p&gt;
+&lt;p&gt;Ancak bu notebook bilgisayara aslında Windows Vista Capable etiketi yapıştırılabilir. i915 chipsetine sahip bilgisayarlar halen satılıyor ve Windows Vista Capable etiketi taşıyorlar. Windows Vista&amp;rsquo;yı en basit haliyle çalıştırabilir anlamına gelen bu etikete göre en azından 800 Mhz güce sahip bir işlemci + 512 MByte RAM ve DirectX 9 uyumlu bir grafik kartı ile Aero gibi özellikleri kullanmadan en basit haliyle Windows Vista&amp;rsquo;yı (Windows Vista Basic) çalıştırabilirsiniz.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

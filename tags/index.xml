@@ -163,17 +163,10 @@
       <description></description>
     </item>
     <item>
-      <title>Apps</title>
-      <link>https://darkestnotes.org/tags/apps/</link>
-      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/tags/apps/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Computers</title>
-      <link>https://darkestnotes.org/tags/computers/</link>
+      <title>Computer</title>
+      <link>https://darkestnotes.org/tags/computer/</link>
       <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/tags/computers/</guid>
+      <guid>https://darkestnotes.org/tags/computer/</guid>
       <description></description>
     </item>
     <item>
@@ -198,10 +191,10 @@
       <description></description>
     </item>
     <item>
-      <title>Icons</title>
-      <link>https://darkestnotes.org/tags/icons/</link>
+      <title>Icon</title>
+      <link>https://darkestnotes.org/tags/icon/</link>
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/tags/icons/</guid>
+      <guid>https://darkestnotes.org/tags/icon/</guid>
       <description></description>
     </item>
     <item>
@@ -331,7 +324,7 @@
       <description></description>
     </item>
     <item>
-      <title>IPhone</title>
+      <title>Iphone</title>
       <link>https://darkestnotes.org/tags/iphone/</link>
       <pubDate>Sat, 25 Oct 2014 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/tags/iphone/</guid>
@@ -359,6 +352,13 @@
       <description></description>
     </item>
     <item>
+      <title>Icons</title>
+      <link>https://darkestnotes.org/tags/icons/</link>
+      <pubDate>Mon, 16 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/tags/icons/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Lego</title>
       <link>https://darkestnotes.org/tags/lego/</link>
       <pubDate>Sun, 15 Jun 2014 00:00:00 +0000</pubDate>
@@ -375,15 +375,8 @@
     <item>
       <title>App-Store</title>
       <link>https://darkestnotes.org/tags/app-store/</link>
-      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 Apr 2013 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/tags/app-store/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Computer</title>
-      <link>https://darkestnotes.org/tags/computer/</link>
-      <pubDate>Sat, 18 May 2013 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/tags/computer/</guid>
       <description></description>
     </item>
     <item>
@@ -426,6 +419,13 @@
       <link>https://darkestnotes.org/tags/story/</link>
       <pubDate>Sat, 26 Jul 2008 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/tags/story/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Abanndonware</title>
+      <link>https://darkestnotes.org/tags/abanndonware/</link>
+      <pubDate>Wed, 15 Nov 2006 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/tags/abanndonware/</guid>
       <description></description>
     </item>
   </channel>
