@@ -135,10 +135,10 @@
       <description></description>
     </item>
     <item>
-      <title>Games</title>
-      <link>https://darkestnotes.org/categories/games/</link>
+      <title>Game</title>
+      <link>https://darkestnotes.org/categories/game/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/categories/games/</guid>
+      <guid>https://darkestnotes.org/categories/game/</guid>
       <description></description>
     </item>
     <item>
@@ -153,6 +153,13 @@
       <link>https://darkestnotes.org/categories/movie/</link>
       <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/categories/movie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Games</title>
+      <link>https://darkestnotes.org/categories/games/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/categories/games/</guid>
       <description></description>
     </item>
     <item>
@@ -198,6 +205,13 @@
       <description></description>
     </item>
     <item>
+      <title>Gif</title>
+      <link>https://darkestnotes.org/categories/gif/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/categories/gif/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Pessimism</title>
       <link>https://darkestnotes.org/categories/pessimism/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
@@ -226,7 +240,7 @@
       <description></description>
     </item>
     <item>
-      <title>IOS</title>
+      <title>Ios</title>
       <link>https://darkestnotes.org/categories/ios/</link>
       <pubDate>Sat, 06 Feb 2016 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/categories/ios/</guid>
@@ -244,6 +258,13 @@
       <link>https://darkestnotes.org/categories/chronology/</link>
       <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/categories/chronology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Soundcloud</title>
+      <link>https://darkestnotes.org/categories/soundcloud/</link>
+      <pubDate>Sun, 13 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/categories/soundcloud/</guid>
       <description></description>
     </item>
     <item>
@@ -275,10 +296,10 @@
       <description></description>
     </item>
     <item>
-      <title>Gif</title>
-      <link>https://darkestnotes.org/categories/gif/</link>
-      <pubDate>Sat, 14 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/categories/gif/</guid>
+      <title>Nostalgia</title>
+      <link>https://darkestnotes.org/categories/nostalgia/</link>
+      <pubDate>Mon, 09 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/categories/nostalgia/</guid>
       <description></description>
     </item>
     <item>
@@ -356,13 +377,6 @@
       <link>https://darkestnotes.org/categories/story/</link>
       <pubDate>Fri, 19 Sep 2008 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/categories/story/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Abanndonware</title>
-      <link>https://darkestnotes.org/categories/abanndonware/</link>
-      <pubDate>Wed, 15 Nov 2006 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/categories/abanndonware/</guid>
       <description></description>
     </item>
   </channel>

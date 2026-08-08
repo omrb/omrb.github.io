@@ -114,10 +114,10 @@
       <description></description>
     </item>
     <item>
-      <title>Games</title>
-      <link>https://darkestnotes.org/tags/games/</link>
+      <title>Game</title>
+      <link>https://darkestnotes.org/tags/game/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/tags/games/</guid>
+      <guid>https://darkestnotes.org/tags/game/</guid>
       <description></description>
     </item>
     <item>
@@ -212,13 +212,6 @@
       <description></description>
     </item>
     <item>
-      <title>Game</title>
-      <link>https://darkestnotes.org/tags/game/</link>
-      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/tags/game/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Picture</title>
       <link>https://darkestnotes.org/tags/picture/</link>
       <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
@@ -282,6 +275,13 @@
       <description></description>
     </item>
     <item>
+      <title>Soundcloud</title>
+      <link>https://darkestnotes.org/tags/soundcloud/</link>
+      <pubDate>Sun, 13 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/tags/soundcloud/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Coding</title>
       <link>https://darkestnotes.org/tags/coding/</link>
       <pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate>
@@ -324,7 +324,7 @@
       <description></description>
     </item>
     <item>
-      <title>Iphone</title>
+      <title>IPhone</title>
       <link>https://darkestnotes.org/tags/iphone/</link>
       <pubDate>Sat, 25 Oct 2014 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/tags/iphone/</guid>
@@ -380,13 +380,6 @@
       <description></description>
     </item>
     <item>
-      <title>Os-X</title>
-      <link>https://darkestnotes.org/tags/os-x/</link>
-      <pubDate>Sun, 04 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/tags/os-x/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Desktop</title>
       <link>https://darkestnotes.org/tags/desktop/</link>
       <pubDate>Tue, 06 Apr 2010 00:00:00 +0000</pubDate>
@@ -419,13 +412,6 @@
       <link>https://darkestnotes.org/tags/story/</link>
       <pubDate>Sat, 26 Jul 2008 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/tags/story/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Abanndonware</title>
-      <link>https://darkestnotes.org/tags/abanndonware/</link>
-      <pubDate>Wed, 15 Nov 2006 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/tags/abanndonware/</guid>
       <description></description>
     </item>
   </channel>

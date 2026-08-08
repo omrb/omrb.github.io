@@ -117,6 +117,23 @@
 &lt;/blockquote&gt;</description>
     </item>
     <item>
+      <title>Scott Forstall</title>
+      <link>https://darkestnotes.org/posts/scott-forstall/</link>
+      <pubDate>Sun, 04 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/scott-forstall/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Starting in 2000 with Mac OS X, Apple’s desktop operating system has been Unix-based. Why is this significant? Many developers were already familiar with the Unix operating system. With a Unix base, coders could use standard Unix commands in the command line, there was greater code portability, and Mac OS X got all of the associated benefits of Unix. For example, Unix is architected in a modular fashion, which can be beneficial when it comes to system security.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GOG OS X</title>
+      <link>https://darkestnotes.org/posts/gog-os-x/</link>
+      <pubDate>Sun, 21 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/gog-os-x/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/gog-os-x/images/tumblr_mc9bssHXgj1qztw2k.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Eski DOS oyunlarını OS X&amp;rsquo;de oynamak DOSBox için yazılmış &lt;a href=&#34;http://boxerapp.com&#34;&gt;Boxer&lt;/a&gt; gibi arabirimler sayesinde çok zor olmuyordu. Bununla birlikte &lt;a href=&#34;http://www.gog.com&#34;&gt;GOG.com&lt;/a&gt;‘dan satın aldığım oyunları install etmek için öncelikle Windows&amp;rsquo;a geçmem daha sonra dosyaları OS X&amp;rsquo;e aktarmam gerekirdi.&lt;/p&gt;
+&lt;p&gt;GOG.com artık DOS oyunlarını tek bir tıklama ile çalıştırılabilecek paketler halinde OS X için de satmaya başladı. Çok fazla oyunu deneme imkanım olmadı ama Boxer&amp;rsquo;ın sağladığı stabil platform sayesinde eski DOS oyunlarını Windows&amp;rsquo;a dönmeden rahatlıkla OS X&amp;rsquo;de oynayabilmek artık mümkün.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Logitech Wireless Keyboard</title>
       <link>https://darkestnotes.org/posts/logitech-wireless-keyboard/</link>
       <pubDate>Mon, 02 Jul 2012 00:00:00 +0000</pubDate>
