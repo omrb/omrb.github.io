@@ -9,6 +9,13 @@
     <lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://darkestnotes.org/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Book</title>
+      <link>https://darkestnotes.org/categories/book/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/categories/book/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Hardware</title>
       <link>https://darkestnotes.org/categories/hardware/</link>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
@@ -20,6 +27,13 @@
       <link>https://darkestnotes.org/categories/review/</link>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/categories/review/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>https://darkestnotes.org/categories/technology/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/categories/technology/</guid>
       <description></description>
     </item>
     <item>
@@ -177,13 +191,6 @@
       <description></description>
     </item>
     <item>
-      <title>Book</title>
-      <link>https://darkestnotes.org/categories/book/</link>
-      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/categories/book/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>C64</title>
       <link>https://darkestnotes.org/categories/c64/</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
@@ -240,7 +247,7 @@
       <description></description>
     </item>
     <item>
-      <title>IOS</title>
+      <title>Ios</title>
       <link>https://darkestnotes.org/categories/ios/</link>
       <pubDate>Sat, 06 Feb 2016 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/categories/ios/</guid>

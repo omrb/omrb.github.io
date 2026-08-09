@@ -9,6 +9,27 @@
     <lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://darkestnotes.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Book</title>
+      <link>https://darkestnotes.org/tags/book/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/tags/book/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hardware</title>
+      <link>https://darkestnotes.org/tags/hardware/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/tags/hardware/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Review</title>
+      <link>https://darkestnotes.org/tags/review/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/tags/review/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Technology</title>
       <link>https://darkestnotes.org/tags/technology/</link>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
@@ -58,13 +79,6 @@
       <description></description>
     </item>
     <item>
-      <title>Review</title>
-      <link>https://darkestnotes.org/tags/review/</link>
-      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/tags/review/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Internet</title>
       <link>https://darkestnotes.org/tags/internet/</link>
       <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
@@ -76,13 +90,6 @@
       <link>https://darkestnotes.org/tags/apple/</link>
       <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/tags/apple/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hardware</title>
-      <link>https://darkestnotes.org/tags/hardware/</link>
-      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/tags/hardware/</guid>
       <description></description>
     </item>
     <item>
@@ -139,13 +146,6 @@
       <link>https://darkestnotes.org/tags/gif/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/tags/gif/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Book</title>
-      <link>https://darkestnotes.org/tags/book/</link>
-      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/tags/book/</guid>
       <description></description>
     </item>
     <item>
