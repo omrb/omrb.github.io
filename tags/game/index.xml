@@ -517,19 +517,10 @@
       <pubDate>Sun, 03 Dec 2006 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/posts/f-29-retaliator/</guid>
       <description>&lt;style&gt;
-  figure figcaption {
-    text-align: center;
-    margin-top: 5px !important;
-  }
+  figure figcaption { text-align: center !important; margin-top: -5px !important; }
+  figure figcaption p { margin-top: 0 !important; margin-bottom: 0 !important; padding-top: 0 !important; }
 &lt;/style&gt;
-&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;image.jpg&#34;
-         alt=&#34;This works out of the box!&#34;/&gt; &lt;figcaption&gt;
-            &lt;p&gt;This works out of the box!&lt;/p&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/f-29-retaliator/images/tumblr_inline_mhlsi1IYPI1qz4rgp.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/f-29-retaliator/images/Retaliator-Cover.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;F-29 Retaliator 1989 yılında piyasaya çıktığında, simülasyon dünyasını etkileyen önemli oyunlardan biri olmuştur. Onu zamanının diğer simülasyon oyunlarından ayıran pek çok özellik sayabiliriz. 4 farklı senaryoda 100&amp;rsquo;den fazla görev, 3 panelli HUD görüntüsü, 2000&amp;rsquo;li yılların uçakları vs…. Ama onu farklı yapan 3 boyutlu grafikleri ve hızıdır. 90&amp;rsquo;ların simülasyon oyunlarında 3 boyutlu grafikler genelde ufaktır ve detaydan yoksundur. Oysa F29&amp;rsquo;da özellikle yere yakın uçarken 3D şekillerin büyüklüğü ve detayı dikkat çekicidir. Ayrıca dogfight kısmındaki hızı, gerçekçiliği büyük oranda arttırmaktadır.&lt;/p&gt;</description>
     </item>
   </channel>
