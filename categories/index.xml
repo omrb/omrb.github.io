@@ -142,6 +142,13 @@
       <description></description>
     </item>
     <item>
+      <title>Operating-System</title>
+      <link>https://darkestnotes.org/categories/operating-system/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/categories/operating-system/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Pc</title>
       <link>https://darkestnotes.org/categories/pc/</link>
       <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
@@ -191,6 +198,13 @@
       <description></description>
     </item>
     <item>
+      <title>Chronology</title>
+      <link>https://darkestnotes.org/categories/chronology/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/categories/chronology/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>C64</title>
       <link>https://darkestnotes.org/categories/c64/</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
@@ -202,6 +216,13 @@
       <link>https://darkestnotes.org/categories/app/</link>
       <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/categories/app/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Macbook</title>
+      <link>https://darkestnotes.org/categories/macbook/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/categories/macbook/</guid>
       <description></description>
     </item>
     <item>
@@ -226,6 +247,34 @@
       <description></description>
     </item>
     <item>
+      <title>Beta</title>
+      <link>https://darkestnotes.org/categories/beta/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/categories/beta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Macos</title>
+      <link>https://darkestnotes.org/categories/macos/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/categories/macos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ios</title>
+      <link>https://darkestnotes.org/categories/ios/</link>
+      <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/categories/ios/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Art</title>
+      <link>https://darkestnotes.org/categories/art/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/categories/art/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Dos</title>
       <link>https://darkestnotes.org/categories/dos/</link>
       <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
@@ -240,31 +289,24 @@
       <description></description>
     </item>
     <item>
-      <title>Football</title>
-      <link>https://darkestnotes.org/categories/football/</link>
+      <title>History</title>
+      <link>https://darkestnotes.org/categories/history/</link>
       <pubDate>Mon, 11 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/categories/football/</guid>
+      <guid>https://darkestnotes.org/categories/history/</guid>
       <description></description>
     </item>
     <item>
-      <title>Ios</title>
-      <link>https://darkestnotes.org/categories/ios/</link>
-      <pubDate>Sat, 06 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/categories/ios/</guid>
+      <title>Nostalgia</title>
+      <link>https://darkestnotes.org/categories/nostalgia/</link>
+      <pubDate>Mon, 11 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/categories/nostalgia/</guid>
       <description></description>
     </item>
     <item>
-      <title>Macos</title>
-      <link>https://darkestnotes.org/categories/macos/</link>
-      <pubDate>Sat, 06 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/categories/macos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Chronology</title>
-      <link>https://darkestnotes.org/categories/chronology/</link>
-      <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/categories/chronology/</guid>
+      <title>App-Store</title>
+      <link>https://darkestnotes.org/categories/app-store/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/categories/app-store/</guid>
       <description></description>
     </item>
     <item>
@@ -282,13 +324,6 @@
       <description></description>
     </item>
     <item>
-      <title>Art</title>
-      <link>https://darkestnotes.org/categories/art/</link>
-      <pubDate>Thu, 10 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/categories/art/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Scene</title>
       <link>https://darkestnotes.org/categories/scene/</link>
       <pubDate>Thu, 10 Dec 2015 00:00:00 +0000</pubDate>
@@ -303,24 +338,10 @@
       <description></description>
     </item>
     <item>
-      <title>Nostalgia</title>
-      <link>https://darkestnotes.org/categories/nostalgia/</link>
-      <pubDate>Mon, 09 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/categories/nostalgia/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Winter</title>
       <link>https://darkestnotes.org/categories/winter/</link>
       <pubDate>Thu, 19 Feb 2015 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/categories/winter/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>History</title>
-      <link>https://darkestnotes.org/categories/history/</link>
-      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/categories/history/</guid>
       <description></description>
     </item>
     <item>
@@ -345,13 +366,6 @@
       <description></description>
     </item>
     <item>
-      <title>Operating-System</title>
-      <link>https://darkestnotes.org/categories/operating-system/</link>
-      <pubDate>Thu, 19 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/categories/operating-system/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Windows</title>
       <link>https://darkestnotes.org/categories/windows/</link>
       <pubDate>Thu, 19 Dec 2013 00:00:00 +0000</pubDate>
@@ -359,24 +373,10 @@
       <description></description>
     </item>
     <item>
-      <title>Macbook</title>
-      <link>https://darkestnotes.org/categories/macbook/</link>
-      <pubDate>Sat, 03 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/categories/macbook/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Computers</title>
       <link>https://darkestnotes.org/categories/computers/</link>
       <pubDate>Sun, 04 Nov 2012 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/categories/computers/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>App-Store</title>
-      <link>https://darkestnotes.org/categories/app-store/</link>
-      <pubDate>Sat, 03 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/categories/app-store/</guid>
       <description></description>
     </item>
     <item>

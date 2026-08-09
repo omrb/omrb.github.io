@@ -36,6 +36,50 @@ Emülasyon ile deneyimlenen bilgisayarların gelişmiş donanımlar ile daha gel
 Apollo Team tarafından geliştirilen Vampire hızlandıcı Amiga kartları uzun yıllardır piyasada mevcut. Amiga üzerine işlemci yuvasına takılan kartlar bir miktar hız artışının yanında HDD desteği, çeşitli yamalar vb. özellikler ile geliyor.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Sound Blaster Pro</title>
+      <link>https://darkestnotes.org/posts/sound-blaster-pro/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/sound-blaster-pro/</guid>
+      <description>&lt;p&gt;IBM PC dünyası 90’lı yılların başından itibaren ses kartları ile tanıştı. 1987 yılında çıkan Adlib ve sonrasında ultra pahalı Roland MIDI modüllerinin ardından Creative piyasaya makul fiyat etiketli ve dijital ses efektleri sunabilen Sound Blaster ses kartları ile 1990 yılında girdi ve piyasaya 10 yıldan fazla bir süre hakim oldu.&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/sound-blaster-pro/images/Sound_Blaster_Pro2-Box-Win31_Label2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Creative ses kartları içinde bence en önemlisi Sound Blaster Pro modelidir. Hem eskiyle uyumlu, hem stereo, hem güçlü OPL3 yongası hem de CD-ROM arabirimi ile 1991 yılında ortaya çıkar. O zamanın ev bilgisayarı Amiga ile hemen hemen aynı kalitede ses çıkışı verebilen bir karttır bu. Çıktığı dönem biraz problemlidir elbette. İlk sürümünde OPL3 yongası yerine stereo ses çıkışı için 2 adet YM3812 synthisizer chip bulundurur. O dönem piyasada Windows 3.0 olduğundan paketten çıkan yazılımlar Windows 3.0 için üretilmiştir. &lt;img alt=&#34;https://www.retrogamingmuseum.com/the-collection/sound-blaster-pro-ct1330-1991&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/sound-blaster-pro/images/Sound_Blaster_Pro-1991.jpg&#34;&gt;Sonraki modellerde (Sound Blaster Pro2 olarak adlandırılan) gerçek OPL3 (YMF262) eklenir, 1992 yılında Windows 3.1 multimedia desteği ile çıkınca ses kartı ile bundle edilen Windows 3.0 programları işlevsiz kalır, kartın kutusu üzerine Windows 3.1 uyumludur ibaresi ile bir süre daha satılır. Sürücüler ve programlar Windows 3.1 için hazırlandıktan sonra kutu üzerine etiketle Windows 3.1 sürücülerinin eklendiği belirtilir.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MacBook Pro M1</title>
+      <link>https://darkestnotes.org/posts/macbook-pro-m1/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/macbook-pro-m1/</guid>
+      <description>&lt;p&gt;1992 yılında kullanmaya başladığım PC bilgisayarlar ile CPU olarak hep intel işlemcileri kullandım. Alternatif olarak AMD, Cyrix gibi farklı işlemciler olsa da hepsi x86 mimarisi kullanıldığından derlenen programların farklı performans göstermesi spesifik durumlar dışında pek olağan değildi.&lt;/p&gt;
+&lt;p&gt;Apple’da 2006 yılından itibaren Intel CPU kullanmaya başladıktan sonra bilgisayar dünyasında x86 mimarisinin alternatifi kalmamıştı.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/macbook-pro-m1/images/m1_hero__gayysked51ym_large_2x.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;2020 sonunda Apple mimarisini kendi geliştirdiği ARM tabanlı M1 işlemcili ilk bilgisayarlarını piyasaya çıkardı. 5 nm teknolojisi ile üretilen CPU, 10 nm’nin altına yeni inebilen intel’in fazlasıyla öne geçmiş gibi görülüyor.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Creative Sound BlasterX G6</title>
+      <link>https://darkestnotes.org/posts/creative-sound-blasterx-g6/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/creative-sound-blasterx-g6/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/creative-sound-blasterx-g6/images/Sound_BlasterX-G6-Logo.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;2003-2004 yıllarından sonra anakart üzerinde gelen ses yongaları yeteneklerini fazlasıyla artırınca, ses kartları hobi amaçlı kullanılan pahalı oyuncaklar haline dönüşmeye başladı. Creative Sound Blaster Live! serisinden sonra çıkardığı Audigy serisinde istediği başarıyı yakalayamadı ve bilgisayar dünyası uzunca bir süre anakart üzerindeki onboard ses çözümlerine mahkum oldu.&lt;/p&gt;
+&lt;p&gt;Son yıllarda artmaya başlayan yüksek kaliteli müzik dinleme isteği ile ses kartı ve DAC piyasasında gözle görülür bir hareketlenme yaşanıyor. Geçen yıl kullandığım &lt;a href=&#34;https://darkestnotes.org/?p=3227&#34;&gt;Audioquest&lt;/a&gt;&amp;lsquo;in DAC&amp;rsquo;larının müzik dosyaları için ideal ancak oyunlar için fazlasıyla yetersiz olduğunu gördüğümden bir süredir her iki amaca uygun kullanımı olan birşeyler aramaya başladım. Ancak Hi-Res müzik dünyasında maalesef böyle donanım bulabilmenin mümkün olmadığını görmem çok zaman almadı. Müzik konusunu ayrı, oyunlardaki ses efektleri konusunu ayrı değerlendirmek gerekiyor.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Roon</title>
+      <link>https://darkestnotes.org/posts/roon/</link>
+      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/roon/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/roon/images/Roon_Header.png&#34;&gt; &lt;a href=&#34;https://roonlabs.com&#34;&gt;Roon&lt;/a&gt; Windows, MacOS ve Linux için bir müzik yönetim ve çalma programı. Roon&amp;rsquo;u diğer programlardan ayıran en önemli özelliği büyük bir metadata kütüphanesine erişmesi ve dinlediğiniz müziğin yapımcısından tutun da plak şirketine, şarkıların bestecisinden albüm kapağına kadar bilgilere kolaylıkla ulaşım sağlayabilmesi. Zaten tanıtım sayfalarında da dijital müziğe geçişte iTunes ve Spotify gibi listelerden oluşan programların olumsuz yönüne vurgu yapılıyor.&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/roon/images/Roon-Problem.png&#34;&gt; Roon bilgisayarda veya network ortamında bulunan müzik dosyalarına ulaşabildiği gibi &lt;a href=&#34;https://tidal.com&#34;&gt;TIDAL&lt;/a&gt; ve &lt;a href=&#34;https://www.qobuz.com/&#34;&gt;Qobuz&lt;/a&gt; lossless streaming servisleri ile de etkileşimli çalışabiliyor. Dinlenilen albümün Allmusic&amp;rsquo;de yer alan eleştirisinden, yüksek çözünürlüklü albüm kapağına, sanatçının biyografisinden, şarkı sözlerine kolaylıkla ulaşabilmek mümkün. Eğer elinizde albümlerin PDF formatındaki Digital Booklet&amp;rsquo;leri veya JPG formatındaki albüm kapağı, iç kapak resimleri var ise bunlara da tek tıklama ile ulaşabilmek mümkün. Kısacası müzik arama ve dinlemeyi eskisinden keyifli bir hale getiriyor. &lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/roon/images/Roon-Solution.png&#34;&gt; Roon audiophile&amp;rsquo;ler için belli başlı donanımları otomatik olarak tanıyor ve partner programı sayesinde doğrudan bu donanımı destekliyor. DSP Engine ile ses çıkışına equalizer vb. geliştirmeler sağlamak mümkün. &lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/roon/images/Roon_Signal_Path.png&#34;&gt; Roon’un en güzel özelliklerinden biri ise Signal Path. Yani dijital ses dosyasının bilgisayarda okunduktan sonra analog hale dönüşünceye kadar geçtiği aşamaları teker teker göstermesi.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MacBook (Early 2015)</title>
+      <link>https://darkestnotes.org/posts/macbook-early-2015/</link>
+      <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/macbook-early-2015/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;MacBook-Space_Grey&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/macbook-early-2015/images/MacBook-Space_Grey.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Başka birşeyler almak için girdiğim teknoloji markette vakit geçirmek için dolandığım sırada, Apple ürünlerini incelerken gördüm geçtiğimiz yılın ilk çeyreğinde çıkan MacBook modelini. Nisan ayında ilk çıktığı zaman beğenmiş, incelemiş, almayı düşünmüş ancak fiyatı çok yüksek olduğundan ertelemiştim.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;b_86829&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/macbook-early-2015/images/b_86829.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;İncelemelerden okuduğum kadarıyla en büyük yeniliği klavyesinde taşıyordu. İlk bu özelliğini denemek için tuşlara dokunduğum an vuruldum. Düz, fazla çıkıntılı olmayan, bununla birlikte önceki modellere göre daha büyük tasarlanmış tuşlar. &lt;em&gt;Butterfly Mechanism&lt;/em&gt; diye adlandırmış Apple, tuşa basma hissi çok çok farklı ve keyifli bir deneyim sunuyor.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>USB 3.0 External Drive</title>
       <link>https://darkestnotes.org/posts/usb-3.0-external-drive/</link>
       <pubDate>Thu, 04 Dec 2014 00:00:00 +0000</pubDate>

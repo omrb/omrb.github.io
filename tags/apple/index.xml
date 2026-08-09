@@ -17,6 +17,69 @@
 &lt;p&gt;Bugün, hiç umulmadık şekilde en son 2008 yılında kullandığım 3. nesil iPod Nano&amp;rsquo;mu buldum. İçindeki iTunes kütüphanesi ile birlikte bunca yıl hiç dokunulmamış şekilde duruyordu. Bir zaman kapsülü bulmuş gibi oldum.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>MacBook Pro M1</title>
+      <link>https://darkestnotes.org/posts/macbook-pro-m1/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/macbook-pro-m1/</guid>
+      <description>&lt;p&gt;1992 yılında kullanmaya başladığım PC bilgisayarlar ile CPU olarak hep intel işlemcileri kullandım. Alternatif olarak AMD, Cyrix gibi farklı işlemciler olsa da hepsi x86 mimarisi kullanıldığından derlenen programların farklı performans göstermesi spesifik durumlar dışında pek olağan değildi.&lt;/p&gt;
+&lt;p&gt;Apple’da 2006 yılından itibaren Intel CPU kullanmaya başladıktan sonra bilgisayar dünyasında x86 mimarisinin alternatifi kalmamıştı.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/macbook-pro-m1/images/m1_hero__gayysked51ym_large_2x.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;2020 sonunda Apple mimarisini kendi geliştirdiği ARM tabanlı M1 işlemcili ilk bilgisayarlarını piyasaya çıkardı. 5 nm teknolojisi ile üretilen CPU, 10 nm’nin altına yeni inebilen intel’in fazlasıyla öne geçmiş gibi görülüyor.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MacOS Catalina</title>
+      <link>https://darkestnotes.org/posts/macos-catalina/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/macos-catalina/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/macos-catalina/images/MacOS_Catalina_Logo.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Apple işletim sistemini her yıl güncelliyor ve yeni bir isimle piyasaya sürüyor. Son kullanıcı tarafında yeni bir işletim sistemi çıkmış gibi bir algı yaratılıyor. Hemen hemen hiçbir yeni ve önemli özellik olmamasına rağmen sanki yeni bir sürüm çıkarıyormuş hissiyatı yaratmak pek etik değil. Bununla birlikte her yıl yeni işletim sistemi çıkarma döngüsünü sürdürme çabası ile programlama aşaması aceleye getiriliyor ve daha önceki sürümde olmayan çok sayıda bug ile karşılaşma durumu, kullanıcının işletim sistemini kalite ve stabilite açısından da eleştirmesine sebep oluyor.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>iOS 13</title>
+      <link>https://darkestnotes.org/posts/ios-13/</link>
+      <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/ios-13/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/ios-13/images/top-new-ios-13-features.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;iOS 13 iPhone’larımıza geldi gelmesine ama sorunlarıyla birlikte geldi. Daha iOS 13 çıkmadan 13.1 betaları dağıtıldı, 13.1.1 sonrasında 13.1.2. Herşey içinde bulunsun derken Apple fazlasıyla karman çorman bir hale getirdi iOS’u. Bu durum ister istemez sistemde hantallaşmaya yol açıyor kuşkusuz.&lt;/p&gt;
+&lt;p&gt;Pek çok özelliği zaten ülkemizde kullanamıyoruz, bazı özelliklerinde farkında değiliz bile. Apple’ın iOS 13 sayfasında şöyle bir baktım neyi kullanıyorum, hangi özellikler bana faydalı diye, görünürde pek birşey yok.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Things 3 ßeta</title>
+      <link>https://darkestnotes.org/posts/things-3-%C3%9Feta/</link>
+      <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/things-3-%C3%9Feta/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/things-3-%C3%9Feta/images/Things-3.gif&#34;&gt;&lt;/p&gt;
+&lt;p&gt;İlk duyurulduğu zamandan bu yana çok uzun zaman geçti. Apple iOS 7 ile yeni tasarım sürecine girince sil baştan yeniden oluşturulmaya başlandı. O yıllardan bu yana to-do list’lerin popülerliği büyük oranda azaldı.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/things-3-%C3%9Feta/images/things-3-is-coming.jpg&#34;&gt; Tüm bunlara karşın betası için e-posta aldığımda bir an önce kullanabilmek için heyecanlanmadım değil. &lt;a href=&#34;https://darkestnotes.org/2016/08/07/ulysses/&#34;&gt;Ulysses&lt;/a&gt;’de de olan “Gol” sistemi Things’e de eklenmiş. Beni motive eder mi etmez mi tartışılır tabi. Yapacakları bitirdikçe ilerleyişi görmek güzel ama bitiremediğim şeyleri o listelerde görmek ve yapamayacağını fark etmek moral bozmuyor değil.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ulysses</title>
+      <link>https://darkestnotes.org/posts/ulysses/</link>
+      <pubDate>Sun, 07 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/ulysses/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;ADA_Ulysses&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/ulysses/images/ADA_Ulysses.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Yıllar önce kullandığım not alma -yazı yazma- programı Ulysses yenilenmiş, güncellenmiş, parlatılmış ve tekrar piyasaya çıkmış. Yaklaşık 118 ₺’lik fiyatını görünce şaşırdım tabi, önceden satın almış olduğum için bir indirim var mı acaba? diye bakarken bir upgrade ücreti olmadığını görünce hemen yükledim ve denemeye başladım, yüzeysel ilk izlenimlerim şu şekilde.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Ulysses-Header&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/ulysses/images/Ulysses-Header.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Uzun zamandır &lt;a href=&#34;https://bywordapp.com&#34;&gt;Byword&lt;/a&gt; kullanmakta olduğum düşünüldüğünde ve tuhaf bir biçimde -&lt;em&gt;eksiklikleriyle beraber&lt;/em&gt;- kullanmaya alışmış olduğumdan kendisinden kolay kolay vazgeçebileceğimi düşünmüyorum ancak Ulysses’de bazı özelliklerin fazlasıyla kullanışlı olması dikkatimi çekti.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>iPhone Hands-Free Siri with Cookie Monster</title>
+      <link>https://darkestnotes.org/posts/iphone-hands-free-siri-with-cookie-monster/</link>
+      <pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/iphone-hands-free-siri-with-cookie-monster/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/WobCmSoh9q8&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://markdown-videos-api.jorgenkh.no/youtube/WobCmSoh9q8?width=800&amp;height=600&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MacBook (Early 2015)</title>
+      <link>https://darkestnotes.org/posts/macbook-early-2015/</link>
+      <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/macbook-early-2015/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;MacBook-Space_Grey&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/macbook-early-2015/images/MacBook-Space_Grey.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Başka birşeyler almak için girdiğim teknoloji markette vakit geçirmek için dolandığım sırada, Apple ürünlerini incelerken gördüm geçtiğimiz yılın ilk çeyreğinde çıkan MacBook modelini. Nisan ayında ilk çıktığı zaman beğenmiş, incelemiş, almayı düşünmüş ancak fiyatı çok yüksek olduğundan ertelemiştim.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;b_86829&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/macbook-early-2015/images/b_86829.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;İncelemelerden okuduğum kadarıyla en büyük yeniliği klavyesinde taşıyordu. İlk bu özelliğini denemek için tuşlara dokunduğum an vuruldum. Düz, fazla çıkıntılı olmayan, bununla birlikte önceki modellere göre daha büyük tasarlanmış tuşlar. &lt;em&gt;Butterfly Mechanism&lt;/em&gt; diye adlandırmış Apple, tuşa basma hissi çok çok farklı ve keyifli bir deneyim sunuyor.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>iPhone 6 Plus</title>
       <link>https://darkestnotes.org/posts/iphone-6-plus/</link>
       <pubDate>Sat, 25 Oct 2014 00:00:00 +0000</pubDate>

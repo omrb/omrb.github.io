@@ -6,8 +6,18 @@
     <description>Recent content in Pc on Darkest Notes</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 27 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Feb 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://darkestnotes.org/tags/pc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BeOS&#39;un Kısa Tarihi</title>
+      <link>https://darkestnotes.org/posts/beosun-k%C4%B1sa-tarihi/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/beosun-k%C4%B1sa-tarihi/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/beosun-k%C4%B1sa-tarihi/images/BeLogo-with-black-background.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Jean-Louis Gassée 1990 yılında Apple&amp;rsquo;dan ayrıldıktan sonra Steve Jobs gibi kendi firmasını Be Inc. adıyla 1991 yılında kurdu. At&amp;amp;T tarafından geliştirilen RISC tabanlı &amp;ldquo;&lt;em&gt;Hobbit&lt;/em&gt;&amp;rdquo; isimli işlemciye sahip bir bilgisayar geliştirmekle kalmadı bu bilgisayar için bir işletim sistemi de hazırlamaya koyuldu. Bilgisayarın adı &lt;em&gt;&lt;strong&gt;BeBox&lt;/strong&gt;&lt;/em&gt; oldu ancak 1995 yılında AT&amp;amp;T Hobbit işlemcisini geliştirmeyi bıraktı ve Gassée&amp;rsquo;nin bilgisayar tasarımı yarı yolda kaldı.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/beosun-k%C4%B1sa-tarihi/images/Fearless-Leader.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Gassée kolay vaz geçen biri değildi, hemen bilgisayarını iki 66 Mhz hızında PowerPC 603 işlemcisi ile donattı, hazırladığı işletim sistemi de C ve C++ diliyle yazılmış olduğundan kolaylıkla yeni işlemciye uyarlandı ve BeBox 1996 yılı Ocak ayında kullanıcı ile buluştu. Bilgisayarı alanlar fazlasıyla memnun kaldılar üründen. Bilgisayar kasası üzerinde işlemci performansını gösteren &amp;ldquo;&lt;em&gt;blinkenlight&lt;/em&gt;&amp;rdquo; LED ışıklar, stabil, isometirk ikonlara sahip işletim sistemi herkesi fazlasıyla memnun etti.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Sound Blaster Pro</title>
       <link>https://darkestnotes.org/posts/sound-blaster-pro/</link>
@@ -33,6 +43,14 @@
       <guid>https://darkestnotes.org/posts/boxer-ve-dot-matrix-printer-em%C3%BClasyonu/</guid>
       <description>&lt;p&gt;Hafta sonu uzun zamandır beklediğim ancak programcısının artık herhangi bir geliştirme yapacağını düşünmediğim bir uygulama ile uğraşmakla geçti. &lt;a href=&#34;http://boxerapp.com&#34;&gt;Boxer&lt;/a&gt;. Büyük oranda gelişimini tamamlamış bir uygulama aslında, DOSBox için yazılmış bir kullanıcı arayüzü. Ancak MacOs’un kullanıcı dostu arabirimine yönelik o kadar ince detaylar düşünülerek geliştirilmiş ki bir daha Windows ile DOSBox kullanamaz oldum.&lt;/p&gt;
 &lt;p&gt;Oyun ve programların dökümanları ve kutu resimleri ile bir paket haline getirilebilmesi, DOSBox’dan farklı daha gelişmiş Roland MT-32 &lt;a href=&#34;https://sourceforge.net/projects/munt/&#34;&gt;emülasyonu&lt;/a&gt;, Roland MT-32’nin LCD ekranında kimi programlar tarafından yazılan mesajları benzer bir biçimde ekranda gösterme gibi eski bilgisayarcılara yönelik baştan çıkarıcı detaylar.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Civilization</title>
+      <link>https://darkestnotes.org/posts/civilization/</link>
+      <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/civilization/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/civilization/images/Civ-VI.8c3ad02e0f1d45a0b657c8f29d811e7a.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;1992 yılı, Temmuz ayı. Okul kapanmış (-kredili sistem olduğu için normal öğrencilere göre 3 hafta daha fazla gitmiştik okula-😡) Avrupa Futbol Şampiyonası sona ermiş, uzun bir yaz tatili beni bekliyor. Odamın baş köşesine kurulmuş yepyeni, gıcır gıcır bir 80386DX-40 işlemcili, 4 MByte RAM’li Sound Blaster Pro ses kartlı SVGA ekranlı bir PC. Biraz DOS ve Windows denemeleri, mouse ile çizim yapma denemeleri, debug ile yazılan ufak tefek Assembly kodları derken bilgisayarın asıl alınış amacına gelmişti sıra. Oyunlar!!!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Windows 8.1</title>

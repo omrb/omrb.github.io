@@ -6,8 +6,36 @@
     <description>Recent content in Computer on Darkest Notes</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 05 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Feb 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://darkestnotes.org/tags/computer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BeOS&#39;un Kısa Tarihi</title>
+      <link>https://darkestnotes.org/posts/beosun-k%C4%B1sa-tarihi/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/beosun-k%C4%B1sa-tarihi/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/beosun-k%C4%B1sa-tarihi/images/BeLogo-with-black-background.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Jean-Louis Gassée 1990 yılında Apple&amp;rsquo;dan ayrıldıktan sonra Steve Jobs gibi kendi firmasını Be Inc. adıyla 1991 yılında kurdu. At&amp;amp;T tarafından geliştirilen RISC tabanlı &amp;ldquo;&lt;em&gt;Hobbit&lt;/em&gt;&amp;rdquo; isimli işlemciye sahip bir bilgisayar geliştirmekle kalmadı bu bilgisayar için bir işletim sistemi de hazırlamaya koyuldu. Bilgisayarın adı &lt;em&gt;&lt;strong&gt;BeBox&lt;/strong&gt;&lt;/em&gt; oldu ancak 1995 yılında AT&amp;amp;T Hobbit işlemcisini geliştirmeyi bıraktı ve Gassée&amp;rsquo;nin bilgisayar tasarımı yarı yolda kaldı.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/beosun-k%C4%B1sa-tarihi/images/Fearless-Leader.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Gassée kolay vaz geçen biri değildi, hemen bilgisayarını iki 66 Mhz hızında PowerPC 603 işlemcisi ile donattı, hazırladığı işletim sistemi de C ve C++ diliyle yazılmış olduğundan kolaylıkla yeni işlemciye uyarlandı ve BeBox 1996 yılı Ocak ayında kullanıcı ile buluştu. Bilgisayarı alanlar fazlasıyla memnun kaldılar üründen. Bilgisayar kasası üzerinde işlemci performansını gösteren &amp;ldquo;&lt;em&gt;blinkenlight&lt;/em&gt;&amp;rdquo; LED ışıklar, stabil, isometirk ikonlara sahip işletim sistemi herkesi fazlasıyla memnun etti.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sound Blaster Pro</title>
+      <link>https://darkestnotes.org/posts/sound-blaster-pro/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/sound-blaster-pro/</guid>
+      <description>&lt;p&gt;IBM PC dünyası 90’lı yılların başından itibaren ses kartları ile tanıştı. 1987 yılında çıkan Adlib ve sonrasında ultra pahalı Roland MIDI modüllerinin ardından Creative piyasaya makul fiyat etiketli ve dijital ses efektleri sunabilen Sound Blaster ses kartları ile 1990 yılında girdi ve piyasaya 10 yıldan fazla bir süre hakim oldu.&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/sound-blaster-pro/images/Sound_Blaster_Pro2-Box-Win31_Label2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Creative ses kartları içinde bence en önemlisi Sound Blaster Pro modelidir. Hem eskiyle uyumlu, hem stereo, hem güçlü OPL3 yongası hem de CD-ROM arabirimi ile 1991 yılında ortaya çıkar. O zamanın ev bilgisayarı Amiga ile hemen hemen aynı kalitede ses çıkışı verebilen bir karttır bu. Çıktığı dönem biraz problemlidir elbette. İlk sürümünde OPL3 yongası yerine stereo ses çıkışı için 2 adet YM3812 synthisizer chip bulundurur. O dönem piyasada Windows 3.0 olduğundan paketten çıkan yazılımlar Windows 3.0 için üretilmiştir. &lt;img alt=&#34;https://www.retrogamingmuseum.com/the-collection/sound-blaster-pro-ct1330-1991&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/sound-blaster-pro/images/Sound_Blaster_Pro-1991.jpg&#34;&gt;Sonraki modellerde (Sound Blaster Pro2 olarak adlandırılan) gerçek OPL3 (YMF262) eklenir, 1992 yılında Windows 3.1 multimedia desteği ile çıkınca ses kartı ile bundle edilen Windows 3.0 programları işlevsiz kalır, kartın kutusu üzerine Windows 3.1 uyumludur ibaresi ile bir süre daha satılır. Sürücüler ve programlar Windows 3.1 için hazırlandıktan sonra kutu üzerine etiketle Windows 3.1 sürücülerinin eklendiği belirtilir.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MacBook Pro M1</title>
+      <link>https://darkestnotes.org/posts/macbook-pro-m1/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/macbook-pro-m1/</guid>
+      <description>&lt;p&gt;1992 yılında kullanmaya başladığım PC bilgisayarlar ile CPU olarak hep intel işlemcileri kullandım. Alternatif olarak AMD, Cyrix gibi farklı işlemciler olsa da hepsi x86 mimarisi kullanıldığından derlenen programların farklı performans göstermesi spesifik durumlar dışında pek olağan değildi.&lt;/p&gt;
+&lt;p&gt;Apple’da 2006 yılından itibaren Intel CPU kullanmaya başladıktan sonra bilgisayar dünyasında x86 mimarisinin alternatifi kalmamıştı.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/macbook-pro-m1/images/m1_hero__gayysked51ym_large_2x.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;2020 sonunda Apple mimarisini kendi geliştirdiği ARM tabanlı M1 işlemcili ilk bilgisayarlarını piyasaya çıkardı. 5 nm teknolojisi ile üretilen CPU, 10 nm’nin altına yeni inebilen intel’in fazlasıyla öne geçmiş gibi görülüyor.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>IBMulator</title>
       <link>https://darkestnotes.org/posts/ibmulator/</link>
@@ -16,6 +44,32 @@
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/ibmulator/images/IBMulator-PS1_Realistic_View.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Soğuk kış günlerinde evde otururken nedense aklıma 1991 yılı sonu 1992 yılı başlarındaki soğuk bir kış gününde babamla IBM PS/1 bakmaya gittiğimiz gün geldi. Commodore 64 sonrası geleceğe dönük bir bilgisayar alma düşüncesi ile Amiga mı yoksa PC uyumlu bilgisayar mı alalım diye düşünürken TV&amp;rsquo;de reklamlarını gördüğümüz IBM PS/1 modeli neyin nesiymiş bakmaya gitmiştik soğuk bir Cumartesi akşam üzeri.&lt;/p&gt;
 &lt;p&gt;Mağaza sahibi bizimle fazlasıyla ilgilenmiş, oğlu hemen teşhirdeki ürünü kullanıma hazır hale getirmişti. Bilgisayar boot ederken hoparlöründen gelen &amp;ldquo;&lt;em&gt;beep-blüp&lt;/em&gt;&amp;rdquo; sesleri ve sonrasında 640x480x16 renkli ekranına gelen 4-Quadrant ile bizi orada büyülemişti bilgisayar. 640x480 çözünürlüklü renkli grafikler o zamanlar için günümüzün 4k teknolojisi gibi birşeydi. Yalnız anlaşılan şuydu ki IBM elinde kalan eski model PS/1&amp;rsquo;leri yeni modelleri çıkarmadan önce Türkiye&amp;rsquo;de satabilme çabasında idi. 1990 yılında üretilen ve 1991 yılının hemen başında Amerika ve Avrupa&amp;rsquo;da satılan bu ilk PS/1 modelleri &amp;ldquo;&lt;strong&gt;&lt;em&gt;5 Dakika ve İşin İçindesiniz&lt;/em&gt;&lt;/strong&gt;&amp;rdquo; gibi bir sloganla PC kullanmaya çekinen kitleleri PC dünyasına çekebilmek için üretilmişti. Zaten bu 4 quadrant hikayesi de Macintosh&amp;rsquo;un grafik kullanıcı arabiriminin benzerini PC dünyasına taşıma çabasıydı. Neyse sonuçta bu bilgisayarlar fazlasıyla eski bir teknolojiye sahipti. Türkiye&amp;rsquo;ye gelen 4 model 80286-10 MhZ işlemcili, renkli-renksiz ekranlı ve 30 MByte HDD&amp;rsquo;li, HDD&amp;rsquo;siz modellerden oluşuyordu. Sonuçta Türkiye&amp;rsquo;de bu cihazlardan kaç adet satıldı ne oldu bilemiyorum ama sonraki model PS/1&amp;rsquo;lerin hiçbiri Türkiye&amp;rsquo;ye gelmedi onu biliyorum. Dükkanda teşhirde incelediğim model HDD&amp;rsquo;si olmayan bir modeldi, HDD&amp;rsquo;li olsa belki o gün orada satın alınırdı ama almadık.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Creative Sound BlasterX G6</title>
+      <link>https://darkestnotes.org/posts/creative-sound-blasterx-g6/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/creative-sound-blasterx-g6/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/creative-sound-blasterx-g6/images/Sound_BlasterX-G6-Logo.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;2003-2004 yıllarından sonra anakart üzerinde gelen ses yongaları yeteneklerini fazlasıyla artırınca, ses kartları hobi amaçlı kullanılan pahalı oyuncaklar haline dönüşmeye başladı. Creative Sound Blaster Live! serisinden sonra çıkardığı Audigy serisinde istediği başarıyı yakalayamadı ve bilgisayar dünyası uzunca bir süre anakart üzerindeki onboard ses çözümlerine mahkum oldu.&lt;/p&gt;
+&lt;p&gt;Son yıllarda artmaya başlayan yüksek kaliteli müzik dinleme isteği ile ses kartı ve DAC piyasasında gözle görülür bir hareketlenme yaşanıyor. Geçen yıl kullandığım &lt;a href=&#34;https://darkestnotes.org/?p=3227&#34;&gt;Audioquest&lt;/a&gt;&amp;lsquo;in DAC&amp;rsquo;larının müzik dosyaları için ideal ancak oyunlar için fazlasıyla yetersiz olduğunu gördüğümden bir süredir her iki amaca uygun kullanımı olan birşeyler aramaya başladım. Ancak Hi-Res müzik dünyasında maalesef böyle donanım bulabilmenin mümkün olmadığını görmem çok zaman almadı. Müzik konusunu ayrı, oyunlardaki ses efektleri konusunu ayrı değerlendirmek gerekiyor.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dead Pixel !</title>
+      <link>https://darkestnotes.org/posts/dead-pixel/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/dead-pixel/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/dead-pixel/images/A6BE6E88-F227-41C8-941E-388D507CE33A.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MacBook (Early 2015)</title>
+      <link>https://darkestnotes.org/posts/macbook-early-2015/</link>
+      <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/macbook-early-2015/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;MacBook-Space_Grey&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/macbook-early-2015/images/MacBook-Space_Grey.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Başka birşeyler almak için girdiğim teknoloji markette vakit geçirmek için dolandığım sırada, Apple ürünlerini incelerken gördüm geçtiğimiz yılın ilk çeyreğinde çıkan MacBook modelini. Nisan ayında ilk çıktığı zaman beğenmiş, incelemiş, almayı düşünmüş ancak fiyatı çok yüksek olduğundan ertelemiştim.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;b_86829&#34; loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/macbook-early-2015/images/b_86829.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;İncelemelerden okuduğum kadarıyla en büyük yeniliği klavyesinde taşıyordu. İlk bu özelliğini denemek için tuşlara dokunduğum an vuruldum. Düz, fazla çıkıntılı olmayan, bununla birlikte önceki modellere göre daha büyük tasarlanmış tuşlar. &lt;em&gt;Butterfly Mechanism&lt;/em&gt; diye adlandırmış Apple, tuşa basma hissi çok çok farklı ve keyifli bir deneyim sunuyor.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Windows 10</title>

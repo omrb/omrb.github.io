@@ -6,8 +6,24 @@
     <description>Recent content in Macos on Darkest Notes</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 06 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://darkestnotes.org/categories/macos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MacOS Catalina</title>
+      <link>https://darkestnotes.org/posts/macos-catalina/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/macos-catalina/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/macos-catalina/images/MacOS_Catalina_Logo.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Apple işletim sistemini her yıl güncelliyor ve yeni bir isimle piyasaya sürüyor. Son kullanıcı tarafında yeni bir işletim sistemi çıkmış gibi bir algı yaratılıyor. Hemen hemen hiçbir yeni ve önemli özellik olmamasına rağmen sanki yeni bir sürüm çıkarıyormuş hissiyatı yaratmak pek etik değil. Bununla birlikte her yıl yeni işletim sistemi çıkarma döngüsünü sürdürme çabası ile programlama aşaması aceleye getiriliyor ve daha önceki sürümde olmayan çok sayıda bug ile karşılaşma durumu, kullanıcının işletim sistemini kalite ve stabilite açısından da eleştirmesine sebep oluyor.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MacOS Mojave&#39;de Yenilikler</title>
+      <link>https://darkestnotes.org/posts/macos-mojavede-yenilikler/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/posts/macos-mojavede-yenilikler/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://darkestnotes.org/posts/macos-mojavede-yenilikler/images/macOS-Mojave-Night.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1&lt;/strong&gt;. &lt;em&gt;&lt;strong&gt;Karanlık Mod&lt;/strong&gt;&lt;/em&gt; &lt;strong&gt;2&lt;/strong&gt;. &lt;em&gt;&lt;strong&gt;Dinamik Desktop&lt;/strong&gt;&lt;/em&gt;, yani böyle havalı bir ismi var ama duvar kağıdının günün zamanına göre değişmesi özelliği aslında. Windows 7’de mi Vista’da mı vardı animasyonlu duvar kağıdı gibi birşey. &lt;strong&gt;3&lt;/strong&gt;. &lt;em&gt;&lt;strong&gt;Tema renkleri&lt;/strong&gt;&lt;/em&gt;, MacOS’da arabirimindeki renklendirme seçenekleri 8’e çıkmış (eskiden 2 idi galiba) Favorim mor. &lt;strong&gt;4&lt;/strong&gt;. &lt;em&gt;&lt;strong&gt;Stacks&lt;/strong&gt;&lt;/em&gt;, masaüstündeki dağınıklığı toparlamak için yeni bir seçenek, klasör ve dosyaları gruplandırarak masaüstünü derli toplu yapıyor. Masaüstünde hiçbirşey bulundurmayan benim gibiler için anlamsız bir özellik. &lt;strong&gt;5&lt;/strong&gt;. &lt;strong&gt;&lt;em&gt;Finder - Gallery View&lt;/em&gt;&lt;/strong&gt;, finder’da dosyaları önizleyerek göz gezdirebilirsiniz, özellikle GIF’ler için faydalı. &lt;strong&gt;6&lt;/strong&gt;. &lt;em&gt;&lt;strong&gt;Quick Actions&lt;/strong&gt;&lt;/em&gt;, finder’da göz atılan dosyalarda hızlı değişiklikler yapabilme imkanı, aynı durum Quick Look içi de geçerli. &lt;strong&gt;7&lt;/strong&gt;. &lt;em&gt;&lt;strong&gt;Metadata&lt;/strong&gt;&lt;/em&gt;, finder’da göz atılan dosyalarda eğer mevcut ise önemli tüm metadata’ları görebiliyoruz. &lt;strong&gt;8&lt;/strong&gt;. &lt;em&gt;&lt;strong&gt;Safari Tab Favicon&lt;/strong&gt;&lt;/em&gt;, Safari’de açtığımız sekmelerde artık faviconlar gözüküyor. &lt;strong&gt;9&lt;/strong&gt;. &lt;em&gt;&lt;strong&gt;Screenshot&lt;/strong&gt;&lt;/em&gt;’lar, artık Shift+Command+5 ile alınan ekran görüntülerini kaydetmeden önce düzenleme yapabilme ve video kaydedebilme imkanı. &lt;strong&gt;10&lt;/strong&gt;. &lt;strong&gt;&lt;em&gt;Yeni Mac AppStore&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Day One 2</title>
       <link>https://darkestnotes.org/posts/day-one-2/</link>
