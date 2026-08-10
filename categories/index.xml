@@ -6,8 +6,22 @@
     <description>Recent content in Categories on Darkest Notes</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://darkestnotes.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Music</title>
+      <link>https://darkestnotes.org/categories/music/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/categories/music/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Review</title>
+      <link>https://darkestnotes.org/categories/review/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/categories/review/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Book</title>
       <link>https://darkestnotes.org/categories/book/</link>
@@ -20,13 +34,6 @@
       <link>https://darkestnotes.org/categories/hardware/</link>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/categories/hardware/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Review</title>
-      <link>https://darkestnotes.org/categories/review/</link>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/categories/review/</guid>
       <description></description>
     </item>
     <item>
@@ -62,13 +69,6 @@
       <link>https://darkestnotes.org/categories/blog/</link>
       <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/categories/blog/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Music</title>
-      <link>https://darkestnotes.org/categories/music/</link>
-      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/categories/music/</guid>
       <description></description>
     </item>
     <item>
@@ -177,13 +177,6 @@
       <description></description>
     </item>
     <item>
-      <title>Games</title>
-      <link>https://darkestnotes.org/categories/games/</link>
-      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://darkestnotes.org/categories/games/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Quote</title>
       <link>https://darkestnotes.org/categories/quote/</link>
       <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
@@ -265,6 +258,13 @@
       <link>https://darkestnotes.org/categories/ios/</link>
       <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://darkestnotes.org/categories/ios/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Games</title>
+      <link>https://darkestnotes.org/categories/games/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://darkestnotes.org/categories/games/</guid>
       <description></description>
     </item>
     <item>
